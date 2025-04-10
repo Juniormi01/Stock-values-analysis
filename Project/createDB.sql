@@ -1,6 +1,3 @@
--- Create the database
-CREATE DATABASE StockImpacts;
-
 -- Create Stocks table
 CREATE TABLE Stocks (
     id SERIAL PRIMARY KEY,
