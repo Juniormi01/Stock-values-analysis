@@ -1,19 +1,20 @@
-create DATABASE  StockImpacts
+-- Create the database
+CREATE DATABASE StockImpacts;
 
-create TABLE Stocks(
+-- Create Stocks table
+CREATE TABLE Stocks (
     id SERIAL PRIMARY KEY,
     ticker VARCHAR(10),
-    company VARCHAR(100),
     date DATE,
     openPrice DECIMAL(10,2),
     closePrice DECIMAL(10,2),
     highPrice DECIMAL(10,2),
     lowPrice DECIMAL(10,2),
     volume INT
+);
 
-)
-
-create TABLE News(
+-- Create News table
+CREATE TABLE News (
     id SERIAL PRIMARY KEY,
     ticker VARCHAR(10),
     datePublished TIMESTAMP NOT NULL,
@@ -21,22 +22,34 @@ create TABLE News(
     content TEXT,
     source VARCHAR(255),
     url TEXT
-)
+);
 
-CREATE TABLE StockMetaData(
+-- Create StockMetaData table
+CREATE TABLE StockMetaData (
     ticker VARCHAR(10) PRIMARY KEY,
-    comany VARCHAR(255),
+    company VARCHAR(255),
     industry VARCHAR(255),
     sector VARCHAR(255),
-    marketCap Decimal(15,2),
+    marketCap DECIMAL(15,2),
     hq VARCHAR(255)
-)
+);
 
-CREATE TABLE Sentiment(
+-- Create Sentiment table
+CREATE TABLE Sentiment (
     id SERIAL PRIMARY KEY,
     NewsID INT NOT NULL,
     ticker VARCHAR(10),
     score DECIMAL(5,2) CHECK (score BETWEEN -1 AND 1),
-    label VARCHAR(10) CHECK (label IN ('Positive', 'Neutral', 'Negative')),
+    label VARCHAR(10) CHECK (label IN ('Positive', 'Neutral', 'Negative'))
+);
 
-)
+-- Add foreign key constraints
+ALTER TABLE Stocks
+ADD FOREIGN KEY (ticker) REFERENCES StockMetaData(ticker);
+
+ALTER TABLE News
+ADD FOREIGN KEY (ticker) REFERENCES StockMetaData(ticker);
+
+ALTER TABLE Sentiment
+ADD FOREIGN KEY (ticker) REFERENCES StockMetaData(ticker),
+ADD FOREIGN KEY (NewsID) REFERENCES News(id);
