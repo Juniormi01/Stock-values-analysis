@@ -1,0 +1,428 @@
+{
+    "meta": {
+        "found": 4,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "a01ef769-175b-4627-ba5b-d6dcb4caa49f",
+            "title": "US Futures Show Caution Among Investors Ahead Of FOMC Meeting: Analysts Say Only Certainty Is That 'Things Will Remain Uncertain For The Time Being' - Baidu (NASDAQ:BIDU), Bakkt Hldgs (NYSE:BKKT)",
+            "description": "U.S. stock futures were flat on Tuesday after a bounce back on Monday. Futures of all four benchmark indices were mixed in premarket trading.",
+            "keywords": "",
+            "snippet": "U.S. stock futures were flat on Tuesday after a bounce back on Monday. Futures of all four benchmark indices were mixed in premarket trading.\n\nOn Monday, stocks...",
+            "url": "https://www.benzinga.com/25/03/44372544/us-stocks-swing-as-futures-turn-flat-ahead-of-fomc-meeting-analysts-say-only-certainty-is-that-things-will-remain",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2025/03/18/What-The-Future-Might-Hold.jpeg?width=1200&height=800&fit=crop",
+            "language": "en",
+            "published_at": "2025-03-18T10:16:53.000000Z",
+            "source": "benzinga.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "BIDUN.MX",
+                    "name": "Baidu, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 31.162708,
+                    "sentiment_score": 0.524033,
+                    "highlights": [
+                        {
+                            "highlight": "GES shares surged 30% on acquisition int[+289 characters]",
+                            "sentiment": 0.8807,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Baidu</em> <em>Inc</em>. BIDU was 4.[+325 characters]",
+                            "sentiment": 0.743,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "US Futures Show Caution Among Investors Ahead Of FOMC Meeting: Analysts Say Only Certainty Is That 'Things Will Remain Uncertain For The Time Being' - <em>Baidu</em> (NASDAQ:BIDU), Bakkt Hldgs (NYSE:BKKT)",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BIDU",
+                    "name": "Baidu, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 58.803886,
+                    "sentiment_score": 0.524033,
+                    "highlights": [
+                        {
+                            "highlight": "GES shares surged 30% on acquisition int[+289 characters]",
+                            "sentiment": 0.8807,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Baidu</em> <em>Inc</em>. BIDU was 4.[+325 characters]",
+                            "sentiment": 0.743,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "US Futures Show Caution Among Investors Ahead Of FOMC Meeting: Analysts Say Only Certainty Is That 'Things Will Remain Uncertain For The Time Being' - <em>Baidu</em> (<em>NASDAQ:BIDU</em>), Bakkt Hldgs (NYSE:BKKT)",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "HQY",
+                    "name": "HealthEquity, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 22.754978,
+                    "sentiment_score": 0.6597,
+                    "highlights": [
+                        {
+                            "highlight": "<em>HealthEquity</em> <em>Inc</em>. HQY [+316 characters]",
+                            "sentiment": 0.6597,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SGMO",
+                    "name": "Sangamo Therapeutics, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 31.291208,
+                    "sentiment_score": 0.3612,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Sangamo</em> <em>Therapeutics</em> <[+236 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "STNE",
+                    "name": "StoneCo Ltd.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 25.46774,
+                    "sentiment_score": 0.296,
+                    "highlights": [
+                        {
+                            "highlight": "<em>StoneCo</em> <em>Ltd</em>. STN rose [+276 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GES",
+                    "name": "Guess', Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 10.435525,
+                    "sentiment_score": 0.8807,
+                    "highlights": [
+                        {
+                            "highlight": "In company news, <em>Guess</em>? <em>Inc[+318 characters]",
+                            "sentiment": 0.8807,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0A4H.L",
+                    "name": "StoneCo Ltd.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 20.480377,
+                    "sentiment_score": 0.296,
+                    "highlights": [
+                        {
+                            "highlight": "<em>StoneCo</em> <em>Ltd</em>. STN rose [+276 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 36.011536,
+                    "sentiment_score": 0.6908,
+                    "highlights": [
+                        {
+                            "highlight": "Futures Change (+/-) Nasdaq 100 -0.21% S[+274 characters]",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0R1D.L",
+                    "name": "Sangamo Therapeutics, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 26.293966,
+                    "sentiment_score": 0.3612,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Sangamo</em> <em>Therapeutics</em> <[+236 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BAIDF",
+                    "name": "BAIDU INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 31.156763,
+                    "sentiment_score": 0.524033,
+                    "highlights": [
+                        {
+                            "highlight": "GES shares surged 30% on acquisition int[+289 characters]",
+                            "sentiment": 0.8807,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Baidu</em> <em>Inc</em>. BIDU was 4.[+325 characters]",
+                            "sentiment": 0.743,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "US Futures Show Caution Among Investors Ahead Of FOMC Meeting: Analysts Say Only Certainty Is That 'Things Will Remain Uncertain For The Time Being' - <em>Baidu</em> (NASDAQ:BIDU), Bakkt Hldgs (NYSE:BKKT)",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "399233.SZ",
+                    "name": "MANUFACTURING INDEX",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cz",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 12.779272,
+                    "sentiment_score": 0.5859,
+                    "highlights": [
+                        {
+                            "highlight": "Economic data presented a mixed picture,[+164 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "QQQ",
+                    "name": "Invesco QQQ Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 31.60739,
+                    "sentiment_score": 0.6908,
+                    "highlights": [
+                        {
+                            "highlight": "Futures Change (+/-) Nasdaq 100 -0.21% S[+247 characters]",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 36.012627,
+                    "sentiment_score": 0.6908,
+                    "highlights": [
+                        {
+                            "highlight": "Futures Change (+/-) Nasdaq 100 -0.21% S[+274 characters]",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "9888.HK",
+                    "name": "Baidu, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "hk",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 31.152489,
+                    "sentiment_score": 0.524033,
+                    "highlights": [
+                        {
+                            "highlight": "GES shares surged 30% on acquisition int[+289 characters]",
+                            "sentiment": 0.8807,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Baidu</em> <em>Inc</em>. BIDU was 4.[+325 characters]",
+                            "sentiment": 0.743,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "US Futures Show Caution Among Investors Ahead Of FOMC Meeting: Analysts Say Only Certainty Is That 'Things Will Remain Uncertain For The Time Being' - <em>Baidu</em> (NASDAQ:BIDU), Bakkt Hldgs (NYSE:BKKT)",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BIDU.BA",
+                    "name": "Baidu, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 31.166346,
+                    "sentiment_score": 0.524033,
+                    "highlights": [
+                        {
+                            "highlight": "GES shares surged 30% on acquisition int[+289 characters]",
+                            "sentiment": 0.8807,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Baidu</em> <em>Inc</em>. BIDU was 4.[+325 characters]",
+                            "sentiment": 0.743,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "US Futures Show Caution Among Investors Ahead Of FOMC Meeting: Analysts Say Only Certainty Is That 'Things Will Remain Uncertain For The Time Being' - <em>Baidu</em> (NASDAQ:BIDU), Bakkt Hldgs (NYSE:BKKT)",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BIDUD.BA",
+                    "name": "BAIDU INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 31.166346,
+                    "sentiment_score": 0.524033,
+                    "highlights": [
+                        {
+                            "highlight": "GES shares surged 30% on acquisition int[+289 characters]",
+                            "sentiment": 0.8807,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Baidu</em> <em>Inc</em>. BIDU was 4.[+325 characters]",
+                            "sentiment": 0.743,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "US Futures Show Caution Among Investors Ahead Of FOMC Meeting: Analysts Say Only Certainty Is That 'Things Will Remain Uncertain For The Time Being' - <em>Baidu</em> (NASDAQ:BIDU), Bakkt Hldgs (NYSE:BKKT)",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^BSESN",
+                    "name": "S&P BSE SENSEX",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "in",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 29.184692,
+                    "sentiment_score": 0.3612,
+                    "highlights": [
+                        {
+                            "highlight": "Asian markets closed higher on Tuesday w[+276 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^N225",
+                    "name": "Nikkei 225",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "jp",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 17.106018,
+                    "sentiment_score": 0.3612,
+                    "highlights": [
+                        {
+                            "highlight": "Asian markets closed higher on Tuesday w[+258 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GBY.DE",
+                    "name": "Sangamo Therapeutics, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 26.311674,
+                    "sentiment_score": 0.3612,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Sangamo</em> <em>Therapeutics</em> <[+236 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

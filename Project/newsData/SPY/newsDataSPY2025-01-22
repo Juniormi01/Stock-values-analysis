@@ -1,0 +1,62 @@
+{
+    "meta": {
+        "found": 3,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "20b555bd-fbf6-4c34-af61-22c9c1b0d3e4",
+            "title": "These 6 Stocks Will Be The Biggest Losers In Trump 2.0",
+            "description": "This new administration will hurt the returns of folks who simply buy an index fund like the SPDR S&P 500 ETF Trust (SPY) and call it a day.",
+            "keywords": "dividend growth stocks, trump 2.0, income investing, retirement income, food stocks, ski stocks, toy stocks",
+            "snippet": "Winners and losers with yellow road sign image with hi-res rendered artwork that could be used for ... [+] any graphic design. getty\n\nWe are now officially into...",
+            "url": "https://www.forbes.com/sites/brettowens/2025/01/22/these-6-stocks-will-be-the-biggest-losers-in-trump-20/",
+            "image_url": "https://imageio.forbes.com/specials-images/imageserve/678aba81f6f955caec8f679a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "language": "en",
+            "published_at": "2025-01-22T13:15:00.000000Z",
+            "source": "forbes.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 33.56996,
+                    "sentiment_score": -0.2263,
+                    "highlights": [
+                        {
+                            "highlight": ". [+] any graphic design. getty\n\nWe are [+271 characters]",
+                            "sentiment": -0.2263,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 33.569977,
+                    "sentiment_score": -0.2263,
+                    "highlights": [
+                        {
+                            "highlight": ". [+] any graphic design. getty\n\nWe are [+271 characters]",
+                            "sentiment": -0.2263,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "meta": {
+        "found": 190,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "aefeedaa-5ced-4087-973b-56818b4c23c5",
+            "title": "Why DeepSeek Sent Nvidia, Other Tech Stocks Tumbling",
+            "description": "Today on the Big Take: Why the rise of China\u2019s DeepSeek AI company disrupted global markets \u2014 and how it could change the way the US approaches AI.",
+            "keywords": "BLOOM, energy",
+            "snippet": "This advertisement has not loaded yet, but your article continues below.\n\nWhy DeepSeek Sent Nvidia, Other Tech Stocks Tumbling Today on the Big Take: Why the ri...",
+            "url": "https://financialpost.com/pmn/business-pmn/why-deepseek-sent-nvidia-other-tech-stocks-tumbling",
+            "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/01/776274420-3.jpg",
+            "language": "en",
+            "published_at": "2025-01-27T23:52:58.000000Z",
+            "source": "financialpost.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 4.336121,
+                    "sentiment_score": -0.4019,
+                    "highlights": [
+                        {
+                            "highlight": "Listen and follow The Big Take on <em>Ap[+237 characters]",
+                            "sentiment": -0.4019,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 27.557404,
+                    "sentiment_score": 0.2297,
+                    "highlights": [
+                        {
+                            "highlight": "Why DeepSeek Sent <em>Nvidia</em>, Other[+299 characters]",
+                            "sentiment": 0.0453,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Try refreshing your browser, or Why Deep[+242 characters]",
+                            "sentiment": 0.4588,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Then you have <em>Nvidia</em> competitor[+296 characters]",
+                            "sentiment": 0.6444,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Holder: By Monday afternoon, <em>Nvidia<[+152 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Why DeepSeek Sent <em>Nvidia</em>, Other Tech Stocks Tumbling",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFT",
+                    "name": "Microsoft Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 4.41537,
+                    "sentiment_score": 0.2574,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Microsoft</em> CEO Satya Nadella als[+296 characters]",
+                            "sentiment": 0.2574,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFT.MI",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "it",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 4.467711,
+                    "sentiment_score": 0.2574,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Microsoft</em> CEO Satya Nadella als[+296 characters]",
+                            "sentiment": 0.2574,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA.MI",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "it",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 27.607288,
+                    "sentiment_score": 0.2297,
+                    "highlights": [
+                        {
+                            "highlight": "Why DeepSeek Sent <em>Nvidia</em>, Other[+299 characters]",
+                            "sentiment": 0.0453,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Try refreshing your browser, or Why Deep[+242 characters]",
+                            "sentiment": 0.4588,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Then you have <em>Nvidia</em> competitor[+296 characters]",
+                            "sentiment": 0.6444,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Holder: By Monday afternoon, <em>Nvidia<[+152 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Why DeepSeek Sent <em>Nvidia</em>, Other Tech Stocks Tumbling",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

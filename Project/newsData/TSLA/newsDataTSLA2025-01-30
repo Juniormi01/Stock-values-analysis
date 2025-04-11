@@ -1,0 +1,206 @@
+{
+    "meta": {
+        "found": 67,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "5af37c39-dbcb-4b3f-9b70-91e4c20c4652",
+            "title": "Tesla: China's BYD Now In The Driver's Seat (NASDAQ:TSLA)",
+            "description": "BYD Company Limited surpassed Tesla, Inc. as top EV maker with vertical integration strategy through Mexico production facilities. Click for more on TSLA and BYDDF.",
+            "keywords": "",
+            "snippet": "For almost a decade, I held research analyst positions in various investment firms, mostly in Toronto. In the summer of 2021, I left the city and moved into a y...",
+            "url": "https://seekingalpha.com/article/4753598-tesla-china-byd-now-in-drivers-seat",
+            "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/936442826/image_936442826.jpg?io=getty-c-w1536",
+            "language": "en",
+            "published_at": "2025-01-30T22:32:15.000000Z",
+            "source": "seekingalpha.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 57.202507,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Tesla</em>: China's BYD Now In The Driver's Seat (<em>NASDAQ:TSLA</em>)",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": [
+                {
+                    "uuid": "8d2cf7a5-52f7-4649-9d97-c2860fc4ffbb",
+                    "title": "FSD, Robotics, And AI: Looking Past Tesla's Earnings Numbers (NASDAQ:TSLA)",
+                    "description": "Tesla, Inc.'s Q4 results missed expectations, but future growth prospects in FSD, AI, and robotics make it a top long idea for 2025. Click for my TSLA update.",
+                    "keywords": "",
+                    "snippet": "I recently discussed my top long idea for 2025, Tesla, Inc. (NASDAQ: TSLA ) which just reported its highly anticipated Q4 2024 earnings . Tesla is not only my ?...",
+                    "url": "https://seekingalpha.com/article/4753493-fsd-robotics-and-ai-looking-past-tesla-earnings-numbers",
+                    "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/971437938/image_971437938.jpg?io=getty-c-w1536",
+                    "language": "en",
+                    "published_at": "2025-01-30T18:53:00.000000Z",
+                    "source": "seekingalpha.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "TSLA.MX",
+                            "name": "Tesla, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 19.164248,
+                            "sentiment_score": 0.4939,
+                            "highlights": [
+                                {
+                                    "highlight": "I recently discussed my top long idea fo[+320 characters]",
+                                    "sentiment": 0.4939,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TSLA",
+                            "name": "Tesla, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 70.0092,
+                            "sentiment_score": 0.24695,
+                            "highlights": [
+                                {
+                                    "highlight": "I recently discussed my top long idea fo[+338 characters]",
+                                    "sentiment": 0.4939,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "FSD, Robotics, And AI: Looking Past Tesla's Earnings Numbers (<em>NASDAQ:TSLA</em>)",
+                                    "sentiment": 0,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TSLA34.SA",
+                            "name": "Tesla, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "br",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 19.163448,
+                            "sentiment_score": 0.4939,
+                            "highlights": [
+                                {
+                                    "highlight": "I recently discussed my top long idea fo[+320 characters]",
+                                    "sentiment": 0.4939,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TSLAD.BA",
+                            "name": "TESLA INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 19.163307,
+                            "sentiment_score": 0.4939,
+                            "highlights": [
+                                {
+                                    "highlight": "I recently discussed my top long idea fo[+320 characters]",
+                                    "sentiment": 0.4939,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TSLAC.BA",
+                            "name": "TESLA INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 19.163307,
+                            "sentiment_score": 0.4939,
+                            "highlights": [
+                                {
+                                    "highlight": "I recently discussed my top long idea fo[+320 characters]",
+                                    "sentiment": 0.4939,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TL0.DE",
+                            "name": "Tesla, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 19.164993,
+                            "sentiment_score": 0.4939,
+                            "highlights": [
+                                {
+                                    "highlight": "I recently discussed my top long idea fo[+320 characters]",
+                                    "sentiment": 0.4939,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "uuid": "39a86d31-7608-425f-a366-b35d358de8c5",
+                    "title": "Tesla Stock: Musk Hypes Vaporware While Results Stagnate (NASDAQ:TSLA)",
+                    "description": "Tesla, Inc.'s Q4 earnings show revenue stagnation and declining margins in the automotive division. Read more on TSLA stock prospects.",
+                    "keywords": "",
+                    "snippet": "To follow me click the \"Follow\" button! (Easy right?) Hi there, thanks for coming to my profile page! My name is Kumquat Research (but you can call me Jeremy) a...",
+                    "url": "https://seekingalpha.com/article/4753342-tesla-stock-musk-hypes-vaporware-while-results-stagnate",
+                    "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2154399160/image_2154399160.jpg?io=getty-c-w1536",
+                    "language": "en",
+                    "published_at": "2025-01-30T14:12:34.000000Z",
+                    "source": "seekingalpha.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "TSLA",
+                            "name": "Tesla, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 57.21547,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>Tesla</em> Stock: Musk Hypes Vaporware While Results Stagnate (<em>NASDAQ:TSLA</em>)",
+                                    "sentiment": 0,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

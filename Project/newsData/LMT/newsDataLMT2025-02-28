@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "found": 1,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "da0f9614-81df-474f-bbc3-71ac75bf1019",
+            "title": "RTX's Collins Aerospace EPACS power and thermal management system ready for aircraft integration",
+            "description": "PR NewswireWINDSOR LOCKS, Conn., Feb. 28, 2025\n\n\n\nTechnology will provide increased cooling to enable enhanced capabilities on F-35 and future defense and com",
+            "keywords": "GuruFocus, Article, News, PRNewswire, NYSE:RTX",
+            "snippet": "Technology will provide increased cooling to enable enhanced capabilities on F-35 and future defense and commercial aircraft\n\nWINDSOR LOCKS, Conn., Feb. 28, 202...",
+            "url": "https://www.gurufocus.com/news/2722300/rtxs-collins-aerospace-epacs-power-and-thermal-management-system-ready-for-aircraft-integration",
+            "image_url": "https://static.gurufocus.com/images/global_logo_twitter_card.png",
+            "language": "en",
+            "published_at": "2025-02-28T14:00:11.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 17.97717,
+                    "sentiment_score": 0.8689,
+                    "highlights": [
+                        {
+                            "highlight": "\"EPACS can deliver that cooling and with[+187 characters]",
+                            "sentiment": 0.8689,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

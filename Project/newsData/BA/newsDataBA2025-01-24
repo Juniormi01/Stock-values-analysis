@@ -1,0 +1,119 @@
+{
+    "meta": {
+        "found": 6,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "f35867e8-0cbc-47c0-89c9-a825d4ec07d7",
+            "title": "TRIUMPH ACTUATION DELIVERS RECORD SHIPMENTS",
+            "description": "PR NewswireRADNOR, Pa., Jan. 24, 2025\n\n\n\nRADNOR, Pa., Jan. 24, 2025 /PRNewswire/ -- Triumph Group, Inc. (TRIUMPH) [NYSE: TGI] Actuation Products and Services",
+            "keywords": "GuruFocus, Article, News, PRNewswire, NYSE:TGI",
+            "snippet": "RADNOR, Pa., Jan. 24, 2025 /PRNewswire/ -- Triumph Group, Inc. (TRIUMPH) [NYSE: TGI] Actuation Products and Services business delivered over $28M in aftermarket...",
+            "url": "https://www.gurufocus.com/news/2667630/triumph-actuation-delivers-record-shipments",
+            "image_url": "https://static.gurufocus.com/images/global_logo_twitter_card.png",
+            "language": "en",
+            "published_at": "2025-01-24T21:00:04.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "BA",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 14.573885,
+                    "sentiment_score": -0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "As early production units of <em>the</em[+228 characters]",
+                            "sentiment": -0.0258,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TGI",
+                    "name": "Triumph Group, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 37.58806,
+                    "sentiment_score": 0.4019,
+                    "highlights": [
+                        {
+                            "highlight": "., Jan. 24, 2025 /PRNewswire/ -- <em>Tri[+301 characters]",
+                            "sentiment": 0.4019,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": [
+                {
+                    "uuid": "9076ccbe-25f7-4927-a7fa-eff9a9c05820",
+                    "title": "Triumph Group sees record aftermarket shipments for aircraft gear By Investing.com",
+                    "description": "Triumph Group sees record aftermarket shipments for aircraft gear",
+                    "keywords": "",
+                    "snippet": "RADNOR, Pa. - Triumph Group (NYSE: ), Inc. [NYSE:TGI], a leader in aerospace systems and components with a market capitalization of $1.46 billion, announced a s...",
+                    "url": "https://www.investing.com/news/company-news/triumph-group-sees-record-aftermarket-shipments-for-aircraft-gear-93CH-3830430",
+                    "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investing_300X300.png",
+                    "language": "en",
+                    "published_at": "2025-01-24T20:48:57.000000Z",
+                    "source": "investing.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "BA",
+                            "name": "The Boeing Company",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Industrials",
+                            "match_score": 16.488367,
+                            "sentiment_score": 0.49645,
+                            "highlights": [
+                                {
+                                    "highlight": "[NYSE:TGI], a leader in aerospace system[+289 characters]",
+                                    "sentiment": 0.2023,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "The company has seen an uptick in demand[+310 characters]",
+                                    "sentiment": 0.7906,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TGI",
+                            "name": "Triumph Group, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Industrials",
+                            "match_score": 18.597649,
+                            "sentiment_score": 0.2023,
+                            "highlights": [
+                                {
+                                    "highlight": "[<em>NYSE:TGI</em>], a leader in aerospa[+280 characters]",
+                                    "sentiment": 0.2023,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

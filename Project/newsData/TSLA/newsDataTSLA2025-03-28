@@ -1,0 +1,116 @@
+{
+    "meta": {
+        "found": 39,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "6c2240b0-81f0-4405-9207-90b5f14a6841",
+            "title": "US Stocks Plunge Amid Rising Inflation and Trade Uncertainty",
+            "description": "U.S. stock markets faced significant sell-offs due to rising inflation and global trade policy uncertainties. The Dow Jones Industrial Average dropped as much a",
+            "keywords": "GuruFocus, Article, News, GuruFocus News, AAPL",
+            "snippet": "U.S. stock markets faced significant sell-offs due to rising inflation and global trade policy uncertainties. The Dow Jones Industrial Average dropped as much a...",
+            "url": "https://www.gurufocus.com/news/2755289/us-stocks-plunge-amid-rising-inflation-and-trade-uncertainty",
+            "image_url": "https://static.gurufocus.com/logos/0C00000ADA.png?20",
+            "language": "en",
+            "published_at": "2025-03-28T21:40:15.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 13.252544,
+                    "sentiment_score": -0.25,
+                    "highlights": [
+                        {
+                            "highlight": "Alphabet (GOOG) plunged 4.9%, Amazon (AM[+294 characters]",
+                            "sentiment": -0.25,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 15.902864,
+                    "sentiment_score": -0.25,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Alphabet</em> (GOOG) plunged 4.9%, A[+294 characters]",
+                            "sentiment": -0.25,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 14.955736,
+                    "sentiment_score": -0.25,
+                    "highlights": [
+                        {
+                            "highlight": "Alphabet (GOOG) plunged 4.9%, Amazon (AM[+294 characters]",
+                            "sentiment": -0.25,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFT",
+                    "name": "Microsoft Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 13.595449,
+                    "sentiment_score": -0.25,
+                    "highlights": [
+                        {
+                            "highlight": "Alphabet (GOOG) plunged 4.9%, Amazon (AM[+294 characters]",
+                            "sentiment": -0.25,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 14.600917,
+                    "sentiment_score": -0.25,
+                    "highlights": [
+                        {
+                            "highlight": "Alphabet (GOOG) plunged 4.9%, Amazon (AM[+294 characters]",
+                            "sentiment": -0.25,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

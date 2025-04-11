@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "found": 62,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "819969ad-fa0e-4a44-9620-1ed06c4d4d98",
+            "title": "CoreWeave CEO says debt is 'the fuel for this company'",
+            "description": "CoreWeave CEO Michael Intrator unpacked the cloud computing company's first day trading on the Nasdaq",
+            "keywords": "NVIDIA Corp, NASDAQ Composite, CoreWeave Inc, Jim Cramer, Stock markets, Investment strategy, Business, Markets, CEO, IPO, business news",
+            "snippet": "CoreWeave CEO Michael Intrator unpacked the cloud computing company's first day on the market in a Friday interview with CNBC's Jim Cramer, defending its decisi...",
+            "url": "https://www.cnbc.com/2025/03/28/coreweave-ceo-says-debt-is-the-fuel-for-this-company.html",
+            "image_url": "https://image.cnbcfm.com/api/v1/image/108118659-1742418524714-gettyimages-2183868330-CRR34163.jpeg?v=1743186588&w=1920&h=1080",
+            "language": "en",
+            "published_at": "2025-03-28T23:18:53.000000Z",
+            "source": "cnbc.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 13.089337,
+                    "sentiment_score": -0.16515,
+                    "highlights": [
+                        {
+                            "highlight": "Ahead of its market debut, the AI outfit[+161 characters]",
+                            "sentiment": -0.128,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "There are concerns that these products w[+146 characters]",
+                            "sentiment": -0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

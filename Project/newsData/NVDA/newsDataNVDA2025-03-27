@@ -1,0 +1,77 @@
+{
+    "meta": {
+        "found": 64,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "a944a46f-4596-4690-9c5d-00c4f1ce0bbd",
+            "title": "CoreWeave prices IPO at $40 a share, below expected range",
+            "description": "CoreWeave is trying to thaw the tech IPO market with one of the biggest offerings in years, but investors have expressed some skepticism.",
+            "keywords": "IPO, Alphabet Inc, Amazon.com Inc, International Business Machines Corp, Meta Platforms Inc, Donald J. Trump, Goldman Sachs Group Inc, Freshworks Inc, Rubrik Inc, Reddit Inc, Microsoft Corp, NVIDIA Corp, Business, Technology, Breaking News: Technology, Enterprise, business news",
+            "snippet": "Michael Intrator, co-founder and CEO of CoreWeave, speaks at Web Summit in Lisbon, Portugal, on Nov. 13, 2024.\n\nCoreWeave on Thursday priced shares at $40 in th...",
+            "url": "https://www.cnbc.com/2025/03/27/coreweave-prices-ipo-at-40-a-share-below-expected-range.html",
+            "image_url": "https://image.cnbcfm.com/api/v1/image/108122426-1743105258870-gettyimages-2183868284-CRR34159.jpeg?v=1743105363&w=1920&h=1080",
+            "language": "en",
+            "published_at": "2025-03-27T23:40:34.000000Z",
+            "source": "cnbc.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 13.325752,
+                    "sentiment_score": 0.585867,
+                    "highlights": [
+                        {
+                            "highlight": "The company, which provides access to <e[+281 characters]",
+                            "sentiment": 0.9349,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Earlier on Thursday, CNBC reported that [+211 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "WATCH: <em>Nvidia</em> will anchor CoreW[+65 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFT",
+                    "name": "Microsoft Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 10.893473,
+                    "sentiment_score": -0.00465,
+                    "highlights": [
+                        {
+                            "highlight": "CoreWeave counts <em>Microsoft</em> as i[+299 characters]",
+                            "sentiment": -0.4497,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "CoreWeave is trying to compete with some[+264 characters]",
+                            "sentiment": 0.4404,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

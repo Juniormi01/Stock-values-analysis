@@ -1,0 +1,413 @@
+{
+    "meta": {
+        "found": 9,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "be6f2a64-f2e0-4b04-945b-ea3b1781fed3",
+            "title": "TSMC Unveils $100 Billion in New US Investment, Joined by Trump",
+            "description": "Taiwan Semiconductor Manufacturing Co., the world\u2019s top producer of AI chips, plans to invest an additional $100 billion in US plants that will boost its chip outpu\u2026",
+            "keywords": "BLOOM, Canada",
+            "snippet": "This advertisement has not loaded yet, but your article continues below.\n\nTSMC Unveils $100 Billion in New US Investment, Joined by Trump Taiwan Semiconductor M...",
+            "url": "https://financialpost.com/pmn/business-pmn/tsmc-unveils-100-billion-in-new-us-investment-joined-by-trump",
+            "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/03/776134293.jpg",
+            "language": "en",
+            "published_at": "2025-03-03T22:09:18.000000Z",
+            "source": "financialpost.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 8.873282,
+                    "sentiment_score": 0.24845,
+                    "highlights": [
+                        {
+                            "highlight": "TSMC is the world\u2019s leader in producti[+300 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Companies including <em>Apple</em>, Open[+191 characters]",
+                            "sentiment": -0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMD",
+                    "name": "Advanced Micro Devices, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 19.410757,
+                    "sentiment_score": 0.6369,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Advanced</em> <em>Micro</em> <em>Dev[+232 characters]",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 7.982365,
+                    "sentiment_score": -0.128,
+                    "highlights": [
+                        {
+                            "highlight": "Companies including Apple, OpenAI and <e[+209 characters]",
+                            "sentiment": -0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "A1MD34.SA",
+                    "name": "Advanced Micro Devices, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 19.410755,
+                    "sentiment_score": 0.6369,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Advanced</em> <em>Micro</em> <em>Dev[+232 characters]",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA.MI",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "it",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 11.537148,
+                    "sentiment_score": 0.6249,
+                    "highlights": [
+                        {
+                            "highlight": "TSMC is the world\u2019s leader in producti[+309 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.BA",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 8.873207,
+                    "sentiment_score": 0.24845,
+                    "highlights": [
+                        {
+                            "highlight": "TSMC is the world\u2019s leader in producti[+300 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Companies including <em>Apple</em>, Open[+191 characters]",
+                            "sentiment": -0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDAD.BA",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 11.53713,
+                    "sentiment_score": 0.6249,
+                    "highlights": [
+                        {
+                            "highlight": "TSMC is the world\u2019s leader in producti[+309 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLD.BA",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 8.873211,
+                    "sentiment_score": 0.24845,
+                    "highlights": [
+                        {
+                            "highlight": "TSMC is the world\u2019s leader in producti[+300 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Companies including <em>Apple</em>, Open[+191 characters]",
+                            "sentiment": -0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "INTCD.BA",
+                    "name": "INTEL CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 10.067669,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Trump administration officials have also[+142 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDAC.BA",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 11.53713,
+                    "sentiment_score": 0.6249,
+                    "highlights": [
+                        {
+                            "highlight": "TSMC is the world\u2019s leader in producti[+309 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLC.BA",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 8.873211,
+                    "sentiment_score": 0.24845,
+                    "highlights": [
+                        {
+                            "highlight": "TSMC is the world\u2019s leader in producti[+300 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Companies including <em>Apple</em>, Open[+191 characters]",
+                            "sentiment": -0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLCL.SN",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 8.873188,
+                    "sentiment_score": 0.24845,
+                    "highlights": [
+                        {
+                            "highlight": "TSMC is the world\u2019s leader in producti[+300 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Companies including <em>Apple</em>, Open[+191 characters]",
+                            "sentiment": -0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.SN",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 8.873188,
+                    "sentiment_score": 0.24845,
+                    "highlights": [
+                        {
+                            "highlight": "TSMC is the world\u2019s leader in producti[+300 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Companies including <em>Apple</em>, Open[+191 characters]",
+                            "sentiment": -0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "INTCCL.SN",
+                    "name": "INTEL CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 10.067606,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Trump administration officials have also[+142 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.NE",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ca",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 8.873046,
+                    "sentiment_score": 0.24845,
+                    "highlights": [
+                        {
+                            "highlight": "TSMC is the world\u2019s leader in producti[+300 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Companies including <em>Apple</em>, Open[+191 characters]",
+                            "sentiment": -0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "APC.DE",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 8.87315,
+                    "sentiment_score": 0.24845,
+                    "highlights": [
+                        {
+                            "highlight": "TSMC is the world\u2019s leader in producti[+300 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Companies including <em>Apple</em>, Open[+191 characters]",
+                            "sentiment": -0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMD.DE",
+                    "name": "Advanced Micro Devices, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 19.41099,
+                    "sentiment_score": 0.6369,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Advanced</em> <em>Micro</em> <em>Dev[+232 characters]",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.MX",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 8.873282,
+                    "sentiment_score": 0.24845,
+                    "highlights": [
+                        {
+                            "highlight": "TSMC is the world\u2019s leader in producti[+300 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Companies including <em>Apple</em>, Open[+191 characters]",
+                            "sentiment": -0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMD.MX",
+                    "name": "Advanced Micro Devices, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 19.411442,
+                    "sentiment_score": 0.6369,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Advanced</em> <em>Micro</em> <em>Dev[+232 characters]",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

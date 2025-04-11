@@ -1,0 +1,116 @@
+{
+    "meta": {
+        "found": 2,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "e33ef87d-7cdf-4e72-9eaf-f95a02b9fc2c",
+            "title": "Is Lockheed Martin Corporation (LMT) the Stock to Benefit From Trump\u2019s Peace Through Strength Policy?",
+            "description": "We recently published a list of 10 Defense and Aerospace Stocks To Benefit From Trump\u2019s Peace Through Strength Policy.",
+            "keywords": "",
+            "snippet": "Artificial intelligence is the greatest investment opportunity of our lifetime. The time to invest in groundbreaking AI is now, and this stock is a steal!\n\nThe ...",
+            "url": "https://www.insidermonkey.com/blog/is-lockheed-martin-corporation-lmt-the-stock-to-benefit-from-trumps-peace-through-strength-policy-1444253/",
+            "image_url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/09/23125230/LMT-insidermonkey-1695487948742.jpg",
+            "language": "en",
+            "published_at": "2025-02-06T18:02:45.000000Z",
+            "source": "insidermonkey.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 114.89161,
+                    "sentiment_score": 0.8658,
+                    "highlights": [
+                        {
+                            "highlight": "Is <em>Lockheed</em> <em>Martin</em> <em>Corporation</em> (LMT) the Stock to Benefit From Trump\u2019s Peace Through Strength Policy?",
+                            "sentiment": 0.8658,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LOM.DE",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 114.88946,
+                    "sentiment_score": 0.8658,
+                    "highlights": [
+                        {
+                            "highlight": "Is <em>Lockheed</em> <em>Martin</em> <em>Corporation</em> (LMT) the Stock to Benefit From Trump\u2019s Peace Through Strength Policy?",
+                            "sentiment": 0.8658,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LMT.MX",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 114.88972,
+                    "sentiment_score": 0.8658,
+                    "highlights": [
+                        {
+                            "highlight": "Is <em>Lockheed</em> <em>Martin</em> <em>Corporation</em> (LMT) the Stock to Benefit From Trump\u2019s Peace Through Strength Policy?",
+                            "sentiment": 0.8658,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0R3E.L",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 114.888,
+                    "sentiment_score": 0.8658,
+                    "highlights": [
+                        {
+                            "highlight": "Is <em>Lockheed</em> <em>Martin</em> <em>Corporation</em> (LMT) the Stock to Benefit From Trump\u2019s Peace Through Strength Policy?",
+                            "sentiment": 0.8658,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LMTB34.SA",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 114.90825,
+                    "sentiment_score": 0.8658,
+                    "highlights": [
+                        {
+                            "highlight": "Is <em>Lockheed</em> <em>Martin</em> <em>Corporation</em> (LMT) the Stock to Benefit From Trump\u2019s Peace Through Strength Policy?",
+                            "sentiment": 0.8658,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

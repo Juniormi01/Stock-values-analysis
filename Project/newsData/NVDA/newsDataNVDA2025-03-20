@@ -1,0 +1,62 @@
+{
+    "meta": {
+        "found": 57,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "7407d2ba-c6c0-49c9-8c85-c277a6b0ff38",
+            "title": "Why TSMC Stock is Gaining Momentum Today (TSM)",
+            "description": "Taiwan Semiconductor Manufacturing (TSM) shares moved up by 2.14% during today's trading session. This rise came despite downward movements in the S&P 500 and N",
+            "keywords": "GuruFocus, Article, News, GuruFocus News, TSM",
+            "snippet": "Taiwan Semiconductor Manufacturing (TSM, Financial) shares moved up by 2.14% during today's trading session. This rise came despite downward movements in the S&...",
+            "url": "https://www.gurufocus.com/news/2744627/why-tsmc-stock-is-gaining-momentum-today-tsm",
+            "image_url": "https://static.gurufocus.com/logos/0C00000CIF.png?20",
+            "language": "en",
+            "published_at": "2025-03-20T23:50:40.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 9.754705,
+                    "sentiment_score": 0.9217,
+                    "highlights": [
+                        {
+                            "highlight": "While maintaining a high Piotroski F-Sco[+265 characters]",
+                            "sentiment": 0.9217,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 11.128305,
+                    "sentiment_score": 0.9217,
+                    "highlights": [
+                        {
+                            "highlight": "While maintaining a high Piotroski F-Sco[+265 characters]",
+                            "sentiment": 0.9217,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

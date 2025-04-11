@@ -1,0 +1,296 @@
+{
+    "meta": {
+        "found": 14,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "feeaa4ea-50b1-4f78-919a-b855068e3f8c",
+            "title": "Market Recap: S&P 500 Hits Record High, Tech Stocks Lead the Charge",
+            "description": "The U.S. stock market demonstrated resilience on Tuesday, February 18, 2025, with major indexes hovering near all-time highs. The S&P 500 edged up by 0.2%",
+            "keywords": "",
+            "snippet": "Stock Market Recap: Tuesday, February 18, 2025\n\nThe U.S. stock market demonstrated resilience on Tuesday, February 18, 2025, with major indexes hovering near al...",
+            "url": "https://thestockmarketwatch.com/stock-market-news/market-recap-sp-500-hits-record-high-tech-stocks-lead-the-charge/48934/",
+            "image_url": "https://thestockmarketwatch.com/stock-market-news/wp-content/uploads/2024/08/5.jpg",
+            "language": "en",
+            "published_at": "2025-02-18T22:01:36.000000Z",
+            "source": "thestockmarketwatch.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 16.247541,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Meta</em> <em>Platforms</em>, <em>In[+193 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGO",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 11.993465,
+                    "sentiment_score": 0.8555,
+                    "highlights": [
+                        {
+                            "highlight": "Intel Corporation (INTC): Shares surged [+275 characters]",
+                            "sentiment": 0.8555,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGOP",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 11.994303,
+                    "sentiment_score": 0.8555,
+                    "highlights": [
+                        {
+                            "highlight": "Intel Corporation (INTC): Shares surged [+275 characters]",
+                            "sentiment": 0.8555,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 18.715685,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "<em>NVIDIA</em> <em>Corporation</em> (NV[+235 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "INTC",
+                    "name": "Intel Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 13.955004,
+                    "sentiment_score": 0.8555,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Intel</em> <em>Corporation</em> (INT[+284 characters]",
+                            "sentiment": 0.8555,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SMCI",
+                    "name": "Super Micro Computer, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 35.09446,
+                    "sentiment_score": 0.8519,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Super</em> <em>Micro</em> <em>Comput[+296 characters]",
+                            "sentiment": 0.8519,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVD.DE",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 14.928213,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "<em>NVIDIA</em> <em>Corporation</em> (NV[+235 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "INL.DE",
+                    "name": "Intel Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 10.167633,
+                    "sentiment_score": 0.8555,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Intel</em> <em>Corporation</em> (INT[+284 characters]",
+                            "sentiment": 0.8555,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "INTC.MX",
+                    "name": "Intel Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 10.167346,
+                    "sentiment_score": 0.8555,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Intel</em> <em>Corporation</em> (INT[+284 characters]",
+                            "sentiment": 0.8555,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA.MX",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 14.927826,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "<em>NVIDIA</em> <em>Corporation</em> (NV[+235 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "399233.SZ",
+                    "name": "MANUFACTURING INDEX",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cz",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 17.811495,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Manufacturing Data: The Philadelphia Fed[+248 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "INCO.BR",
+                    "name": "Intel Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "be",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 15.447788,
+                    "sentiment_score": 0.8555,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Intel</em> <em>Corporation</em> (INT[+284 characters]",
+                            "sentiment": 0.8555,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDC34.SA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 14.927849,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "<em>NVIDIA</em> <em>Corporation</em> (NV[+235 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA.BA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 14.928246,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "<em>NVIDIA</em> <em>Corporation</em> (NV[+235 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "INTC.SN",
+                    "name": "Intel Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 15.447702,
+                    "sentiment_score": 0.8555,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Intel</em> <em>Corporation</em> (INT[+284 characters]",
+                            "sentiment": 0.8555,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

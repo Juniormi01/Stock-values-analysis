@@ -1,0 +1,346 @@
+{
+    "meta": {
+        "found": 9,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "e4f66568-6160-4773-903c-fdb501aa7a56",
+            "title": "Jim Cramer Talked About These 7 Stocks Recently",
+            "description": "Jim Cramer, the host of Mad Money, expressed frustration on Thursday over the negative outlook he believes the White House is projecting about the economy.",
+            "keywords": "",
+            "snippet": "Jim Cramer, the host of Mad Money, expressed frustration on Thursday over the negative outlook he believes the White House is projecting about the economy. He e...",
+            "url": "https://www.insidermonkey.com/blog/jim-cramer-talked-about-these-7-stocks-recently-1482297/",
+            "image_url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/10/11160910/Jim-Cramer-2.jpg",
+            "language": "en",
+            "published_at": "2025-03-14T19:55:03.000000Z",
+            "source": "insidermonkey.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "AAPL.MX",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 16.11464,
+                    "sentiment_score": -0.188875,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Apple</em> <em>Inc</em>. (NASDAQ:AAP[+346 characters]",
+                            "sentiment": -0.8957,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "What a terrible streak for <em>Apple</em[+248 characters]",
+                            "sentiment": -0.7717,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "We\u2019re gonna see some stocks sink, even[+274 characters]",
+                            "sentiment": 0.5719,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The company also provides subscription s[+284 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 27.263725,
+                    "sentiment_score": -0.188875,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Apple</em> <em>Inc</em>. (<em>NASDAQ[+364 characters]",
+                            "sentiment": -0.8957,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "What a terrible streak for <em>Apple</em[+248 characters]",
+                            "sentiment": -0.7717,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "We\u2019re gonna see some stocks sink, even[+283 characters]",
+                            "sentiment": 0.5719,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The company also provides subscription s[+284 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 26.735903,
+                    "sentiment_score": 0.1196,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Meta</em> <em>Platforms</em>, <em>In[+352 characters]",
+                            "sentiment": -0.3182,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Meta (<em>NASDAQ:META</em>) develops pro[+253 characters]",
+                            "sentiment": 0.5574,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.BA",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 16.113754,
+                    "sentiment_score": -0.188875,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Apple</em> <em>Inc</em>. (NASDAQ:AAP[+346 characters]",
+                            "sentiment": -0.8957,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "What a terrible streak for <em>Apple</em[+248 characters]",
+                            "sentiment": -0.7717,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "We\u2019re gonna see some stocks sink, even[+274 characters]",
+                            "sentiment": 0.5719,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The company also provides subscription s[+284 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLD.BA",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 16.113754,
+                    "sentiment_score": -0.188875,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Apple</em> <em>Inc</em>. (NASDAQ:AAP[+346 characters]",
+                            "sentiment": -0.8957,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "What a terrible streak for <em>Apple</em[+248 characters]",
+                            "sentiment": -0.7717,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "We\u2019re gonna see some stocks sink, even[+274 characters]",
+                            "sentiment": 0.5719,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The company also provides subscription s[+284 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLC.BA",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 16.113754,
+                    "sentiment_score": -0.188875,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Apple</em> <em>Inc</em>. (NASDAQ:AAP[+346 characters]",
+                            "sentiment": -0.8957,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "What a terrible streak for <em>Apple</em[+248 characters]",
+                            "sentiment": -0.7717,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "We\u2019re gonna see some stocks sink, even[+274 characters]",
+                            "sentiment": 0.5719,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The company also provides subscription s[+284 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLCL.SN",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 16.113655,
+                    "sentiment_score": -0.188875,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Apple</em> <em>Inc</em>. (NASDAQ:AAP[+346 characters]",
+                            "sentiment": -0.8957,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "What a terrible streak for <em>Apple</em[+248 characters]",
+                            "sentiment": -0.7717,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "We\u2019re gonna see some stocks sink, even[+274 characters]",
+                            "sentiment": 0.5719,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The company also provides subscription s[+284 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.SN",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 16.113655,
+                    "sentiment_score": -0.188875,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Apple</em> <em>Inc</em>. (NASDAQ:AAP[+346 characters]",
+                            "sentiment": -0.8957,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "What a terrible streak for <em>Apple</em[+248 characters]",
+                            "sentiment": -0.7717,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "We\u2019re gonna see some stocks sink, even[+274 characters]",
+                            "sentiment": 0.5719,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The company also provides subscription s[+284 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.NE",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ca",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 16.116512,
+                    "sentiment_score": -0.188875,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Apple</em> <em>Inc</em>. (NASDAQ:AAP[+346 characters]",
+                            "sentiment": -0.8957,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "What a terrible streak for <em>Apple</em[+248 characters]",
+                            "sentiment": -0.7717,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "We\u2019re gonna see some stocks sink, even[+274 characters]",
+                            "sentiment": 0.5719,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The company also provides subscription s[+284 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "APC.DE",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 16.116758,
+                    "sentiment_score": -0.188875,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Apple</em> <em>Inc</em>. (NASDAQ:AAP[+346 characters]",
+                            "sentiment": -0.8957,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "What a terrible streak for <em>Apple</em[+248 characters]",
+                            "sentiment": -0.7717,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "We\u2019re gonna see some stocks sink, even[+274 characters]",
+                            "sentiment": 0.5719,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The company also provides subscription s[+284 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

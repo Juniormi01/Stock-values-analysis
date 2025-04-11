@@ -1,0 +1,636 @@
+{
+    "meta": {
+        "found": 57,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "0c5cdffc-a001-4c9f-8428-49ea4d2df6f7",
+            "title": "stocks soar as inflation cools, banks report strong profits",
+            "description": "Stocks surge as inflation eases and banks report robust profits, driving market optimism.",
+            "keywords": "",
+            "snippet": "The stock market soared on Wednesday as inflation cooled and major U.S. banks reported strong profits. The Dow Jones Industrial Average jumped 703 points, or 1....",
+            "url": "https://www.killerstartups.com/stocks-soar-as-inflation-cools-banks-report-strong-profits/",
+            "image_url": "https://images.killerstartups.com/wp-content/uploads/2025/01/6694492.jpeg",
+            "language": "en",
+            "published_at": "2025-01-21T23:28:00.000000Z",
+            "source": "killerstartups.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 10.907658,
+                    "sentiment_score": 0.8807,
+                    "highlights": [
+                        {
+                            "highlight": "Growth stocks like <em>Tesla</em> and ot[+288 characters]",
+                            "sentiment": 0.8807,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": [
+                {
+                    "uuid": "af3b46a9-482a-4526-89f0-40a44614450a",
+                    "title": "Tesla Slides, Space Stocks Soar After Trump\u2019s Barrage of Orders",
+                    "description": "(Bloomberg) -- Shares of Tesla Inc. slumped Tuesday alongside other electric-vehicle makers, while space company stocks saw big gains, after President Donald Trump announced a series of policies that could have wide-ranging impacts on markets. Most Read from BloombergTexas HOA Charged With Discrimination for Banning Section 8 RentersHow Sanctuary Cities Are Preparing for Another Showdown With TrumpWhat LA\u2019s Fires Mean for the City\u2019s Housing ShortageDeadly Landslide of Garbage Displays Uganda's M",
+                    "keywords": "Donald Trump, Bloomberg, American astronauts, financial markets, Tesla Inc, Susquehanna International Group, space company stocks, Greenwood Capital Associates",
+                    "snippet": "(Bloomberg) -- Shares of Tesla Inc. slumped Tuesday alongside other electric-vehicle makers, while space company stocks saw big gains, after President Donald Tr...",
+                    "url": "https://finance.yahoo.com/news/tesla-slides-space-stocks-soar-181707163.html",
+                    "image_url": "https://media.zenfs.com/en/bloomberg_markets_842/7b146a09a4d45d95733334c9bfee0973",
+                    "language": "en",
+                    "published_at": "2025-01-21T18:17:07.000000Z",
+                    "source": "finance.yahoo.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "JPM",
+                            "name": "JPMorgan Chase & Co.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Financial Services",
+                            "match_score": 20.55037,
+                            "sentiment_score": 0.5994,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>JPMorgan</em> <em>Chase</em> & <em>C[+337 characters]",
+                                    "sentiment": 0.5994,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TSLAD.BA",
+                            "name": "TESLA INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 28.926632,
+                            "sentiment_score": 0.330125,
+                            "highlights": [
+                                {
+                                    "highlight": "(Bloomberg) -- Shares of <em>Tesla</em> [+221 characters]",
+                                    "sentiment": 0.5574,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "\u201cWe are seeing some sell the news in h[+198 characters]",
+                                    "sentiment": 0.3612,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "EV Slide\n\n<em>Tesla</em> fell as much as[+253 characters]",
+                                    "sentiment": 0.4019,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Tesla</em> Slides, Space Stocks Soar After Trump\u2019s Barrage of Orders",
+                                    "sentiment": 0,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TSLAC.BA",
+                            "name": "TESLA INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 28.92664,
+                            "sentiment_score": 0.330125,
+                            "highlights": [
+                                {
+                                    "highlight": "(Bloomberg) -- Shares of <em>Tesla</em> [+221 characters]",
+                                    "sentiment": 0.5574,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "\u201cWe are seeing some sell the news in h[+198 characters]",
+                                    "sentiment": 0.3612,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "EV Slide\n\n<em>Tesla</em> fell as much as[+253 characters]",
+                                    "sentiment": 0.4019,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Tesla</em> Slides, Space Stocks Soar After Trump\u2019s Barrage of Orders",
+                                    "sentiment": 0,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "JPMC.BA",
+                            "name": "JPMORGAN CHASE &CO",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 22.926277,
+                            "sentiment_score": 0.5994,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>JPMorgan</em> <em>Chase</em> & <em>C[+337 characters]",
+                                    "sentiment": 0.5994,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "JPMCL.SN",
+                            "name": "JPMORGAN CHASE &CO",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 22.926159,
+                            "sentiment_score": 0.5994,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>JPMorgan</em> <em>Chase</em> & <em>C[+337 characters]",
+                                    "sentiment": 0.5994,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "BDRBF",
+                            "name": "Bombardier Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Industrials",
+                            "match_score": 17.019257,
+                            "sentiment_score": 0.296,
+                            "highlights": [
+                                {
+                                    "highlight": "Similarly, shares of aircraft maker <em>[+220 characters]",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "BDRAF",
+                            "name": "Bombardier Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Industrials",
+                            "match_score": 17.019257,
+                            "sentiment_score": 0.296,
+                            "highlights": [
+                                {
+                                    "highlight": "Similarly, shares of aircraft maker <em>[+220 characters]",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "BDRXF",
+                            "name": "Bombardier Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 17.019104,
+                            "sentiment_score": 0.296,
+                            "highlights": [
+                                {
+                                    "highlight": "Similarly, shares of aircraft maker <em>[+220 characters]",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MEGEF",
+                            "name": "MEG Energy Corp.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Energy",
+                            "match_score": 21.317635,
+                            "sentiment_score": 0.6808,
+                            "highlights": [
+                                {
+                                    "highlight": "For example, <em>Meg</em> <em>Energy</em[+225 characters]",
+                                    "sentiment": 0.6808,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "BOMBF",
+                            "name": "Bombardier Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 17.018938,
+                            "sentiment_score": 0.296,
+                            "highlights": [
+                                {
+                                    "highlight": "Similarly, shares of aircraft maker <em>[+220 characters]",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "BDRPF",
+                            "name": "Bombardier Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 17.018795,
+                            "sentiment_score": 0.296,
+                            "highlights": [
+                                {
+                                    "highlight": "Similarly, shares of aircraft maker <em>[+220 characters]",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "JPMMV",
+                            "name": "JPMorgan Chase & Co.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Financial Services",
+                            "match_score": 20.550007,
+                            "sentiment_score": 0.5994,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>JPMorgan</em> <em>Chase</em> & <em>C[+337 characters]",
+                                    "sentiment": 0.5994,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "JPMML",
+                            "name": "JPMorgan Chase & Co.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Financial Services",
+                            "match_score": 20.550007,
+                            "sentiment_score": 0.5994,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>JPMorgan</em> <em>Chase</em> & <em>C[+337 characters]",
+                                    "sentiment": 0.5994,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "BBD-A.TO",
+                            "name": "Bombardier Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ca",
+                            "type": "equity",
+                            "industry": "Industrials",
+                            "match_score": 17.018387,
+                            "sentiment_score": 0.296,
+                            "highlights": [
+                                {
+                                    "highlight": "Similarly, shares of aircraft maker <em>[+220 characters]",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "BBD-B.TO",
+                            "name": "Bombardier Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ca",
+                            "type": "equity",
+                            "industry": "Industrials",
+                            "match_score": 17.018387,
+                            "sentiment_score": 0.296,
+                            "highlights": [
+                                {
+                                    "highlight": "Similarly, shares of aircraft maker <em>[+220 characters]",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "BBD-PD.TO",
+                            "name": "Bombardier Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ca",
+                            "type": "equity",
+                            "industry": "Industrials",
+                            "match_score": 17.01823,
+                            "sentiment_score": 0.296,
+                            "highlights": [
+                                {
+                                    "highlight": "Similarly, shares of aircraft maker <em>[+220 characters]",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MEG.TO",
+                            "name": "MEG Energy Corp.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ca",
+                            "type": "equity",
+                            "industry": "Energy",
+                            "match_score": 21.317394,
+                            "sentiment_score": 0.6808,
+                            "highlights": [
+                                {
+                                    "highlight": "For example, <em>Meg</em> <em>Energy</em[+225 characters]",
+                                    "sentiment": 0.6808,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TSLA",
+                            "name": "Tesla, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 32.049034,
+                            "sentiment_score": 0.330125,
+                            "highlights": [
+                                {
+                                    "highlight": "(Bloomberg) -- Shares of <em>Tesla</em> [+221 characters]",
+                                    "sentiment": 0.5574,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "\u201cWe are seeing some sell the news in h[+198 characters]",
+                                    "sentiment": 0.3612,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "EV Slide\n\n<em>Tesla</em> fell as much as[+253 characters]",
+                                    "sentiment": 0.4019,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Tesla</em> Slides, Space Stocks Soar After Trump\u2019s Barrage of Orders",
+                                    "sentiment": 0,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "COIN",
+                            "name": "Coinbase Global, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 21.72001,
+                            "sentiment_score": -0.4989,
+                            "highlights": [
+                                {
+                                    "highlight": "Meanwhile, <em>Coinbase</em> <em>Global<[+199 characters]",
+                                    "sentiment": -0.4989,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "BBDB.DE",
+                            "name": "Bombardier Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Industrials",
+                            "match_score": 17.017365,
+                            "sentiment_score": 0.296,
+                            "highlights": [
+                                {
+                                    "highlight": "Similarly, shares of aircraft maker <em>[+220 characters]",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TL0.DE",
+                            "name": "Tesla, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 28.927343,
+                            "sentiment_score": 0.330125,
+                            "highlights": [
+                                {
+                                    "highlight": "(Bloomberg) -- Shares of <em>Tesla</em> [+221 characters]",
+                                    "sentiment": 0.5574,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "\u201cWe are seeing some sell the news in h[+198 characters]",
+                                    "sentiment": 0.3612,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "EV Slide\n\n<em>Tesla</em> fell as much as[+253 characters]",
+                                    "sentiment": 0.4019,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Tesla</em> Slides, Space Stocks Soar After Trump\u2019s Barrage of Orders",
+                                    "sentiment": 0,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "1QZ.DE",
+                            "name": "Coinbase Global, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 18.598356,
+                            "sentiment_score": -0.4989,
+                            "highlights": [
+                                {
+                                    "highlight": "Meanwhile, <em>Coinbase</em> <em>Global<[+199 characters]",
+                                    "sentiment": -0.4989,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TSLA.MX",
+                            "name": "Tesla, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 28.927446,
+                            "sentiment_score": 0.330125,
+                            "highlights": [
+                                {
+                                    "highlight": "(Bloomberg) -- Shares of <em>Tesla</em> [+221 characters]",
+                                    "sentiment": 0.5574,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "\u201cWe are seeing some sell the news in h[+198 characters]",
+                                    "sentiment": 0.3612,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "EV Slide\n\n<em>Tesla</em> fell as much as[+253 characters]",
+                                    "sentiment": 0.4019,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Tesla</em> Slides, Space Stocks Soar After Trump\u2019s Barrage of Orders",
+                                    "sentiment": 0,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "BBDBN.MX",
+                            "name": "Bombardier Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 17.016678,
+                            "sentiment_score": 0.296,
+                            "highlights": [
+                                {
+                                    "highlight": "Similarly, shares of aircraft maker <em>[+220 characters]",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "LCID.MX",
+                            "name": "Lucid Group, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 18.305017,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "EV startups Rivian Automotive Inc. and <[+241 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "0QZP.L",
+                            "name": "Bombardier Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "gb",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 17.016188,
+                            "sentiment_score": 0.296,
+                            "highlights": [
+                                {
+                                    "highlight": "Similarly, shares of aircraft maker <em>[+220 characters]",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TSLA34.SA",
+                            "name": "Tesla, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "br",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 28.92739,
+                            "sentiment_score": 0.330125,
+                            "highlights": [
+                                {
+                                    "highlight": "(Bloomberg) -- Shares of <em>Tesla</em> [+221 characters]",
+                                    "sentiment": 0.5574,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "\u201cWe are seeing some sell the news in h[+198 characters]",
+                                    "sentiment": 0.3612,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "EV Slide\n\n<em>Tesla</em> fell as much as[+253 characters]",
+                                    "sentiment": 0.4019,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Tesla</em> Slides, Space Stocks Soar After Trump\u2019s Barrage of Orders",
+                                    "sentiment": 0,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

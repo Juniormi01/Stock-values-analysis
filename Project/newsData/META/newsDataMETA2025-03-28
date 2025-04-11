@@ -1,0 +1,242 @@
+{
+    "meta": {
+        "found": 8,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "fe48e6dc-6ade-48e1-b74d-2797beb13e06",
+            "title": "Reddit\u2019s 50% plunge fails to entice buyers as growth slows",
+            "description": "The gloomy sentiment around Reddit Inc. has failed to dissipate after its shares fell 50 per cent from a February high. Read here for more",
+            "keywords": "Initial Public Offering, Nasdaq, Reddit Inc., Social Media, social media brand, stock market, Tech stocks, volatility",
+            "snippet": "This advertisement has not loaded yet, but your article continues below.\n\nReddit\u2019s 50% plunge fails to entice buyers as growth slows Reddit faces additional s...",
+            "url": "https://financialpost.com/technology/tech-news/reddits-50-plunge-fails-to-entice-buyers",
+            "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/03/0329-mg-reddit.jpg",
+            "language": "en",
+            "published_at": "2025-03-28T20:00:39.000000Z",
+            "source": "thepost.on.ca",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "GOOGL.BA",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 10.36861,
+                    "sentiment_score": -0.5106,
+                    "highlights": [
+                        {
+                            "highlight": "Try refreshing your browser, or Play Vid[+290 characters]",
+                            "sentiment": -0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 10.537134,
+                    "sentiment_score": -0.5106,
+                    "highlights": [
+                        {
+                            "highlight": "Try refreshing your browser, or Play Vid[+290 characters]",
+                            "sentiment": -0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 14.224719,
+                    "sentiment_score": -0.5106,
+                    "highlights": [
+                        {
+                            "highlight": "Try refreshing your browser, or Play Vid[+290 characters]",
+                            "sentiment": -0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOGLD.BA",
+                    "name": "ALPHABET INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 10.36861,
+                    "sentiment_score": -0.5106,
+                    "highlights": [
+                        {
+                            "highlight": "Try refreshing your browser, or Play Vid[+290 characters]",
+                            "sentiment": -0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 12.325058,
+                    "sentiment_score": -0.5106,
+                    "highlights": [
+                        {
+                            "highlight": "Try refreshing your browser, or Play Vid[+299 characters]",
+                            "sentiment": -0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 10.368563,
+                    "sentiment_score": -0.5106,
+                    "highlights": [
+                        {
+                            "highlight": "Try refreshing your browser, or Play Vid[+290 characters]",
+                            "sentiment": -0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 10.368563,
+                    "sentiment_score": -0.5106,
+                    "highlights": [
+                        {
+                            "highlight": "Try refreshing your browser, or Play Vid[+290 characters]",
+                            "sentiment": -0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGCL.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 10.368563,
+                    "sentiment_score": -0.5106,
+                    "highlights": [
+                        {
+                            "highlight": "Try refreshing your browser, or Play Vid[+290 characters]",
+                            "sentiment": -0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ABEA.DE",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 10.368989,
+                    "sentiment_score": -0.5106,
+                    "highlights": [
+                        {
+                            "highlight": "Try refreshing your browser, or Play Vid[+290 characters]",
+                            "sentiment": -0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ABEC.DE",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 10.368963,
+                    "sentiment_score": -0.5106,
+                    "highlights": [
+                        {
+                            "highlight": "Try refreshing your browser, or Play Vid[+290 characters]",
+                            "sentiment": -0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.MX",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 10.369176,
+                    "sentiment_score": -0.5106,
+                    "highlights": [
+                        {
+                            "highlight": "Try refreshing your browser, or Play Vid[+290 characters]",
+                            "sentiment": -0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG.MX",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 10.369176,
+                    "sentiment_score": -0.5106,
+                    "highlights": [
+                        {
+                            "highlight": "Try refreshing your browser, or Play Vid[+290 characters]",
+                            "sentiment": -0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

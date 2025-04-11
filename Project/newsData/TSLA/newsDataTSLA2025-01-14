@@ -1,0 +1,54 @@
+{
+    "meta": {
+        "found": 46,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "07879ce7-130c-44b9-b857-fadb16c78b57",
+            "title": "SEC sues Elon Musk over Twitter stake disclosure By Investing.com",
+            "description": "SEC sues Elon Musk  over Twitter stake disclosure",
+            "keywords": "",
+            "snippet": "Investing.com-- The Securities and Exchange Commission sued Tesla (NASDAQ: ) CEO Elon Musk in federal court on Tuesday over alleged violations of securities law...",
+            "url": "https://www.investing.com/news/stock-market-news/sec-sues-elon-musk--over-twitter-stake-disclosure-3813061",
+            "image_url": "https://i-invdn-com.investing.com/news/moved_LYNXNPEK370TT_L.jpg",
+            "language": "en",
+            "published_at": "2025-01-14T23:41:00.000000Z",
+            "source": "investing.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 16.182255,
+                    "sentiment_score": -0.238767,
+                    "highlights": [
+                        {
+                            "highlight": "Investing.com-- The Securities and Excha[+173 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The regulator was also reportedly lookin[+286 characters]",
+                            "sentiment": -0.3612,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The <em>Tesla</em> CEO was slapped with [+97 characters]",
+                            "sentiment": -0.5574,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

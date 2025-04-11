@@ -1,0 +1,661 @@
+{
+    "meta": {
+        "found": 4,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "608fd3ca-8085-4a51-bd2c-91778a731a2e",
+            "title": "Stocks Fail To Rise Despite Benign Producer Inflation, 30-Year Treasury Yields Hit 5%, Ely Lilly Tumbles: What's Driving Markets Tuesday? - Boeing (NYSE:BA)",
+            "description": "A cooler-than-expected December producer inflation report failed to ignite lasting gains on Wall Street Tuesday, reflecting lingering concerns about persistently high inflation among investors.",
+            "keywords": "",
+            "snippet": "A cooler-than-expected December producer inflation report failed to ignite lasting gains on Wall Street Tuesday, reflecting lingering concerns about persistentl...",
+            "url": "https://www.benzinga.com/economics/macro-economic-events/25/01/42984065/stocks-fail-to-rise-despite-benign-producer-inflation-30-year-treasury-yields-hit",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/14/Wall-Street--New-York-City.jpeg?width=1200&height=800&fit=crop",
+            "language": "en",
+            "published_at": "2025-01-14T18:01:11.000000Z",
+            "source": "benzinga.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "JDCMF",
+                    "name": "JD.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 19.986027,
+                    "sentiment_score": 0.8689,
+                    "highlights": [
+                        {
+                            "highlight": "Shares of <em>JD.com</em> <em>Inc</em>. [+195 characters]",
+                            "sentiment": 0.8689,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BAIDF",
+                    "name": "BAIDU INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 19.44202,
+                    "sentiment_score": 0.8225,
+                    "highlights": [
+                        {
+                            "highlight": "JD rose 4.6%, followed by gains in <em>B[+173 characters]",
+                            "sentiment": 0.8225,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "QQQ",
+                    "name": "Invesco QQQ Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 42.416275,
+                    "sentiment_score": 0.25,
+                    "highlights": [
+                        {
+                            "highlight": "The tech-heavy <em>Invesco</em> <em>QQQ<[+299 characters]",
+                            "sentiment": 0.25,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "IWM",
+                    "name": "iShares Russell 2000 ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 43.906174,
+                    "sentiment_score": 0.6908,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>iShares</em> <em>Russell</em> <e[+331 characters]",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "XLV",
+                    "name": "Health Care Select Sector SPDR Fund",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 53.26561,
+                    "sentiment_score": 0.5994,
+                    "highlights": [
+                        {
+                            "highlight": "The Utilities Select Sector SPDR Fund XL[+327 characters]",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "XLU",
+                    "name": "Utilities Select Sector SPDR Fund",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 50.808983,
+                    "sentiment_score": 0.7964,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Utilities</em> <em>Select</em> <[+318 characters]",
+                            "sentiment": 0.7964,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 52.29872,
+                    "sentiment_score": 0.7717,
+                    "highlights": [
+                        {
+                            "highlight": "ET\n\nAccording to Benzinga Pro data:\n\nThe[+318 characters]",
+                            "sentiment": 0.7717,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^XLV-TC",
+                    "name": "Health Care Select Sector SPDR ",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 45.460564,
+                    "sentiment_score": 0.5994,
+                    "highlights": [
+                        {
+                            "highlight": "The Utilities Select Sector SPDR Fund XL[+318 characters]",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "9618.HK",
+                    "name": "JD.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "hk",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 19.984245,
+                    "sentiment_score": 0.8689,
+                    "highlights": [
+                        {
+                            "highlight": "Shares of <em>JD.com</em> <em>Inc</em>. [+195 characters]",
+                            "sentiment": 0.8689,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "9888.HK",
+                    "name": "Baidu, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "hk",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 19.441317,
+                    "sentiment_score": 0.8225,
+                    "highlights": [
+                        {
+                            "highlight": "JD rose 4.6%, followed by gains in <em>B[+173 characters]",
+                            "sentiment": 0.8225,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^XLV-NV",
+                    "name": "Health Care Select Sector SPDR ",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 45.46054,
+                    "sentiment_score": 0.5994,
+                    "highlights": [
+                        {
+                            "highlight": "The Utilities Select Sector SPDR Fund XL[+318 characters]",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^XLV-IV",
+                    "name": "Health Care Select Sector SPDR ",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 45.46054,
+                    "sentiment_score": 0.5994,
+                    "highlights": [
+                        {
+                            "highlight": "The Utilities Select Sector SPDR Fund XL[+318 characters]",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^XLV-EU",
+                    "name": "Health Care Select Sector SPDR ",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 45.46054,
+                    "sentiment_score": 0.5994,
+                    "highlights": [
+                        {
+                            "highlight": "The Utilities Select Sector SPDR Fund XL[+318 characters]",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BIDU",
+                    "name": "Baidu, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 23.33374,
+                    "sentiment_score": 0.8225,
+                    "highlights": [
+                        {
+                            "highlight": "JD rose 4.6%, followed by gains in <em>B[+173 characters]",
+                            "sentiment": 0.8225,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "JDCO34.SA",
+                    "name": "JD.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 19.983429,
+                    "sentiment_score": 0.8689,
+                    "highlights": [
+                        {
+                            "highlight": "Shares of <em>JD.com</em> <em>Inc</em>. [+195 characters]",
+                            "sentiment": 0.8689,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "JD",
+                    "name": "JD.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 23.875637,
+                    "sentiment_score": 0.8689,
+                    "highlights": [
+                        {
+                            "highlight": "Shares of <em>JD.com</em> <em>Inc</em>. [+195 characters]",
+                            "sentiment": 0.8689,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVO",
+                    "name": "Novo Nordisk A/S",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 31.92546,
+                    "sentiment_score": 0.6808,
+                    "highlights": [
+                        {
+                            "highlight": "Peer <em>Novo</em> <em>Nordisk</em> <em>[+308 characters]",
+                            "sentiment": 0.6808,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BTCUSD",
+                    "name": "Bitcoin USD",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "global",
+                    "type": "cryptocurrency",
+                    "industry": "N/A",
+                    "match_score": 38.315853,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Bitcoin</em> <em>BTC</em>/<em>USD</e[+288 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NONOF",
+                    "name": "Novo Nordisk A/S",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 31.925144,
+                    "sentiment_score": 0.6808,
+                    "highlights": [
+                        {
+                            "highlight": "Peer <em>Novo</em> <em>Nordisk</em> <em>[+308 characters]",
+                            "sentiment": 0.6808,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "JD.BA",
+                    "name": "JD.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 19.981754,
+                    "sentiment_score": 0.8689,
+                    "highlights": [
+                        {
+                            "highlight": "Shares of <em>JD.com</em> <em>Inc</em>. [+195 characters]",
+                            "sentiment": 0.8689,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BIDU.BA",
+                    "name": "Baidu, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 19.44054,
+                    "sentiment_score": 0.8225,
+                    "highlights": [
+                        {
+                            "highlight": "JD rose 4.6%, followed by gains in <em>B[+173 characters]",
+                            "sentiment": 0.8225,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BIDUD.BA",
+                    "name": "BAIDU INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 19.44054,
+                    "sentiment_score": 0.8225,
+                    "highlights": [
+                        {
+                            "highlight": "JD rose 4.6%, followed by gains in <em>B[+173 characters]",
+                            "sentiment": 0.8225,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BACL.SN",
+                    "name": "BOEING CO",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 26.993397,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Boeing</em> <em>Co</em>. BA fell ove[+201 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "- <em>Boeing</em> (NYSE:BA)",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "IWM.SN",
+                    "name": "iShares Russell 2000 ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 43.90579,
+                    "sentiment_score": 0.6908,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>iShares</em> <em>Russell</em> <e[+331 characters]",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NOVC.DE",
+                    "name": "Novo Nordisk A/S",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 31.92276,
+                    "sentiment_score": 0.6808,
+                    "highlights": [
+                        {
+                            "highlight": "Peer <em>Novo</em> <em>Nordisk</em> <em>[+308 characters]",
+                            "sentiment": 0.6808,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NOVA.DE",
+                    "name": "Novo Nordisk A/S",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 31.92255,
+                    "sentiment_score": 0.6808,
+                    "highlights": [
+                        {
+                            "highlight": "Peer <em>Novo</em> <em>Nordisk</em> <em>[+308 characters]",
+                            "sentiment": 0.6808,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVON.MX",
+                    "name": "Novo Nordisk A/S",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 31.92191,
+                    "sentiment_score": 0.6808,
+                    "highlights": [
+                        {
+                            "highlight": "Peer <em>Novo</em> <em>Nordisk</em> <em>[+308 characters]",
+                            "sentiment": 0.6808,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BIDUN.MX",
+                    "name": "Baidu, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 19.440731,
+                    "sentiment_score": 0.8225,
+                    "highlights": [
+                        {
+                            "highlight": "JD rose 4.6%, followed by gains in <em>B[+173 characters]",
+                            "sentiment": 0.8225,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "XLV.MX",
+                    "name": "Health Care Select Sector SPDR Fund",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 53.265022,
+                    "sentiment_score": 0.5994,
+                    "highlights": [
+                        {
+                            "highlight": "The Utilities Select Sector SPDR Fund XL[+327 characters]",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "JDN.MX",
+                    "name": "JD.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 19.98155,
+                    "sentiment_score": 0.8689,
+                    "highlights": [
+                        {
+                            "highlight": "Shares of <em>JD.com</em> <em>Inc</em>. [+195 characters]",
+                            "sentiment": 0.8689,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "IWM.MX",
+                    "name": "iShares Russell 2000 ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 43.90641,
+                    "sentiment_score": 0.6908,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>iShares</em> <em>Russell</em> <e[+331 characters]",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "XLU.MX",
+                    "name": "Utilities Select Sector SPDR Fund",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 50.806488,
+                    "sentiment_score": 0.7964,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Utilities</em> <em>Select</em> <[+318 characters]",
+                            "sentiment": 0.7964,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NOVOBN.MX",
+                    "name": "Novo Nordisk A/S",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 31.921204,
+                    "sentiment_score": 0.6808,
+                    "highlights": [
+                        {
+                            "highlight": "Peer <em>Novo</em> <em>Nordisk</em> <em>[+308 characters]",
+                            "sentiment": 0.6808,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0TDD.L",
+                    "name": "Novo Nordisk A/S",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 31.921593,
+                    "sentiment_score": 0.6808,
+                    "highlights": [
+                        {
+                            "highlight": "Peer <em>Novo</em> <em>Nordisk</em> <em>[+308 characters]",
+                            "sentiment": 0.6808,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 52.299126,
+                    "sentiment_score": 0.7717,
+                    "highlights": [
+                        {
+                            "highlight": "ET\n\nAccording to Benzinga Pro data:\n\nThe[+318 characters]",
+                            "sentiment": 0.7717,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

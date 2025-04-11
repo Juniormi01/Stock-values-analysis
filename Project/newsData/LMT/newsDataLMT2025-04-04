@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "found": 4,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "3642ded0-4bf0-43f3-b9ac-645efee70413",
+            "title": "Lockheed Martin: Buy Aerospace And Defense On Tariff Drama (NYSE:LMT)",
+            "description": "Defense stocks, including Lockheed Martin, could benefit from the trade turmoil as tariffs shift investor focus back to defense. Read why LMT stock is a buy.",
+            "keywords": "",
+            "snippet": "If you want full access to all our reports, data and investing ideas, join The Aerospace Forum , the #1 aerospace, defense and airline investment research servi...",
+            "url": "https://seekingalpha.com/article/4773048-lockheed-martin-buy-aerospace-and-defense-on-tariff-drama",
+            "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1144882812/image_1144882812.jpg?io=getty-c-w1536",
+            "language": "en",
+            "published_at": "2025-04-04T16:08:14.000000Z",
+            "source": "seekingalpha.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 94.71355,
+                    "sentiment_score": 0.16515,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> stock [+251 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em>: Buy Aerospace And Defense On Tariff Drama (<em>NYSE:LMT</em>)",
+                            "sentiment": 0.128,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

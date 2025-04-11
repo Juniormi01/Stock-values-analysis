@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "found": 36,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "cdd91e10-b9f5-43a8-ac24-3de69570c090",
+            "title": "Meta stays in green for seven straight sessions",
+            "description": "Meta Platforms (META) continued gains for seven straight sessions as the stock closed 2.19% higher, at $674.33 on Tuesday. The California-based social media com",
+            "keywords": "",
+            "snippet": "Meta Platforms (NASDAQ:META) continued gains for seven straight sessions as the stock closed 2.19% higher, at $674.33 on Tuesday.\n\nThe California-based social m...",
+            "url": "https://seekingalpha.com/news/4399786-meta-stays-in-green-for-seven-straight-sessions",
+            "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1350450876/image_1350450876.jpg?io=getty-c-w750",
+            "language": "en",
+            "published_at": "2025-01-28T22:25:03.000000Z",
+            "source": "seekingalpha.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 16.47067,
+                    "sentiment_score": 0.8176,
+                    "highlights": [
+                        {
+                            "highlight": "Meta Platforms (<em>NASDAQ:META</em>) co[+238 characters]",
+                            "sentiment": 0.8176,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

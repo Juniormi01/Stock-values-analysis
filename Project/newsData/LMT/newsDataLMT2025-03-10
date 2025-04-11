@@ -1,0 +1,89 @@
+{
+    "meta": {
+        "found": 4,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "405f674c-a46f-4342-b9a2-c7b37199a56a",
+            "title": "Lockheed Martin's Options Frenzy: What You Need to Know - Lockheed Martin (NYSE:LMT)",
+            "description": "",
+            "keywords": "",
+            "snippet": "Whales with a lot of money to spend have taken a noticeably bullish stance on Lockheed Martin.\n\nLooking at options history for Lockheed Martin LMT we detected 3...",
+            "url": "https://www.benzinga.com/insights/options/25/03/44225984/lockheed-martins-options-frenzy-what-you-need-to-know",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/movers_image_5.jpeg?width=1200&height=800&fit=crop",
+            "language": "en",
+            "published_at": "2025-03-10T16:01:42.000000Z",
+            "source": "benzinga.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 88.37096,
+                    "sentiment_score": 0.26163,
+                    "highlights": [
+                        {
+                            "highlight": "Whales with a lot of money to spend have[+322 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Projected Price Targets\n\nBased on the tr[+326 characters]",
+                            "sentiment": 0.7783,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> 30-Day[+115 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "TRADE BULLISH 12/18/26 $42.6 $36.5 $41.7[+329 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Martin</em>\n\n<em>Lockheed</em> <em>M[+179 characters]",
+                            "sentiment": 0.7096,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Having examined the options trading patt[+277 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Professional Analyst Ratings for <em>Loc[+276 characters]",
+                            "sentiment": 0.4019,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Click here for access. * Consistent in t[+300 characters]",
+                            "sentiment": 0.4588,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Stay informed about the latest <em>Lockh[+80 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Lockheed Martin's Options Frenzy: What You Need to Know - <em>Lockheed</em> <em>Martin</em> (<em>NYSE:LMT</em>)",
+                            "sentiment": -0.3182,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

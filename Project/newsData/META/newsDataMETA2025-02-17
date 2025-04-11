@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "found": 8,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "4501b929-ba5d-46f4-b005-0f7e3d988737",
+            "title": "Meta: Strong Fundamentals, Buy On Dips (NASDAQ:META)",
+            "description": "Meta Platforms' AI advancements and strong fundamentals make it promising, but ad spending challenges and high expenses signal caution. Read here for a detailed investment analysis.",
+            "keywords": "",
+            "snippet": "Meta Platforms (NASDAQ: META ), previously Facebook, is an American multinational technology company that is the parent company to our social media consumption ...",
+            "url": "https://seekingalpha.com/article/4759006-meta-strong-fundamentals-buy-on-dips",
+            "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1704413556/image_1704413556.jpg?io=getty-c-w1536",
+            "language": "en",
+            "published_at": "2025-02-17T16:55:09.000000Z",
+            "source": "seekingalpha.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 54.530045,
+                    "sentiment_score": 0.3919,
+                    "highlights": [
+                        {
+                            "highlight": "Meta Platforms (<em>NASDAQ</em>: <em>MET[+316 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Meta: Strong Fundamentals, Buy On Dips (<em>NASDAQ:META</em>)",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

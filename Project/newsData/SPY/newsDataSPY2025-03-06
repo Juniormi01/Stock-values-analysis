@@ -1,0 +1,1071 @@
+{
+    "meta": {
+        "found": 7,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "607fb8d8-27c7-49d5-b433-5c5dbb90a123",
+            "title": "Trade Turmoil, Oil Slides: What's Driving Markets Thursday? - SPDR S&P 500 (ARCA:SPY)",
+            "description": "All three major indices remain in the red midday Thursday, after trimming earlier losses which saw the Dow Jones down more than 600 points at session lows. The major averages lost more than 2% this week as U.S.",
+            "keywords": "",
+            "snippet": "All three major indices remain in the red midday Thursday, after trimming earlier losses which saw the Dow Jones down more than 600 points at session lows. The ...",
+            "url": "https://www.benzinga.com/general/market-summary/25/03/44172028/trade-turmoil-oil-slides-whats-driving-markets-thursday",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2025/03/06/Experience-The-Allure-Of-The-New-York-St.jpeg?width=1200&height=800&fit=crop",
+            "language": "en",
+            "published_at": "2025-03-06T17:09:52.000000Z",
+            "source": "benzinga.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "BURL",
+                    "name": "Burlington Stores, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 31.92963,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "BJ\n\n<em>Burlington</em> <em>Stores</em>,[+298 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "RELI",
+                    "name": "Reliance Global Group, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 24.1305,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "AVGO\n\n<em>Reliance</em> <em>Global</em> [+93 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "JDCMF",
+                    "name": "JD.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 21.09467,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "VSCO\n\n<em>JD.com</em>, <em>Inc</em>. JD\n[+311 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "1YD.DE",
+                    "name": "Broadcom Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 26.91925,
+                    "sentiment_score": -0.0129,
+                    "highlights": [
+                        {
+                            "highlight": "NVDA and <em>Broadcom</em> <em>Inc</em>.[+302 characters]",
+                            "sentiment": -0.0258,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "FNKO\n\n<em>Broadcom</em> <em>Inc</em>. AV[+95 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0ZC.DE",
+                    "name": "Zscaler, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 23.454662,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "MRVL\n\n<em>Zscaler</em>, <em>Inc</em>. ZS[+298 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "T77.DE",
+                    "name": "LendingTree, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 25.214176,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "GRND\n\n<em>LendingTree</em>, <em>Inc</em>[+326 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "RELIW",
+                    "name": "Reliance Global Group, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 28.243103,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "AVGO\n\n<em>Reliance</em> <em>Global</em> [+93 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "QQQ",
+                    "name": "Invesco QQQ Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 44.84272,
+                    "sentiment_score": 0.6705,
+                    "highlights": [
+                        {
+                            "highlight": "The tech-heavy <em>Invesco</em> <em>QQQ<[+333 characters]",
+                            "sentiment": 0.6705,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MDB",
+                    "name": "MongoDB, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 26.661186,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>MongoDB</em>, <em>Inc</em>. MDB\n\nRig[+301 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "XLY",
+                    "name": "Consumer Discretionary Select Sector SPDR Fund",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 63.333168,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Consumer</em> <em>Discretionary<[+232 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "XLE",
+                    "name": "Energy Select Sector SPDR Fund",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 48.766716,
+                    "sentiment_score": 0.5574,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Energy</em> <em>Select</em> <em>[+303 characters]",
+                            "sentiment": 0.5574,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "IWM",
+                    "name": "iShares Russell 2000 ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 46.47477,
+                    "sentiment_score": 0.6705,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>iShares</em> <em>Russell</em> <e[+296 characters]",
+                            "sentiment": 0.6705,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 55.285355,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Nasdaq 100 18,336.60 -1.04% S&P 500 5,79[+330 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^XLE-IV",
+                    "name": "Energy Select Sector SPDR Fund ",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 48.766724,
+                    "sentiment_score": 0.5574,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Energy</em> <em>Select</em> <em>[+303 characters]",
+                            "sentiment": 0.5574,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^XLE-TC",
+                    "name": "Energy Select Sector SPDR Fund ",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 48.766674,
+                    "sentiment_score": 0.5574,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Energy</em> <em>Select</em> <em>[+303 characters]",
+                            "sentiment": 0.5574,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^XLE-EU",
+                    "name": "Energy Select Sector SPDR Fund ",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 48.766613,
+                    "sentiment_score": 0.5574,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Energy</em> <em>Select</em> <em>[+303 characters]",
+                            "sentiment": 0.5574,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "XLE.MX",
+                    "name": "Energy Select Sector SPDR Fund",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 48.766556,
+                    "sentiment_score": 0.5574,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Energy</em> <em>Select</em> <em>[+303 characters]",
+                            "sentiment": 0.5574,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "JDN.MX",
+                    "name": "JD.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 21.091633,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "VSCO\n\n<em>JD.com</em>, <em>Inc</em>. JD\n[+311 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ZS.MX",
+                    "name": "Zscaler, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 23.446686,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "MRVL\n\n<em>Zscaler</em>, <em>Inc</em>. ZS[+298 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "IWM.MX",
+                    "name": "iShares Russell 2000 ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 46.47438,
+                    "sentiment_score": 0.6705,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>iShares</em> <em>Russell</em> <e[+296 characters]",
+                            "sentiment": 0.6705,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGO",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 31.029816,
+                    "sentiment_score": -0.0129,
+                    "highlights": [
+                        {
+                            "highlight": "NVDA and <em>Broadcom</em> <em>Inc</em>.[+302 characters]",
+                            "sentiment": -0.0258,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "FNKO\n\n<em>Broadcom</em> <em>Inc</em>. AV[+95 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGOP",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 31.029816,
+                    "sentiment_score": -0.0129,
+                    "highlights": [
+                        {
+                            "highlight": "NVDA and <em>Broadcom</em> <em>Inc</em>.[+302 characters]",
+                            "sentiment": -0.0258,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "FNKO\n\n<em>Broadcom</em> <em>Inc</em>. AV[+95 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "COST",
+                    "name": "Costco Wholesale Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 19.149204,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "M\n\nCompanies reporting after Thursday's [+241 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 10.564043,
+                    "sentiment_score": 0.5574,
+                    "highlights": [
+                        {
+                            "highlight": "MRVL shares dropped Thursday after the c[+294 characters]",
+                            "sentiment": 0.5574,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "JD",
+                    "name": "JD.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 25.202497,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "VSCO\n\n<em>JD.com</em>, <em>Inc</em>. JD\n[+311 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "FNKO",
+                    "name": "Funko, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 27.738077,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Funko</em>, <em>Inc</em>. FNKO\n\nBroa[+107 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MRVL",
+                    "name": "Marvell Technology, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 44.34262,
+                    "sentiment_score": 0.2787,
+                    "highlights": [
+                        {
+                            "highlight": "Thursday's Stock Movers\n\n<em>Marvell</em[+333 characters]",
+                            "sentiment": 0.5574,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "RGTI\n\n<em>Marvell</em> <em>Technology</e[+338 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "XLY.MX",
+                    "name": "Consumer Discretionary Select Sector SPDR Fund",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 63.3319,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Consumer</em> <em>Discretionary<[+232 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ZS",
+                    "name": "Zscaler, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 27.553534,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "MRVL\n\n<em>Zscaler</em>, <em>Inc</em>. ZS[+298 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TREE",
+                    "name": "LendingTree, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 29.299744,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "GRND\n\n<em>LendingTree</em>, <em>Inc</em>[+326 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGO.MX",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 26.91542,
+                    "sentiment_score": -0.0129,
+                    "highlights": [
+                        {
+                            "highlight": "NVDA and <em>Broadcom</em> <em>Inc</em>.[+302 characters]",
+                            "sentiment": -0.0258,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "FNKO\n\n<em>Broadcom</em> <em>Inc</em>. AV[+95 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BURL.MX",
+                    "name": "Burlington Stores, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 31.92731,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "BJ\n\n<em>Burlington</em> <em>Stores</em>,[+298 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MDB.MX",
+                    "name": "MongoDB, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 22.5395,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>MongoDB</em>, <em>Inc</em>. MDB\n\nRig[+301 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MRVL1.MX",
+                    "name": "Marvell Technology, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 40.223602,
+                    "sentiment_score": 0.2787,
+                    "highlights": [
+                        {
+                            "highlight": "Thursday's Stock Movers\n\n<em>Marvell</em[+333 characters]",
+                            "sentiment": 0.5574,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "RGTI\n\n<em>Marvell</em> <em>Technology</e[+338 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TREE.MX",
+                    "name": "LendingTree, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 25.173376,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "GRND\n\n<em>LendingTree</em>, <em>Inc</em>[+326 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0UBI.L",
+                    "name": "Marvell Technology, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 40.218155,
+                    "sentiment_score": 0.2787,
+                    "highlights": [
+                        {
+                            "highlight": "Thursday's Stock Movers\n\n<em>Marvell</em[+333 characters]",
+                            "sentiment": 0.5574,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "RGTI\n\n<em>Marvell</em> <em>Technology</e[+338 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0XVU.L",
+                    "name": "Zscaler, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 23.432728,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "MRVL\n\n<em>Zscaler</em>, <em>Inc</em>. ZS[+298 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 55.2818,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Nasdaq 100 18,336.60 -1.04% S&P 500 5,79[+330 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0YXG.L",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 26.912954,
+                    "sentiment_score": -0.0129,
+                    "highlights": [
+                        {
+                            "highlight": "NVDA and <em>Broadcom</em> <em>Inc</em>.[+302 characters]",
+                            "sentiment": -0.0258,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "FNKO\n\n<em>Broadcom</em> <em>Inc</em>. AV[+95 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0JTZ.L",
+                    "name": "LendingTree, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 25.154387,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "GRND\n\n<em>LendingTree</em>, <em>Inc</em>[+326 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KKZ.L",
+                    "name": "MongoDB, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 22.534607,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>MongoDB</em>, <em>Inc</em>. MDB\n\nRig[+301 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "9618.HK",
+                    "name": "JD.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "hk",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 21.086464,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "VSCO\n\n<em>JD.com</em>, <em>Inc</em>. JD\n[+311 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGO34.SA",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 26.911665,
+                    "sentiment_score": -0.0129,
+                    "highlights": [
+                        {
+                            "highlight": "NVDA and <em>Broadcom</em> <em>Inc</em>.[+302 characters]",
+                            "sentiment": -0.0258,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "FNKO\n\n<em>Broadcom</em> <em>Inc</em>. AV[+95 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "JDCO34.SA",
+                    "name": "JD.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 21.085836,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "VSCO\n\n<em>JD.com</em>, <em>Inc</em>. JD\n[+311 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "M1DB34.SA",
+                    "name": "MongoDB, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 22.530273,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>MongoDB</em>, <em>Inc</em>. MDB\n\nRig[+301 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BTCUSD",
+                    "name": "Bitcoin USD",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "global",
+                    "type": "cryptocurrency",
+                    "industry": "N/A",
+                    "match_score": 40.593304,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Bitcoin</em> <em>BTC</em>/<em>USD</e[+261 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "CC:BTC",
+                    "name": "Bitcoin",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "global",
+                    "type": "cryptocurrency",
+                    "industry": "N/A",
+                    "match_score": 17.650803,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Bitcoin</em> <em>BTC</em>/USD traded[+252 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA.MI",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "it",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 16.577457,
+                    "sentiment_score": 0.5574,
+                    "highlights": [
+                        {
+                            "highlight": "MRVL shares dropped Thursday after the c[+303 characters]",
+                            "sentiment": 0.5574,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "JD.BA",
+                    "name": "JD.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 21.084082,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "VSCO\n\n<em>JD.com</em>, <em>Inc</em>. JD\n[+311 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDAD.BA",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 16.576975,
+                    "sentiment_score": 0.5574,
+                    "highlights": [
+                        {
+                            "highlight": "MRVL shares dropped Thursday after the c[+303 characters]",
+                            "sentiment": 0.5574,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDAC.BA",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 16.576956,
+                    "sentiment_score": 0.5574,
+                    "highlights": [
+                        {
+                            "highlight": "MRVL shares dropped Thursday after the c[+303 characters]",
+                            "sentiment": 0.5574,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGO.BA",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 26.905691,
+                    "sentiment_score": -0.0129,
+                    "highlights": [
+                        {
+                            "highlight": "NVDA and <em>Broadcom</em> <em>Inc</em>.[+302 characters]",
+                            "sentiment": -0.0258,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "FNKO\n\n<em>Broadcom</em> <em>Inc</em>. AV[+95 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGOD.BA",
+                    "name": "BROADCOM INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 26.905691,
+                    "sentiment_score": -0.0129,
+                    "highlights": [
+                        {
+                            "highlight": "NVDA and <em>Broadcom</em> <em>Inc</em>.[+302 characters]",
+                            "sentiment": -0.0258,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "FNKO\n\n<em>Broadcom</em> <em>Inc</em>. AV[+95 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "IWM.SN",
+                    "name": "iShares Russell 2000 ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 46.47385,
+                    "sentiment_score": 0.6705,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>iShares</em> <em>Russell</em> <e[+296 characters]",
+                            "sentiment": 0.6705,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "COSTCL.SN",
+                    "name": "COSTCO WHOLESALE",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 29.068817,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "M\n\nCompanies reporting after Thursday's [+241 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

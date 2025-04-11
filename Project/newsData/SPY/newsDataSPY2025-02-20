@@ -1,0 +1,1680 @@
+{
+    "meta": {
+        "found": 5,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "2db10af6-c6de-4d06-b620-634de7794727",
+            "title": "Palantir Rally Loses Steam, Walmart Outlook Disappoints: What's Driving Markets Thursday? - SPDR S&P 500 (ARCA:SPY)",
+            "description": "Stocks tumbled Thursday, with all major indices in the red, one day after the S&P 500 notched another all-time high in Wednesday\u2019s trading session.",
+            "keywords": "",
+            "snippet": "Stocks tumbled Thursday, with all major indices in the red, one day after the S&P 500 notched another all-time high in Wednesday\u2019s trading session. Investors ...",
+            "url": "https://www.benzinga.com/25/02/43858501/whats-moving-markets-thursday",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2025/02/20/Wall-Street-sign.jpeg?width=1200&height=800&fit=crop",
+            "language": "en",
+            "published_at": "2025-02-20T17:44:17.000000Z",
+            "source": "benzinga.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "BKNG",
+                    "name": "Booking Holdings Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 18.723988,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "XYZ\n\n<em>Booking</em> <em>Holdings</em> [+77 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SABR",
+                    "name": "Sabre Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 13.506871,
+                    "sentiment_score": -0.2263,
+                    "highlights": [
+                        {
+                            "highlight": "HAS\n\nAlibaba Group Holding Limited BABA\n[+307 characters]",
+                            "sentiment": -0.2263,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SABRP",
+                    "name": "Sabre Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 13.506527,
+                    "sentiment_score": -0.2263,
+                    "highlights": [
+                        {
+                            "highlight": "HAS\n\nAlibaba Group Holding Limited BABA\n[+307 characters]",
+                            "sentiment": -0.2263,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "DBX",
+                    "name": "Dropbox, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 24.947468,
+                    "sentiment_score": -0.4404,
+                    "highlights": [
+                        {
+                            "highlight": "CELH\n\n<em>Dropbox</em>, <em>Inc</em>. DB[+230 characters]",
+                            "sentiment": -0.4404,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "HAS",
+                    "name": "Hasbro, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 25.562088,
+                    "sentiment_score": -0.2263,
+                    "highlights": [
+                        {
+                            "highlight": "SHAK\n\nMaterialise NV MTLS\n\n<em>Hasbro</e[+326 characters]",
+                            "sentiment": -0.2263,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MELI",
+                    "name": "MercadoLibre, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 26.376232,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "BKNG\n\n<em>MercadoLibre</em>, <em>Inc</em[+41 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "REAL",
+                    "name": "The RealReal, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 31.846748,
+                    "sentiment_score": -0.4404,
+                    "highlights": [
+                        {
+                            "highlight": "IAG\n\n<em>The</em> <em>RealReal</em>, <em[+200 characters]",
+                            "sentiment": -0.4404,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MTLS",
+                    "name": "Materialise NV",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 28.582142,
+                    "sentiment_score": -0.2263,
+                    "highlights": [
+                        {
+                            "highlight": "SHAK\n\n<em>Materialise</em> <em>NV</em> M[+326 characters]",
+                            "sentiment": -0.2263,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BABA",
+                    "name": "Alibaba Group Holding Limited",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 32.439827,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "HAS\n\n<em>Alibaba</em> <em>Group</em> <em[+334 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "JMIA",
+                    "name": "Jumia Technologies AG",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 37.08972,
+                    "sentiment_score": -0.2263,
+                    "highlights": [
+                        {
+                            "highlight": "HAS\n\nAlibaba Group Holding Limited BABA\n[+325 characters]",
+                            "sentiment": -0.2263,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AGI",
+                    "name": "Alamos Gold Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Basic Materials",
+                    "match_score": 31.543749,
+                    "sentiment_score": -0.3818,
+                    "highlights": [
+                        {
+                            "highlight": "EXAS\n\n<em>Alamos</em> <em>Gold</em> <em>[+249 characters]",
+                            "sentiment": -0.3818,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NCLH",
+                    "name": "Norwegian Cruise Line Holdings Ltd.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 51.129818,
+                    "sentiment_score": -0.296,
+                    "highlights": [
+                        {
+                            "highlight": "CCL and <em>Norwegian</em> <em>Cruise</e[+349 characters]",
+                            "sentiment": -0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "CVNA",
+                    "name": "Carvana Co.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 22.405983,
+                    "sentiment_score": -0.1779,
+                    "highlights": [
+                        {
+                            "highlight": "Stocks reacting to company earnings repo[+234 characters]",
+                            "sentiment": -0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ED",
+                    "name": "Consolidated Edison, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Utilities",
+                    "match_score": 30.574627,
+                    "sentiment_score": -0.4404,
+                    "highlights": [
+                        {
+                            "highlight": "NU\n\n<em>Consolidated</em> <em>Edison</em[+153 characters]",
+                            "sentiment": -0.4404,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PLTR",
+                    "name": "Palantir Technologies Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 28.820805,
+                    "sentiment_score": 0.5859,
+                    "highlights": [
+                        {
+                            "highlight": "Retail investor darling <em>Palantir</em[+256 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "WMT",
+                    "name": "Walmart Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 35.85389,
+                    "sentiment_score": -0.468467,
+                    "highlights": [
+                        {
+                            "highlight": "Investors are weighing uncertainty surro[+317 characters]",
+                            "sentiment": -0.4242,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "AGI\n\n<em>Walmart</em>, <em>Inc</em>. WMT[+326 characters]",
+                            "sentiment": -0.3818,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Palantir Rally Loses Steam, <em>Walmart</em> Outlook Disappoints: What's Driving Markets Thursday? - SPDR S&P 500 (ARCA:SPY)",
+                            "sentiment": -0.5994,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SHAK",
+                    "name": "Shake Shack Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 34.093567,
+                    "sentiment_score": -0.2263,
+                    "highlights": [
+                        {
+                            "highlight": "TGB\n\n<em>Shake</em> <em>Shack</em>, <em>[+335 characters]",
+                            "sentiment": -0.2263,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "VALE",
+                    "name": "Vale S.A.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Basic Materials",
+                    "match_score": 24.039238,
+                    "sentiment_score": -0.3818,
+                    "highlights": [
+                        {
+                            "highlight": "CVNA\n\n<em>Vale</em> <em>S.A</em>. VALE\n\n[+301 characters]",
+                            "sentiment": -0.3818,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BABAF",
+                    "name": "Alibaba Group Holding Limited",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 32.439137,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "HAS\n\n<em>Alibaba</em> <em>Group</em> <em[+334 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AGI.TO",
+                    "name": "Alamos Gold Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ca",
+                    "type": "equity",
+                    "industry": "Basic Materials",
+                    "match_score": 31.537281,
+                    "sentiment_score": -0.3818,
+                    "highlights": [
+                        {
+                            "highlight": "EXAS\n\n<em>Alamos</em> <em>Gold</em> <em>[+249 characters]",
+                            "sentiment": -0.3818,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BTO.TO",
+                    "name": "B2Gold Corp.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ca",
+                    "type": "equity",
+                    "industry": "Basic Materials",
+                    "match_score": 26.619194,
+                    "sentiment_score": -0.3818,
+                    "highlights": [
+                        {
+                            "highlight": "VALE\n\n<em>B2Gold</em> <em>Corp</em>. BTG[+285 characters]",
+                            "sentiment": -0.3818,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "EXAS",
+                    "name": "Exact Sciences Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 16.093235,
+                    "sentiment_score": -0.3818,
+                    "highlights": [
+                        {
+                            "highlight": "BTG\n\n<em>Exact</em> <em>Sciences</em> Co[+266 characters]",
+                            "sentiment": -0.3818,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "CELH",
+                    "name": "Celsius Holdings, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 29.516224,
+                    "sentiment_score": -0.4404,
+                    "highlights": [
+                        {
+                            "highlight": "ARDX\n\nCompanies reporting after Thursday[+328 characters]",
+                            "sentiment": -0.4404,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ARDX",
+                    "name": "Ardelyx, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 30.46805,
+                    "sentiment_score": -0.4404,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Ardelyx</em>, <em>Inc</em>. ARDX\n\nCo[+294 characters]",
+                            "sentiment": -0.4404,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "QQQ",
+                    "name": "Invesco QQQ Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 43.575302,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "The SPDR Dow Jones Industrial Average DI[+264 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "XLY",
+                    "name": "Consumer Discretionary Select Sector SPDR Fund",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 61.549255,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Consumer</em> <em>Discretionary<[+309 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "XLE",
+                    "name": "Energy Select Sector SPDR Fund",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 47.402187,
+                    "sentiment_score": -0.296,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Energy</em> <em>Select</em> <em>[+328 characters]",
+                            "sentiment": -0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "IWM",
+                    "name": "iShares Russell 2000 ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 45.15703,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>iShares</em> <em>Russell</em> <e[+335 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 53.720436,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Nasdaq 100 19,911.27 -0.72% S&P 500 6,10[+232 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AHLA.DE",
+                    "name": "Alibaba Group Holding Limited",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 32.438583,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "HAS\n\n<em>Alibaba</em> <em>Group</em> <em[+334 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BTG",
+                    "name": "B2Gold Corp.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Basic Materials",
+                    "match_score": 26.595299,
+                    "sentiment_score": -0.3818,
+                    "highlights": [
+                        {
+                            "highlight": "VALE\n\n<em>B2Gold</em> <em>Corp</em>. BTG[+285 characters]",
+                            "sentiment": -0.3818,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "WMT.DE",
+                    "name": "Walmart Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 35.84541,
+                    "sentiment_score": -0.468467,
+                    "highlights": [
+                        {
+                            "highlight": "Investors are weighing uncertainty surro[+317 characters]",
+                            "sentiment": -0.4242,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "AGI\n\n<em>Walmart</em>, <em>Inc</em>. WMT[+326 characters]",
+                            "sentiment": -0.3818,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Palantir Rally Loses Steam, <em>Walmart</em> Outlook Disappoints: What's Driving Markets Thursday? - SPDR S&P 500 (ARCA:SPY)",
+                            "sentiment": -0.5994,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MLB1.DE",
+                    "name": "MercadoLibre, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 22.37418,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "BKNG\n\n<em>MercadoLibre</em>, <em>Inc</em[+41 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^XLE-IV",
+                    "name": "Energy Select Sector SPDR Fund ",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 47.40197,
+                    "sentiment_score": -0.296,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Energy</em> <em>Select</em> <em>[+328 characters]",
+                            "sentiment": -0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PCE1.DE",
+                    "name": "Booking Holdings Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 25.22631,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "XYZ\n\n<em>Booking</em> <em>Holdings</em> [+77 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PTX.DE",
+                    "name": "Palantir Technologies Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 28.815166,
+                    "sentiment_score": 0.5859,
+                    "highlights": [
+                        {
+                            "highlight": "Retail investor darling <em>Palantir</em[+256 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "HAS.DE",
+                    "name": "Hasbro, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 21.557129,
+                    "sentiment_score": -0.2263,
+                    "highlights": [
+                        {
+                            "highlight": "SHAK\n\nMaterialise NV MTLS\n\n<em>Hasbro</e[+326 characters]",
+                            "sentiment": -0.2263,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "1Q5.DE",
+                    "name": "Dropbox, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 20.94845,
+                    "sentiment_score": -0.4404,
+                    "highlights": [
+                        {
+                            "highlight": "CELH\n\n<em>Dropbox</em>, <em>Inc</em>. DB[+230 characters]",
+                            "sentiment": -0.4404,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "EDC.DE",
+                    "name": "Consolidated Edison, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Utilities",
+                    "match_score": 30.573658,
+                    "sentiment_score": -0.4404,
+                    "highlights": [
+                        {
+                            "highlight": "NU\n\n<em>Consolidated</em> <em>Edison</em[+153 characters]",
+                            "sentiment": -0.4404,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^XLE-TC",
+                    "name": "Energy Select Sector SPDR Fund ",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 47.401253,
+                    "sentiment_score": -0.296,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Energy</em> <em>Select</em> <em>[+328 characters]",
+                            "sentiment": -0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^XLE-EU",
+                    "name": "Energy Select Sector SPDR Fund ",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 47.401093,
+                    "sentiment_score": -0.296,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Energy</em> <em>Select</em> <em>[+328 characters]",
+                            "sentiment": -0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BABAN.MX",
+                    "name": "Alibaba Group Holding Limited",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 32.43732,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "HAS\n\n<em>Alibaba</em> <em>Group</em> <em[+334 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "XLE.MX",
+                    "name": "Energy Select Sector SPDR Fund",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 47.400616,
+                    "sentiment_score": -0.296,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Energy</em> <em>Select</em> <em>[+328 characters]",
+                            "sentiment": -0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BKNG.MX",
+                    "name": "Booking Holdings Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 25.226261,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "XYZ\n\n<em>Booking</em> <em>Holdings</em> [+77 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NCLHN.MX",
+                    "name": "Norwegian Cruise Line Holdings Ltd.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 51.12938,
+                    "sentiment_score": -0.296,
+                    "highlights": [
+                        {
+                            "highlight": "CCL and <em>Norwegian</em> <em>Cruise</e[+349 characters]",
+                            "sentiment": -0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "DBX.MX",
+                    "name": "Dropbox, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 20.947542,
+                    "sentiment_score": -0.4404,
+                    "highlights": [
+                        {
+                            "highlight": "CELH\n\n<em>Dropbox</em>, <em>Inc</em>. DB[+230 characters]",
+                            "sentiment": -0.4404,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "HAS.MX",
+                    "name": "Hasbro, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 21.553984,
+                    "sentiment_score": -0.2263,
+                    "highlights": [
+                        {
+                            "highlight": "SHAK\n\nMaterialise NV MTLS\n\n<em>Hasbro</e[+326 characters]",
+                            "sentiment": -0.2263,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "WMT.MX",
+                    "name": "Walmart Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 35.83747,
+                    "sentiment_score": -0.468467,
+                    "highlights": [
+                        {
+                            "highlight": "Investors are weighing uncertainty surro[+317 characters]",
+                            "sentiment": -0.4242,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "AGI\n\n<em>Walmart</em>, <em>Inc</em>. WMT[+326 characters]",
+                            "sentiment": -0.3818,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Palantir Rally Loses Steam, <em>Walmart</em> Outlook Disappoints: What's Driving Markets Thursday? - SPDR S&P 500 (ARCA:SPY)",
+                            "sentiment": -0.5994,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MELIN.MX",
+                    "name": "MercadoLibre, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 22.36876,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "BKNG\n\n<em>MercadoLibre</em>, <em>Inc</em[+41 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "VALEN.MX",
+                    "name": "Vale S.A.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Basic Materials",
+                    "match_score": 24.037426,
+                    "sentiment_score": -0.3818,
+                    "highlights": [
+                        {
+                            "highlight": "CVNA\n\n<em>Vale</em> <em>S.A</em>. VALE\n\n[+301 characters]",
+                            "sentiment": -0.3818,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "IWM.MX",
+                    "name": "iShares Russell 2000 ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 45.156834,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>iShares</em> <em>Russell</em> <e[+335 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "JMIAN.MX",
+                    "name": "Jumia Technologies AG",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 36.979393,
+                    "sentiment_score": -0.2263,
+                    "highlights": [
+                        {
+                            "highlight": "HAS\n\nAlibaba Group Holding Limited BABA\n[+325 characters]",
+                            "sentiment": -0.2263,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "XLY.MX",
+                    "name": "Consumer Discretionary Select Sector SPDR Fund",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 61.547165,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Consumer</em> <em>Discretionary<[+309 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SHAK.MX",
+                    "name": "Shake Shack Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 34.082855,
+                    "sentiment_score": -0.2263,
+                    "highlights": [
+                        {
+                            "highlight": "TGB\n\n<em>Shake</em> <em>Shack</em>, <em>[+335 characters]",
+                            "sentiment": -0.2263,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MTLSN.MX",
+                    "name": "Materialise NV",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 24.57813,
+                    "sentiment_score": -0.2263,
+                    "highlights": [
+                        {
+                            "highlight": "SHAK\n\n<em>Materialise</em> <em>NV</em> M[+326 characters]",
+                            "sentiment": -0.2263,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BTGN.MX",
+                    "name": "B2Gold Corp.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 26.553564,
+                    "sentiment_score": -0.3818,
+                    "highlights": [
+                        {
+                            "highlight": "VALE\n\n<em>B2Gold</em> <em>Corp</em>. BTG[+285 characters]",
+                            "sentiment": -0.3818,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0UC3.L",
+                    "name": "Norwegian Cruise Line Holdings Ltd.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 51.128944,
+                    "sentiment_score": -0.296,
+                    "highlights": [
+                        {
+                            "highlight": "CCL and <em>Norwegian</em> <em>Cruise</e[+349 characters]",
+                            "sentiment": -0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0A44.L",
+                    "name": "Jumia Technologies AG",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 36.967377,
+                    "sentiment_score": -0.2263,
+                    "highlights": [
+                        {
+                            "highlight": "HAS\n\nAlibaba Group Holding Limited BABA\n[+325 characters]",
+                            "sentiment": -0.2263,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0L5R.L",
+                    "name": "Shake Shack Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 34.080658,
+                    "sentiment_score": -0.2263,
+                    "highlights": [
+                        {
+                            "highlight": "TGB\n\n<em>Shake</em> <em>Shack</em>, <em>[+335 characters]",
+                            "sentiment": -0.2263,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 53.7191,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Nasdaq 100 19,911.27 -0.72% S&P 500 6,10[+232 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0UGS.L",
+                    "name": "Alamos Gold Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 31.52162,
+                    "sentiment_score": -0.3818,
+                    "highlights": [
+                        {
+                            "highlight": "EXAS\n\n<em>Alamos</em> <em>Gold</em> <em>[+249 characters]",
+                            "sentiment": -0.3818,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0J3K.L",
+                    "name": "Hasbro, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 21.545395,
+                    "sentiment_score": -0.2263,
+                    "highlights": [
+                        {
+                            "highlight": "SHAK\n\nMaterialise NV MTLS\n\n<em>Hasbro</e[+326 characters]",
+                            "sentiment": -0.2263,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0QYN.L",
+                    "name": "B2Gold Corp.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 26.542236,
+                    "sentiment_score": -0.3818,
+                    "highlights": [
+                        {
+                            "highlight": "VALE\n\n<em>B2Gold</em> <em>Corp</em>. BTG[+285 characters]",
+                            "sentiment": -0.3818,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0SGO.L",
+                    "name": "Dropbox, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 20.944805,
+                    "sentiment_score": -0.4404,
+                    "highlights": [
+                        {
+                            "highlight": "CELH\n\n<em>Dropbox</em>, <em>Inc</em>. DB[+230 characters]",
+                            "sentiment": -0.4404,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0A7R.L",
+                    "name": "Palantir Technologies Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 28.806097,
+                    "sentiment_score": 0.5859,
+                    "highlights": [
+                        {
+                            "highlight": "Retail investor darling <em>Palantir</em[+256 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0A79.L",
+                    "name": "Carvana Co.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 22.38108,
+                    "sentiment_score": -0.1779,
+                    "highlights": [
+                        {
+                            "highlight": "Stocks reacting to company earnings repo[+234 characters]",
+                            "sentiment": -0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0K0E.L",
+                    "name": "MercadoLibre, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 22.361996,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "BKNG\n\n<em>MercadoLibre</em>, <em>Inc</em[+41 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0I35.L",
+                    "name": "Consolidated Edison, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 30.572405,
+                    "sentiment_score": -0.4404,
+                    "highlights": [
+                        {
+                            "highlight": "NU\n\n<em>Consolidated</em> <em>Edison</em[+153 characters]",
+                            "sentiment": -0.4404,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "XVALO.MC",
+                    "name": "Vale S.A.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "es",
+                    "type": "equity",
+                    "industry": "Basic Materials",
+                    "match_score": 24.036957,
+                    "sentiment_score": -0.3818,
+                    "highlights": [
+                        {
+                            "highlight": "CVNA\n\n<em>Vale</em> <em>S.A</em>. VALE\n\n[+301 characters]",
+                            "sentiment": -0.3818,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "9988.HK",
+                    "name": "Alibaba Group Holding Limited",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "hk",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 32.434654,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "HAS\n\n<em>Alibaba</em> <em>Group</em> <em[+334 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BKNG34.SA",
+                    "name": "Booking Holdings Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 25.226385,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "XYZ\n\n<em>Booking</em> <em>Holdings</em> [+77 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "H1AS34.SA",
+                    "name": "Hasbro, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 21.53742,
+                    "sentiment_score": -0.2263,
+                    "highlights": [
+                        {
+                            "highlight": "SHAK\n\nMaterialise NV MTLS\n\n<em>Hasbro</e[+326 characters]",
+                            "sentiment": -0.2263,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MELI34.SA",
+                    "name": "MercadoLibre, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 22.35906,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "BKNG\n\n<em>MercadoLibre</em>, <em>Inc</em[+41 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "VALE3.SA",
+                    "name": "Vale S.A.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Basic Materials",
+                    "match_score": 24.036808,
+                    "sentiment_score": -0.3818,
+                    "highlights": [
+                        {
+                            "highlight": "CVNA\n\n<em>Vale</em> <em>S.A</em>. VALE\n\n[+301 characters]",
+                            "sentiment": -0.3818,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "N1CL34.SA",
+                    "name": "Norwegian Cruise Line Holdings Ltd.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 51.129185,
+                    "sentiment_score": -0.296,
+                    "highlights": [
+                        {
+                            "highlight": "CCL and <em>Norwegian</em> <em>Cruise</e[+349 characters]",
+                            "sentiment": -0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BTCUSD",
+                    "name": "Bitcoin USD",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "global",
+                    "type": "cryptocurrency",
+                    "industry": "N/A",
+                    "match_score": 39.419777,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Bitcoin</em> <em>BTC</em>/<em>USD</e[+181 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BABA.BA",
+                    "name": "Alibaba Group Holding Limited",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 32.43516,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "HAS\n\n<em>Alibaba</em> <em>Group</em> <em[+334 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MELI.BA",
+                    "name": "MercadoLibre, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 22.360647,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "BKNG\n\n<em>MercadoLibre</em>, <em>Inc</em[+41 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "WMTD.BA",
+                    "name": "WALMART INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 35.824924,
+                    "sentiment_score": -0.468467,
+                    "highlights": [
+                        {
+                            "highlight": "Investors are weighing uncertainty surro[+317 characters]",
+                            "sentiment": -0.4242,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "AGI\n\n<em>Walmart</em>, <em>Inc</em>. WMT[+326 characters]",
+                            "sentiment": -0.3818,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Palantir Rally Loses Steam, <em>Walmart</em> Outlook Disappoints: What's Driving Markets Thursday? - SPDR S&P 500 (ARCA:SPY)",
+                            "sentiment": -0.5994,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "VALED.BA",
+                    "name": "VALE S.A.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 24.036793,
+                    "sentiment_score": -0.3818,
+                    "highlights": [
+                        {
+                            "highlight": "CVNA\n\n<em>Vale</em> <em>S.A</em>. VALE\n\n[+301 characters]",
+                            "sentiment": -0.3818,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MELID.BA",
+                    "name": "MERCADOLIBRE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 22.360647,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "BKNG\n\n<em>MercadoLibre</em>, <em>Inc</em[+41 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MELIC.BA",
+                    "name": "MERCADOLIBRE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 22.360647,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "BKNG\n\n<em>MercadoLibre</em>, <em>Inc</em[+41 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "WMTC.BA",
+                    "name": "WALMART INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 35.824924,
+                    "sentiment_score": -0.468467,
+                    "highlights": [
+                        {
+                            "highlight": "Investors are weighing uncertainty surro[+317 characters]",
+                            "sentiment": -0.4242,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "AGI\n\n<em>Walmart</em>, <em>Inc</em>. WMT[+326 characters]",
+                            "sentiment": -0.3818,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Palantir Rally Loses Steam, <em>Walmart</em> Outlook Disappoints: What's Driving Markets Thursday? - SPDR S&P 500 (ARCA:SPY)",
+                            "sentiment": -0.5994,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MELIB.BA",
+                    "name": "MERCADOLIBRE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 22.360647,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "BKNG\n\n<em>MercadoLibre</em>, <em>Inc</em[+41 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "WMT.SN",
+                    "name": "Walmart Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 35.823612,
+                    "sentiment_score": -0.468467,
+                    "highlights": [
+                        {
+                            "highlight": "Investors are weighing uncertainty surro[+317 characters]",
+                            "sentiment": -0.4242,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "AGI\n\n<em>Walmart</em>, <em>Inc</em>. WMT[+326 characters]",
+                            "sentiment": -0.3818,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Palantir Rally Loses Steam, <em>Walmart</em> Outlook Disappoints: What's Driving Markets Thursday? - SPDR S&P 500 (ARCA:SPY)",
+                            "sentiment": -0.5994,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BKNG.SN",
+                    "name": "Booking Holdings Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 25.226421,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "XYZ\n\n<em>Booking</em> <em>Holdings</em> [+77 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "IWM.SN",
+                    "name": "iShares Russell 2000 ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 45.156673,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>iShares</em> <em>Russell</em> <e[+335 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "WALMARTCL.SN",
+                    "name": "WALMART INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 35.8229,
+                    "sentiment_score": -0.468467,
+                    "highlights": [
+                        {
+                            "highlight": "Investors are weighing uncertainty surro[+317 characters]",
+                            "sentiment": -0.4242,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "AGI\n\n<em>Walmart</em>, <em>Inc</em>. WMT[+326 characters]",
+                            "sentiment": -0.3818,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Palantir Rally Loses Steam, <em>Walmart</em> Outlook Disappoints: What's Driving Markets Thursday? - SPDR S&P 500 (ARCA:SPY)",
+                            "sentiment": -0.5994,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

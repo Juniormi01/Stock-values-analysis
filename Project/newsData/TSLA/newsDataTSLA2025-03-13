@@ -1,0 +1,255 @@
+{
+    "meta": {
+        "found": 53,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "1e0f0fbe-b375-49c1-ac88-6e59a875527c",
+            "title": "2025 Tech Stock Market \u2014 Impending Recession or Just a Wild Ride?",
+            "description": "The technology sector, encompassing software, hardware, semiconductors, artificial intelligence, and cloud computing, remains a pivotal component of the global equity market. Major indices such as\u2026",
+            "keywords": "",
+            "snippet": "January 2025: Tech Disruptions and Financial Chaos\n\nOn January 20, 2025, Donald Trump\u2019s immediate hiring freeze on federal civilian employees, coincided with ...",
+            "url": "https://medium.com/@nouhaelhariri78/2025-tech-stock-market-impending-recession-or-just-a-wild-ride-e27cda69f46a",
+            "image_url": "https://miro.medium.com/v2/resize:fit:1200/1*5NDc-yQl1muxiY7-O3Ee8Q.png",
+            "language": "en",
+            "published_at": "2025-03-13T23:11:43.000000Z",
+            "source": "medium.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 7.851631,
+                    "sentiment_score": 0.8126,
+                    "highlights": [
+                        {
+                            "highlight": "With investors showing increased interes[+236 characters]",
+                            "sentiment": 0.8126,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 11.79562,
+                    "sentiment_score": 0.31735,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Alphabet</em> saw a drop of over 4% [+232 characters]",
+                            "sentiment": -0.1779,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "With investors showing increased interes[+236 characters]",
+                            "sentiment": 0.8126,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGO",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 10.883692,
+                    "sentiment_score": 0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "Nvidia and <em>Broadcom</em> stocks plum[+163 characters]",
+                            "sentiment": 0.0258,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGOP",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 10.883692,
+                    "sentiment_score": 0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "Nvidia and <em>Broadcom</em> stocks plum[+163 characters]",
+                            "sentiment": 0.0258,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 10.948051,
+                    "sentiment_score": -0.2933,
+                    "highlights": [
+                        {
+                            "highlight": "Notably, <em>Nvidia</em> suffered a subs[+127 characters]",
+                            "sentiment": -0.6124,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Nvidia</em> and Broadcom stocks plum[+163 characters]",
+                            "sentiment": 0.0258,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFT",
+                    "name": "Microsoft Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 9.701355,
+                    "sentiment_score": 0.31735,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Microsoft</em> stock decreased by ab[+274 characters]",
+                            "sentiment": -0.1779,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "With investors showing increased interes[+236 characters]",
+                            "sentiment": 0.8126,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ON",
+                    "name": "ON Semiconductor Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 10.523917,
+                    "sentiment_score": 0.25,
+                    "highlights": [
+                        {
+                            "highlight": "However, potential U.S. tariffs <em>on</[+132 characters]",
+                            "sentiment": 0.25,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 8.721973,
+                    "sentiment_score": 0.8126,
+                    "highlights": [
+                        {
+                            "highlight": "With investors showing increased interes[+236 characters]",
+                            "sentiment": 0.8126,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": [
+                {
+                    "uuid": "6c03e035-b535-426c-a6aa-07593c6ce95a",
+                    "title": "US Stock Market Declines Amid Tariff Concerns; TSLA, META, AMZN and ADBE Fall",
+                    "description": "The US stock market faced a downturn as investors assessed President Trump's recent tariff threats alongside current inflation trends. Major indices opened lowe",
+                    "keywords": "GuruFocus, Article, News, GuruFocus News, AAPL",
+                    "snippet": "The US stock market faced a downturn as investors assessed President Trump's recent tariff threats alongside current inflation trends. Major indices opened lowe...",
+                    "url": "https://www.gurufocus.com/news/2737743/us-stock-market-declines-amid-tariff-concerns-tsla-meta-amzn-and-adbe-fall",
+                    "image_url": "https://static.gurufocus.com/logos/0C00000ADA.png?20",
+                    "language": "en",
+                    "published_at": "2025-03-13T15:20:47.000000Z",
+                    "source": "gurufocus.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "AAPL",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 13.432019,
+                            "sentiment_score": -0.1531,
+                            "highlights": [
+                                {
+                                    "highlight": "Meta (META) and Amazon (AMZN) both lost [+209 characters]",
+                                    "sentiment": -0.1531,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "NVDA",
+                            "name": "NVIDIA Corporation",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 15.20051,
+                            "sentiment_score": -0.1531,
+                            "highlights": [
+                                {
+                                    "highlight": "Meta (META) and Amazon (AMZN) both lost [+209 characters]",
+                                    "sentiment": -0.1531,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TSLA",
+                            "name": "Tesla, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 14.849991,
+                            "sentiment_score": 0.1531,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>Tesla</em> (TSLA) shares, which had [+293 characters]",
+                                    "sentiment": 0.1531,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

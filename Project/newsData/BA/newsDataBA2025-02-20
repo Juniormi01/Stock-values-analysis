@@ -1,0 +1,67 @@
+{
+    "meta": {
+        "found": 3,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "de70281e-ee25-4090-9d1a-d4f72326a8f8",
+            "title": "Boeing Working With Elon Musk To Solve Boeing's Air Force One Delivery Delays: Report - iShares U.S. Aerospace & Defense ETF (BATS:ITA), Boeing (NYSE:BA)",
+            "description": "Elon Musk is assisting Boeing in resolving delays and cost overruns for Air Force One, as the company works to speed up delivery.",
+            "keywords": "",
+            "snippet": "Boeing Company BA stock traded lower on Thursday. The company\u2019s CEO, Kelly Ortberg, reportedly said that SpaceX\u2019s Elon Musk is helping to solve issues withi...",
+            "url": "https://www.benzinga.com/25/02/43865891/elon-musks-involvement-key-to-solving-boeings-air-force-one-delivery-crisis-report",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2025/02/20/boeing-shutter.jpeg?width=1200&height=800&fit=crop",
+            "language": "en",
+            "published_at": "2025-02-20T21:09:41.000000Z",
+            "source": "benzinga.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "ITA",
+                    "name": "iShares U.S. Aerospace & Defense ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 204.42767,
+                    "sentiment_score": 0.46035,
+                    "highlights": [
+                        {
+                            "highlight": "Investors can gain exposure to the stock[+269 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Boeing Working With Elon Musk To Solve Boeing's Air Force One Delivery Delays: Report - <em>iShares</em> <em>U.S</em>. <em>Aerospace</em> & <em>Defense</em> <em>ETF</em> (<em>BATS:ITA</em>), Boeing (NYSE:BA)",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BA",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 32.4551,
+                    "sentiment_score": 0.128,
+                    "highlights": [
+                        {
+                            "highlight": "Aerospace & Defense ETF (BATS:ITA), Boeing (<em>NYSE:BA</em>)",
+                            "sentiment": 0.128,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

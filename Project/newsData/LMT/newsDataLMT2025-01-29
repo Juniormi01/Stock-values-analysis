@@ -1,0 +1,116 @@
+{
+    "meta": {
+        "found": 8,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "e867dcc5-c9c0-4e47-93d5-7a0a91930b6d",
+            "title": "Lockheed Martin Corporation (LMT): Leveraging AI for Aerospace and Defense Innovations",
+            "description": "We recently published a list of Top 10 AI Stocks That Are Being Monitored By Wall Street.",
+            "keywords": "",
+            "snippet": "Artificial intelligence is the greatest investment opportunity of our lifetime. The time to invest in groundbreaking AI is now, and this stock is a steal!\n\nThe ...",
+            "url": "https://www.insidermonkey.com/blog/lockheed-martin-corporation-lmt-leveraging-ai-for-aerospace-and-defense-innovations-1436426/",
+            "image_url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/09/23125230/LMT-insidermonkey-1695487948742.jpg",
+            "language": "en",
+            "published_at": "2025-01-29T20:37:53.000000Z",
+            "source": "insidermonkey.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "LMTB34.SA",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 130.63377,
+                    "sentiment_score": 0.128,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Corporation</em> (LMT): Leveraging AI for Aerospace and Defense Innovations",
+                            "sentiment": 0.128,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 130.63025,
+                    "sentiment_score": 0.128,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Corporation</em> (LMT): Leveraging AI for Aerospace and Defense Innovations",
+                            "sentiment": 0.128,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LOM.DE",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 130.65446,
+                    "sentiment_score": 0.128,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Corporation</em> (LMT): Leveraging AI for Aerospace and Defense Innovations",
+                            "sentiment": 0.128,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LMT.MX",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 130.65704,
+                    "sentiment_score": 0.128,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Corporation</em> (LMT): Leveraging AI for Aerospace and Defense Innovations",
+                            "sentiment": 0.128,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0R3E.L",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 130.6552,
+                    "sentiment_score": 0.128,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Corporation</em> (LMT): Leveraging AI for Aerospace and Defense Innovations",
+                            "sentiment": 0.128,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

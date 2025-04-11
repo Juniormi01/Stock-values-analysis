@@ -1,0 +1,62 @@
+{
+    "meta": {
+        "found": 113,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "06a091a9-8171-4c97-abb4-536da663a9c8",
+            "title": "Stock market today: Nasdaq leads stock rebound with inflation data, tariffs in focus",
+            "description": "Investors are digesting better-than-expected inflation data and bracing for the next move in Trump's escalating trade war.",
+            "keywords": "Nasdaq Composite, Bureau of Labor Statistics, President Trump, core CPI",
+            "snippet": "US stocks' bid for a rebound lost some steam on Wednesday, but tech led repeated tries for a comeback as investors focused on the latest tariff volleys and a be...",
+            "url": "https://finance.yahoo.com/news/live/stock-market-today-nasdaq-leads-stock-rebound-with-inflation-data-tariffs-in-focus-231741448.html",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/fGloHR_bixB6LSna_D9Sxg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-03/394f1ad0-fea1-11ef-b451-163c46c53e8c",
+            "language": "en",
+            "published_at": "2025-03-11T23:17:41.000000Z",
+            "source": "finance.yahoo.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 28.978203,
+                    "sentiment_score": 0.5106,
+                    "highlights": [
+                        {
+                            "highlight": "A rebound in Big Tech stayed strong desp[+176 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 28.661556,
+                    "sentiment_score": 0.5106,
+                    "highlights": [
+                        {
+                            "highlight": "A rebound in Big Tech stayed strong desp[+176 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

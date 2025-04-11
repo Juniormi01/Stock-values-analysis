@@ -1,0 +1,95 @@
+{
+    "meta": {
+        "found": 68,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "3c6438c6-e62c-4b09-8325-658a8d6c496d",
+            "title": "1 Hypergrowth Tech Stock to Buy in 2025",
+            "description": "This high-flying market darling may not be a great buy right now, but the stock would look great after a quick price correction.",
+            "keywords": "SoundHound AI, stock price",
+            "snippet": "It never hurts to plan ahead.\n\nOne of the greatest hypergrowth stocks on the market is a terrible buy right now, but that should change in 2025. An overheated s...",
+            "url": "https://finance.yahoo.com/news/1-hypergrowth-tech-stock-buy-232700582.html",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/NxeCz9hRIychC8tjZnNDjw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/motleyfool.com/7bf813e12de7e4a77d2ad43e2e369b66",
+            "language": "en",
+            "published_at": "2025-01-15T23:27:00.000000Z",
+            "source": "finance.yahoo.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 8.765829,
+                    "sentiment_score": -0.1536,
+                    "highlights": [
+                        {
+                            "highlight": "*\n\n<em>Apple</em>: if you invested $1,00[+286 characters]",
+                            "sentiment": 0.4197,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The Motley Fool has positions in and rec[+168 characters]",
+                            "sentiment": -0.7269,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 12.238171,
+                    "sentiment_score": 0.053967,
+                    "highlights": [
+                        {
+                            "highlight": "The stock looked overpriced in the sprin[+315 characters]",
+                            "sentiment": 0.8216,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "And the numbers speak for themselves: <e[+263 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Anders Bylund has positions in Amazon, <[+243 characters]",
+                            "sentiment": -0.6597,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NFLX",
+                    "name": "Netflix, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 7.825262,
+                    "sentiment_score": 0.3609,
+                    "highlights": [
+                        {
+                            "highlight": "*\n\n<em>Netflix</em>: if you invested $1,[+201 characters]",
+                            "sentiment": 0.3609,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

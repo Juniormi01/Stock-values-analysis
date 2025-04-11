@@ -1,0 +1,555 @@
+{
+    "meta": {
+        "found": 8,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "2551251c-8326-49d0-9591-b01cd950ed88",
+            "title": "Trump's Federal Spending Freeze Puts $3 Trillion In Limbo, Threatens Industries Like Clean Energy, Defense, Health Care - Lockheed Martin (NYSE:LMT), HCA Healthcare (NYSE:HCA)",
+            "description": "White House freezes $3 trillion in federal funding, sparking legal and political showdown. Industries like education, healthcare, and clean energy at risk.",
+            "keywords": "",
+            "snippet": "The White House has ordered a temporary freeze on all federal grants and loans, putting $3 trillion in funding under scrutiny and setting the stage for a legal ...",
+            "url": "https://www.benzinga.com/25/01/43290381/trumps-federal-spending-freeze-puts-3-trillion-in-limbo-threatens-industries-like-clean-energy-defense-healthcare",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/28/Why-It-Matters.jpeg?width=1200&height=800&fit=crop",
+            "language": "en",
+            "published_at": "2025-01-28T22:19:54.000000Z",
+            "source": "benzinga.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "PBW",
+                    "name": "Invesco WilderHill Clean Energy ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 60.022385,
+                    "sentiment_score": 0.6124,
+                    "highlights": [
+                        {
+                            "highlight": "The Invesco Solar ETF TAN and the <em>In[+320 characters]",
+                            "sentiment": 0.6124,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TAN",
+                    "name": "Invesco Solar ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 32.43239,
+                    "sentiment_score": 0.8316,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Invesco</em> <em>Solar</em> <em>[+302 characters]",
+                            "sentiment": 0.8316,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^TAN-EU",
+                    "name": "Invesco Solar ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 32.432304,
+                    "sentiment_score": 0.8316,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Invesco</em> <em>Solar</em> <em>[+302 characters]",
+                            "sentiment": 0.8316,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^PBW-IV",
+                    "name": "Invesco WilderHill Clean Energy",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 50.40822,
+                    "sentiment_score": 0.6124,
+                    "highlights": [
+                        {
+                            "highlight": "The Invesco Solar ETF TAN and the <em>In[+311 characters]",
+                            "sentiment": 0.6124,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^PBW-EU",
+                    "name": "Invesco WilderHill Clean Energy",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 50.40822,
+                    "sentiment_score": 0.6124,
+                    "highlights": [
+                        {
+                            "highlight": "The Invesco Solar ETF TAN and the <em>In[+311 characters]",
+                            "sentiment": 0.6124,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^PBW-NV",
+                    "name": "Invesco WilderHill Clean Energy",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 50.40822,
+                    "sentiment_score": 0.6124,
+                    "highlights": [
+                        {
+                            "highlight": "The Invesco Solar ETF TAN and the <em>In[+311 characters]",
+                            "sentiment": 0.6124,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^PBW-TC",
+                    "name": "Invesco WilderHill Clean Energy",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 50.40822,
+                    "sentiment_score": 0.6124,
+                    "highlights": [
+                        {
+                            "highlight": "The Invesco Solar ETF TAN and the <em>In[+311 characters]",
+                            "sentiment": 0.6124,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "H1CA34.SA",
+                    "name": "HCA Healthcare, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 56.34475,
+                    "sentiment_score": 0.58125,
+                    "highlights": [
+                        {
+                            "highlight": "<em>HCA</em> <em>Healthcare</em> <em>Inc[+181 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Trump's Federal Spending Freeze Puts $3 Trillion In Limbo, Threatens Industries Like Clean Energy, Defense, Health Care - Lockheed Martin (NYSE:LMT), <em>HCA</em> <em>Healthcare</em> (NYSE:HCA)",
+                            "sentiment": 0.8225,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "U1HS34.SA",
+                    "name": "Universal Health Services, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 24.919132,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "HCA and <em>Universal</em> <em>Health</e[+170 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^TAN-IV",
+                    "name": "Invesco Solar ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 32.432,
+                    "sentiment_score": 0.8316,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Invesco</em> <em>Solar</em> <em>[+302 characters]",
+                            "sentiment": 0.8316,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^TAN-TC",
+                    "name": "Invesco Solar ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 32.432,
+                    "sentiment_score": 0.8316,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Invesco</em> <em>Solar</em> <em>[+302 characters]",
+                            "sentiment": 0.8316,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^TAN-NV",
+                    "name": "Invesco Solar ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 32.431908,
+                    "sentiment_score": 0.8316,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Invesco</em> <em>Solar</em> <em>[+302 characters]",
+                            "sentiment": 0.8316,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "RUN",
+                    "name": "Sunrun Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 21.823536,
+                    "sentiment_score": -0.2263,
+                    "highlights": [
+                        {
+                            "highlight": "NOVA dropped 12%, <em>Sunrun</em> <em>In[+199 characters]",
+                            "sentiment": -0.2263,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SEDG",
+                    "name": "SolarEdge Technologies, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 28.76799,
+                    "sentiment_score": -0.1531,
+                    "highlights": [
+                        {
+                            "highlight": "RUN fell 9.2% and <em>SolarEdge</em> <em[+315 characters]",
+                            "sentiment": -0.1531,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 64.85808,
+                    "sentiment_score": 0.4878,
+                    "highlights": [
+                        {
+                            "highlight": "Defense contractors such as <em>Lockheed[+285 characters]",
+                            "sentiment": 0.1531,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Trump's Federal Spending Freeze Puts $3 Trillion In Limbo, Threatens Industries Like Clean Energy, Defense, Health Care - <em>Lockheed</em> <em>Martin</em> (<em>NYSE:LMT</em>), HCA Healthcare (NYSE:HCA)",
+                            "sentiment": 0.8225,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NOVA",
+                    "name": "Sunnova Energy International Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 35.350853,
+                    "sentiment_score": -0.2263,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Sunnova</em> <em>Energy</em> <em>Int[+251 characters]",
+                            "sentiment": -0.2263,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "HCA",
+                    "name": "HCA Healthcare, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 83.69697,
+                    "sentiment_score": 0.58125,
+                    "highlights": [
+                        {
+                            "highlight": "<em>HCA</em> <em>Healthcare</em> <em>Inc[+181 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Trump's Federal Spending Freeze Puts $3 Trillion In Limbo, Threatens Industries Like Clean Energy, Defense, Health Care - Lockheed Martin (NYSE:LMT), <em>HCA</em> <em>Healthcare</em> (<em>NYSE:HCA</em>)",
+                            "sentiment": 0.8225,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "UHS",
+                    "name": "Universal Health Services, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 24.918999,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "HCA and <em>Universal</em> <em>Health</e[+170 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "3S9.DE",
+                    "name": "Sunrun Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 21.819155,
+                    "sentiment_score": -0.2263,
+                    "highlights": [
+                        {
+                            "highlight": "NOVA dropped 12%, <em>Sunrun</em> <em>In[+199 characters]",
+                            "sentiment": -0.2263,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PBW.MX",
+                    "name": "Invesco WilderHill Clean Energy ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 59.93007,
+                    "sentiment_score": 0.6124,
+                    "highlights": [
+                        {
+                            "highlight": "The Invesco Solar ETF TAN and the <em>In[+320 characters]",
+                            "sentiment": 0.6124,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SEDGN.MX",
+                    "name": "SolarEdge Technologies, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 28.765966,
+                    "sentiment_score": -0.1531,
+                    "highlights": [
+                        {
+                            "highlight": "RUN fell 9.2% and <em>SolarEdge</em> <em[+315 characters]",
+                            "sentiment": -0.1531,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "HCA.MX",
+                    "name": "HCA Healthcare, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 56.32663,
+                    "sentiment_score": 0.58125,
+                    "highlights": [
+                        {
+                            "highlight": "<em>HCA</em> <em>Healthcare</em> <em>Inc[+181 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Trump's Federal Spending Freeze Puts $3 Trillion In Limbo, Threatens Industries Like Clean Energy, Defense, Health Care - Lockheed Martin (NYSE:LMT), <em>HCA</em> <em>Healthcare</em> (NYSE:HCA)",
+                            "sentiment": 0.8225,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "RUN.MX",
+                    "name": "Sunrun Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 21.815725,
+                    "sentiment_score": -0.2263,
+                    "highlights": [
+                        {
+                            "highlight": "NOVA dropped 12%, <em>Sunrun</em> <em>In[+199 characters]",
+                            "sentiment": -0.2263,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "UHS.MX",
+                    "name": "Universal Health Services, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 24.919912,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "HCA and <em>Universal</em> <em>Health</e[+170 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0L7S.L",
+                    "name": "SolarEdge Technologies, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 28.763802,
+                    "sentiment_score": -0.1531,
+                    "highlights": [
+                        {
+                            "highlight": "RUN fell 9.2% and <em>SolarEdge</em> <em[+315 characters]",
+                            "sentiment": -0.1531,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0LJL.L",
+                    "name": "Universal Health Services, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 24.919823,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "HCA and <em>Universal</em> <em>Health</e[+170 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0J1R.L",
+                    "name": "HCA Healthcare, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 56.319855,
+                    "sentiment_score": 0.58125,
+                    "highlights": [
+                        {
+                            "highlight": "<em>HCA</em> <em>Healthcare</em> <em>Inc[+181 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Trump's Federal Spending Freeze Puts $3 Trillion In Limbo, Threatens Industries Like Clean Energy, Defense, Health Care - Lockheed Martin (NYSE:LMT), <em>HCA</em> <em>Healthcare</em> (NYSE:HCA)",
+                            "sentiment": 0.8225,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0A4S.L",
+                    "name": "Sunrun Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 21.812527,
+                    "sentiment_score": -0.2263,
+                    "highlights": [
+                        {
+                            "highlight": "NOVA dropped 12%, <em>Sunrun</em> <em>In[+199 characters]",
+                            "sentiment": -0.2263,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "found": 1,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "4520c6c3-40f9-4e66-99b6-2bc4ef4acbf8",
+            "title": "Lockheed Martin (LMT) Stock Moves -0.69%: What You Should Know",
+            "description": "Lockheed Martin (LMT) closed the most recent trading day at $448.82, moving -0.69% from the previous trading session.",
+            "keywords": "stock, stocks, investment, investment advice, investing, online trading, online investment, online stock trading, stock market, financial, financial planning, quote, quotes, stock quotes",
+            "snippet": "This page has not been authorized, sponsored, or otherwise approved or endorsed by the companies represented herein. Each of the company logos represented herei...",
+            "url": "https://www.zacks.com/stock/news/2425593/lockheed-martin-lmt-stock-moves--069-what-you-should-know?cid=CS-ZC-FT-tale_of_the_tape|yseop_template_6v1-2425593",
+            "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default64.jpg",
+            "language": "en",
+            "published_at": "2025-03-04T22:50:11.000000Z",
+            "source": "zacks.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 62.031734,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> (LMT) Stock Moves -0.69%: What You Should Know",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

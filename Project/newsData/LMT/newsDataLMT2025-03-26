@@ -1,0 +1,216 @@
+{
+    "meta": {
+        "found": 4,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "4ef9aa21-e30f-4e84-9564-b0f61d4b852a",
+            "title": "Is Lockheed Martin Corporation (LMT) the Best Consistent Dividend Stock to Buy?",
+            "description": "We recently published a list of 12 Best Consistent Dividend Stocks to Buy.",
+            "keywords": "",
+            "snippet": "We recently published a list of 12 Best Consistent Dividend Stocks to Buy. In this article, we are going to take a look at where Lockheed Martin Corporation (NY...",
+            "url": "https://www.insidermonkey.com/blog/is-lockheed-martin-corporation-lmt-the-best-consistent-dividend-stock-to-buy-1494034/",
+            "image_url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/09/23125230/LMT-insidermonkey-1695487948742.jpg",
+            "language": "en",
+            "published_at": "2025-03-26T22:05:16.000000Z",
+            "source": "insidermonkey.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 142.7027,
+                    "sentiment_score": 0.51226,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+307 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Co[+278 characters]",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In fiscal 2024, <em>Lockheed</em> <em>Ma[+279 characters]",
+                            "sentiment": 0.7845,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In the fourth quarter of 2024, <em>Lockh[+148 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Is <em>Lockheed</em> <em>Martin</em> <em>Corporation</em> (LMT) the Best Consistent Dividend Stock to Buy?",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LOM.DE",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 126.373795,
+                    "sentiment_score": 0.51226,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+298 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Co[+260 characters]",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In fiscal 2024, <em>Lockheed</em> <em>Ma[+270 characters]",
+                            "sentiment": 0.7845,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In the fourth quarter of 2024, <em>Lockh[+139 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Is <em>Lockheed</em> <em>Martin</em> <em>Corporation</em> (LMT) the Best Consistent Dividend Stock to Buy?",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LMT.MX",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 126.37166,
+                    "sentiment_score": 0.51226,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+298 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Co[+260 characters]",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In fiscal 2024, <em>Lockheed</em> <em>Ma[+270 characters]",
+                            "sentiment": 0.7845,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In the fourth quarter of 2024, <em>Lockh[+139 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Is <em>Lockheed</em> <em>Martin</em> <em>Corporation</em> (LMT) the Best Consistent Dividend Stock to Buy?",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0R3E.L",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 126.372284,
+                    "sentiment_score": 0.51226,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+298 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Co[+260 characters]",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In fiscal 2024, <em>Lockheed</em> <em>Ma[+270 characters]",
+                            "sentiment": 0.7845,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In the fourth quarter of 2024, <em>Lockh[+139 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Is <em>Lockheed</em> <em>Martin</em> <em>Corporation</em> (LMT) the Best Consistent Dividend Stock to Buy?",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LMTB34.SA",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 126.37625,
+                    "sentiment_score": 0.51226,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+298 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Co[+260 characters]",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In fiscal 2024, <em>Lockheed</em> <em>Ma[+270 characters]",
+                            "sentiment": 0.7845,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In the fourth quarter of 2024, <em>Lockh[+139 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Is <em>Lockheed</em> <em>Martin</em> <em>Corporation</em> (LMT) the Best Consistent Dividend Stock to Buy?",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

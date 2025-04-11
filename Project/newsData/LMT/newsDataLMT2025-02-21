@@ -1,0 +1,112 @@
+{
+    "meta": {
+        "found": 3,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "957f4ce7-d94e-49cf-837c-0807e8b0bb78",
+            "title": "Smart Money Is Betting Big In LMT Options - Lockheed Martin (NYSE:LMT)",
+            "description": "",
+            "keywords": "",
+            "snippet": "Deep-pocketed investors have adopted a bullish approach towards Lockheed Martin LMT, and it's something market players shouldn't ignore. Our tracking of public ...",
+            "url": "https://www.benzinga.com/insights/options/25/02/43884421/smart-money-is-betting-big-in-lmt-options",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/movers_image_1.jpeg?width=1200&height=800&fit=crop",
+            "language": "en",
+            "published_at": "2025-02-21T15:45:35.000000Z",
+            "source": "benzinga.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 91.356125,
+                    "sentiment_score": 0.355409,
+                    "highlights": [
+                        {
+                            "highlight": "Deep-pocketed investors have adopted a b[+203 characters]",
+                            "sentiment": 0.1128,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Predicted Price Range\n\nTaking into accou[+192 characters]",
+                            "sentiment": 0.4588,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Volume & Open Interest Trends\n\nIn today'[+149 characters]",
+                            "sentiment": 0.7783,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The accompanying chart delineates the pr[+216 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> Call a[+107 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Martin</em>\n\n<em>Lockheed</em> <em>M[+179 characters]",
+                            "sentiment": 0.7096,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "After a thorough review of the options t[+323 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Click here for access. * Maintaining the[+348 characters]",
+                            "sentiment": 0.25,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "from Susquehanna continues to hold a Pos[+363 characters]",
+                            "sentiment": 0.5574,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "If you want to stay updated on the lates[+111 characters]",
+                            "sentiment": 0.0772,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Smart Money Is Betting Big In LMT Options - <em>Lockheed</em> <em>Martin</em> (<em>NYSE:LMT</em>)",
+                            "sentiment": 0.4019,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSCL.SN",
+                    "name": "MORGAN STANLEY",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 17.399315,
+                    "sentiment_score": 0.5574,
+                    "highlights": [
+                        {
+                            "highlight": ". * Maintaining their stance, an analyst[+328 characters]",
+                            "sentiment": 0.5574,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

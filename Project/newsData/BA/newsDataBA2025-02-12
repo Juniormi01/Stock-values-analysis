@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "found": 1,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "87128441-f172-406f-9fa0-3e2f0c7de6e8",
+            "title": "Spotlight on Boeing: Analyzing the Surge in Options Activity - Boeing (NYSE:BA)",
+            "description": "",
+            "keywords": "",
+            "snippet": "Investors with a lot of money to spend have taken a bearish stance on Boeing BA.\n\nAnd retail traders should know.\n\nWe noticed this today when the trades showed ...",
+            "url": "https://www.benzinga.com/insights/options/25/02/43665587/spotlight-on-boeing-analyzing-the-surge-in-options-activity",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/movers_image_18.jpeg?width=1200&height=800&fit=crop",
+            "language": "en",
+            "published_at": "2025-02-12T16:47:04.000000Z",
+            "source": "benzinga.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "BA",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 38.185844,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Spotlight on Boeing: Analyzing the Surge in Options Activity - Boeing (<em>NYSE:BA</em>)",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

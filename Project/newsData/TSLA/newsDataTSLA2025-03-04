@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "found": 46,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "947caada-1bcd-4e99-b640-23261ca18638",
+            "title": "Tesla: Elon Musk Is Creating A Reputational Problem (NASDAQ:TSLA)",
+            "description": "Declining global sales, tariffs, competition, and Elon Musk's political stance are impacting Tesla, Inc.'s market position and prospects. Click for my TSLA update.",
+            "keywords": "",
+            "snippet": "Hi there, welcome to my profile. My name is Eugenio Catone, I live in Italy and I am 26 years old. In 2023 I graduated in Business Administration and I am compl...",
+            "url": "https://seekingalpha.com/article/4764617-tesla-elon-musk-is-creating-a-reputational-problem",
+            "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2171503039/image_2171503039.jpg?io=getty-c-w1536",
+            "language": "en",
+            "published_at": "2025-03-04T22:57:30.000000Z",
+            "source": "seekingalpha.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 57.095657,
+                    "sentiment_score": -0.128,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Tesla</em>: Elon Musk Is Creating A Reputational Problem (<em>NASDAQ:TSLA</em>)",
+                            "sentiment": -0.128,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

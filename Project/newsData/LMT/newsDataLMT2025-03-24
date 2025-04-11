@@ -1,0 +1,154 @@
+{
+    "meta": {
+        "found": 7,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "8705728e-a47d-4b42-9186-74b433975b67",
+            "title": "Lockheed Martin: Buy The Drop On This Mispriced Bargain (NYSE:LMT)",
+            "description": "Lockheed Martin Corporation's recent dip offers a buy-the-drop chance. Click here to find out why LMT stock is a Strong Buy.",
+            "keywords": "",
+            "snippet": "iREIT+HOYA Capital is the premier income-focused investing service on Seeking Alpha. Our focus is on income-producing asset classes that offer the opportunity f...",
+            "url": "https://seekingalpha.com/article/4770010-lockheed-martin-buy-the-drop-on-this-mispriced-bargain",
+            "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1456625539/image_1456625539.jpg?io=getty-c-w1536",
+            "language": "en",
+            "published_at": "2025-03-24T17:28:42.000000Z",
+            "source": "seekingalpha.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 94.58862,
+                    "sentiment_score": -0.0772,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em>: Buy The Drop On This Mispriced Bargain (<em>NYSE:LMT</em>)",
+                            "sentiment": -0.0772,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": [
+                {
+                    "uuid": "db5d4402-ac32-4785-88b6-81cc8a5002e5",
+                    "title": "Lockheed Martin downgraded at Bank of America; shares fall (LMT:NYSE)",
+                    "description": "Lockheed Martin downgraded at Bank of America; shares fall",
+                    "keywords": "",
+                    "snippet": "Lockheed Martin (NYSE:LMT) on Monday was downgraded to Neutral from a previous investment rating of Buy among analysts at Bank of America.\n\nThe downgrade came t...",
+                    "url": "https://seekingalpha.com/news/4424379-lockheed-martin-downgraded-at-bank-of-america",
+                    "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1297117971/image_1297117971.jpg?io=getty-c-w750",
+                    "language": "en",
+                    "published_at": "2025-03-24T17:28:07.000000Z",
+                    "source": "seekingalpha.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "LMT",
+                            "name": "Lockheed Martin Corporation",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Industrials",
+                            "match_score": 74.53424,
+                            "sentiment_score": 0.084,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>Lockheed</em> <em>Martin</em> (<em>N[+226 characters]",
+                                    "sentiment": -0.128,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Lockheed</em> <em>Martin</em> downgraded at Bank of America; shares fall (LMT:NYSE)",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "uuid": "21ca337e-d5e7-41be-9be7-91de3d50501d",
+                    "title": "Why Lockheed Martin Stock Is Down Today",
+                    "description": "Wall Street is reacting to last week's news that Lockheed Martin (NYSE: LMT) has lost the battle to produce the Air Force's next-generation fighter.  The commentary is putting new pressure on Lockheed Martin shares, sending the stock down about 3% as of 10:30 a.m. ET.  Boeing won an initial $19 billion contract to fund continued research and development of the plane, which could produce upward of $250 billion in revenue for Boeing and its subcontractors in the decades to come.",
+                    "keywords": "Lockheed Martin, Boeing, Air Force",
+                    "snippet": "Wall Street is reacting to last week's news that Lockheed Martin (NYSE: LMT) has lost the battle to produce the Air Force's next-generation fighter. The comment...",
+                    "url": "https://finance.yahoo.com/news/why-lockheed-martin-stock-down-151223425.html",
+                    "image_url": "https://s.yimg.com/ny/api/res/1.2/WMyoos87fLLHpkqBO9CygA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/motleyfool.com/253a9e46f659b0481a4c2e8fead309d2",
+                    "language": "en",
+                    "published_at": "2025-03-24T15:12:23.000000Z",
+                    "source": "finance.yahoo.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "LMT",
+                            "name": "Lockheed Martin Corporation",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Industrials",
+                            "match_score": 81.83292,
+                            "sentiment_score": 0.2005,
+                            "highlights": [
+                                {
+                                    "highlight": "Wall Street is reacting to last week's n[+281 characters]",
+                                    "sentiment": -0.5106,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "With Northrop Grumman favored to beat ou[+330 characters]",
+                                    "sentiment": 0.8807,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Is <em>Lockheed</em> <em>Martin</em> a b[+314 characters]",
+                                    "sentiment": -0.0772,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "This is still an impressive franchise, a[+275 characters]",
+                                    "sentiment": 0.7096,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Why <em>Lockheed</em> <em>Martin</em> Stock Is Down Today",
+                                    "sentiment": 0,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "NOC",
+                            "name": "Northrop Grumman Corporation",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Industrials",
+                            "match_score": 22.880955,
+                            "sentiment_score": 0.8807,
+                            "highlights": [
+                                {
+                                    "highlight": "With <em>Northrop</em> <em>Grumman</em> [+312 characters]",
+                                    "sentiment": 0.8807,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

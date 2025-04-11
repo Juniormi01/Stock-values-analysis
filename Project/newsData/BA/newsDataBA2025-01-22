@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "found": 1,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "9c766bf3-cf90-42d6-8d41-4c7492057dbb",
+            "title": "South Korea to remove concrete embankment blamed for exacerbating deadly plane crash By Reuters",
+            "description": "South Korea to remove concrete embankment blamed for exacerbating deadly plane crash",
+            "keywords": "",
+            "snippet": "By Hyunsu Yim\n\nSEOUL (Reuters) - South Korea's transport ministry said on Wednesday that it would remove the concrete embankment installed at Muan International...",
+            "url": "https://www.investing.com/news/stock-market-news/south-korea-to-remove-concrete-embankment-blamed-for-exacerbating-deadly-plane-crash-3823622",
+            "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEAAP0BV_L.jpg",
+            "language": "en",
+            "published_at": "2025-01-22T05:05:38.000000Z",
+            "source": "investing.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "BA",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 13.736982,
+                    "sentiment_score": -0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "The Dec. 29 crash killed 179 people, wit[+282 characters]",
+                            "sentiment": -0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

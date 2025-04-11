@@ -1,0 +1,329 @@
+{
+    "meta": {
+        "found": 32,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "8ef60ea2-a9ac-4056-a1c0-13589b64bec4",
+            "title": "DeepSeek Will Hardly Dent Magnificent Seven Stocks, Survey Shows",
+            "description": "DeepSeek\u2019s emergence roiled markets earlier this week, but investors see limited scope for the Chinese artificial intelligence startup to dent the performance of th\u2026",
+            "keywords": "BLOOM, Canada",
+            "snippet": "This advertisement has not loaded yet, but your article continues below.\n\nDeepSeek Will Hardly Dent Magnificent Seven Stocks, Survey Shows DeepSeek\u2019s emergenc...",
+            "url": "https://financialpost.com/pmn/business-pmn/deepseek-will-hardly-dent-magnificent-seven-stocks-survey-shows",
+            "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/01/over-the-next-month-do-you-think-deepseeks-rise-will-.jpg",
+            "language": "en",
+            "published_at": "2025-01-30T23:53:35.000000Z",
+            "source": "financialpost.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 8.464647,
+                    "sentiment_score": -0.3182,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Meta</em> <em>Platforms</em> <em>Inc[+286 characters]",
+                            "sentiment": -0.3182,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "JNJ",
+                    "name": "Johnson & Johnson",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 13.182661,
+                    "sentiment_score": 0.7717,
+                    "highlights": [
+                        {
+                            "highlight": "That has propelled the likes of the Vang[+140 characters]",
+                            "sentiment": 0.7717,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFT.MI",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "it",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 9.079282,
+                    "sentiment_score": -0.4588,
+                    "highlights": [
+                        {
+                            "highlight": "Meanwhile, <em>Microsoft</em> <em>Corp</[+241 characters]",
+                            "sentiment": -0.4588,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA.MI",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "it",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 12.199604,
+                    "sentiment_score": 0.2273,
+                    "highlights": [
+                        {
+                            "highlight": "Monday\u2019s selloff had its share of eye-[+248 characters]",
+                            "sentiment": 0.7506,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Nvidia</em> <em>Corp</em>. is schedu[+218 characters]",
+                            "sentiment": -0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PGD.BA",
+                    "name": "Procter & Gamble Co",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 20.691362,
+                    "sentiment_score": 0.7717,
+                    "highlights": [
+                        {
+                            "highlight": "That has propelled the likes of the Vang[+149 characters]",
+                            "sentiment": 0.7717,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "DJNJ2.BA",
+                    "name": "Johnson & Johnson",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 13.183008,
+                    "sentiment_score": 0.7717,
+                    "highlights": [
+                        {
+                            "highlight": "That has propelled the likes of the Vang[+140 characters]",
+                            "sentiment": 0.7717,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "DJNJ3.BA",
+                    "name": "Johnson & Johnson",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 13.183008,
+                    "sentiment_score": 0.7717,
+                    "highlights": [
+                        {
+                            "highlight": "That has propelled the likes of the Vang[+140 characters]",
+                            "sentiment": 0.7717,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDAD.BA",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 12.199503,
+                    "sentiment_score": 0.2273,
+                    "highlights": [
+                        {
+                            "highlight": "Monday\u2019s selloff had its share of eye-[+248 characters]",
+                            "sentiment": 0.7506,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Nvidia</em> <em>Corp</em>. is schedu[+218 characters]",
+                            "sentiment": -0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTD.BA",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 9.07924,
+                    "sentiment_score": -0.4588,
+                    "highlights": [
+                        {
+                            "highlight": "Meanwhile, <em>Microsoft</em> <em>Corp</[+241 characters]",
+                            "sentiment": -0.4588,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTB.BA",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 9.07924,
+                    "sentiment_score": -0.4588,
+                    "highlights": [
+                        {
+                            "highlight": "Meanwhile, <em>Microsoft</em> <em>Corp</[+241 characters]",
+                            "sentiment": -0.4588,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTC.BA",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 9.07924,
+                    "sentiment_score": -0.4588,
+                    "highlights": [
+                        {
+                            "highlight": "Meanwhile, <em>Microsoft</em> <em>Corp</[+241 characters]",
+                            "sentiment": -0.4588,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDAC.BA",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 12.199503,
+                    "sentiment_score": 0.2273,
+                    "highlights": [
+                        {
+                            "highlight": "Monday\u2019s selloff had its share of eye-[+248 characters]",
+                            "sentiment": 0.7506,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Nvidia</em> <em>Corp</em>. is schedu[+218 characters]",
+                            "sentiment": -0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "KOC.BA",
+                    "name": "COCA-COLA CO",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 18.461084,
+                    "sentiment_score": 0.7717,
+                    "highlights": [
+                        {
+                            "highlight": "That has propelled the likes of the Vang[+149 characters]",
+                            "sentiment": 0.7717,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "KOD.BA",
+                    "name": "COCA-COLA CO",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 18.461042,
+                    "sentiment_score": 0.7717,
+                    "highlights": [
+                        {
+                            "highlight": "That has propelled the likes of the Vang[+149 characters]",
+                            "sentiment": 0.7717,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTCL.SN",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 9.079206,
+                    "sentiment_score": -0.4588,
+                    "highlights": [
+                        {
+                            "highlight": "Meanwhile, <em>Microsoft</em> <em>Corp</[+241 characters]",
+                            "sentiment": -0.4588,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "KOCL.SN",
+                    "name": "COCA-COLA CO",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 18.460892,
+                    "sentiment_score": 0.7717,
+                    "highlights": [
+                        {
+                            "highlight": "That has propelled the likes of the Vang[+149 characters]",
+                            "sentiment": 0.7717,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

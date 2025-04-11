@@ -1,0 +1,336 @@
+{
+    "meta": {
+        "found": 1,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "7d76f5de-2e4b-472e-a6c8-ae8891578938",
+            "title": "Oracle, Zoom, Uber And A Major Plane Maker: CNBC's 'Final Trades' - Oracle (NYSE:ORCL), Boeing (NYSE:BA)",
+            "description": "Boeing shares gained 1.6% to close at $184.80 on Thursday; Oracle shares climbed 0.4% to settle at $172.35. Zoom shares gained 0.8% to close at $86.69 on Thursday. Uber shares gained 8.6% to settle at $69.99.",
+            "keywords": "",
+            "snippet": "On CNBC's \u201cHalftime Report Final Trades,\u201d Stephanie Link of Hightower Advisors named The Boeing Company BA as her final trade.\n\nSupporting his view, JPMorga...",
+            "url": "https://www.benzinga.com/25/02/43558886/oracle-zoom-uber-and-a-major-plane-maker-cnbcs-final-trades",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2025/02/07/oracle-shutter.jpeg?width=1200&height=800&fit=crop",
+            "language": "en",
+            "published_at": "2025-02-07T13:27:27.000000Z",
+            "source": "benzinga.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "BCO.DE",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 22.697187,
+                    "sentiment_score": 0.1027,
+                    "highlights": [
+                        {
+                            "highlight": "On CNBC's \u201cHalftime Report Final Trade[+319 characters]",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "UT8.DE",
+                    "name": "Uber Technologies Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 35.48493,
+                    "sentiment_score": 0.217,
+                    "highlights": [
+                        {
+                            "highlight": "Don't forget to check out our premarket [+135 characters]",
+                            "sentiment": 0.5367,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "UBER\n\nAs per the recent earnings report,[+295 characters]",
+                            "sentiment": -0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ORC.DE",
+                    "name": "Oracle Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 14.649732,
+                    "sentiment_score": 0.4404,
+                    "highlights": [
+                        {
+                            "highlight": "Sarat Sethi of DCLA picked <em>Oracle</e[+150 characters]",
+                            "sentiment": 0.4404,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BA",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 52.951607,
+                    "sentiment_score": 0.05135,
+                    "highlights": [
+                        {
+                            "highlight": "On CNBC's \u201cHalftime Report Final Trade[+319 characters]",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Oracle, Zoom, Uber And A Major Plane Maker: CNBC's 'Final Trades' - Oracle (NYSE:ORCL), Boeing (<em>NYSE:BA</em>)",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ORCL",
+                    "name": "Oracle Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 81.43849,
+                    "sentiment_score": 0.5252,
+                    "highlights": [
+                        {
+                            "highlight": "Sarat Sethi of DCLA picked <em>Oracle</e[+159 characters]",
+                            "sentiment": 0.4404,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Oracle</em> Fusion Cloud Human Capit[+313 characters]",
+                            "sentiment": 0.7759,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Oracle</em> shares climbed 0.4% to s[+182 characters]",
+                            "sentiment": 0.8845,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Oracle</em>, Zoom, Uber And A Major Plane Maker: CNBC's 'Final Trades' - <em>Oracle</em> (<em>NYSE:ORCL</em>), Boeing (NYSE:BA)",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "UBER",
+                    "name": "Uber Technologies, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 35.4838,
+                    "sentiment_score": 0.217,
+                    "highlights": [
+                        {
+                            "highlight": "Don't forget to check out our premarket [+135 characters]",
+                            "sentiment": 0.5367,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "UBER\n\nAs per the recent earnings report,[+295 characters]",
+                            "sentiment": -0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BA.MX",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 22.696228,
+                    "sentiment_score": 0.1027,
+                    "highlights": [
+                        {
+                            "highlight": "On CNBC's \u201cHalftime Report Final Trade[+319 characters]",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "UBER.MX",
+                    "name": "Uber Technologies, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 35.48346,
+                    "sentiment_score": 0.217,
+                    "highlights": [
+                        {
+                            "highlight": "Don't forget to check out our premarket [+135 characters]",
+                            "sentiment": 0.5367,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "UBER\n\nAs per the recent earnings report,[+295 characters]",
+                            "sentiment": -0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ORCL.MX",
+                    "name": "Oracle Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 14.648958,
+                    "sentiment_score": 0.4404,
+                    "highlights": [
+                        {
+                            "highlight": "Sarat Sethi of DCLA picked <em>Oracle</e[+150 characters]",
+                            "sentiment": 0.4404,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BOE.L",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 22.695984,
+                    "sentiment_score": 0.1027,
+                    "highlights": [
+                        {
+                            "highlight": "On CNBC's \u201cHalftime Report Final Trade[+319 characters]",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BOEI.BR",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "be",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 22.695755,
+                    "sentiment_score": 0.1027,
+                    "highlights": [
+                        {
+                            "highlight": "On CNBC's \u201cHalftime Report Final Trade[+319 characters]",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BOEI34.SA",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 22.69748,
+                    "sentiment_score": 0.1027,
+                    "highlights": [
+                        {
+                            "highlight": "On CNBC's \u201cHalftime Report Final Trade[+319 characters]",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "U1BE34.SA",
+                    "name": "Uber Technologies, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 35.485565,
+                    "sentiment_score": 0.217,
+                    "highlights": [
+                        {
+                            "highlight": "Don't forget to check out our premarket [+135 characters]",
+                            "sentiment": 0.5367,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "UBER\n\nAs per the recent earnings report,[+295 characters]",
+                            "sentiment": -0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ORCL.BA",
+                    "name": "Oracle Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 14.647786,
+                    "sentiment_score": 0.4404,
+                    "highlights": [
+                        {
+                            "highlight": "Sarat Sethi of DCLA picked <em>Oracle</e[+150 characters]",
+                            "sentiment": 0.4404,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BA.SN",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 22.6978,
+                    "sentiment_score": 0.1027,
+                    "highlights": [
+                        {
+                            "highlight": "On CNBC's \u201cHalftime Report Final Trade[+319 characters]",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

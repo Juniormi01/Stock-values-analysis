@@ -1,0 +1,175 @@
+{
+    "meta": {
+        "found": 40,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "41b2a5ac-b733-4098-9087-53c26b5e22a6",
+            "title": "Market Today: Intel Surges on Acquisition News; Ackman Teases Major Deal",
+            "description": "Market Overview\nThe trading day was largely uneventful until the final 10 minutes, when a surge of buying interest pushed the S&P 500 to a new record high at 6,",
+            "keywords": "GuruFocus, Article, News, GuruFocus News, AAPL, AMZN, ANET, BABA, INTC, T, OXY, HHH, AVGO, TSM, LSCC, APO, DAX+03%, FTSE-00%, CAC+02%</li>\n<li>Asia",
+            "snippet": "Market Overview\n\nThe trading day was largely uneventful until the final 10 minutes, when a surge of buying interest pushed the S&P 500 to a new record high at 6...",
+            "url": "https://www.gurufocus.com/news/2702883/market-today-intel-surges-on-acquisition-news-ackman-teases-major-deal",
+            "image_url": "https://static.gurufocus.com/1732803573856661504.png",
+            "language": "en",
+            "published_at": "2025-02-18T22:37:19.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "BRKB.BA",
+                    "name": "BERKSHIRE HATHAWAY",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 23.423958,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Bill Ackman (Trades, Portfolio), head of[+190 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BRKBD.BA",
+                    "name": "BERKSHIRE HATHAWAY",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 23.423958,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Bill Ackman (Trades, Portfolio), head of[+190 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BRKBB.BA",
+                    "name": "BERKSHIRE HATHAWAY",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 23.423958,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Bill Ackman (Trades, Portfolio), head of[+190 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 10.579699,
+                    "sentiment_score": 0.49135,
+                    "highlights": [
+                        {
+                            "highlight": "Notable laggards included:\n\n<em>Apple</e[+322 characters]",
+                            "sentiment": 0.4404,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The stock has surged over 50% this year,[+196 characters]",
+                            "sentiment": 0.5423,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 10.655636,
+                    "sentiment_score": 0.4404,
+                    "highlights": [
+                        {
+                            "highlight": "Notable laggards included:\n\nApple (AAPL,[+322 characters]",
+                            "sentiment": 0.4404,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGO",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 11.990282,
+                    "sentiment_score": 0.5267,
+                    "highlights": [
+                        {
+                            "highlight": "by 0.55%\n\nNew position in JRVR\n\nWasatch [+326 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGOP",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 11.990282,
+                    "sentiment_score": 0.5267,
+                    "highlights": [
+                        {
+                            "highlight": "by 0.55%\n\nNew position in JRVR\n\nWasatch [+326 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 9.90699,
+                    "sentiment_score": 0.4404,
+                    "highlights": [
+                        {
+                            "highlight": "Notable laggards included:\n\nApple (AAPL,[+322 characters]",
+                            "sentiment": 0.4404,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

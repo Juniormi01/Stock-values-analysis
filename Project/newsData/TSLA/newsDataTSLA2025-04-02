@@ -1,0 +1,289 @@
+{
+    "meta": {
+        "found": 74,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "48b99835-5d3b-4464-b487-1af2820b60b3",
+            "title": "Tesla (TSLA) Faces Protests, Errol Musk Predicts Stock Rebound",
+            "description": "Key Takeaways:\n    Errol Musk, amid criticism, is optimistic about Tesla's potential surge by year-end.    Analysts see up to a 70.95% upside for Tesla, despite",
+            "keywords": "GuruFocus, Article, News, GuruFocus News, TSLA",
+            "snippet": "Key Takeaways:\n\nErrol Musk, amid criticism, is optimistic about Tesla's potential surge by year-end.\n\nAnalysts see up to a 70.95% upside for Tesla, despite curr...",
+            "url": "https://www.gurufocus.com/news/2761083/tesla-tsla-faces-protests-errol-musk-predicts-stock-rebound",
+            "image_url": "https://static.gurufocus.com/logos/0C00004EP4.png?20",
+            "language": "en",
+            "published_at": "2025-04-02T23:55:48.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "TSLA34.SA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 38.84667,
+                    "sentiment_score": 0.447,
+                    "highlights": [
+                        {
+                            "highlight": "Analysts see up to a 70.95% upside for <[+332 characters]",
+                            "sentiment": 0.808,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "This optimistic forecast aligns with Wal[+280 characters]",
+                            "sentiment": 0.3182,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Additional comprehensive forecast data i[+321 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "According to GuruFocus' sophisticated me[+296 characters]",
+                            "sentiment": 0.875,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "For more detailed insights, please visit[+64 characters]",
+                            "sentiment": 0.3804,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Tesla</em> (TSLA) Faces Protests, Errol Musk Predicts Stock Rebound",
+                            "sentiment": -0.2263,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 56.01226,
+                    "sentiment_score": 0.496914,
+                    "highlights": [
+                        {
+                            "highlight": "Analysts see up to a 70.95% upside for <[+332 characters]",
+                            "sentiment": 0.808,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "(<em>NASDAQ</em>: <em>TSLA</em>) and the[+244 characters]",
+                            "sentiment": 0.7964,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "This optimistic forecast aligns with Wal[+280 characters]",
+                            "sentiment": 0.3182,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Additional comprehensive forecast data i[+321 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "According to GuruFocus' sophisticated me[+296 characters]",
+                            "sentiment": 0.875,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "For more detailed insights, please visit[+64 characters]",
+                            "sentiment": 0.3804,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Tesla</em> (TSLA) Faces Protests, Errol Musk Predicts Stock Rebound",
+                            "sentiment": -0.2263,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLAD.BA",
+                    "name": "TESLA INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 38.840767,
+                    "sentiment_score": 0.447,
+                    "highlights": [
+                        {
+                            "highlight": "Analysts see up to a 70.95% upside for <[+332 characters]",
+                            "sentiment": 0.808,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "This optimistic forecast aligns with Wal[+280 characters]",
+                            "sentiment": 0.3182,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Additional comprehensive forecast data i[+321 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "According to GuruFocus' sophisticated me[+296 characters]",
+                            "sentiment": 0.875,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "For more detailed insights, please visit[+64 characters]",
+                            "sentiment": 0.3804,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Tesla</em> (TSLA) Faces Protests, Errol Musk Predicts Stock Rebound",
+                            "sentiment": -0.2263,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLAC.BA",
+                    "name": "TESLA INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 38.84055,
+                    "sentiment_score": 0.447,
+                    "highlights": [
+                        {
+                            "highlight": "Analysts see up to a 70.95% upside for <[+332 characters]",
+                            "sentiment": 0.808,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "This optimistic forecast aligns with Wal[+280 characters]",
+                            "sentiment": 0.3182,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Additional comprehensive forecast data i[+321 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "According to GuruFocus' sophisticated me[+296 characters]",
+                            "sentiment": 0.875,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "For more detailed insights, please visit[+64 characters]",
+                            "sentiment": 0.3804,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Tesla</em> (TSLA) Faces Protests, Errol Musk Predicts Stock Rebound",
+                            "sentiment": -0.2263,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TL0.DE",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 38.84782,
+                    "sentiment_score": 0.447,
+                    "highlights": [
+                        {
+                            "highlight": "Analysts see up to a 70.95% upside for <[+332 characters]",
+                            "sentiment": 0.808,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "This optimistic forecast aligns with Wal[+280 characters]",
+                            "sentiment": 0.3182,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Additional comprehensive forecast data i[+321 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "According to GuruFocus' sophisticated me[+296 characters]",
+                            "sentiment": 0.875,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "For more detailed insights, please visit[+64 characters]",
+                            "sentiment": 0.3804,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Tesla</em> (TSLA) Faces Protests, Errol Musk Predicts Stock Rebound",
+                            "sentiment": -0.2263,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA.MX",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 38.847385,
+                    "sentiment_score": 0.447,
+                    "highlights": [
+                        {
+                            "highlight": "Analysts see up to a 70.95% upside for <[+332 characters]",
+                            "sentiment": 0.808,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "This optimistic forecast aligns with Wal[+280 characters]",
+                            "sentiment": 0.3182,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Additional comprehensive forecast data i[+321 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "According to GuruFocus' sophisticated me[+296 characters]",
+                            "sentiment": 0.875,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "For more detailed insights, please visit[+64 characters]",
+                            "sentiment": 0.3804,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Tesla</em> (TSLA) Faces Protests, Errol Musk Predicts Stock Rebound",
+                            "sentiment": -0.2263,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

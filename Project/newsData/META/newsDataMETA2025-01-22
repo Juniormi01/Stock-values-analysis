@@ -1,0 +1,295 @@
+{
+    "meta": {
+        "found": 8,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "d4e97f2c-974d-4a79-9a6e-72dcf2b11a9d",
+            "title": "JPMorgan, Goldman Sachs resist calls to roll back diversity",
+            "description": "JPMorgan Chase &amp; Co. and Goldman Sachs Group Inc. are pushing back on demands to roll back their diversity initiatives. Read more here",
+            "keywords": "diversity equity inclusion, Donald Trump, Goldman Sachs Group Inc., JPMorgan Chase &amp; Co, robby starbuck, securities and exchange commission, World Economic Forum",
+            "snippet": "This advertisement has not loaded yet, but your article continues below.\n\nJPMorgan, Goldman Sachs resist calls to roll back diversity 'We continue to stay focus...",
+            "url": "https://financialpost.com/news/jpmorgan-goldman-resist-dei-roll-back",
+            "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/01/0123-mg-jpmorgan.jpg",
+            "language": "en",
+            "published_at": "2025-01-22T21:07:25.000000Z",
+            "source": "financialpost.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "JPMCL.SN",
+                    "name": "JPMORGAN CHASE &CO",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 18.349438,
+                    "sentiment_score": 0.3818,
+                    "highlights": [
+                        {
+                            "highlight": "JPMorgan, Goldman Sachs resist calls to [+334 characters]",
+                            "sentiment": 0.3818,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "JPMMV",
+                    "name": "JPMorgan Chase & Co.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 16.46971,
+                    "sentiment_score": 0.3818,
+                    "highlights": [
+                        {
+                            "highlight": "JPMorgan, Goldman Sachs resist calls to [+334 characters]",
+                            "sentiment": 0.3818,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "JPMML",
+                    "name": "JPMorgan Chase & Co.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 16.46971,
+                    "sentiment_score": 0.3818,
+                    "highlights": [
+                        {
+                            "highlight": "JPMorgan, Goldman Sachs resist calls to [+334 characters]",
+                            "sentiment": 0.3818,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 8.475731,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "In the lead-up to President Donald Trump[+161 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "JPM",
+                    "name": "JPMorgan Chase & Co.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 16.46977,
+                    "sentiment_score": 0.3818,
+                    "highlights": [
+                        {
+                            "highlight": "JPMorgan, Goldman Sachs resist calls to [+334 characters]",
+                            "sentiment": 0.3818,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "WMT",
+                    "name": "Walmart Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 12.928032,
+                    "sentiment_score": 0.21075,
+                    "highlights": [
+                        {
+                            "highlight": "In the lead-up to President Donald Trump[+152 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Walmart</em> faced pressure from the[+199 characters]",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "WMT.DE",
+                    "name": "Walmart Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 12.927984,
+                    "sentiment_score": 0.21075,
+                    "highlights": [
+                        {
+                            "highlight": "In the lead-up to President Donald Trump[+152 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Walmart</em> faced pressure from the[+199 characters]",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "WMT.MX",
+                    "name": "Walmart Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 12.928201,
+                    "sentiment_score": 0.21075,
+                    "highlights": [
+                        {
+                            "highlight": "In the lead-up to President Donald Trump[+152 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Walmart</em> faced pressure from the[+199 characters]",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "WMTD.BA",
+                    "name": "WALMART INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 12.928286,
+                    "sentiment_score": 0.21075,
+                    "highlights": [
+                        {
+                            "highlight": "In the lead-up to President Donald Trump[+152 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Walmart</em> faced pressure from the[+199 characters]",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "WMTC.BA",
+                    "name": "WALMART INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 12.92829,
+                    "sentiment_score": 0.21075,
+                    "highlights": [
+                        {
+                            "highlight": "In the lead-up to President Donald Trump[+152 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Walmart</em> faced pressure from the[+199 characters]",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "JPMC.BA",
+                    "name": "JPMORGAN CHASE &CO",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 18.350433,
+                    "sentiment_score": 0.3818,
+                    "highlights": [
+                        {
+                            "highlight": "JPMorgan, Goldman Sachs resist calls to [+334 characters]",
+                            "sentiment": 0.3818,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "WMT.SN",
+                    "name": "Walmart Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 12.92824,
+                    "sentiment_score": 0.21075,
+                    "highlights": [
+                        {
+                            "highlight": "In the lead-up to President Donald Trump[+152 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Walmart</em> faced pressure from the[+199 characters]",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "WALMARTCL.SN",
+                    "name": "WALMART INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 12.92824,
+                    "sentiment_score": 0.21075,
+                    "highlights": [
+                        {
+                            "highlight": "In the lead-up to President Donald Trump[+152 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Walmart</em> faced pressure from the[+199 characters]",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

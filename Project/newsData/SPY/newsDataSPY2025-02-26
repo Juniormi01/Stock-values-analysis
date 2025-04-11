@@ -1,0 +1,98 @@
+{
+    "meta": {
+        "found": 6,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "fce91b66-6394-4210-a71b-0d07e5e0d378",
+            "title": "Bitcoin ETFs Are Hit by a Record $1 Billion Outflow in One Day",
+            "description": "(Bloomberg) -- Investors yanked more than $1 billion from spot Bitcoin exchange-traded funds Tuesday, marking the biggest one-day outflow since the cohort\u2019s debut last January.Most Read from BloombergThe Trump Administration Takes Aim at Transportation ResearchNYC\u2019s Congestion Pricing Pulls In $48.6 Million in First MonthShelters Await Billions in Federal Money for Homelessness ProvidersNew York\u2019s Congestion Pricing Plan Faces Another Legal ShowdownNYC to Shut Migrant Center in Former Hotel as C",
+            "keywords": "Bloomberg, iShares Bitcoin Trust ETF, digital tokens, digital asset, Investors",
+            "snippet": "(Bloomberg) -- Investors yanked more than $1 billion from spot Bitcoin exchange-traded funds Tuesday, marking the biggest one-day outflow since the cohort\u2019s d...",
+            "url": "https://finance.yahoo.com/news/bitcoin-etfs-hit-record-1-181318701.html",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/jkh3d2NelOj93ZwwEoaH0Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NjU-/https://media.zenfs.com/en/bloomberg_markets_842/9956db0c9e1cd68241f308565a1122fa",
+            "language": "en",
+            "published_at": "2025-02-26T18:13:18.000000Z",
+            "source": "finance.yahoo.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "QQQ",
+                    "name": "Invesco QQQ Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 43.1477,
+                    "sentiment_score": 0.6486,
+                    "highlights": [
+                        {
+                            "highlight": "While Bitcoin funds are seeing an exodus[+193 characters]",
+                            "sentiment": 0.6486,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 58.59732,
+                    "sentiment_score": 0.6486,
+                    "highlights": [
+                        {
+                            "highlight": "While Bitcoin funds are seeing an exodus[+220 characters]",
+                            "sentiment": 0.6486,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BITC-U.TO",
+                    "name": "Bitcoin Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ca",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 21.529926,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Most Read from Bloomberg\n\nFidelity Wise [+307 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 58.599693,
+                    "sentiment_score": 0.6486,
+                    "highlights": [
+                        {
+                            "highlight": "While Bitcoin funds are seeing an exodus[+220 characters]",
+                            "sentiment": 0.6486,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

@@ -1,0 +1,245 @@
+{
+    "meta": {
+        "found": 1,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "483274ef-390b-433e-a983-15c7d93c5206",
+            "title": "Why These Defense Stocks Are Declining This Week",
+            "description": "European defense stocks have rallied this year as governments faced pressures to increase military spending.",
+            "keywords": "",
+            "snippet": "This article looks at the defense stocks that are declining this week.\n\nEuropean defense stocks have rallied this year as governments faced pressures to increas...",
+            "url": "https://www.insidermonkey.com/blog/why-these-defense-stocks-are-declining-this-week-2-1476962/",
+            "image_url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/10/31190940/INTT-insidermonkey-1698793778064.jpg",
+            "language": "en",
+            "published_at": "2025-03-10T03:14:48.000000Z",
+            "source": "insidermonkey.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "BA",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 41.963554,
+                    "sentiment_score": -0.0459,
+                    "highlights": [
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+371 characters]",
+                            "sentiment": -0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+177 characters]",
+                            "sentiment": -0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Investor sentiment was further dented on[+323 characters]",
+                            "sentiment": 0.5423,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "POWW",
+                    "name": "AMMO, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 28.710888,
+                    "sentiment_score": 0.148,
+                    "highlights": [
+                        {
+                            "highlight": "Weekly Decline: -12.50%\n\n<em>AMMO</em>, [+303 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The notice stated that <em>AMMO</em>, <e[+328 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BOEI.BR",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "be",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 26.4944,
+                    "sentiment_score": -0.0459,
+                    "highlights": [
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+353 characters]",
+                            "sentiment": -0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+168 characters]",
+                            "sentiment": -0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Investor sentiment was further dented on[+314 characters]",
+                            "sentiment": 0.5423,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BOEI34.SA",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 26.494741,
+                    "sentiment_score": -0.0459,
+                    "highlights": [
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+353 characters]",
+                            "sentiment": -0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+168 characters]",
+                            "sentiment": -0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Investor sentiment was further dented on[+314 characters]",
+                            "sentiment": 0.5423,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BA.SN",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 26.495304,
+                    "sentiment_score": -0.0459,
+                    "highlights": [
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+353 characters]",
+                            "sentiment": -0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+168 characters]",
+                            "sentiment": -0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Investor sentiment was further dented on[+314 characters]",
+                            "sentiment": 0.5423,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BCO.DE",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 26.496216,
+                    "sentiment_score": -0.0459,
+                    "highlights": [
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+353 characters]",
+                            "sentiment": -0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+168 characters]",
+                            "sentiment": -0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Investor sentiment was further dented on[+314 characters]",
+                            "sentiment": 0.5423,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BA.MX",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 26.497057,
+                    "sentiment_score": -0.0459,
+                    "highlights": [
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+353 characters]",
+                            "sentiment": -0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+168 characters]",
+                            "sentiment": -0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Investor sentiment was further dented on[+314 characters]",
+                            "sentiment": 0.5423,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BOE.L",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 26.497534,
+                    "sentiment_score": -0.0459,
+                    "highlights": [
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+353 characters]",
+                            "sentiment": -0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+168 characters]",
+                            "sentiment": -0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Investor sentiment was further dented on[+314 characters]",
+                            "sentiment": 0.5423,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

@@ -1,0 +1,177 @@
+{
+    "meta": {
+        "found": 4,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "4f37f4b7-891d-42f6-ba1d-093ede84c8c3",
+            "title": "Retail Sales Disappoint, Jobless Claims Rise: Is US Consumer Losing Steam? - SPDR S&P 500 (ARCA:SPY), Amazon.com (NASDAQ:AMZN)",
+            "description": "US retail sales up in Dec, but slower than expected. Jobless claims rise, hinting at cooling labor market. Some sectors thrive, others struggle.",
+            "keywords": "",
+            "snippet": "U.S. retail sales edged higher in December, showing that consumers kept spending through the holiday season, but the increase wasn't as strong as economists had...",
+            "url": "https://www.benzinga.com/economics/macro-economic-events/25/01/43027744/retail-sales-slow-jobless-claims-rise-is-us-consumer-loosing-steam",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/16/Shopping-mall.jpeg?width=1200&height=800&fit=crop",
+            "language": "en",
+            "published_at": "2025-01-16T13:52:35.000000Z",
+            "source": "benzinga.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "AMZN.MX",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 34.704384,
+                    "sentiment_score": -0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "E-commerce witnessed a growth slowdown, [+302 characters]",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "- SPDR S&P 500 (ARCA:SPY), <em>Amazon.com</em> (NASDAQ:AMZN)",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 55.292786,
+                    "sentiment_score": 0.765,
+                    "highlights": [
+                        {
+                            "highlight": "The gains followed a strong session on W[+287 characters]",
+                            "sentiment": 0.765,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 55.29368,
+                    "sentiment_score": 0.765,
+                    "highlights": [
+                        {
+                            "highlight": "The gains followed a strong session on W[+287 characters]",
+                            "sentiment": 0.765,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 63.344753,
+                    "sentiment_score": -0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "E-commerce witnessed a growth slowdown, [+302 characters]",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "- SPDR S&P 500 (ARCA:SPY), <em>Amazon.com</em> (<em>NASDAQ:AMZN</em>)",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZN.SN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 34.698864,
+                    "sentiment_score": -0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "E-commerce witnessed a growth slowdown, [+302 characters]",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "- SPDR S&P 500 (ARCA:SPY), <em>Amazon.com</em> (NASDAQ:AMZN)",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZNCL.SN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 34.698498,
+                    "sentiment_score": -0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "E-commerce witnessed a growth slowdown, [+302 characters]",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "- SPDR S&P 500 (ARCA:SPY), <em>Amazon.com</em> (NASDAQ:AMZN)",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZ.DE",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 34.703842,
+                    "sentiment_score": -0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "E-commerce witnessed a growth slowdown, [+302 characters]",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "- SPDR S&P 500 (ARCA:SPY), <em>Amazon.com</em> (NASDAQ:AMZN)",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

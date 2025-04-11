@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "found": 53,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "e5d1e3b3-2f40-4255-b477-114ffeee29bb",
+            "title": "Reddit Shares Sink 17% as User Numbers Disappoint Wall Street",
+            "description": "Reddit Inc. (RDDT) saw its shares drop over 17% after Q4 user growth missed expectations, with Daily Active Uniques increasing by 39% to 101.7 million, below the projected 103.8 million. Despite the user growth shortfall, Reddit outperformed on earnings with $0.36 per share against a consensus of $0.25 and revenues\u2026",
+            "keywords": "",
+            "snippet": "Reddit Inc. (RDDT) saw its shares drop over 17% after Q4 user growth missed expectations, with Daily Active Uniques increasing by 39% to 101.7 million, below th...",
+            "url": "https://wallstreetpit.com/123957-reddit-shares-sink-15-as-user-numbers-disappoint-wall-street/",
+            "image_url": "https://wallstreetpit.com/wp-content/uploads/2024/10/reddit-G.jpg",
+            "language": "en",
+            "published_at": "2025-02-12T23:21:08.000000Z",
+            "source": "wallstreetpit.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.818788,
+                    "sentiment_score": 0.4404,
+                    "highlights": [
+                        {
+                            "highlight": "This shortfall in user growth indicates [+199 characters]",
+                            "sentiment": 0.4404,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

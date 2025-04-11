@@ -1,0 +1,377 @@
+{
+    "meta": {
+        "found": 5,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "caa7b710-2e3c-44d2-acf3-d6b9e790aa6b",
+            "title": "11 Blue Chip Stocks to Invest in at 52-Week Lows",
+            "description": "For the first time since 2023, the S&P 500 was seen in the market correction territory, according to US Bank (Wealth Management).",
+            "keywords": "",
+            "snippet": "In this article, we will discuss the 11 Blue Chip Stocks to Invest in at 52-Week Lows.\n\nFor the first time since 2023, the S&P 500 was seen in the market correc...",
+            "url": "https://www.insidermonkey.com/blog/11-blue-chip-stocks-to-invest-in-at-52-week-lows-1494827/",
+            "image_url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/12/15133728/EVN-insidermonkey-1702665446336.jpg",
+            "language": "en",
+            "published_at": "2025-03-28T19:53:19.000000Z",
+            "source": "insidermonkey.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "AVY.BA",
+                    "name": "Avery Dennison Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 58.023148,
+                    "sentiment_score": 0.6333,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Avery</em> <em>Dennison</em> <em>Cor[+261 characters]",
+                            "sentiment": -0.0258,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The analyst believes that <em>Avery</em>[+287 characters]",
+                            "sentiment": 0.7003,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The firm views <em>Avery</em> <em>Dennis[+338 characters]",
+                            "sentiment": 0.9565,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Avery</em> <em>Dennison</em> <em>Cor[+279 characters]",
+                            "sentiment": 0.9022,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSCL.SN",
+                    "name": "MORGAN STANLEY",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 12.607525,
+                    "sentiment_score": 0.8658,
+                    "highlights": [
+                        {
+                            "highlight": "Elsewhere, analyst Vincent Andrews from [+328 characters]",
+                            "sentiment": 0.8658,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVY",
+                    "name": "Avery Dennison Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 75.2471,
+                    "sentiment_score": 0.6333,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Avery</em> <em>Dennison</em> <em>Cor[+279 characters]",
+                            "sentiment": -0.0258,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The analyst believes that <em>Avery</em>[+296 characters]",
+                            "sentiment": 0.7003,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The firm views <em>Avery</em> <em>Dennis[+347 characters]",
+                            "sentiment": 0.9565,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Avery</em> <em>Dennison</em> <em>Cor[+288 characters]",
+                            "sentiment": 0.9022,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SWK",
+                    "name": "Stanley Black & Decker, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 70.66613,
+                    "sentiment_score": 0.4787,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Stanley</em> <em>Black</em> & <em>De[+393 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Furthermore, the analyst has highlighted[+293 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In FY 2024, <em>Stanley</em> <em>Black</[+315 characters]",
+                            "sentiment": 0.8481,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Here is what the fund said:\n\n\u201cAlternat[+326 characters]",
+                            "sentiment": 0.25,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "EMN",
+                    "name": "Eastman Chemical Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Basic Materials",
+                    "match_score": 62.38662,
+                    "sentiment_score": 0.45085,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Eastman</em> <em>Chemical</em> <em>C[+369 characters]",
+                            "sentiment": 0.0516,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "As per the analyst, <em>Eastman</em> <em[+217 characters]",
+                            "sentiment": 0.886,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Elsewhere, analyst Vincent Andrews from [+346 characters]",
+                            "sentiment": 0.8658,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Notably, in Q4 2024, <em>Eastman</em> <e[+129 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BKDKP",
+                    "name": "Stanley Black & Decker, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 54.26561,
+                    "sentiment_score": 0.4787,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Stanley</em> <em>Black</em> & <em>De[+375 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Furthermore, the analyst has highlighted[+284 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In FY 2024, <em>Stanley</em> <em>Black</[+306 characters]",
+                            "sentiment": 0.8481,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Here is what the fund said:\n\n\u201cAlternat[+317 characters]",
+                            "sentiment": 0.25,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 31.431152,
+                    "sentiment_score": 0.0516,
+                    "highlights": [
+                        {
+                            "highlight": "Our Methodology\n\nTo list the 11 Blue Chi[+299 characters]",
+                            "sentiment": 0.0516,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SWK.MX",
+                    "name": "Stanley Black & Decker, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 54.266525,
+                    "sentiment_score": 0.4787,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Stanley</em> <em>Black</em> & <em>De[+375 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Furthermore, the analyst has highlighted[+284 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In FY 2024, <em>Stanley</em> <em>Black</[+306 characters]",
+                            "sentiment": 0.8481,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Here is what the fund said:\n\n\u201cAlternat[+317 characters]",
+                            "sentiment": 0.25,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 31.431839,
+                    "sentiment_score": 0.0516,
+                    "highlights": [
+                        {
+                            "highlight": "Our Methodology\n\nTo list the 11 Blue Chi[+299 characters]",
+                            "sentiment": 0.0516,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0L9E.L",
+                    "name": "Stanley Black & Decker, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 54.26676,
+                    "sentiment_score": 0.4787,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Stanley</em> <em>Black</em> & <em>De[+375 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Furthermore, the analyst has highlighted[+284 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In FY 2024, <em>Stanley</em> <em>Black</[+306 characters]",
+                            "sentiment": 0.8481,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Here is what the fund said:\n\n\u201cAlternat[+317 characters]",
+                            "sentiment": 0.25,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0HJR.L",
+                    "name": "Avery Dennison Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 58.012844,
+                    "sentiment_score": 0.6333,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Avery</em> <em>Dennison</em> <em>Cor[+261 characters]",
+                            "sentiment": -0.0258,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The analyst believes that <em>Avery</em>[+287 characters]",
+                            "sentiment": 0.7003,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The firm views <em>Avery</em> <em>Dennis[+338 characters]",
+                            "sentiment": 0.9565,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Avery</em> <em>Dennison</em> <em>Cor[+279 characters]",
+                            "sentiment": 0.9022,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0IF3.L",
+                    "name": "Eastman Chemical Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 45.682285,
+                    "sentiment_score": 0.45085,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Eastman</em> <em>Chemical</em> <em>C[+351 characters]",
+                            "sentiment": 0.0516,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "As per the analyst, <em>Eastman</em> <em[+208 characters]",
+                            "sentiment": 0.886,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Elsewhere, analyst Vincent Andrews from [+337 characters]",
+                            "sentiment": 0.8658,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Notably, in Q4 2024, <em>Eastman</em> <e[+120 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

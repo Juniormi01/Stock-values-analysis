@@ -1,0 +1,366 @@
+{
+    "meta": {
+        "found": 26,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "389d7126-b068-45a5-a13c-dcc612d95364",
+            "title": "Trump\u2019s Attack on \u2018Illegal\u2019 DEI Disorients Corporate America",
+            "description": "President Donald Trump's executive orders against",
+            "keywords": "",
+            "snippet": "President Donald Trump\u2019s executive orders against \u201cillegal\u201d diversity, equity and inclusion policies have left corporations and their lawyers struggling t...",
+            "url": "https://www.insurancejournal.com/news/national/2025/01/23/809444.htm",
+            "image_url": "https://www.insurancejournal.com/app/uploads/2025/01/DEI-diversity-workplace-Bloomberg-scaled.jpg",
+            "language": "en",
+            "published_at": "2025-01-23T23:52:20.000000Z",
+            "source": "insurancejournal.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "AMZ.DE",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 13.914814,
+                    "sentiment_score": 0.1027,
+                    "highlights": [
+                        {
+                            "highlight": "Though the government is limited in its [+293 characters]",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "EOSE",
+                    "name": "Eos Energy Enterprises, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 30.657263,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "Urban joined the board of alternative en[+76 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "EOSEW",
+                    "name": "Eos Energy Enterprises, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 30.657057,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "Urban joined the board of alternative en[+76 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZN.MX",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 13.91518,
+                    "sentiment_score": 0.1027,
+                    "highlights": [
+                        {
+                            "highlight": "Though the government is limited in its [+293 characters]",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 13.915019,
+                    "sentiment_score": 0.1027,
+                    "highlights": [
+                        {
+                            "highlight": "Though the government is limited in its [+293 characters]",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 10.44927,
+                    "sentiment_score": 0.5574,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Meta</em> <em>Platforms</em> <em>Inc[+264 characters]",
+                            "sentiment": 0.5574,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZN.SN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 13.914862,
+                    "sentiment_score": 0.1027,
+                    "highlights": [
+                        {
+                            "highlight": "Though the government is limited in its [+293 characters]",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BACL.SN",
+                    "name": "BOEING CO",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 12.934224,
+                    "sentiment_score": 0.1027,
+                    "highlights": [
+                        {
+                            "highlight": "Though the government is limited in its [+293 characters]",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZNCL.SN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 13.914827,
+                    "sentiment_score": 0.1027,
+                    "highlights": [
+                        {
+                            "highlight": "Though the government is limited in its [+293 characters]",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": [
+                {
+                    "uuid": "b6797dc5-5daa-4f1a-9e8b-60e22c04ec99",
+                    "title": "Trump's Attack on 'Illegal' DEI Disorients Corporate America",
+                    "description": "President Donald Trump\u2019s executive orders against \u201cillegal\u201d diversity, equity and inclusion policies have left corporations and their lawyers struggling to grasp ex\u2026",
+                    "keywords": "BLOOM, energy",
+                    "snippet": "This advertisement has not loaded yet, but your article continues below.\n\nTrump's Attack on 'Illegal' DEI Disorients Corporate America President Donald Trump\u2019...",
+                    "url": "https://financialpost.com/pmn/business-pmn/trumps-attack-on-illegal-dei-disorients-corporate-america",
+                    "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/01/776088113.jpg",
+                    "language": "en",
+                    "published_at": "2025-01-23T19:28:56.000000Z",
+                    "source": "financialpost.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "EOSE",
+                            "name": "Eos Energy Enterprises, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Industrials",
+                            "match_score": 22.937025,
+                            "sentiment_score": 0.2732,
+                            "highlights": [
+                                {
+                                    "highlight": "Urban joined the board of alternative en[+76 characters]",
+                                    "sentiment": 0.2732,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "EOSEW",
+                            "name": "Eos Energy Enterprises, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 22.937014,
+                            "sentiment_score": 0.2732,
+                            "highlights": [
+                                {
+                                    "highlight": "Urban joined the board of alternative en[+76 characters]",
+                                    "sentiment": 0.2732,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZN.MX",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 10.551663,
+                            "sentiment_score": 0.1027,
+                            "highlights": [
+                                {
+                                    "highlight": "Though the government is limited in its [+293 characters]",
+                                    "sentiment": 0.1027,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZN",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 10.551684,
+                            "sentiment_score": 0.1027,
+                            "highlights": [
+                                {
+                                    "highlight": "Though the government is limited in its [+293 characters]",
+                                    "sentiment": 0.1027,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "META",
+                            "name": "Meta Platforms Inc",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 7.988882,
+                            "sentiment_score": 0.5574,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>Meta</em> <em>Platforms</em> <em>Inc[+264 characters]",
+                                    "sentiment": 0.5574,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZN.SN",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 10.552222,
+                            "sentiment_score": 0.1027,
+                            "highlights": [
+                                {
+                                    "highlight": "Though the government is limited in its [+293 characters]",
+                                    "sentiment": 0.1027,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "BACL.SN",
+                            "name": "BOEING CO",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 9.826739,
+                            "sentiment_score": 0.1027,
+                            "highlights": [
+                                {
+                                    "highlight": "Though the government is limited in its [+293 characters]",
+                                    "sentiment": 0.1027,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZNCL.SN",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 10.55222,
+                            "sentiment_score": 0.1027,
+                            "highlights": [
+                                {
+                                    "highlight": "Though the government is limited in its [+293 characters]",
+                                    "sentiment": 0.1027,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZ.DE",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 10.552397,
+                            "sentiment_score": 0.1027,
+                            "highlights": [
+                                {
+                                    "highlight": "Though the government is limited in its [+293 characters]",
+                                    "sentiment": 0.1027,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,374 @@
+{
+    "meta": {
+        "found": 6,
+        "returned": 3,
+        "limit": 3,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "74a662a6-073f-42db-8a8a-475ec1769589",
+            "title": "Fed Beige Book Flags Moderate Growth, Yet Tariffs, Immigration Policies Spark Concerns - Invesco QQQ Trust, Series 1 (NASDAQ:QQQ), SPDR S&P 500 (ARCA:SPY)",
+            "description": "The Fed's Beige Book reported moderate economic growth, strong holiday sales, and rising wages, but concerns over immigration and tariff policies loom. Markets showed little reaction.",
+            "keywords": "",
+            "snippet": "Economic activity expanded slightly to moderately across the Federal Reserve\u2019s 12 districts during late November and December, yet concerns over looming chang...",
+            "url": "https://www.benzinga.com/25/01/43013717/fed-beige-book-flags-moderate-growth-yet-tariffs-immigration-policies-spark-concerns",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/15/Office-workers.jpeg?width=1200&height=800&fit=crop",
+            "language": "en",
+            "published_at": "2025-01-15T19:54:06.000000Z",
+            "source": "benzinga.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "QQQ.MX",
+                    "name": "Invesco QQQ Trust, Series 1",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 162.5867,
+                    "sentiment_score": 0.49135,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Invesco</em> <em>QQQ</em> <em>Tr[+273 characters]",
+                            "sentiment": 0.4404,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Fed Beige Book Flags Moderate Growth, Yet Tariffs, Immigration Policies Spark Concerns - <em>Invesco</em> <em>QQQ</em> <em>Trust</em>, <em>Series</em> <em>1</em> (NASDAQ:QQQ), SPDR S&P 500 (ARCA:SPY)",
+                            "sentiment": 0.5423,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0YIK.L",
+                    "name": "Invesco QQQ Trust, Series 1",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 162.58304,
+                    "sentiment_score": 0.49135,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Invesco</em> <em>QQQ</em> <em>Tr[+273 characters]",
+                            "sentiment": 0.4404,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Fed Beige Book Flags Moderate Growth, Yet Tariffs, Immigration Policies Spark Concerns - <em>Invesco</em> <em>QQQ</em> <em>Trust</em>, <em>Series</em> <em>1</em> (NASDAQ:QQQ), SPDR S&P 500 (ARCA:SPY)",
+                            "sentiment": 0.5423,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 50.93634,
+                    "sentiment_score": 0.8225,
+                    "highlights": [
+                        {
+                            "highlight": "The S&P 500, tracked by the <em>SPDR</em[+329 characters]",
+                            "sentiment": 0.8225,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "QQQ",
+                    "name": "Invesco QQQ Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 140.11653,
+                    "sentiment_score": 0.49135,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Invesco</em> <em>QQQ</em> <em>Tr[+255 characters]",
+                            "sentiment": 0.4404,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Fed Beige Book Flags Moderate Growth, Yet Tariffs, Immigration Policies Spark Concerns - <em>Invesco</em> <em>QQQ</em> <em>Trust</em>, Series 1 (<em>NASDAQ:QQQ</em>), SPDR S&P 500 (ARCA:SPY)",
+                            "sentiment": 0.5423,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 50.93702,
+                    "sentiment_score": 0.8225,
+                    "highlights": [
+                        {
+                            "highlight": "The S&P 500, tracked by the <em>SPDR</em[+329 characters]",
+                            "sentiment": 0.8225,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        },
+        {
+            "uuid": "969f236e-fa32-4b17-b207-79ac6568c860",
+            "title": "Interest Rate Cuts 'On Hold... If There Are Any At All In 2025' After December's Sticky Consumer Inflation Report: Economists - SPDR S&P 500 (ARCA:SPY)",
+            "description": "Consumer inflation eased slightly in December with core CPI coming in at 3.2% on a year-over-year basis, below the 3.3% estimate. Headline CPI rose 2.9% year-over-year, in-line with expectations.",
+            "keywords": "",
+            "snippet": "Consumer inflation eased slightly in December, with core CPI coming in at 3.2% on a year-over-year basis, below the 3.3% estimate.\n\nHeadline CPI rose 2.9% year-...",
+            "url": "https://www.benzinga.com/25/01/43007213/experts-see-the-fed-on-hold-for-now-if-there-are-any-cuts-at-all-in-2025-after-decembers-sticky-consumer-inflatio",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/15/CPI-Shutterstock.jpeg?width=1200&height=800&fit=crop",
+            "language": "en",
+            "published_at": "2025-01-15T15:45:09.000000Z",
+            "source": "benzinga.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "QQQ",
+                    "name": "Invesco QQQ Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 47.521473,
+                    "sentiment_score": 0.5106,
+                    "highlights": [
+                        {
+                            "highlight": "Markets React: All major U.S. indices op[+270 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 58.62417,
+                    "sentiment_score": 0.5106,
+                    "highlights": [
+                        {
+                            "highlight": "Markets React: All major U.S. indices op[+297 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 58.62627,
+                    "sentiment_score": 0.5106,
+                    "highlights": [
+                        {
+                            "highlight": "Markets React: All major U.S. indices op[+297 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": [
+                {
+                    "uuid": "970afa25-04fa-45e4-915f-bc295923b5f6",
+                    "title": "Inflation Rises To 2.9% In December: Core Slows, Yet Rising Energy Costs Put Fed's Target At Risk - Invesco QQQ Trust, Series 1 (NASDAQ:QQQ), SPDR S&P 500 (ARCA:SPY)",
+                    "description": "Consumer inflation rises for third straight month, casting doubt on Fed's ability to steer towards 2% target. Yields, dollar fall, while equities rise.",
+                    "keywords": "",
+                    "snippet": "Consumer inflation surged for the third straight month in December, rekindling concerns that the months-long cooling of price pressures could be over and castin...",
+                    "url": "https://www.benzinga.com/economics/macro-economic-events/25/01/43001512/inflation-rises-to-29-in-december-core-slows-yet-rising-energy-costs-put-feds-tar",
+                    "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/15/inflation.jpeg?width=1200&height=800&fit=crop",
+                    "language": "en",
+                    "published_at": "2025-01-15T13:47:42.000000Z",
+                    "source": "benzinga.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "QQQ",
+                            "name": "Invesco QQQ Trust",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "etf",
+                            "industry": "N/A",
+                            "match_score": 129.65219,
+                            "sentiment_score": 0.2553,
+                            "highlights": [
+                                {
+                                    "highlight": "On Tuesday, the SPDR S&P 500 ETF Trust S[+139 characters]",
+                                    "sentiment": 0.5106,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Inflation Rises To 2.9% In December: Core Slows, Yet Rising Energy Costs Put Fed's Target At Risk - <em>Invesco</em> <em>QQQ</em> <em>Trust</em>, Series 1 (<em>NASDAQ:QQQ</em>), SPDR S&P 500 (ARCA:SPY)",
+                                    "sentiment": 0,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "SPY",
+                            "name": "SPDR S&P 500 ETF Trust",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "etf",
+                            "industry": "N/A",
+                            "match_score": 62.412598,
+                            "sentiment_score": 0.5106,
+                            "highlights": [
+                                {
+                                    "highlight": "On Tuesday, the <em>SPDR</em> <em>S</em>[+166 characters]",
+                                    "sentiment": 0.5106,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "QQQ.MX",
+                            "name": "Invesco QQQ Trust, Series 1",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "etf",
+                            "industry": "N/A",
+                            "match_score": 145.00778,
+                            "sentiment_score": 0.2553,
+                            "highlights": [
+                                {
+                                    "highlight": "On Tuesday, the SPDR S&P 500 ETF Trust S[+157 characters]",
+                                    "sentiment": 0.5106,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Inflation Rises To 2.9% In December: Core Slows, Yet Rising Energy Costs Put Fed's Target At Risk - <em>Invesco</em> <em>QQQ</em> <em>Trust</em>, <em>Series</em> <em>1</em> (NASDAQ:QQQ), SPDR S&P 500 (ARCA:SPY)",
+                                    "sentiment": 0,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "0YIK.L",
+                            "name": "Invesco QQQ Trust, Series 1",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "gb",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 145.00381,
+                            "sentiment_score": 0.2553,
+                            "highlights": [
+                                {
+                                    "highlight": "On Tuesday, the SPDR S&P 500 ETF Trust S[+157 characters]",
+                                    "sentiment": 0.5106,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Inflation Rises To 2.9% In December: Core Slows, Yet Rising Energy Costs Put Fed's Target At Risk - <em>Invesco</em> <em>QQQ</em> <em>Trust</em>, <em>Series</em> <em>1</em> (NASDAQ:QQQ), SPDR S&P 500 (ARCA:SPY)",
+                                    "sentiment": 0,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "0KZC.L",
+                            "name": "SPDR S&P 500 ETF Trust",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "gb",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 62.410896,
+                            "sentiment_score": 0.5106,
+                            "highlights": [
+                                {
+                                    "highlight": "On Tuesday, the <em>SPDR</em> <em>S</em>[+166 characters]",
+                                    "sentiment": 0.5106,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uuid": "4976ced8-d4fd-45fb-95ae-cc15b16b531a",
+            "title": "How much to invest today for $1.5 million retirement",
+            "description": "Discover how much you need to invest today to retire with $1.5 million and enjoy financial security.",
+            "keywords": "",
+            "snippet": "Investing in the stock market can be a great way to build wealth and save for retirement. But how much do you need to retire comfortably? And how much should yo...",
+            "url": "https://www.under30ceo.com/how-much-to-invest-today-for-1-5-million-retirement/",
+            "image_url": "https://cdn.under30ceo.com/wp-content/uploads/2025/01/soqg9rwd_fa.jpg",
+            "language": "en",
+            "published_at": "2025-01-15T15:20:00.000000Z",
+            "source": "under30ceo.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 52.314026,
+                    "sentiment_score": 0.8834,
+                    "highlights": [
+                        {
+                            "highlight": "A good exchange-traded fund (ETF) to inv[+343 characters]",
+                            "sentiment": 0.8834,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 52.31907,
+                    "sentiment_score": 0.8834,
+                    "highlights": [
+                        {
+                            "highlight": "A good exchange-traded fund (ETF) to inv[+343 characters]",
+                            "sentiment": 0.8834,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

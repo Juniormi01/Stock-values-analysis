@@ -1,0 +1,103 @@
+{
+    "meta": {
+        "found": 69,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "ca72eba2-c201-4178-bc1a-c803d56950d4",
+            "title": "Stand Chart says replacing TSLA in Mag 7 with Bitcoin, higher returns & lower volatility",
+            "description": "Adds that bitcoin behaves more like a tech asset than a commodity in the short term, often showing stronger correlation with the Nasdaq than with gold.",
+            "keywords": "Bitcoin tsla magnificent 7",
+            "snippet": "Standard Chartered has proposed a revised version of the \u201cMagnificent 7\u201d tech index\u2014dubbed \u201cMag 7B\u201d\u2014which replaces Tesla with bitcoin. The bank\u2019s ...",
+            "url": "https://www.forexlive.com/Cryptocurrency/stand-chart-says-replacing-tsla-in-mag-7-with-bitcoin-higher-returns-lower-volatility-20250324/",
+            "image_url": "https://images.forexlive.com/images/Bitcoin%20futures%20analysis%20by%20TradeCompass_id_081081e1-a1bb-44f5-bf70-bd0f94a58313_size975.jpg",
+            "language": "en",
+            "published_at": "2025-03-24T21:31:20.000000Z",
+            "source": "forexlive.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 14.931126,
+                    "sentiment_score": 0.28595,
+                    "highlights": [
+                        {
+                            "highlight": "Standard Chartered has proposed a revise[+115 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "With bitcoin\u2019s market cap now surpassi[+203 characters]",
+                            "sentiment": 0.5719,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 11.942612,
+                    "sentiment_score": 0.6705,
+                    "highlights": [
+                        {
+                            "highlight": "According to Kendrick, this dual functio[+119 characters]",
+                            "sentiment": 0.6705,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 13.648271,
+                    "sentiment_score": 0.6705,
+                    "highlights": [
+                        {
+                            "highlight": "According to Kendrick, this dual functio[+119 characters]",
+                            "sentiment": 0.6705,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFT",
+                    "name": "Microsoft Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 12.282418,
+                    "sentiment_score": 0.6705,
+                    "highlights": [
+                        {
+                            "highlight": "According to Kendrick, this dual functio[+119 characters]",
+                            "sentiment": 0.6705,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

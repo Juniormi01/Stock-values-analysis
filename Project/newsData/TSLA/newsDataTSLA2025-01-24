@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "found": 42,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "ed249a23-e9c3-417c-a821-a4e46230dee4",
+            "title": "Ben & Jerry's accuses Unilever of muzzling it because of Trump By Reuters",
+            "description": "Ben & Jerry's accuses Unilever of muzzling it because of Trump",
+            "keywords": "",
+            "snippet": "By Jessica DiNapoli and Jonathan Stempel\n\nNEW YORK (Reuters) - Ben & Jerry's on Friday ratcheted up its censorship lawsuit against Unilever (LON: ), accusing it...",
+            "url": "https://www.investing.com/news/stock-market-news/ben--jerrys-accuses-unilever-of-muzzling-it-because-of-trump-3830628",
+            "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEB6J0AJ_L.jpg",
+            "language": "en",
+            "published_at": "2025-01-24T22:47:34.000000Z",
+            "source": "investing.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 9.586138,
+                    "sentiment_score": 0.2263,
+                    "highlights": [
+                        {
+                            "highlight": "It also said ter Kulve soon held a town [+215 characters]",
+                            "sentiment": 0.2263,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

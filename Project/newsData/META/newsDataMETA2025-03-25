@@ -1,0 +1,54 @@
+{
+    "meta": {
+        "found": 14,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "c7054a12-ef9b-4ca7-aa53-e8519160877c",
+            "title": "AI Startup FuriosaAI Reportedly Rejects $800M Meta Platforms, Inc. (META) Buyout Offer",
+            "description": "We recently published a list of 9 Trending AI Stocks Making Headlines Today. In this article, we are going to take a look at where Meta Platforms, Inc.",
+            "keywords": "",
+            "snippet": "We recently published a list of 9 Trending AI Stocks Making Headlines Today. In this article, we are going to take a look at where Meta Platforms, Inc. (NASDAQ:...",
+            "url": "https://www.insidermonkey.com/blog/ai-startup-furiosaai-reportedly-rejects-800m-meta-platforms-inc-meta-buyout-offer-1492837/",
+            "image_url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/08/09063003/arian-darvishi-wh-RPfR_3_M-unsplash.jpg",
+            "language": "en",
+            "published_at": "2025-03-25T22:34:28.000000Z",
+            "source": "insidermonkey.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 76.1388,
+                    "sentiment_score": -0.0909,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+307 characters]",
+                            "sentiment": 0.144,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Meta</em> <em>Platforms</em>, <em>In[+348 characters]",
+                            "sentiment": 0.0772,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "AI Startup FuriosaAI Reportedly Rejects $800M <em>Meta</em> <em>Platforms</em>, <em>Inc</em>. (META) Buyout Offer",
+                            "sentiment": -0.4939,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

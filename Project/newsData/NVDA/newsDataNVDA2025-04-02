@@ -1,0 +1,80 @@
+{
+    "meta": {
+        "found": 54,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "28e86b00-9223-4961-b7a2-b25379f993eb",
+            "title": "Donald Trump escalates global trade war with sweeping tariff blitz",
+            "description": "Stock futures tumble as US reveals plans to impose 10% universal levies and higher \u2018reciprocal\u2019 duties",
+            "keywords": "",
+            "snippet": "Your guide to what the 2024 US election means for Washington and the world\n\nShow video info Show video description Video description Transcript US President Don...",
+            "url": "https://www.ft.com/content/fe5f7469-6f04-40e6-bc59-0d4e004e1cd3",
+            "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb595ea09-a264-4a20-90f3-fa4c3f56b6bc.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+            "language": "en",
+            "published_at": "2025-04-02T23:42:23.000000Z",
+            "source": "ft.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 5.348599,
+                    "sentiment_score": 0.0516,
+                    "highlights": [
+                        {
+                            "highlight": "American corporate behemoths including <[+225 characters]",
+                            "sentiment": 0.0516,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 6.025812,
+                    "sentiment_score": 0.0516,
+                    "highlights": [
+                        {
+                            "highlight": "American corporate behemoths including A[+225 characters]",
+                            "sentiment": 0.0516,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA.MI",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "it",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 6.087101,
+                    "sentiment_score": 0.0516,
+                    "highlights": [
+                        {
+                            "highlight": "American corporate behemoths including A[+225 characters]",
+                            "sentiment": 0.0516,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "found": 11,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "14da9862-d3d9-46ff-b51c-bb65b498ed96",
+            "title": "Meta approves bonuses of up to 200% for company execs as it lays off workers",
+            "description": "Meta, the parent company of Facebook and Instagram, announced that it approved a change to its bonus policy for executives other than the CEO that will raise payouts from 75% to 200%.",
+            "keywords": "",
+            "snippet": "Facebook parent company Meta recently announced that it approved bonuses of up to 200% for the company's executives.\n\nIn a filing with the Securities and Exchan...",
+            "url": "https://www.foxbusiness.com/markets/meta-approves-bonuses-up-200-company-execs",
+            "image_url": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/10/0/0/meta-headquarters-1.jpg?ve=1&tl=1",
+            "language": "en",
+            "published_at": "2025-02-21T18:35:32.000000Z",
+            "source": "foxbusiness.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.820716,
+                    "sentiment_score": 0.5994,
+                    "highlights": [
+                        {
+                            "highlight": "Ticker Security Last Change Change % MET[+314 characters]",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

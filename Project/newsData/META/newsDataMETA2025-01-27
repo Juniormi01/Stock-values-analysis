@@ -1,0 +1,532 @@
+{
+    "meta": {
+        "found": 51,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "4424c256-6229-4ffa-a429-87f0d6c08732",
+            "title": "World\u2019s richest lose $108 billion as DeepSeek AI shakes tech market",
+            "description": "Tech billionaires lost billions as Chinese AI developer DeepSeek challenges Silicon Valley's capital spending narrative, impacting global markets.",
+            "keywords": "DeepSeek, AI billionaires, Nvidia wealth loss, Tech selloff, Chinese AI development, AI competition trends, Bloomberg Billionaires Index, Capital spending in AI, Silicon Valley investment, Jensen Huang",
+            "snippet": "The world\u2019s 500 richest people, led by Nvidia Corp. co-founder Jensen Huang, lost a combined $108 billion on Monday as a tech-led selloff tied to Chinese AI d...",
+            "url": "https://www.thehindubusinessline.com/markets/worlds-richest-lose-108-billion-as-deepseek-ai-shakes-tech-market/article69148543.ece",
+            "image_url": "https://bl-i.thgim.com/public/incoming/epr0as/article69148967.ece/alternates/LANDSCAPE_1200/2025-01-27T220903Z_1132861051_RC2MICAAYQRZ_RTRMADP_3_NVIDIA-DEEPSEEK.JPG",
+            "language": "en",
+            "published_at": "2025-01-27T23:40:27.000000Z",
+            "source": "thehindubusinessline.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "AMZN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 18.552193,
+                    "sentiment_score": 0.1027,
+                    "highlights": [
+                        {
+                            "highlight": "Zuckerberg\u2019s fortune soared 385% to $2[+329 characters]",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 12.282847,
+                    "sentiment_score": 0.765,
+                    "highlights": [
+                        {
+                            "highlight": "., <em>Alphabet</em> <em>Inc</em>. and M[+321 characters]",
+                            "sentiment": 0.765,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 17.384413,
+                    "sentiment_score": 0.765,
+                    "highlights": [
+                        {
+                            "highlight": "., <em>Alphabet</em> <em>Inc</em>. and M[+321 characters]",
+                            "sentiment": 0.765,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 14.759293,
+                    "sentiment_score": 0.4939,
+                    "highlights": [
+                        {
+                            "highlight": "Similar Playbook\n\nSoaring valuations for[+225 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 10.989689,
+                    "sentiment_score": 0.5403,
+                    "highlights": [
+                        {
+                            "highlight": "The world\u2019s 500 richest people, led by[+175 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Nvidia</em> has stood out as the AI [+284 characters]",
+                            "sentiment": 0.8074,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFT",
+                    "name": "Microsoft Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 8.076756,
+                    "sentiment_score": 0.765,
+                    "highlights": [
+                        {
+                            "highlight": "., Alphabet Inc. and <em>Microsoft</em> [+312 characters]",
+                            "sentiment": 0.765,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFT.MI",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "it",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 12.205145,
+                    "sentiment_score": 0.765,
+                    "highlights": [
+                        {
+                            "highlight": "., Alphabet Inc. and <em>Microsoft</em> [+321 characters]",
+                            "sentiment": 0.765,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA.MI",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "it",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 16.005844,
+                    "sentiment_score": 0.5403,
+                    "highlights": [
+                        {
+                            "highlight": "The world\u2019s 500 richest people, led by[+184 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Nvidia</em> has stood out as the AI [+284 characters]",
+                            "sentiment": 0.8074,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.BA",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.968547,
+                    "sentiment_score": 0.765,
+                    "highlights": [
+                        {
+                            "highlight": "., <em>Alphabet</em> <em>Inc</em>. and M[+321 characters]",
+                            "sentiment": 0.765,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDAD.BA",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 16.004932,
+                    "sentiment_score": 0.5403,
+                    "highlights": [
+                        {
+                            "highlight": "The world\u2019s 500 richest people, led by[+184 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Nvidia</em> has stood out as the AI [+284 characters]",
+                            "sentiment": 0.8074,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTD.BA",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 12.205076,
+                    "sentiment_score": 0.765,
+                    "highlights": [
+                        {
+                            "highlight": "., Alphabet Inc. and <em>Microsoft</em> [+321 characters]",
+                            "sentiment": 0.765,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTB.BA",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 12.205076,
+                    "sentiment_score": 0.765,
+                    "highlights": [
+                        {
+                            "highlight": "., Alphabet Inc. and <em>Microsoft</em> [+321 characters]",
+                            "sentiment": 0.765,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTC.BA",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 12.205076,
+                    "sentiment_score": 0.765,
+                    "highlights": [
+                        {
+                            "highlight": "., Alphabet Inc. and <em>Microsoft</em> [+321 characters]",
+                            "sentiment": 0.765,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDAC.BA",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 16.004932,
+                    "sentiment_score": 0.5403,
+                    "highlights": [
+                        {
+                            "highlight": "The world\u2019s 500 richest people, led by[+184 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Nvidia</em> has stood out as the AI [+284 characters]",
+                            "sentiment": 0.8074,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOGLD.BA",
+                    "name": "ALPHABET INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 13.968432,
+                    "sentiment_score": 0.765,
+                    "highlights": [
+                        {
+                            "highlight": "., <em>Alphabet</em> <em>Inc</em>. and M[+321 characters]",
+                            "sentiment": 0.765,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZN.SN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 15.136803,
+                    "sentiment_score": 0.1027,
+                    "highlights": [
+                        {
+                            "highlight": "Zuckerberg\u2019s fortune soared 385% to $2[+329 characters]",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.967944,
+                    "sentiment_score": 0.765,
+                    "highlights": [
+                        {
+                            "highlight": "., <em>Alphabet</em> <em>Inc</em>. and M[+321 characters]",
+                            "sentiment": 0.765,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTCL.SN",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 12.204892,
+                    "sentiment_score": 0.765,
+                    "highlights": [
+                        {
+                            "highlight": "., Alphabet Inc. and <em>Microsoft</em> [+321 characters]",
+                            "sentiment": 0.765,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.967944,
+                    "sentiment_score": 0.765,
+                    "highlights": [
+                        {
+                            "highlight": "., <em>Alphabet</em> <em>Inc</em>. and M[+321 characters]",
+                            "sentiment": 0.765,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZNCL.SN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 15.136157,
+                    "sentiment_score": 0.1027,
+                    "highlights": [
+                        {
+                            "highlight": "Zuckerberg\u2019s fortune soared 385% to $2[+329 characters]",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGCL.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 13.967944,
+                    "sentiment_score": 0.765,
+                    "highlights": [
+                        {
+                            "highlight": "., <em>Alphabet</em> <em>Inc</em>. and M[+321 characters]",
+                            "sentiment": 0.765,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZ.DE",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 15.134942,
+                    "sentiment_score": 0.1027,
+                    "highlights": [
+                        {
+                            "highlight": "Zuckerberg\u2019s fortune soared 385% to $2[+329 characters]",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ABEA.DE",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.966061,
+                    "sentiment_score": 0.765,
+                    "highlights": [
+                        {
+                            "highlight": "., <em>Alphabet</em> <em>Inc</em>. and M[+321 characters]",
+                            "sentiment": 0.765,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ABEC.DE",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.966061,
+                    "sentiment_score": 0.765,
+                    "highlights": [
+                        {
+                            "highlight": "., <em>Alphabet</em> <em>Inc</em>. and M[+321 characters]",
+                            "sentiment": 0.765,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZN.MX",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 15.134678,
+                    "sentiment_score": 0.1027,
+                    "highlights": [
+                        {
+                            "highlight": "Zuckerberg\u2019s fortune soared 385% to $2[+329 characters]",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.MX",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.965737,
+                    "sentiment_score": 0.765,
+                    "highlights": [
+                        {
+                            "highlight": "., <em>Alphabet</em> <em>Inc</em>. and M[+321 characters]",
+                            "sentiment": 0.765,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG.MX",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.965737,
+                    "sentiment_score": 0.765,
+                    "highlights": [
+                        {
+                            "highlight": "., <em>Alphabet</em> <em>Inc</em>. and M[+321 characters]",
+                            "sentiment": 0.765,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

@@ -1,0 +1,292 @@
+{
+    "meta": {
+        "found": 1,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "53b2d8fb-15ad-4329-9b4b-b40347737829",
+            "title": "The Boeing Company (BA): Among the Best Large Cap Defense Stocks to Buy Now",
+            "description": "We recently published a list of 10 Best Large Cap Defense Stocks to Buy Now.",
+            "keywords": "",
+            "snippet": "We recently published a list of 10 Best Large Cap Defense Stocks to Buy Now. In this article, we are going to take a look at where The Boeing Company (NYSE:BA) ...",
+            "url": "https://www.insidermonkey.com/blog/the-boeing-company-ba-among-the-best-large-cap-defense-stocks-to-buy-now-1456462/",
+            "image_url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/09/22051848/BA-insidermonkey-1695374326406.jpg",
+            "language": "en",
+            "published_at": "2025-02-18T20:16:49.000000Z",
+            "source": "insidermonkey.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "BA",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 96.81036,
+                    "sentiment_score": 0.04518,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+295 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+383 characters]",
+                            "sentiment": -0.1779,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+313 characters]",
+                            "sentiment": -0.8271,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "However, despite a grim year, <em>The</e[+173 characters]",
+                            "sentiment": 0.2001,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company</em> (BA): Among the Best Large Cap Defense Stocks to Buy Now",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BOEI.BR",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "be",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 80.8189,
+                    "sentiment_score": 0.04518,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+286 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+365 characters]",
+                            "sentiment": -0.1779,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+304 characters]",
+                            "sentiment": -0.8271,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "However, despite a grim year, <em>The</e[+164 characters]",
+                            "sentiment": 0.2001,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company</em> (BA): Among the Best Large Cap Defense Stocks to Buy Now",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BOEI34.SA",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 80.819275,
+                    "sentiment_score": 0.04518,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+286 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+365 characters]",
+                            "sentiment": -0.1779,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+304 characters]",
+                            "sentiment": -0.8271,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "However, despite a grim year, <em>The</e[+164 characters]",
+                            "sentiment": 0.2001,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company</em> (BA): Among the Best Large Cap Defense Stocks to Buy Now",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BA.SN",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 80.82152,
+                    "sentiment_score": 0.04518,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+286 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+365 characters]",
+                            "sentiment": -0.1779,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+304 characters]",
+                            "sentiment": -0.8271,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "However, despite a grim year, <em>The</e[+164 characters]",
+                            "sentiment": 0.2001,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company</em> (BA): Among the Best Large Cap Defense Stocks to Buy Now",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BCO.DE",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 80.82263,
+                    "sentiment_score": 0.04518,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+286 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+365 characters]",
+                            "sentiment": -0.1779,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+304 characters]",
+                            "sentiment": -0.8271,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "However, despite a grim year, <em>The</e[+164 characters]",
+                            "sentiment": 0.2001,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company</em> (BA): Among the Best Large Cap Defense Stocks to Buy Now",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BA.MX",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 80.82456,
+                    "sentiment_score": 0.04518,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+286 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+365 characters]",
+                            "sentiment": -0.1779,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+304 characters]",
+                            "sentiment": -0.8271,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "However, despite a grim year, <em>The</e[+164 characters]",
+                            "sentiment": 0.2001,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company</em> (BA): Among the Best Large Cap Defense Stocks to Buy Now",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BOE.L",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 80.82503,
+                    "sentiment_score": 0.04518,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+286 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+365 characters]",
+                            "sentiment": -0.1779,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+304 characters]",
+                            "sentiment": -0.8271,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "However, despite a grim year, <em>The</e[+164 characters]",
+                            "sentiment": 0.2001,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company</em> (BA): Among the Best Large Cap Defense Stocks to Buy Now",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

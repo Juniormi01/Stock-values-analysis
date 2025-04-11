@@ -1,0 +1,72 @@
+{
+    "meta": {
+        "found": 55,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "342a4921-3920-44c9-9b26-2ac76a261977",
+            "title": "Better than kvetching. Here\u2019s what we should do with our investments. Also called Investing in Turmoil \u00ab In Search of the Perfect Investment",
+            "description": "",
+            "keywords": "",
+            "snippet": "We\u2019re a democracy. We voted for him. He played it brilliantly. He won the presidency. He got control of the Congress, the Senate and the courts. Now he has hi...",
+            "url": "https://www.technologyinvestor.com/?p=63845",
+            "image_url": "https://www.technologyinvestor.com/wp-content/uploads/2025/02/NVDA-One-Month-Again.jpg",
+            "language": "en",
+            "published_at": "2025-02-14T23:53:37.000000Z",
+            "source": "technologyinvestor.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 11.079199,
+                    "sentiment_score": 0.683267,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Nvidia</em> makes things, true. But [+288 characters]",
+                            "sentiment": 0.8834,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "I sold <em>Nvidia</em> a year or so ago [+312 characters]",
+                            "sentiment": 0.4019,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "I should have owned fewer <em>Nvidia</em[+313 characters]",
+                            "sentiment": 0.7645,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NFLX",
+                    "name": "Netflix, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 6.796415,
+                    "sentiment_score": 0.8016,
+                    "highlights": [
+                        {
+                            "highlight": "But many of our stocks \u2014 like META, Pa[+245 characters]",
+                            "sentiment": 0.8016,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

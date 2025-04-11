@@ -1,0 +1,72 @@
+{
+    "meta": {
+        "found": 6,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "04d5571b-3564-491f-94af-a5ff47e16ff7",
+            "title": "Do Put Options Protect Against Protracted Market Drawdowns?",
+            "description": "This options expert shares his insights on whether put options are actually effective in protecting against protracted market drawdowns.",
+            "keywords": "",
+            "snippet": "Long-term investors in the S&P 500 may be tempted to buy out-of-the-money put options to hedge against further downside losses during an extended bearish period...",
+            "url": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/25/03/44501856/do-puts-pay-off-evaluating-long-term-s-p-500-protection",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2025/03/26/unnamed.jpeg?width=1200&height=800&fit=crop",
+            "language": "en",
+            "published_at": "2025-03-26T19:25:45.000000Z",
+            "source": "benzinga.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 56.45414,
+                    "sentiment_score": 0.08895,
+                    "highlights": [
+                        {
+                            "highlight": "For the sake of argument, we\u2019ll discus[+233 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "SPY: Fundamental Insights\n\nThe <em>SPDR<[+360 characters]",
+                            "sentiment": 0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 56.4596,
+                    "sentiment_score": 0.08895,
+                    "highlights": [
+                        {
+                            "highlight": "For the sake of argument, we\u2019ll discus[+233 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "SPY: Fundamental Insights\n\nThe <em>SPDR<[+360 characters]",
+                            "sentiment": 0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

@@ -1,0 +1,224 @@
+{
+    "meta": {
+        "found": 27,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "fcc9e94f-dbae-42df-936b-296f6da987bf",
+            "title": "Major Tech Stocks Plummet, SMCI Drops Nearly 16%",
+            "description": "The U.S. stock market closed with all three major indices down. The Dow Jones Industrial Average fell by 0.43%, the Nasdaq Composite dropped 2.78%, and the S&P",
+            "keywords": "GuruFocus, Article, News, GuruFocus News, SMCI",
+            "snippet": "The U.S. stock market closed with all three major indices down. The Dow Jones Industrial Average fell by 0.43%, the Nasdaq Composite dropped 2.78%, and the S&P ...",
+            "url": "https://www.gurufocus.com/news/2720530/major-tech-stocks-plummet-smci-drops-nearly-16",
+            "image_url": "https://static.gurufocus.com/logos/0C00000PSC.png?20",
+            "language": "en",
+            "published_at": "2025-02-27T22:40:15.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "LI",
+                    "name": "Li Auto Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 19.949009,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Li</em> <em>Auto</em> saw a decline [+167 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGO",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 18.432173,
+                    "sentiment_score": 0.3182,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Broadcom</em> saw a drop exceeding 7[+302 characters]",
+                            "sentiment": 0.3182,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BILI",
+                    "name": "Bilibili Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 20.253593,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Li Auto saw a decline of over 3%, while [+158 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGOP",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 18.432173,
+                    "sentiment_score": 0.3182,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Broadcom</em> saw a drop exceeding 7[+302 characters]",
+                            "sentiment": 0.3182,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 15.216008,
+                    "sentiment_score": -0.1779,
+                    "highlights": [
+                        {
+                            "highlight": "Large technology stocks experienced wide[+209 characters]",
+                            "sentiment": -0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SMCI",
+                    "name": "Super Micro Computer, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 27.888557,
+                    "sentiment_score": -0.4767,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Super</em> <em>Micro</em> <em>Comput[+321 characters]",
+                            "sentiment": -0.4767,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TIGR",
+                    "name": "UP Fintech Holding Limited",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 47.16032,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Kingsoft Cloud fell over 13%, Pony.ai dr[+291 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 14.880892,
+                    "sentiment_score": 0.3182,
+                    "highlights": [
+                        {
+                            "highlight": "Broadcom saw a drop exceeding 7%, <em>Te[+302 characters]",
+                            "sentiment": 0.3182,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MU",
+                    "name": "Micron Technology, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 23.25291,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "Super Micro Computer (SMCI, Financial) s[+312 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PDD",
+                    "name": "Pinduoduo Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 20.154644,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Tencent and <em>Pinduoduo</em> both fell[+40 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TIGRN.MX",
+                    "name": "UP Fintech Holding Limited",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 40.31787,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Kingsoft Cloud fell over 13%, Pony.ai dr[+291 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

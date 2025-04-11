@@ -1,0 +1,292 @@
+{
+    "meta": {
+        "found": 7,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "163c6dbd-9a0a-4131-a123-91e6cf0f60b0",
+            "title": "Big Tech, Data privacy rules differ over online tracking of children on Net",
+            "description": "Meta, Alphabet say not allowing tech companies to track online browsing will make child safety filters ineffective",
+            "keywords": "Data privacy, online tracking of children, Meta, Alphabet, Google, Digital Personal Data Protection Act, DPDP",
+            "snippet": "New Delhi: Meta Platforms Inc and Google\u2019s parent Alphabet Inc have raised concerns about Indian rules barring tech giants from monitoring internet browsing b...",
+            "url": "https://www.livemint.com/news/dpdp-act-child-safety-meta-alphabet-internet-browsing-data-localization-11741183673208.html",
+            "image_url": "https://www.livemint.com/lm-img/img/2025/03/05/1600x900/2-0-87283383-Computer-4C--0_1681739542352_1741193859636.jpg",
+            "language": "en",
+            "published_at": "2025-03-05T23:30:10.000000Z",
+            "source": "livemint.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "GOOG",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 7.110859,
+                    "sentiment_score": 0.3182,
+                    "highlights": [
+                        {
+                            "highlight": "New Delhi: Meta Platforms Inc and Google[+257 characters]",
+                            "sentiment": 0.3182,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.220837,
+                    "sentiment_score": 0.39745,
+                    "highlights": [
+                        {
+                            "highlight": "New Delhi: Meta Platforms Inc and Google[+257 characters]",
+                            "sentiment": 0.3182,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Meta and <em>Alphabet</em> have also exp[+207 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 9.028523,
+                    "sentiment_score": 0.3182,
+                    "highlights": [
+                        {
+                            "highlight": "New Delhi: <em>Meta</em> <em>Platforms</[+266 characters]",
+                            "sentiment": 0.3182,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.MX",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.220833,
+                    "sentiment_score": 0.39745,
+                    "highlights": [
+                        {
+                            "highlight": "New Delhi: Meta Platforms Inc and Google[+257 characters]",
+                            "sentiment": 0.3182,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Meta and <em>Alphabet</em> have also exp[+207 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG.MX",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.220833,
+                    "sentiment_score": 0.39745,
+                    "highlights": [
+                        {
+                            "highlight": "New Delhi: Meta Platforms Inc and Google[+257 characters]",
+                            "sentiment": 0.3182,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Meta and <em>Alphabet</em> have also exp[+207 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.BA",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.221088,
+                    "sentiment_score": 0.39745,
+                    "highlights": [
+                        {
+                            "highlight": "New Delhi: Meta Platforms Inc and Google[+257 characters]",
+                            "sentiment": 0.3182,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Meta and <em>Alphabet</em> have also exp[+207 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOGLD.BA",
+                    "name": "ALPHABET INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 13.221077,
+                    "sentiment_score": 0.39745,
+                    "highlights": [
+                        {
+                            "highlight": "New Delhi: Meta Platforms Inc and Google[+257 characters]",
+                            "sentiment": 0.3182,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Meta and <em>Alphabet</em> have also exp[+207 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.22109,
+                    "sentiment_score": 0.39745,
+                    "highlights": [
+                        {
+                            "highlight": "New Delhi: Meta Platforms Inc and Google[+257 characters]",
+                            "sentiment": 0.3182,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Meta and <em>Alphabet</em> have also exp[+207 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.22109,
+                    "sentiment_score": 0.39745,
+                    "highlights": [
+                        {
+                            "highlight": "New Delhi: Meta Platforms Inc and Google[+257 characters]",
+                            "sentiment": 0.3182,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Meta and <em>Alphabet</em> have also exp[+207 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGCL.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 13.22109,
+                    "sentiment_score": 0.39745,
+                    "highlights": [
+                        {
+                            "highlight": "New Delhi: Meta Platforms Inc and Google[+257 characters]",
+                            "sentiment": 0.3182,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Meta and <em>Alphabet</em> have also exp[+207 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ABEA.DE",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.221748,
+                    "sentiment_score": 0.39745,
+                    "highlights": [
+                        {
+                            "highlight": "New Delhi: Meta Platforms Inc and Google[+257 characters]",
+                            "sentiment": 0.3182,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Meta and <em>Alphabet</em> have also exp[+207 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ABEC.DE",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.221748,
+                    "sentiment_score": 0.39745,
+                    "highlights": [
+                        {
+                            "highlight": "New Delhi: Meta Platforms Inc and Google[+257 characters]",
+                            "sentiment": 0.3182,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Meta and <em>Alphabet</em> have also exp[+207 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

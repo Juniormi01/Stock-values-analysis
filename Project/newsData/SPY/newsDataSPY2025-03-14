@@ -1,0 +1,296 @@
+{
+    "meta": {
+        "found": 2,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "2ea8cc2f-28e6-48b2-9a72-84b0221d3023",
+            "title": "Dividends Are Rising: 3 Foreign Stocks Boosting Payouts",
+            "description": "Market Analysis by  covering: TotalEnergies SE, Brookfield Real Assets Income, JD.com Inc Adr. Read 's Market Analysis on Investing.com",
+            "keywords": "",
+            "snippet": "Dividend-paying stocks come in many flavors that can help satisfy investors\u2019 appetite for income. While many focus simply on stocks returning capital in the U...",
+            "url": "https://www.investing.com/analysis/dividends-are-rising-3-foreign-stocks-boosting-payouts-200658328",
+            "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+            "language": "en",
+            "published_at": "2025-03-14T13:53:00.000000Z",
+            "source": "investing.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 7.537796,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "However, BAM consistently pays the same [+161 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "JD",
+                    "name": "JD.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 23.268192,
+                    "sentiment_score": 0.9325,
+                    "highlights": [
+                        {
+                            "highlight": "<em>JD.com</em>: Boosts Dividend By +30%[+326 characters]",
+                            "sentiment": 0.9325,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TTE.PA",
+                    "name": "TOTALENERGIES SE",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "fr",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 20.67004,
+                    "sentiment_score": 0.6369,
+                    "highlights": [
+                        {
+                            "highlight": "TotalEnergies: Hikes 2025 Dividend, Yiel[+287 characters]",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BAM",
+                    "name": "Brookfield Asset Management Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 17.371372,
+                    "sentiment_score": 0.6705,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Brookfield</em> <em>Asset</em> <em>M[+284 characters]",
+                            "sentiment": 0.6705,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "JDN.MX",
+                    "name": "JD.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 20.011051,
+                    "sentiment_score": 0.9325,
+                    "highlights": [
+                        {
+                            "highlight": "<em>JD.com</em>: Boosts Dividend By +30%[+326 characters]",
+                            "sentiment": 0.9325,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TTEN.MX",
+                    "name": "TOTALENERGIES SE",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 15.721725,
+                    "sentiment_score": 0.6369,
+                    "highlights": [
+                        {
+                            "highlight": "TotalEnergies: Hikes 2025 Dividend, Yiel[+287 characters]",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TTE",
+                    "name": "TotalEnergies SE",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Energy",
+                    "match_score": 19.315334,
+                    "sentiment_score": 0.6369,
+                    "highlights": [
+                        {
+                            "highlight": "TotalEnergies: Hikes 2025 Dividend, Yiel[+287 characters]",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "JDCMF",
+                    "name": "JD.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 20.011192,
+                    "sentiment_score": 0.9325,
+                    "highlights": [
+                        {
+                            "highlight": "<em>JD.com</em>: Boosts Dividend By +30%[+326 characters]",
+                            "sentiment": 0.9325,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 44.035507,
+                    "sentiment_score": -0.7579,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>SPDR</em> <em>S</em>&<em>P</em> [+237 characters]",
+                            "sentiment": -0.7579,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TTE.L",
+                    "name": "TotalEnergies SE",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "Energy",
+                    "match_score": 15.720776,
+                    "sentiment_score": 0.6369,
+                    "highlights": [
+                        {
+                            "highlight": "TotalEnergies: Hikes 2025 Dividend, Yiel[+287 characters]",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 63.93263,
+                    "sentiment_score": -0.7579,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>SPDR</em> <em>S</em>&<em>P</em> [+255 characters]",
+                            "sentiment": -0.7579,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "9618.HK",
+                    "name": "JD.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "hk",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 20.013477,
+                    "sentiment_score": 0.9325,
+                    "highlights": [
+                        {
+                            "highlight": "<em>JD.com</em>: Boosts Dividend By +30%[+326 characters]",
+                            "sentiment": 0.9325,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "JDCO34.SA",
+                    "name": "JD.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 20.012794,
+                    "sentiment_score": 0.9325,
+                    "highlights": [
+                        {
+                            "highlight": "<em>JD.com</em>: Boosts Dividend By +30%[+326 characters]",
+                            "sentiment": 0.9325,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "JD.BA",
+                    "name": "JD.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 20.012161,
+                    "sentiment_score": 0.9325,
+                    "highlights": [
+                        {
+                            "highlight": "<em>JD.com</em>: Boosts Dividend By +30%[+326 characters]",
+                            "sentiment": 0.9325,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TTE.BA",
+                    "name": "TOTALENERGIES SE",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Energy",
+                    "match_score": 15.716627,
+                    "sentiment_score": 0.6369,
+                    "highlights": [
+                        {
+                            "highlight": "TotalEnergies: Hikes 2025 Dividend, Yiel[+287 characters]",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

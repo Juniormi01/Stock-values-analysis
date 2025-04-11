@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "found": 1,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "12817859-dc68-4ddf-b29e-a2a6b29df7fe",
+            "title": "Lockheed Martin (LMT) Expected to Beat Earnings Estimates: What to Know Ahead of Q4 Release",
+            "description": "Lockheed (LMT) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+            "keywords": "stock, stocks, investment, investment advice, investing, online trading, online investment, online stock trading, stock market, financial, financial planning, quote, quotes, stock quotes",
+            "snippet": "This page has not been authorized, sponsored, or otherwise approved or endorsed by the companies represented herein. Each of the company logos represented herei...",
+            "url": "https://www.zacks.com/stock/news/2400581/lockheed-martin-lmt-expected-to-beat-earnings-estimates-what-to-know-ahead-of-q4-release?cid=CS-ZC-FT-tale_of_the_tape|yseop_template_9-2400581",
+            "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default103.jpg",
+            "language": "en",
+            "published_at": "2025-01-21T15:00:23.000000Z",
+            "source": "zacks.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 53.521404,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> (LMT) Expected to Beat Earnings Estimates: What to Know Ahead of Q4 Release",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

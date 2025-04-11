@@ -1,0 +1,157 @@
+{
+    "meta": {
+        "found": 2,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "550db278-1381-459e-9dfa-ea5382bc4cd3",
+            "title": "AI Revolutionizes Defense Landscape as Tech Giants Outpace Traditional Players",
+            "description": "Stocks Analysis by Frank Holmes covering: Intel Corporation, Alphabet Inc Class A, Northrop Grumman Corporation, General Dynamics Corporation. Read Frank Holmes's latest article on Investing.com",
+            "keywords": "",
+            "snippet": "For a few months now, I\u2019ve been referring to today\u2019s heightened geopolitical climate as the \u201cnew red Cold War,\u201d where artificial intelligence (AI)\u2014not...",
+            "url": "https://www.investing.com/analysis/ai-revolutionizes-defense-landscape-as-tech-giants-outpace-traditional-players-200657481",
+            "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+            "language": "en",
+            "published_at": "2025-02-18T20:11:00.000000Z",
+            "source": "investing.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "GROW",
+                    "name": "U.S. Global Investors, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 14.019808,
+                    "sentiment_score": 0.5106,
+                    "highlights": [
+                        {
+                            "highlight": "The following securities mentioned in th[+226 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 11.166311,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "., <em>Alphabet</em> (NASDAQ: ) Inc.",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 16.503864,
+                    "sentiment_score": 0.3612,
+                    "highlights": [
+                        {
+                            "highlight": "Meanwhile, traditional defense giants li[+309 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GD",
+                    "name": "General Dynamics Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 16.676987,
+                    "sentiment_score": 0.05135,
+                    "highlights": [
+                        {
+                            "highlight": "Meanwhile, traditional defense giants li[+309 characters]",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Global Investors as of (12/31/2024): <em[+117 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NOC",
+                    "name": "Northrop Grumman Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 20.230011,
+                    "sentiment_score": 0.3612,
+                    "highlights": [
+                        {
+                            "highlight": "Meanwhile, traditional defense giants li[+309 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PLTR",
+                    "name": "Palantir Technologies Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 16.672157,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Take <em>Palantir</em> <em>Technologies<[+245 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSM",
+                    "name": "Taiwan Semiconductor Manufacturing Company Limited",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 21.609932,
+                    "sentiment_score": -0.577,
+                    "highlights": [
+                        {
+                            "highlight": "The company has its work cut out for it:[+261 characters]",
+                            "sentiment": -0.577,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

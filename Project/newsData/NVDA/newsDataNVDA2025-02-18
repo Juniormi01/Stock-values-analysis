@@ -1,0 +1,139 @@
+{
+    "meta": {
+        "found": 34,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "12f5ff09-8ad8-4fc0-9a40-ea01460b1d7c",
+            "title": "NVIDIA's Strategic Moves and Chinese Tech Stocks Performance",
+            "description": "Following the U.S. stock market opening, major indices showed mixed movements. Notably, NVIDIA (NVDA) experienced a surge of over 3%, while Intel (INTC) saw an",
+            "keywords": "GuruFocus, Article, News, GuruFocus News, NVDA",
+            "snippet": "Following the U.S. stock market opening, major indices showed mixed movements. Notably, NVIDIA (NVDA, Financial) experienced a surge of over 3%, while Intel (IN...",
+            "url": "https://www.gurufocus.com/news/2702885/nvidias-strategic-moves-and-chinese-tech-stocks-performance",
+            "image_url": "https://static.gurufocus.com/logos/0C00000BXN.png?20",
+            "language": "en",
+            "published_at": "2025-02-18T22:50:58.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "BIDU",
+                    "name": "Baidu, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 16.547905,
+                    "sentiment_score": 0.7506,
+                    "highlights": [
+                        {
+                            "highlight": "Kingsoft Cloud dropped over 9%, Bilibili[+278 characters]",
+                            "sentiment": 0.7506,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGO",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 16.275948,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "Reports suggest that <em>Broadcom</em> a[+284 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BILI",
+                    "name": "Bilibili Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 17.985899,
+                    "sentiment_score": 0.7506,
+                    "highlights": [
+                        {
+                            "highlight": "Kingsoft Cloud dropped over 9%, <em>Bili[+278 characters]",
+                            "sentiment": 0.7506,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGOP",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 16.275948,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "Reports suggest that <em>Broadcom</em> a[+284 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 15.034007,
+                    "sentiment_score": 0.6563,
+                    "highlights": [
+                        {
+                            "highlight": "Notably, <em>NVIDIA</em> (NVDA, Financia[+271 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>NVIDIA</em> disclosed holding approx[+313 characters]",
+                            "sentiment": 0.802,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "IQ",
+                    "name": "iQIYI, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 21.893993,
+                    "sentiment_score": 0.7506,
+                    "highlights": [
+                        {
+                            "highlight": "Kingsoft Cloud dropped over 9%, Bilibili[+287 characters]",
+                            "sentiment": 0.7506,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

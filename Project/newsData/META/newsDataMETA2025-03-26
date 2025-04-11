@@ -1,0 +1,59 @@
+{
+    "meta": {
+        "found": 6,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "bea263ff-4836-48d9-a62f-e70374b13e12",
+            "title": "Meta Platforms, Inc. (META) AI Push Hits a Snag With Rejected $800 Million Bid\u2014What\u2019s Next?",
+            "description": "We recently published a list of 11 AI Stocks Shaking Up Wall Street Today. In this article, we are going to take a look at where Meta Platforms, Inc.",
+            "keywords": "",
+            "snippet": "We recently published a list of 11 AI Stocks Shaking Up Wall Street Today. In this article, we are going to take a look at where Meta Platforms, Inc. (NASDAQ:ME...",
+            "url": "https://www.insidermonkey.com/blog/meta-platforms-inc-meta-ai-push-hits-a-snag-with-rejected-800-million-bid-whats-next-1493883/",
+            "image_url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/05/24161509/possessed-photography-U3sOwViXhkY-unsplash.jpg",
+            "language": "en",
+            "published_at": "2025-03-26T23:01:19.000000Z",
+            "source": "insidermonkey.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 68.598236,
+                    "sentiment_score": -0.03735,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+263 characters]",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Meta</em> <em>Platforms</em>, <em>In[+355 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Meta</em> <em>Platforms</em> <em>Inc[+211 characters]",
+                            "sentiment": 0.0516,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Meta</em> <em>Platforms</em>, <em>Inc</em>. (META) AI Push Hits a Snag With Rejected $800 Million Bid\u2014What\u2019s Next?",
+                            "sentiment": -0.5106,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

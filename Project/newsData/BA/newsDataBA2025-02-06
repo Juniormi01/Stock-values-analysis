@@ -1,0 +1,117 @@
+{
+    "meta": {
+        "found": 2,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "3b07ca87-e82a-4286-9b7e-7755c440bca2",
+            "title": "TRIUMPH REPORTS STRONG THIRD QUARTER FISCAL 2025 RESULTS",
+            "description": "PR NewswireRADNOR, Pa., Feb. 6, 2025\n\n\n\nRADNOR, Pa. , Feb. 6, 2025 /PRNewswire/ -- Triumph Group, Inc. (NYSE: TGI) (\"TRIUMPH\" or the \"Company\") today reported",
+            "keywords": "GuruFocus, Article, News, PRNewswire, NYSE:TGI",
+            "snippet": "RADNOR, Pa. , Feb. 6, 2025 /PRNewswire/ -- Triumph Group, Inc. (NYSE: TGI) (\"TRIUMPH\" or the \"Company\") today reported financial results for its third quarter o...",
+            "url": "https://www.gurufocus.com/news/2685878/triumph-reports-strong-third-quarter-fiscal-2025-results",
+            "image_url": "https://static.gurufocus.com/images/global_logo_twitter_card.png",
+            "language": "en",
+            "published_at": "2025-02-06T22:00:30.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "BA",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 6.634156,
+                    "sentiment_score": 0.2674,
+                    "highlights": [
+                        {
+                            "highlight": "Commercial OEM sales decreased ($16.9) m[+216 characters]",
+                            "sentiment": 0.0516,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Commercial Aftermarket sales increased $[+323 characters]",
+                            "sentiment": 0.7506,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Our backlog includes increases across al[+233 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TGI",
+                    "name": "Triumph Group, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 21.370798,
+                    "sentiment_score": 0.06369,
+                    "highlights": [
+                        {
+                            "highlight": ". , Feb. 6, 2025 /PRNewswire/ -- <em>Tri[+200 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "FINANCIAL DATA (UNAUDITED) ON FOLLOWING [+80 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>GROUP</em>, <em>INC</em>.",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>GROUP</em>, <em>INC</em>.",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>GROUP</em>, <em>INC</em>.",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "(Continued)\n\nFINANCIAL DATA (UNAUDITED)\n[+47 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "(Continued)\n\nFINANCIAL DATA (UNAUDITED)\n[+280 characters]",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>GROUP</em>, <em>INC</em>.",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "(Continued)\n\nFINANCIAL DATA (UNAUDITED)\n[+47 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>GROUP</em>, <em>INC</em>.",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

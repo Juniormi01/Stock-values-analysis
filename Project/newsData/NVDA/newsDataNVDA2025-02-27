@@ -1,0 +1,208 @@
+{
+    "meta": {
+        "found": 103,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "afde7af8-a2d2-4729-aaa2-77bebcbc3834",
+            "title": "Nvidia And The Law Of Large Numbers (NASDAQ:NVDA)",
+            "description": "Nvidia Corporation faces slowing growth, competition, and rising expenses, making NVDA a less attractive long-term investment. Click for our earnings NVDA update.",
+            "keywords": "",
+            "snippet": "Retirement is complicated and you only get once chance to do it right. Don't miss out because you didn't know what was out there.\n\nThe Retirement Forum provides...",
+            "url": "https://seekingalpha.com/article/4763077-nvidia-and-the-law-of-large-numbers",
+            "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1412721464/image_1412721464.jpg?io=getty-c-w1536",
+            "language": "en",
+            "published_at": "2025-02-27T23:21:18.000000Z",
+            "source": "seekingalpha.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "NVDA.BA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 36.64081,
+                    "sentiment_score": -0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "It's no secret that we're bearish on <em[+202 characters]",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Nvidia</em> And The Law Of Large Numbers (NASDAQ:NVDA)",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 89.9207,
+                    "sentiment_score": -0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "It's no secret that we're bearish on <em[+220 characters]",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Nvidia</em> And The Law Of Large Numbers (<em>NASDAQ:NVDA</em>)",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVD.DE",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 36.641785,
+                    "sentiment_score": -0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "It's no secret that we're bearish on <em[+202 characters]",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Nvidia</em> And The Law Of Large Numbers (NASDAQ:NVDA)",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA.MX",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 36.651558,
+                    "sentiment_score": -0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "It's no secret that we're bearish on <em[+202 characters]",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Nvidia</em> And The Law Of Large Numbers (NASDAQ:NVDA)",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDC34.SA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 36.64913,
+                    "sentiment_score": -0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "It's no secret that we're bearish on <em[+202 characters]",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Nvidia</em> And The Law Of Large Numbers (NASDAQ:NVDA)",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": [
+                {
+                    "uuid": "73f03191-0c27-46c5-be5c-0aa53a0d5275",
+                    "title": "NVIDIA Shares Face Pressure: Were Earnings Bad?",
+                    "description": "With NVIDIA's quarterly release now in the rearview, the 2024 Q4 reporting cycle for the broader Mag 7 group has officially ended. How were the AI-favorite's results?",
+                    "keywords": "stock, stocks, investment, investment advice, investing, online trading, online investment, online stock trading, stock market, financial, financial planning, quote, quotes, stock quotes",
+                    "snippet": "This page has not been authorized, sponsored, or otherwise approved or endorsed by the companies represented herein. Each of the company logos represented herei...",
+                    "url": "https://www.zacks.com/commentary/2423175/nvidia-shares-face-pressure-were-earnings-bad?cid=CS-ZC-FT-investment_ideas-2423175",
+                    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/58/1952.jpg",
+                    "language": "en",
+                    "published_at": "2025-02-27T21:26:00.000000Z",
+                    "source": "zacks.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "NVDA",
+                            "name": "NVIDIA Corporation",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 32.29698,
+                            "sentiment_score": -0.5423,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>NVIDIA</em> Shares Face Pressure: Were Earnings Bad?",
+                                    "sentiment": -0.5423,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "uuid": "45e85607-c1f3-4386-8e55-0aa7eb59f9f6",
+                    "title": "Nvidia: The Shift Towards Reasoning Models And The Importance Of Hedging (NASDAQ:NVDA)",
+                    "description": "Nvidia Corporation's AI growth surges with record revenues, rising automotive demand, and enterprise expansion. Click for my post-earnings NVDA stock review.",
+                    "keywords": "",
+                    "snippet": "Small deep value individual investor, with a modest private investment portfolio, split approx. 50%-50% between shares and call options. I have a B.Sc. in aeron...",
+                    "url": "https://seekingalpha.com/article/4762820-nvidia-the-shift-towards-reasoning-models-and-the-importance-of-hedging",
+                    "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/699087378/image_699087378.jpg?io=getty-c-w1536",
+                    "language": "en",
+                    "published_at": "2025-02-27T17:23:46.000000Z",
+                    "source": "seekingalpha.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "NVDA",
+                            "name": "NVIDIA Corporation",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 52.7968,
+                            "sentiment_score": 0.3612,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>Nvidia</em>: The Shift Towards Reasoning Models And The Importance Of Hedging (<em>NASDAQ:NVDA</em>)",
+                                    "sentiment": 0.3612,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

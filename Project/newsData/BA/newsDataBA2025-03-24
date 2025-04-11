@@ -1,0 +1,82 @@
+{
+    "meta": {
+        "found": 3,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "5121e79a-3f90-4c9f-b48b-7dc7fe321ebb",
+            "title": "Following the Money in Defense Stocks with Boeing's (NYSE: BA) F-47 $20 Billion Dollar Deal",
+            "description": "",
+            "keywords": "",
+            "snippet": "March 24, 2025 (Investorideas.com Newswire) Investorideas.com, a top rated investment site for investment and trading ideas for cybersecurity and defense stocks...",
+            "url": "https://www.investorideas.com/news/2025/defense/03241Defense-Stock-Boeing-BA.asp",
+            "image_url": "https://www.investorideas.com/news/2025/defense/images/032425-1.jpg",
+            "language": "en",
+            "published_at": "2025-03-24T14:50:00.000000Z",
+            "source": "investorideas.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "BA",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 77.20908,
+                    "sentiment_score": 0.47075,
+                    "highlights": [
+                        {
+                            "highlight": "March 24, 2025 (Investorideas.com Newswi[+330 characters]",
+                            "sentiment": 0.7351,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Air Force announced Boeing [<em>NYSE</em[+305 characters]",
+                            "sentiment": 0.8176,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Following <em>the</em> <em>Boeing</em> n[+218 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Following the Money in Defense Stocks with Boeing's (<em>NYSE</em>: <em>BA</em>) F-47 $20 Billion Dollar Deal",
+                            "sentiment": 0.128,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 55.5062,
+                    "sentiment_score": 0.24915,
+                    "highlights": [
+                        {
+                            "highlight": "Following the Boeing news , <em>Lockheed[+254 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> (<em>N[+128 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

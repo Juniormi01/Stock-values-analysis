@@ -1,0 +1,187 @@
+{
+    "meta": {
+        "found": 45,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "58339492-acf2-4e41-a582-48c4399e5367",
+            "title": "Market Today: Tariffs Impact Chevron, Apple's AR Glasses Halted",
+            "description": "Market Performance Overview\nThe Dow Jones Industrial Average saw a modest increase of 0.3% this week, while the S&P 500 fell by 1.0%, the Nasdaq Composite decre",
+            "keywords": "GuruFocus, Article, News, GuruFocus News, AAPL, CVX, BTC-USD, NVDA, PLTR, WBA, PBR, OXY, AAPL, NVDA, MSFT, META, TSLA, IBM, SBUX, BA, GM, LMT",
+            "snippet": "Market Performance Overview\n\nThe Dow Jones Industrial Average saw a modest increase of 0.3% this week, while the S&P 500 fell by 1.0%, the Nasdaq Composite decr...",
+            "url": "https://www.gurufocus.com/news/2676894/market-today-tariffs-impact-chevron-apples-ar-glasses-halted",
+            "image_url": "https://static.gurufocus.com/1732803573856661504.png",
+            "language": "en",
+            "published_at": "2025-01-31T22:32:24.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 12.777085,
+                    "sentiment_score": -0.379475,
+                    "highlights": [
+                        {
+                            "highlight": "<em>NVIDIA</em> (NVDA, Financial) suffer[+155 characters]",
+                            "sentiment": -0.7906,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>NVIDIA</em> (NVDA, Financial) faced [+278 characters]",
+                            "sentiment": -0.1531,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Mega caps and chipmakers, particularly <[+307 characters]",
+                            "sentiment": -0.1154,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Nvidia</em> (NVDA, Financial) and ot[+292 characters]",
+                            "sentiment": -0.4588,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFT",
+                    "name": "Microsoft Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 8.152113,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Notable companies reporting results incl[+170 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SBUX",
+                    "name": "Starbucks Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 10.07933,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "Other significant earnings came from IBM[+290 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "CASH",
+                    "name": "Meta Financial Group, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 13.824244,
+                    "sentiment_score": -0.2547,
+                    "highlights": [
+                        {
+                            "highlight": "Notable companies reporting results incl[+179 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Positive earnings from IBM (IBM, Financi[+302 characters]",
+                            "sentiment": -0.5094,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 10.536472,
+                    "sentiment_score": -0.2547,
+                    "highlights": [
+                        {
+                            "highlight": "Notable companies reporting results incl[+170 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Positive earnings from IBM (IBM, Financi[+293 characters]",
+                            "sentiment": -0.5094,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 10.335056,
+                    "sentiment_score": -0.1571,
+                    "highlights": [
+                        {
+                            "highlight": "Notable companies reporting results incl[+170 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Apple</em> (AAPL, Financial) has dec[+279 characters]",
+                            "sentiment": -0.3182,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "This move reflects strategic shifts as <[+245 characters]",
+                            "sentiment": -0.1531,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BTCUSD",
+                    "name": "Bitcoin USD",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "global",
+                    "type": "cryptocurrency",
+                    "industry": "N/A",
+                    "match_score": 27.122778,
+                    "sentiment_score": 0.5574,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Bitcoin</em> (<em>BTC</em>-<em>USD</[+306 characters]",
+                            "sentiment": 0.5574,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

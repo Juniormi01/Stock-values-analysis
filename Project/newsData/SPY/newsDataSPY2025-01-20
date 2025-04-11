@@ -1,0 +1,126 @@
+{
+    "meta": {
+        "found": 2,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "7862e537-1d31-4a8f-9801-5122836686ae",
+            "title": "Is The Market Open On Martin Luther King Jr. Day? Here's What Investors Need To Know - Grayscale Bitcoin Mini Trust (BTC) Common units of fractional undivided beneficial interest (ARCA:BTC)",
+            "description": "Markets in the U.S. will pause on Monday, Jan. 20, 2025, in observance of Martin Luther King Jr. Day, even as political and financial tensions mount ahead of Donald Trump's presidential inauguration.",
+            "keywords": "",
+            "snippet": "Markets in the U.S. will pause on Monday, Jan. 20, 2025, in observance of Martin Luther King Jr. Day, even as political and financial tensions mount ahead of Do...",
+            "url": "https://www.benzinga.com/25/01/43082450/is-the-market-open-on-martin-luther-king-jr-day-heres-what-investors-need-to-know",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/20/Closeup-Of-Wall-St--Street-Sign-And-Larg.jpeg?width=1200&height=800&fit=crop",
+            "language": "en",
+            "published_at": "2025-01-20T13:33:17.000000Z",
+            "source": "benzinga.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "SSTK",
+                    "name": "Shutterstock, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 10.918877,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Read Now:\n\nImage: <em>Shutterstock</em>",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BTCUSD",
+                    "name": "Bitcoin USD",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "global",
+                    "type": "cryptocurrency",
+                    "industry": "N/A",
+                    "match_score": 38.327793,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Bitcoin</em> <em>BTC</em>/<em>USD</e[+168 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "CC:BTC",
+                    "name": "Bitcoin",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "global",
+                    "type": "cryptocurrency",
+                    "industry": "N/A",
+                    "match_score": 39.91898,
+                    "sentiment_score": 0.4031,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Bitcoin</em> Hits Record High As Cry[+293 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Adding fuel to the fire, Trump floated t[+301 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Here's What Investors Need To Know - Grayscale <em>Bitcoin</em> Mini Trust (<em>BTC</em>) Common units of fractional undivided beneficial interest (ARCA:BTC)",
+                            "sentiment": 0.8481,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 52.310806,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "Last Friday, the S&P 500 index \u2014 track[+364 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 52.31201,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "Last Friday, the S&P 500 index \u2014 track[+364 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

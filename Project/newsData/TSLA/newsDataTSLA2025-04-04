@@ -1,0 +1,558 @@
+{
+    "meta": {
+        "found": 71,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "01a259b1-3027-48b1-a8ad-881ef6c8f124",
+            "title": "Tesla (TSLA) Cybertruck Sales Falter Amid Safety and Production Challenges",
+            "description": "Summary:\n    Tesla (TSLA) struggles with Cybertruck sales, achieving only a fraction of its target in 2024.    Analyst forecasts show a potential upside, despit",
+            "keywords": "GuruFocus, Article, News, GuruFocus News, TSLA",
+            "snippet": "Summary:\n\nTesla (TSLA, Financial) struggles with Cybertruck sales, achieving only a fraction of its target in 2024.\n\nAnalyst forecasts show a potential upside, ...",
+            "url": "https://www.gurufocus.com/news/2763762/tesla-tsla-cybertruck-sales-falter-amid-safety-and-production-challenges",
+            "image_url": "https://static.gurufocus.com/logos/0C00004EP4.png?20",
+            "language": "en",
+            "published_at": "2025-04-04T22:55:56.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 37.93432,
+                    "sentiment_score": 0.255267,
+                    "highlights": [
+                        {
+                            "highlight": "Summary:\n\n<em>Tesla</em> (TSLA, Financia[+314 characters]",
+                            "sentiment": 0.2815,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Wall Street Analysts Forecast\n\nAccording[+278 characters]",
+                            "sentiment": -0.0772,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Detailed projections and analysis are av[+325 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Further insights from GuruFocus provide [+170 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "For a deeper dive into these metrics, vi[+56 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Tesla</em> (TSLA) Cybertruck Sales Falter Amid Safety and Production Challenges",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TL0.DE",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 37.935204,
+                    "sentiment_score": 0.255267,
+                    "highlights": [
+                        {
+                            "highlight": "Summary:\n\n<em>Tesla</em> (TSLA, Financia[+314 characters]",
+                            "sentiment": 0.2815,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Wall Street Analysts Forecast\n\nAccording[+278 characters]",
+                            "sentiment": -0.0772,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Detailed projections and analysis are av[+325 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Further insights from GuruFocus provide [+170 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "For a deeper dive into these metrics, vi[+56 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Tesla</em> (TSLA) Cybertruck Sales Falter Amid Safety and Production Challenges",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA.MX",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 37.93454,
+                    "sentiment_score": 0.255267,
+                    "highlights": [
+                        {
+                            "highlight": "Summary:\n\n<em>Tesla</em> (TSLA, Financia[+314 characters]",
+                            "sentiment": 0.2815,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Wall Street Analysts Forecast\n\nAccording[+278 characters]",
+                            "sentiment": -0.0772,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Detailed projections and analysis are av[+325 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Further insights from GuruFocus provide [+170 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "For a deeper dive into these metrics, vi[+56 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Tesla</em> (TSLA) Cybertruck Sales Falter Amid Safety and Production Challenges",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA34.SA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 37.932945,
+                    "sentiment_score": 0.255267,
+                    "highlights": [
+                        {
+                            "highlight": "Summary:\n\n<em>Tesla</em> (TSLA, Financia[+314 characters]",
+                            "sentiment": 0.2815,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Wall Street Analysts Forecast\n\nAccording[+278 characters]",
+                            "sentiment": -0.0772,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Detailed projections and analysis are av[+325 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Further insights from GuruFocus provide [+170 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "For a deeper dive into these metrics, vi[+56 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Tesla</em> (TSLA) Cybertruck Sales Falter Amid Safety and Production Challenges",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLAD.BA",
+                    "name": "TESLA INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 37.932907,
+                    "sentiment_score": 0.255267,
+                    "highlights": [
+                        {
+                            "highlight": "Summary:\n\n<em>Tesla</em> (TSLA, Financia[+314 characters]",
+                            "sentiment": 0.2815,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Wall Street Analysts Forecast\n\nAccording[+278 characters]",
+                            "sentiment": -0.0772,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Detailed projections and analysis are av[+325 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Further insights from GuruFocus provide [+170 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "For a deeper dive into these metrics, vi[+56 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Tesla</em> (TSLA) Cybertruck Sales Falter Amid Safety and Production Challenges",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLAC.BA",
+                    "name": "TESLA INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 37.932907,
+                    "sentiment_score": 0.255267,
+                    "highlights": [
+                        {
+                            "highlight": "Summary:\n\n<em>Tesla</em> (TSLA, Financia[+314 characters]",
+                            "sentiment": 0.2815,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Wall Street Analysts Forecast\n\nAccording[+278 characters]",
+                            "sentiment": -0.0772,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Detailed projections and analysis are av[+325 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Further insights from GuruFocus provide [+170 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "For a deeper dive into these metrics, vi[+56 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Tesla</em> (TSLA) Cybertruck Sales Falter Amid Safety and Production Challenges",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": [
+                {
+                    "uuid": "b59df35b-c25a-4078-85ba-0fba2eecf9c1",
+                    "title": "Tesla (TSLA): Market Challenges Amidst Global Competition",
+                    "description": "Key Highlights:\n\n    Tesla's market share drops significantly in major areas like California and Germany.    Analysts set an average price target of $318.",
+                    "keywords": "GuruFocus, Article, News, GuruFocus News, TSLA",
+                    "snippet": "Key Highlights:\n\nTesla's market share drops significantly in major areas like California and Germany.\n\nAnalysts set an average price target of $318.48, implying...",
+                    "url": "https://www.gurufocus.com/news/2763760/tesla-tsla-market-challenges-amidst-global-competition",
+                    "image_url": "https://static.gurufocus.com/logos/0C00004EP4.png?20",
+                    "language": "en",
+                    "published_at": "2025-04-04T22:55:41.000000Z",
+                    "source": "gurufocus.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "TSLA",
+                            "name": "Tesla, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 39.82226,
+                            "sentiment_score": 0.29665,
+                            "highlights": [
+                                {
+                                    "highlight": "Consensus rating for <em>Tesla</em> sits[+335 characters]",
+                                    "sentiment": 0.765,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Wall Street Analysts' Perspective\n\nAnaly[+321 characters]",
+                                    "sentiment": -0.2732,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "For a more in-depth analysis, visit the [+304 characters]",
+                                    "sentiment": 0.5106,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Valuation Metrics and Future Prospects\n\n[+216 characters]",
+                                    "sentiment": 0.7003,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "For further details, explore the <em>Tes[+41 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Tesla</em> (TSLA): Market Challenges Amidst Global Competition",
+                                    "sentiment": 0.0772,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TL0.DE",
+                            "name": "Tesla, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 39.82319,
+                            "sentiment_score": 0.29665,
+                            "highlights": [
+                                {
+                                    "highlight": "Consensus rating for <em>Tesla</em> sits[+335 characters]",
+                                    "sentiment": 0.765,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Wall Street Analysts' Perspective\n\nAnaly[+321 characters]",
+                                    "sentiment": -0.2732,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "For a more in-depth analysis, visit the [+304 characters]",
+                                    "sentiment": 0.5106,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Valuation Metrics and Future Prospects\n\n[+216 characters]",
+                                    "sentiment": 0.7003,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "For further details, explore the <em>Tes[+41 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Tesla</em> (TSLA): Market Challenges Amidst Global Competition",
+                                    "sentiment": 0.0772,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TSLA.MX",
+                            "name": "Tesla, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 39.822483,
+                            "sentiment_score": 0.29665,
+                            "highlights": [
+                                {
+                                    "highlight": "Consensus rating for <em>Tesla</em> sits[+335 characters]",
+                                    "sentiment": 0.765,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Wall Street Analysts' Perspective\n\nAnaly[+321 characters]",
+                                    "sentiment": -0.2732,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "For a more in-depth analysis, visit the [+304 characters]",
+                                    "sentiment": 0.5106,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Valuation Metrics and Future Prospects\n\n[+216 characters]",
+                                    "sentiment": 0.7003,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "For further details, explore the <em>Tes[+41 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Tesla</em> (TSLA): Market Challenges Amidst Global Competition",
+                                    "sentiment": 0.0772,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TSLA34.SA",
+                            "name": "Tesla, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "br",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 39.820786,
+                            "sentiment_score": 0.29665,
+                            "highlights": [
+                                {
+                                    "highlight": "Consensus rating for <em>Tesla</em> sits[+335 characters]",
+                                    "sentiment": 0.765,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Wall Street Analysts' Perspective\n\nAnaly[+321 characters]",
+                                    "sentiment": -0.2732,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "For a more in-depth analysis, visit the [+304 characters]",
+                                    "sentiment": 0.5106,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Valuation Metrics and Future Prospects\n\n[+216 characters]",
+                                    "sentiment": 0.7003,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "For further details, explore the <em>Tes[+41 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Tesla</em> (TSLA): Market Challenges Amidst Global Competition",
+                                    "sentiment": 0.0772,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TSLAD.BA",
+                            "name": "TESLA INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 39.8207,
+                            "sentiment_score": 0.29665,
+                            "highlights": [
+                                {
+                                    "highlight": "Consensus rating for <em>Tesla</em> sits[+335 characters]",
+                                    "sentiment": 0.765,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Wall Street Analysts' Perspective\n\nAnaly[+321 characters]",
+                                    "sentiment": -0.2732,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "For a more in-depth analysis, visit the [+304 characters]",
+                                    "sentiment": 0.5106,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Valuation Metrics and Future Prospects\n\n[+216 characters]",
+                                    "sentiment": 0.7003,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "For further details, explore the <em>Tes[+41 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Tesla</em> (TSLA): Market Challenges Amidst Global Competition",
+                                    "sentiment": 0.0772,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TSLAC.BA",
+                            "name": "TESLA INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 39.8207,
+                            "sentiment_score": 0.29665,
+                            "highlights": [
+                                {
+                                    "highlight": "Consensus rating for <em>Tesla</em> sits[+335 characters]",
+                                    "sentiment": 0.765,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Wall Street Analysts' Perspective\n\nAnaly[+321 characters]",
+                                    "sentiment": -0.2732,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "For a more in-depth analysis, visit the [+304 characters]",
+                                    "sentiment": 0.5106,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Valuation Metrics and Future Prospects\n\n[+216 characters]",
+                                    "sentiment": 0.7003,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "For further details, explore the <em>Tes[+41 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Tesla</em> (TSLA): Market Challenges Amidst Global Competition",
+                                    "sentiment": 0.0772,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

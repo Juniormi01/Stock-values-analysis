@@ -1,0 +1,98 @@
+{
+    "meta": {
+        "found": 2,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "de29d020-0f28-4a91-ab9e-cec97a83ce12",
+            "title": "Intuitive Machines Stock: Should You Buy the Dip?",
+            "description": "Stocks Analysis by The Tokenist (Timothy Fries) covering: Nokia Oyj, Northrop Grumman Corporation, Lockheed Martin Corporation, Columbia Sportswear Company. Read The Tokenist (Timothy Fries)'s latest article on Investing.com",
+            "keywords": "",
+            "snippet": "Following the latest IM-2 mission news, Intuitive Machines Inc (NASDAQ: ) stock is down 54% over the month. Presently holding at $8.95 per share, LUNR stock lev...",
+            "url": "https://www.investing.com/analysis/intuitive-machines-stock-should-you-buy-the-dip-200658078",
+            "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+            "language": "en",
+            "published_at": "2025-03-07T20:17:00.000000Z",
+            "source": "investing.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "COLM",
+                    "name": "Columbia Sportswear Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 17.00386,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "The lander was filled with equipment for[+273 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NOK",
+                    "name": "Nokia Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 12.514557,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "The lander was filled with equipment for[+264 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 16.13515,
+                    "sentiment_score": 0.4215,
+                    "highlights": [
+                        {
+                            "highlight": "Although other aerospace companies have [+239 characters]",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NOC",
+                    "name": "Northrop Grumman Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 20.044899,
+                    "sentiment_score": 0.4215,
+                    "highlights": [
+                        {
+                            "highlight": "Although other aerospace companies have [+239 characters]",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

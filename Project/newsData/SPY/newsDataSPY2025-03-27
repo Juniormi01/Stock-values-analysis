@@ -1,0 +1,152 @@
+{
+    "meta": {
+        "found": 6,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "b90c2e3f-91a7-440b-894e-6decb1a18cc7",
+            "title": "Oil And Gas Executives Rebuke Trump's 'Drill, Baby, Drill' Agenda: 'We Want More Stability' - SPDR Select Sector Fund - Energy Select Sector (ARCA:XLE), SPDR S&P 500 (ARCA:SPY)",
+            "description": "Trump's 2024 presidential campaign focused on lowering prices, but now energy executives are frustrated with his chaotic tariff policy and lack of stability.",
+            "keywords": "",
+            "snippet": "President Donald Trump centered his 2024 election campaign on bringing down prices after a prolonged period of inflation. In particular, Trump called for greate...",
+            "url": "https://www.benzinga.com/markets/commodities/25/03/44522105/oil-and-gas-executives-rebuke-trumps-drill-baby-drill-agenda-we-want-more-stability",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2025/03/27/Oil-Field-Site--In-The-Evening--Oil-Pump.jpeg?width=1200&height=800&fit=crop",
+            "language": "en",
+            "published_at": "2025-03-27T18:35:49.000000Z",
+            "source": "benzinga.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "XLE",
+                    "name": "Energy Select Sector SPDR Fund",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 56.80607,
+                    "sentiment_score": 0.6808,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Energy</em> <em>Select</em> <em>[+239 characters]",
+                            "sentiment": 0.6808,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 64.42551,
+                    "sentiment_score": 0.5267,
+                    "highlights": [
+                        {
+                            "highlight": "The Energy Select Sector SPDR Fund XLE h[+248 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^XLE-IV",
+                    "name": "Energy Select Sector SPDR Fund ",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 56.806034,
+                    "sentiment_score": 0.6808,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Energy</em> <em>Select</em> <em>[+239 characters]",
+                            "sentiment": 0.6808,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^XLE-TC",
+                    "name": "Energy Select Sector SPDR Fund ",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 56.80634,
+                    "sentiment_score": 0.6808,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Energy</em> <em>Select</em> <em>[+239 characters]",
+                            "sentiment": 0.6808,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^XLE-EU",
+                    "name": "Energy Select Sector SPDR Fund ",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 56.806297,
+                    "sentiment_score": 0.6808,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Energy</em> <em>Select</em> <em>[+239 characters]",
+                            "sentiment": 0.6808,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "XLE.MX",
+                    "name": "Energy Select Sector SPDR Fund",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 56.80816,
+                    "sentiment_score": 0.6808,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Energy</em> <em>Select</em> <em>[+239 characters]",
+                            "sentiment": 0.6808,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 64.42848,
+                    "sentiment_score": 0.5267,
+                    "highlights": [
+                        {
+                            "highlight": "The Energy Select Sector SPDR Fund XLE h[+248 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

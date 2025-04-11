@@ -1,0 +1,116 @@
+{
+    "meta": {
+        "found": 1,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "a526bd62-0aee-46bc-905f-c3647ff89c22",
+            "title": "Lockheed Martin Corporation (LMT) Stock Forecasts",
+            "description": "META_DESC_INVESTMENT_IDEA",
+            "keywords": "META_KEYWORDS_INVESTMENT_IDEA",
+            "snippet": "Kristina Ruggeri\n\nAnalyst: Generalist\n\nKristina began working with Argus Research in 2019. She is responsible for covering selected Consumer Discretionary and C...",
+            "url": "https://finance.yahoo.com/research/reports/ARGUS_3150_AnalystReport_1738756359000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+            "image_url": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+            "language": "en",
+            "published_at": "2025-02-05T11:52:39.000000Z",
+            "source": "finance.yahoo.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "LOM.DE",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 157.64743,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Corporation</em> (LMT) Stock Forecasts",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 157.64522,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Corporation</em> (LMT) Stock Forecasts",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LMT.MX",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 157.64143,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Corporation</em> (LMT) Stock Forecasts",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0R3E.L",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 157.63953,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Corporation</em> (LMT) Stock Forecasts",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LMTB34.SA",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 157.63461,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Corporation</em> (LMT) Stock Forecasts",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

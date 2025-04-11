@@ -1,0 +1,62 @@
+{
+    "meta": {
+        "found": 55,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "36773ac8-cf34-45c7-a5b0-a61ee81095b8",
+            "title": "Apple Q1 Earnings: Services Growth And Margin Expansion Make It A Buy (NASDAQ:AAPL)",
+            "description": "Apple is set to continue pumping out innovations that will generate continued margin expansion, sales growth, and product superiority. Learn more on AAPL stock here.",
+            "keywords": "",
+            "snippet": "Meta Platforms, Inc.'s ( META ) CEO Mark Zuckerberg (\u201cZuck\u201d) recently made headlines with several comments during his appearance on the Joe Rogan Experience...",
+            "url": "https://seekingalpha.com/article/4754001-apple-q1-earnings-services-growth-and-margin-expansion-make-it-a-buy",
+            "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1486989073/image_1486989073.jpg?io=getty-c-w1536",
+            "language": "en",
+            "published_at": "2025-01-31T23:06:00.000000Z",
+            "source": "seekingalpha.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 44.711178,
+                    "sentiment_score": 0.3818,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Apple</em> Q1 Earnings: Services Growth And Margin Expansion Make It A Buy (<em>NASDAQ:AAPL</em>)",
+                            "sentiment": 0.3818,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 16.911999,
+                    "sentiment_score": -0.4902,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Meta</em> <em>Platforms</em>, <em>In[+322 characters]",
+                            "sentiment": -0.4902,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

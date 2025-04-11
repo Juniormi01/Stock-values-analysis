@@ -1,0 +1,450 @@
+{
+    "meta": {
+        "found": 2,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "132fed7b-b3f3-4266-9b80-90cd485382b4",
+            "title": "US Stocks Likely To Open Mixed: 'Volatility Doesn't Equal ...Financial Loss Unless You Sell,' Says Expert - Alibaba Gr Hldgs (NYSE:BABA), Brady (NYSE:BRC)",
+            "description": "U.S. stock futures were flat and swung between gains and losses on Friday after Thursday's decline. S&P 500 futures declined, others rose.",
+            "keywords": "",
+            "snippet": "U.S. stock futures were flat and swung between gains and losses on Friday following Thursday\u2019s decline. The S&P 500 futures were trading a little below the fl...",
+            "url": "https://www.benzinga.com/25/02/43877634/us-stocks-fluctuate-in-preopen-volatility-doesnt-equal-financial-loss-unless-you-sell-says-expert",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2025/02/21/Closeup-Of-Wall-St--Street-Sign-And-Larg.jpeg?width=1200&height=800&fit=crop",
+            "language": "en",
+            "published_at": "2025-02-21T11:38:38.000000Z",
+            "source": "benzinga.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "WMT",
+                    "name": "Walmart Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 11.856427,
+                    "sentiment_score": 0.6582,
+                    "highlights": [
+                        {
+                            "highlight": "Jobless claims for the week ending Feb. [+293 characters]",
+                            "sentiment": 0.6582,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TDS-PU",
+                    "name": "Telephone and Data Systems, Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 22.602491,
+                    "sentiment_score": -0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "Stocks In Focus:\n\n<em>Telephone</em> <em[+293 characters]",
+                            "sentiment": -0.0258,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TDS-PV",
+                    "name": "Telephone and Data Systems, Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 22.602499,
+                    "sentiment_score": -0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "Stocks In Focus:\n\n<em>Telephone</em> <em[+293 characters]",
+                            "sentiment": -0.0258,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BTBT",
+                    "name": "Bit Digital, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 18.77758,
+                    "sentiment_score": 0.25,
+                    "highlights": [
+                        {
+                            "highlight": "SLNH rose 1.38% and <em>Bit</em> <em>Dig[+211 characters]",
+                            "sentiment": 0.25,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "CELH",
+                    "name": "Celsius Holdings, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 23.005926,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Celsius</em> <em>Holdings</em> <em>I[+201 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "WMTD.BA",
+                    "name": "WALMART INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 11.85673,
+                    "sentiment_score": 0.6582,
+                    "highlights": [
+                        {
+                            "highlight": "Jobless claims for the week ending Feb. [+293 characters]",
+                            "sentiment": 0.6582,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "WMTC.BA",
+                    "name": "WALMART INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 11.85673,
+                    "sentiment_score": 0.6582,
+                    "highlights": [
+                        {
+                            "highlight": "Jobless claims for the week ending Feb. [+293 characters]",
+                            "sentiment": 0.6582,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "WMT.SN",
+                    "name": "Walmart Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 11.856646,
+                    "sentiment_score": 0.6582,
+                    "highlights": [
+                        {
+                            "highlight": "Jobless claims for the week ending Feb. [+293 characters]",
+                            "sentiment": 0.6582,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "WALMARTCL.SN",
+                    "name": "WALMART INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 11.856632,
+                    "sentiment_score": 0.6582,
+                    "highlights": [
+                        {
+                            "highlight": "Jobless claims for the week ending Feb. [+293 characters]",
+                            "sentiment": 0.6582,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "QQQ",
+                    "name": "Invesco QQQ Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 32.697777,
+                    "sentiment_score": 0.7717,
+                    "highlights": [
+                        {
+                            "highlight": "Futures Change (+/-) Nasdaq 100 0.08% S&[+331 characters]",
+                            "sentiment": 0.7717,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 37.34314,
+                    "sentiment_score": 0.7717,
+                    "highlights": [
+                        {
+                            "highlight": "Futures Change (+/-) Nasdaq 100 0.08% S&[+358 characters]",
+                            "sentiment": 0.7717,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^BSESN",
+                    "name": "S&P BSE SENSEX",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "in",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 30.217707,
+                    "sentiment_score": 0.3612,
+                    "highlights": [
+                        {
+                            "highlight": "Except for Australia's ASX 200, and Indi[+260 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "DBX",
+                    "name": "Dropbox, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 19.85167,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Dropbox</em> <em>Inc</em>. DBX plung[+166 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BABA",
+                    "name": "Alibaba Group Holding Limited",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 35.309776,
+                    "sentiment_score": 0.40375,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Alibaba</em> <em>Group</em> <em>Hold[+327 characters]",
+                            "sentiment": 0.7096,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "US Stocks Likely To Open Mixed: 'Volatility Doesn't Equal ...Financial Loss Unless You Sell,' Says Expert - Alibaba Gr Hldgs (<em>NYSE:BABA</em>), Brady (NYSE:BRC)",
+                            "sentiment": 0.0979,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TDS",
+                    "name": "Telephone and Data Systems, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 22.60152,
+                    "sentiment_score": -0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "Stocks In Focus:\n\n<em>Telephone</em> <em[+293 characters]",
+                            "sentiment": -0.0258,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BRC",
+                    "name": "Brady Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 51.356842,
+                    "sentiment_score": 0.35515,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Brady</em> Corp. BRC was 0.09% highe[+200 characters]",
+                            "sentiment": 0.6124,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "US Stocks Likely To Open Mixed: 'Volatility Doesn't Equal ...Financial Loss Unless You Sell,' Says Expert - Alibaba Gr Hldgs (NYSE:BABA), <em>Brady</em> (<em>NYSE:BRC</em>)",
+                            "sentiment": 0.0979,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^N225",
+                    "name": "Nikkei 225",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "jp",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 17.704018,
+                    "sentiment_score": 0.3612,
+                    "highlights": [
+                        {
+                            "highlight": "Except for Australia's ASX 200, and Indi[+242 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "WMT.DE",
+                    "name": "Walmart Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 11.856422,
+                    "sentiment_score": 0.6582,
+                    "highlights": [
+                        {
+                            "highlight": "Jobless claims for the week ending Feb. [+293 characters]",
+                            "sentiment": 0.6582,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "1Q5.DE",
+                    "name": "Dropbox, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 14.749126,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Dropbox</em> <em>Inc</em>. DBX plung[+166 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "DBX.MX",
+                    "name": "Dropbox, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 14.74787,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Dropbox</em> <em>Inc</em>. DBX plung[+166 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "WMT.MX",
+                    "name": "Walmart Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 11.856181,
+                    "sentiment_score": 0.6582,
+                    "highlights": [
+                        {
+                            "highlight": "Jobless claims for the week ending Feb. [+293 characters]",
+                            "sentiment": 0.6582,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BTBTN.MX",
+                    "name": "Bit Digital, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 13.674893,
+                    "sentiment_score": 0.25,
+                    "highlights": [
+                        {
+                            "highlight": "SLNH rose 1.38% and <em>Bit</em> <em>Dig[+211 characters]",
+                            "sentiment": 0.25,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "399233.SZ",
+                    "name": "MANUFACTURING INDEX",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cz",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 13.227224,
+                    "sentiment_score": 0.6582,
+                    "highlights": [
+                        {
+                            "highlight": "Jobless claims for the week ending Feb. [+293 characters]",
+                            "sentiment": 0.6582,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

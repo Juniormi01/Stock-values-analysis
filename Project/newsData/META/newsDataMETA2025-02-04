@@ -1,0 +1,662 @@
+{
+    "meta": {
+        "found": 15,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "fc0d5918-60ce-440e-86cd-b6d82f36cc9f",
+            "title": "Assessing Meta Platforms's Performance Against Competitors In Interactive Media & Services Industry - Meta Platforms (NASDAQ:META)",
+            "description": "",
+            "keywords": "",
+            "snippet": "In today's fast-paced and highly competitive business world, it is crucial for investors and industry followers to conduct comprehensive company evaluations. In...",
+            "url": "https://www.benzinga.com/insights/news/25/02/43465462/assessing-meta-platformss-performance-against-competitors-in-interactive-media-amp-services-industr",
+            "image_url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "language": "en",
+            "published_at": "2025-02-04T15:03:51.000000Z",
+            "source": "benzinga.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "GOOGL.MX",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.977443,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "Company P/E P/B P/S ROE EBITDA (in billi[+330 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG.MX",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.977443,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "Company P/E P/B P/S ROE EBITDA (in billi[+330 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BIDUN.MX",
+                    "name": "Baidu, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 17.183418,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "Company P/E P/B P/S ROE EBITDA (in billi[+330 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PINS.MX",
+                    "name": "Pinterest, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 14.42727,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "Company P/E P/B P/S ROE EBITDA (in billi[+330 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 8.871244,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "Company P/E P/B P/S ROE EBITDA (in billi[+330 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.976878,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "Company P/E P/B P/S ROE EBITDA (in billi[+330 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 41.876755,
+                    "sentiment_score": 0.17,
+                    "highlights": [
+                        {
+                            "highlight": "Company P/E P/B P/S ROE EBITDA (in billi[+339 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Assessing Meta Platforms's Performance Against Competitors In Interactive Media & Services Industry - Meta Platforms (<em>NASDAQ:META</em>)",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BIDU",
+                    "name": "Baidu, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 17.183159,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "Company P/E P/B P/S ROE EBITDA (in billi[+330 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "YYN.MX",
+                    "name": "JOYY Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 21.29914,
+                    "sentiment_score": -0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "$9.27 $17.16 -2.58% Pinterest Inc 103.38[+323 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em> 13.50 0.46 1.24 1.17% $0.06[+318 characters]",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "YY",
+                    "name": "JOYY Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 21.296577,
+                    "sentiment_score": -0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "$9.27 $17.16 -2.58% Pinterest Inc 103.38[+323 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em> 13.50 0.46 1.24 1.17% $0.06[+318 characters]",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ZI",
+                    "name": "ZoomInfo Technologies Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 28.792614,
+                    "sentiment_score": 0.17,
+                    "highlights": [
+                        {
+                            "highlight": "P/S ROE EBITDA (in billions) Gross Profi[+326 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Technologies</em> <em>Inc</em> 339.3[+332 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TRIP",
+                    "name": "TripAdvisor, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 17.548542,
+                    "sentiment_score": -0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "8.55% $35.74 $51.79 15.09% Baidu Inc 11.[+333 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em> 66.42 2.55 1.42 4.33% $0.1 [+318 characters]",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TRIP.MX",
+                    "name": "TripAdvisor, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 17.5483,
+                    "sentiment_score": -0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "8.55% $35.74 $51.79 15.09% Baidu Inc 11.[+333 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em> 66.42 2.55 1.42 4.33% $0.1 [+318 characters]",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PINS",
+                    "name": "Pinterest, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 14.426991,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "Company P/E P/B P/S ROE EBITDA (in billi[+330 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "YELP",
+                    "name": "Yelp Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 19.333153,
+                    "sentiment_score": 0.3159,
+                    "highlights": [
+                        {
+                            "highlight": "Growth Meta Platforms Inc 29.23 9.68 11.[+326 characters]",
+                            "sentiment": 0.3818,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em> 24.14 3.52 2.05 5.21% $0.06[+320 characters]",
+                            "sentiment": 0.25,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0QZS.L",
+                    "name": "TripAdvisor, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 17.548153,
+                    "sentiment_score": -0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "8.55% $35.74 $51.79 15.09% Baidu Inc 11.[+333 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em> 66.42 2.55 1.42 4.33% $0.1 [+318 characters]",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BAIDF",
+                    "name": "BAIDU INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 17.182491,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "Company P/E P/B P/S ROE EBITDA (in billi[+330 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "9888.HK",
+                    "name": "Baidu, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "hk",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 17.184116,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "Company P/E P/B P/S ROE EBITDA (in billi[+330 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "P2IN34.SA",
+                    "name": "Pinterest, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 14.427069,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "Company P/E P/B P/S ROE EBITDA (in billi[+330 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.BA",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.978762,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "Company P/E P/B P/S ROE EBITDA (in billi[+330 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "YELP.BA",
+                    "name": "Yelp Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 19.33685,
+                    "sentiment_score": 0.3159,
+                    "highlights": [
+                        {
+                            "highlight": "Growth Meta Platforms Inc 29.23 9.68 11.[+326 characters]",
+                            "sentiment": 0.3818,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em> 24.14 3.52 2.05 5.21% $0.06[+320 characters]",
+                            "sentiment": 0.25,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BIDU.BA",
+                    "name": "Baidu, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 17.183783,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "Company P/E P/B P/S ROE EBITDA (in billi[+330 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BIDUD.BA",
+                    "name": "BAIDU INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 17.183783,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "Company P/E P/B P/S ROE EBITDA (in billi[+330 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TRIP.BA",
+                    "name": "TripAdvisor, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 17.54792,
+                    "sentiment_score": -0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "8.55% $35.74 $51.79 15.09% Baidu Inc 11.[+333 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em> 66.42 2.55 1.42 4.33% $0.1 [+318 characters]",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOGLD.BA",
+                    "name": "ALPHABET INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 13.978774,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "Company P/E P/B P/S ROE EBITDA (in billi[+330 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "YY.BA",
+                    "name": "JOYY Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 21.303772,
+                    "sentiment_score": -0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "$9.27 $17.16 -2.58% Pinterest Inc 103.38[+323 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em> 13.50 0.46 1.24 1.17% $0.06[+318 characters]",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.978378,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "Company P/E P/B P/S ROE EBITDA (in billi[+330 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.978378,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "Company P/E P/B P/S ROE EBITDA (in billi[+330 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGCL.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 13.978378,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "Company P/E P/B P/S ROE EBITDA (in billi[+330 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ABEA.DE",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.97756,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "Company P/E P/B P/S ROE EBITDA (in billi[+330 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ABEC.DE",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.977452,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "Company P/E P/B P/S ROE EBITDA (in billi[+330 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "T6A.DE",
+                    "name": "TripAdvisor, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 17.546597,
+                    "sentiment_score": -0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "8.55% $35.74 $51.79 15.09% Baidu Inc 11.[+333 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em> 66.42 2.55 1.42 4.33% $0.1 [+318 characters]",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

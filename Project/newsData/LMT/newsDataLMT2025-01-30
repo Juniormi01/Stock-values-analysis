@@ -1,0 +1,137 @@
+{
+    "meta": {
+        "found": 5,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "ac2ae802-e4e5-4d0f-85ec-0d3e6e475a46",
+            "title": "Lockheed Martin Stock: A Buy With $565 Price Target (NYSE:LMT)",
+            "description": "Lockheed Martin had a rough Q4, missing sales and EPS estimates, with unplanned charges impacting earnings. Despite the poor results, the stock is still a buy, offering 24% upside.",
+            "keywords": "",
+            "snippet": "If you want full access to all our reports, data and investing ideas, join The Aerospace Forum , the #1 aerospace, defense and airline investment research servi...",
+            "url": "https://seekingalpha.com/article/4753585-lockheed-martin-stock-a-buy-with-565-price-target",
+            "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2019581437/image_2019581437.jpg?io=getty-c-w1536",
+            "language": "en",
+            "published_at": "2025-01-30T21:38:19.000000Z",
+            "source": "seekingalpha.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 94.49304,
+                    "sentiment_score": 0.148,
+                    "highlights": [
+                        {
+                            "highlight": "I discussed the prospects of <em>Lockhee[+171 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> Stock: A Buy With $565 Price Target (<em>NYSE:LMT</em>)",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": [
+                {
+                    "uuid": "89d0906d-953f-43fa-9486-f5a8f5e59b70",
+                    "title": "The Zacks Analyst Blog Highlights American Express, Lockheed Martin, Constellation Energy and Crawford United",
+                    "description": "American Express, Lockheed Martin, Constellation Energy and Crawford United are part of the Zacks top Analyst Blog.",
+                    "keywords": "stock, stocks, investment, investment advice, investing, online trading, online investment, online stock trading, stock market, financial, financial planning, quote, quotes, stock quotes",
+                    "snippet": "This page has not been authorized, sponsored, or otherwise approved or endorsed by the companies represented herein. Each of the company logos represented herei...",
+                    "url": "https://www.zacks.com/stock/news/2406684/the-zacks-analyst-blog-highlights-american-express-lockheed-martin-constellation-energy-and-crawford-united?cid=CS-ZC-FT-press_releases-2406684",
+                    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/8c/1247.jpg",
+                    "language": "en",
+                    "published_at": "2025-01-30T14:48:00.000000Z",
+                    "source": "zacks.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "AXP",
+                            "name": "American Express Company",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Financial Services",
+                            "match_score": 47.016136,
+                            "sentiment_score": 0.5994,
+                            "highlights": [
+                                {
+                                    "highlight": "The Zacks Analyst Blog Highlights <em>American</em> <em>Express</em>, Lockheed Martin, Constellation Energy and Crawford United",
+                                    "sentiment": 0.5994,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "LMT",
+                            "name": "Lockheed Martin Corporation",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Industrials",
+                            "match_score": 54.971542,
+                            "sentiment_score": 0.5994,
+                            "highlights": [
+                                {
+                                    "highlight": "The Zacks Analyst Blog Highlights American Express, <em>Lockheed</em> <em>Martin</em>, Constellation Energy and Crawford United",
+                                    "sentiment": 0.5994,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "CRD-A",
+                            "name": "Crawford & Company",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Financial Services",
+                            "match_score": 35.326588,
+                            "sentiment_score": 0.5994,
+                            "highlights": [
+                                {
+                                    "highlight": "The Zacks Analyst Blog Highlights American Express, Lockheed Martin, Constellation Energy and <em>Crawford</em> United",
+                                    "sentiment": 0.5994,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "CRD-B",
+                            "name": "Crawford & Company",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Financial Services",
+                            "match_score": 35.326588,
+                            "sentiment_score": 0.5994,
+                            "highlights": [
+                                {
+                                    "highlight": "The Zacks Analyst Blog Highlights American Express, Lockheed Martin, Constellation Energy and <em>Crawford</em> United",
+                                    "sentiment": 0.5994,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

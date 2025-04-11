@@ -1,0 +1,80 @@
+{
+    "meta": {
+        "found": 8,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "acdf8058-95d3-4fb5-91c7-2815ca96a7f5",
+            "title": "Fed Minutes Reveal Officials See 'High Degree Of Uncertainty' Requiring 'A Careful Approach' On Rate Cuts - SPDR S&P 500 (ARCA:SPY)",
+            "description": "Minutes from the January Federal Open Market Committee (FOMC) meeting released Wednesday showed many of the Federal Reserve's policymakers stressed the need for additional evidence that inflation was cooling before any further interest rate cuts could be considered.",
+            "keywords": "",
+            "snippet": "Minutes from the January Federal Open Market Committee (FOMC) meeting released Wednesday showed many of the Federal Reserve's policymakers stressed the need for...",
+            "url": "https://www.benzinga.com/25/02/43829352/fomc-minutes",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2025/02/19/Federal-Reserve-Photo-by-MDart10-on-Shut.jpeg?width=1200&height=800&fit=crop",
+            "language": "en",
+            "published_at": "2025-02-19T20:54:43.000000Z",
+            "source": "benzinga.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 64.53322,
+                    "sentiment_score": 0.5106,
+                    "highlights": [
+                        {
+                            "highlight": "Major U.S. indices are mixed in late tra[+306 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "QQQ",
+                    "name": "Invesco QQQ Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 52.310234,
+                    "sentiment_score": 0.5106,
+                    "highlights": [
+                        {
+                            "highlight": "Major U.S. indices are mixed in late tra[+279 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 64.53284,
+                    "sentiment_score": 0.5106,
+                    "highlights": [
+                        {
+                            "highlight": "Major U.S. indices are mixed in late tra[+306 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

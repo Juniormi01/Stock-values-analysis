@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "found": 19,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "355f1e07-ef5b-4400-a265-155e7128fccf",
+            "title": "Tesla fell to its lowest level of 2025 amid concerns over sales in Europe (TSLA:NASDAQ)",
+            "description": "Tesla (TSLA) stock hits 2025 low amid weakening demand in Europe, with sales plunging in key markets.",
+            "keywords": "",
+            "snippet": "Tesla (NASDAQ:TSLA) fell to its lowest trading level in 2025 on Wednesday amid more signs that demand in Europe may be faltering.\n\nDuring January, Tesla's (NASD...",
+            "url": "https://seekingalpha.com/news/4404094-tesla-fell-to-its-lowest-level-of-2025-amid-concerns-over-sales-in-europe",
+            "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/187005526/image_187005526.jpg?io=getty-c-w750",
+            "language": "en",
+            "published_at": "2025-02-05T23:58:41.000000Z",
+            "source": "seekingalpha.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 35.72849,
+                    "sentiment_score": -0.4537,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Tesla</em> (<em>NASDAQ:TSLA</em>) fe[+279 characters]",
+                            "sentiment": -0.5256,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Tesla</em> fell to its lowest level of 2025 amid concerns over sales in Europe (TSLA:NASDAQ)",
+                            "sentiment": -0.3818,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

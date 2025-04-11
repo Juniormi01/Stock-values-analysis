@@ -1,0 +1,67 @@
+{
+    "meta": {
+        "found": 46,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "644a714a-d372-4b8f-8bd7-58cb66ddee43",
+            "title": "Ray Dalio's Bridgewater takes new stake in Tesla, exits Micron & Goldman Sachs in Q4 moves",
+            "description": "Billionaire investor Ray Dalio's Bridgewater Associates took a new stake in Tesla among its Q4 moves. Read more here.",
+            "keywords": "",
+            "snippet": "Billionaire investor Ray Dalio's Bridgewater Associates took a new stake in Tesla (NASDAQ:TSLA), dumped its positions in Micron Technology (NASDAQ:MU) and Goldm...",
+            "url": "https://seekingalpha.com/news/4408291-ray-dalios-bridgewater-takes-new-stake-in-tesla-exits-micron-goldman-sachs-in-q4-moves",
+            "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1500886695/image_1500886695.jpg?io=getty-c-w750",
+            "language": "en",
+            "published_at": "2025-02-13T23:47:23.000000Z",
+            "source": "seekingalpha.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 33.638195,
+                    "sentiment_score": -0.20095,
+                    "highlights": [
+                        {
+                            "highlight": "Billionaire investor Ray Dalio's Bridgew[+207 characters]",
+                            "sentiment": -0.4019,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Ray Dalio's Bridgewater takes new stake in <em>Tesla</em>, exits Micron & Goldman Sachs in Q4 moves",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MU",
+                    "name": "Micron Technology, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 36.11108,
+                    "sentiment_score": -0.4019,
+                    "highlights": [
+                        {
+                            "highlight": "Billionaire investor Ray Dalio's Bridgew[+216 characters]",
+                            "sentiment": -0.4019,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

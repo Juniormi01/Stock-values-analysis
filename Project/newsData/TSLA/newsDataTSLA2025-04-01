@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "found": 65,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "8759b759-58cb-4467-98a6-f88b0114a8e3",
+            "title": "Stock market today: Dow, S&P 500, Nasdaq futures slide as investors brace for Trump's tariff bazooka",
+            "description": "US stock futures rose as Wall Street braced for President Trump's announcement of new tariffs that stand to remake the global trade order.",
+            "keywords": "President Trump, US stock futures, trade war",
+            "snippet": "US stock futures retreated on Wednesday as Wall Street braced for President Trump to reveal details of sweeping new tariffs that promise to profoundly shake up ...",
+            "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slide-as-investors-brace-for-trumps-tariff-bazooka-235027101.html",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/AYrVrzes_u0wg9bGMnjDAQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-03/6c62cc90-0e42-11f0-b7fe-d0652612fa13",
+            "language": "en",
+            "published_at": "2025-04-01T23:50:27.000000Z",
+            "source": "finance.yahoo.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 26.077269,
+                    "sentiment_score": -0.3612,
+                    "highlights": [
+                        {
+                            "highlight": "Contracts on the tech-heavy Nasdaq 100 ([+232 characters]",
+                            "sentiment": -0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

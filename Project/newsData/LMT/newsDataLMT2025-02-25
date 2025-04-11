@@ -1,0 +1,279 @@
+{
+    "meta": {
+        "found": 2,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "00ba40c5-4aca-4d9c-91a2-a0d9f994d85a",
+            "title": "10 Best Retirement Stocks to Buy According to Hedge Funds",
+            "description": "After much suspense, the US Federal Reserve finally began cutting interest rates in late 2024, dropping the federal funds rate by 75 basis points in two cuts in September and November, with the market...",
+            "keywords": "",
+            "snippet": "In this article, we will take a look at the 10 Best Retirement Stocks to Buy According to Hedge Funds.\n\nAfter much suspense, the US Federal Reserve finally bega...",
+            "url": "https://www.insidermonkey.com/blog/10-best-retirement-stocks-to-buy-according-to-hedge-funds-1460586/",
+            "image_url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/10/08055616/max-harlynking-DGP-759-Ukk-unsplash.jpg",
+            "language": "en",
+            "published_at": "2025-02-25T19:07:59.000000Z",
+            "source": "insidermonkey.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "LMTB34.SA",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 36.95256,
+                    "sentiment_score": 0.3454,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Co[+330 characters]",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Delaware Ivy Core Equity Fund stated the[+118 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "UPSS34.SA",
+                    "name": "United Parcel Service, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 43.90693,
+                    "sentiment_score": 0.02035,
+                    "highlights": [
+                        {
+                            "highlight": "<em>United</em> <em>Parcel</em> <em>Serv[+402 characters]",
+                            "sentiment": 0.4019,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "On January 31, UBS analyst Thomas Wadewi[+326 characters]",
+                            "sentiment": -0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "UPS.SN",
+                    "name": "United Parcel Service, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 43.90676,
+                    "sentiment_score": 0.02035,
+                    "highlights": [
+                        {
+                            "highlight": "<em>United</em> <em>Parcel</em> <em>Serv[+402 characters]",
+                            "sentiment": 0.4019,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "On January 31, UBS analyst Thomas Wadewi[+326 characters]",
+                            "sentiment": -0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 50.415527,
+                    "sentiment_score": 0.3454,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Co[+348 characters]",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Delaware Ivy Core Equity Fund stated the[+127 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "UPS",
+                    "name": "United Parcel Service, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 59.411392,
+                    "sentiment_score": 0.5308,
+                    "highlights": [
+                        {
+                            "highlight": "<em>United</em> <em>Parcel</em> <em>Serv[+420 characters]",
+                            "sentiment": 0.4019,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "(<em>NYSE:UPS</em>) currently pays a qua[+363 characters]",
+                            "sentiment": 0.6597,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "UPAB.DE",
+                    "name": "United Parcel Service, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 43.904327,
+                    "sentiment_score": 0.02035,
+                    "highlights": [
+                        {
+                            "highlight": "<em>United</em> <em>Parcel</em> <em>Serv[+402 characters]",
+                            "sentiment": 0.4019,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "On January 31, UBS analyst Thomas Wadewi[+326 characters]",
+                            "sentiment": -0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LOM.DE",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 36.954445,
+                    "sentiment_score": 0.3454,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Co[+330 characters]",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Delaware Ivy Core Equity Fund stated the[+118 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "UPS.MX",
+                    "name": "United Parcel Service, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 43.90296,
+                    "sentiment_score": 0.02035,
+                    "highlights": [
+                        {
+                            "highlight": "<em>United</em> <em>Parcel</em> <em>Serv[+402 characters]",
+                            "sentiment": 0.4019,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "On January 31, UBS analyst Thomas Wadewi[+326 characters]",
+                            "sentiment": -0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LMT.MX",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 36.954983,
+                    "sentiment_score": 0.3454,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Co[+330 characters]",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Delaware Ivy Core Equity Fund stated the[+118 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0R3E.L",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 36.955128,
+                    "sentiment_score": 0.3454,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Co[+330 characters]",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Delaware Ivy Core Equity Fund stated the[+118 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0R08.L",
+                    "name": "United Parcel Service, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 43.902275,
+                    "sentiment_score": 0.02035,
+                    "highlights": [
+                        {
+                            "highlight": "<em>United</em> <em>Parcel</em> <em>Serv[+402 characters]",
+                            "sentiment": 0.4019,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "On January 31, UBS analyst Thomas Wadewi[+326 characters]",
+                            "sentiment": -0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

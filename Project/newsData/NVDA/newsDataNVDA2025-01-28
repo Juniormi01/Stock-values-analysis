@@ -1,0 +1,134 @@
+{
+    "meta": {
+        "found": 151,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "35822570-03ab-4004-ba77-54d67f4eb874",
+            "title": "Australia stocks rise as Wall Street stages a sharp recovery; most Asia markets closed for holiday",
+            "description": "Economists polled by Reuters expect Australia's inflation to rise 2.5% in the 12 months to the December quarter, from 2.8% in the previous year.",
+            "keywords": "Japan, Asia Economy, Markets, Breaking News: Markets, NVIDIA Corp, business news",
+            "snippet": "Cityscape image of Sydney, Australia with Harbor Bridge and Sydney skyline during sunset. Vacation and travel in Australia.\n\nAustralian stocks rose 0.38% Wednes...",
+            "url": "https://www.cnbc.com/2025/01/29/asia-markets-live-updates-australia-markets-rise-japan-to-open-higher.html",
+            "image_url": "https://image.cnbcfm.com/api/v1/image/108093217-1738040566631-gettyimages-1164361532-ake07321.jpeg?v=1738040585&w=1920&h=1080",
+            "language": "en",
+            "published_at": "2025-01-28T23:55:38.000000Z",
+            "source": "cnbc.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "XLK",
+                    "name": "Technology Select Sector SPDR Fund",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 57.216988,
+                    "sentiment_score": -0.3182,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Technology</em> <em>Select</em> [+348 characters]",
+                            "sentiment": -0.3182,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^N225",
+                    "name": "Nikkei 225",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "jp",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 30.616457,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Japan benchmark <em>Nikkei</em> <em>225<[+174 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGO",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 15.226252,
+                    "sentiment_score": 0.296,
+                    "highlights": [
+                        {
+                            "highlight": "Other tech giants like <em>Broadcom</em>[+168 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGOP",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 15.226252,
+                    "sentiment_score": 0.296,
+                    "highlights": [
+                        {
+                            "highlight": "Other tech giants like <em>Broadcom</em>[+168 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 12.396016,
+                    "sentiment_score": 0.1027,
+                    "highlights": [
+                        {
+                            "highlight": "All eyes were on <em>Nvidia</em> which p[+207 characters]",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "XLK.MX",
+                    "name": "Technology Select Sector SPDR Fund",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 57.215515,
+                    "sentiment_score": -0.3182,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Technology</em> <em>Select</em> [+348 characters]",
+                            "sentiment": -0.3182,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

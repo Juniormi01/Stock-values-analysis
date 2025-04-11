@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "found": 51,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "bd37651c-bc27-458a-ab9a-afff20004a4d",
+            "title": "Nvidia: From DeepSeek To Trade War, Loading Up At $100 Before Q4 (Upgrade) (NASDAQ:NVDA)",
+            "description": "Financial writer discusses how the recent stock dip in Nvidia Corporation is a buying opportunity ahead of Q4 earnings. Click for this NVDA stock update.",
+            "keywords": "",
+            "snippet": "This is just one of many exciting and fairly priced tech stocks you can buy right now!\n\nThe Pragmatic Investor covers global macro, international equities, comm...",
+            "url": "https://seekingalpha.com/article/4754447-nvidia-from-deepseek-to-trade-war-loading-up-at-100-before-q4-upgrade",
+            "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1226749956/image_1226749956.jpg?io=getty-c-w1536",
+            "language": "en",
+            "published_at": "2025-02-03T22:35:01.000000Z",
+            "source": "seekingalpha.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 49.68964,
+                    "sentiment_score": -0.5994,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Nvidia</em>: From DeepSeek To Trade War, Loading Up At $100 Before Q4 (Upgrade) (<em>NASDAQ:NVDA</em>)",
+                            "sentiment": -0.5994,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

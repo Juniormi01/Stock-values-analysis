@@ -1,0 +1,711 @@
+{
+    "meta": {
+        "found": 7,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "9c8a6d69-3dbb-4d50-afed-6737113e8876",
+            "title": "S&P 500 Rallies On Best Day In 2 Months As Recession Fears Ease, Tesla Rockets, Bitcoin Hits $88,000: What's Driving Markets Monday? - Advanced Micro Devices (NASDAQ:AMD)",
+            "description": "Wall Street soared Monday, kicking off the week in full risk-on mode as investors welcomed signs of easing trade tensions and stronger-than-expected economic data.",
+            "keywords": "",
+            "snippet": "Wall Street soared Monday, kicking off the week in full risk-on mode as investors welcomed signs of easing trade tensions and stronger-than-expected economic da...",
+            "url": "https://www.benzinga.com/government/regulations/25/03/44461884/sp-500-rallies-on-best-day-in-2-months-as-recession-fears-ease-tesla-rockets-bitcoin-hits-",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2025/03/24/Businessman-Markets-Shutterstock.jpeg?width=1200&height=800&fit=crop",
+            "language": "en",
+            "published_at": "2025-03-24T17:00:26.000000Z",
+            "source": "benzinga.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "TSLAD.BA",
+                    "name": "TESLA INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 21.229172,
+                    "sentiment_score": 0.5017,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Tesla</em> <em>Inc</em>. TSLA led th[+119 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "S&P 500 Rallies On Best Day In 2 Months As Recession Fears Ease, <em>Tesla</em> Rockets, Bitcoin Hits $88,000: What's Driving Markets Monday? - Advanced Micro Devices (NASDAQ:AMD)",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLAC.BA",
+                    "name": "TESLA INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 21.229107,
+                    "sentiment_score": 0.5017,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Tesla</em> <em>Inc</em>. TSLA led th[+119 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "S&P 500 Rallies On Best Day In 2 Months As Recession Fears Ease, <em>Tesla</em> Rockets, Bitcoin Hits $88,000: What's Driving Markets Monday? - Advanced Micro Devices (NASDAQ:AMD)",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "IWM.SN",
+                    "name": "iShares Russell 2000 ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 38.76813,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>iShares</em> <em>Russell</em> <e[+294 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TLT",
+                    "name": "iShares 20+ Year Treasury Bond ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 52.551224,
+                    "sentiment_score": -0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "The 10-year yield jumped seven basis poi[+352 characters]",
+                            "sentiment": -0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMD",
+                    "name": "Advanced Micro Devices, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 92.88062,
+                    "sentiment_score": 0.148,
+                    "highlights": [
+                        {
+                            "highlight": "Shares of <em>Advanced</em> <em>Micro</e[+213 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "- <em>Advanced</em> <em>Micro</em> <em>Devices</em> (<em>NASDAQ:AMD</em>)",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "UAL",
+                    "name": "United Airlines Holdings, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 31.889582,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "<em>United</em> <em>Airlines</em> <em>Ho[+166 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 27.00388,
+                    "sentiment_score": 0.5017,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Tesla</em> <em>Inc</em>. TSLA led th[+119 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "S&P 500 Rallies On Best Day In 2 Months As Recession Fears Ease, <em>Tesla</em> Rockets, Bitcoin Hits $88,000: What's Driving Markets Monday? - Advanced Micro Devices (NASDAQ:AMD)",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "COIN",
+                    "name": "Coinbase Global, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 31.000809,
+                    "sentiment_score": 0.5106,
+                    "highlights": [
+                        {
+                            "highlight": "MSTR jumped 7.4% and <em>Coinbase</em> <[+346 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "DAL",
+                    "name": "Delta Air Lines, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 27.892492,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "UAL , <em>Delta</em> <em>Air</em> <em>Li[+136 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "QQQ",
+                    "name": "Invesco QQQ Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 39.74716,
+                    "sentiment_score": -0.296,
+                    "highlights": [
+                        {
+                            "highlight": "The tech-heavy <em>Invesco</em> <em>QQQ<[+296 characters]",
+                            "sentiment": -0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "XLY",
+                    "name": "Consumer Discretionary Select Sector SPDR Fund",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 52.727676,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "The iShares Russell 2000 ETF IWM soared [+312 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "IWM",
+                    "name": "iShares Russell 2000 ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 38.768604,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>iShares</em> <em>Russell</em> <e[+294 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "XLU",
+                    "name": "Utilities Select Sector SPDR Fund",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 44.729675,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "The iShares Russell 2000 ETF IWM soared [+303 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 46.04934,
+                    "sentiment_score": 0.5106,
+                    "highlights": [
+                        {
+                            "highlight": "ET\n\nAccording to Benzinga Pro data:\n\nThe[+304 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMD.DE",
+                    "name": "Advanced Micro Devices, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 65.11594,
+                    "sentiment_score": 0.148,
+                    "highlights": [
+                        {
+                            "highlight": "Shares of <em>Advanced</em> <em>Micro</e[+213 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "- <em>Advanced</em> <em>Micro</em> <em>Devices</em> (NASDAQ:AMD)",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TL0.DE",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 21.223621,
+                    "sentiment_score": 0.5017,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Tesla</em> <em>Inc</em>. TSLA led th[+119 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "S&P 500 Rallies On Best Day In 2 Months As Recession Fears Ease, <em>Tesla</em> Rockets, Bitcoin Hits $88,000: What's Driving Markets Monday? - Advanced Micro Devices (NASDAQ:AMD)",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "OYC.DE",
+                    "name": "Delta Air Lines, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 27.893,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "UAL , <em>Delta</em> <em>Air</em> <em>Li[+136 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "1QZ.DE",
+                    "name": "Coinbase Global, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 20.2364,
+                    "sentiment_score": 0.5106,
+                    "highlights": [
+                        {
+                            "highlight": "MSTR jumped 7.4% and <em>Coinbase</em> <[+337 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "UAL.MX",
+                    "name": "United Airlines Holdings, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 26.113436,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "<em>United</em> <em>Airlines</em> <em>Ho[+166 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMD.MX",
+                    "name": "Advanced Micro Devices, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 65.11384,
+                    "sentiment_score": 0.148,
+                    "highlights": [
+                        {
+                            "highlight": "Shares of <em>Advanced</em> <em>Micro</e[+213 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "- <em>Advanced</em> <em>Micro</em> <em>Devices</em> (NASDAQ:AMD)",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "DAL.MX",
+                    "name": "Delta Air Lines, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 27.893171,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "UAL , <em>Delta</em> <em>Air</em> <em>Li[+136 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA.MX",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 21.220818,
+                    "sentiment_score": 0.5017,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Tesla</em> <em>Inc</em>. TSLA led th[+119 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "S&P 500 Rallies On Best Day In 2 Months As Recession Fears Ease, <em>Tesla</em> Rockets, Bitcoin Hits $88,000: What's Driving Markets Monday? - Advanced Micro Devices (NASDAQ:AMD)",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TLT.MX",
+                    "name": "iShares 20+ Year Treasury Bond ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 46.77471,
+                    "sentiment_score": -0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "The 10-year yield jumped seven basis poi[+352 characters]",
+                            "sentiment": -0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "IWM.MX",
+                    "name": "iShares Russell 2000 ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 38.76853,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>iShares</em> <em>Russell</em> <e[+294 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "XLU.MX",
+                    "name": "Utilities Select Sector SPDR Fund",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 44.72931,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "The iShares Russell 2000 ETF IWM soared [+303 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "XLY.MX",
+                    "name": "Consumer Discretionary Select Sector SPDR Fund",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 52.72747,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "The iShares Russell 2000 ETF IWM soared [+312 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0QZ4.L",
+                    "name": "Delta Air Lines, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 27.893175,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "UAL , <em>Delta</em> <em>Air</em> <em>Li[+136 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0LIU.L",
+                    "name": "United Airlines Holdings, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 26.11335,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "<em>United</em> <em>Airlines</em> <em>Ho[+166 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 46.04872,
+                    "sentiment_score": 0.5106,
+                    "highlights": [
+                        {
+                            "highlight": "ET\n\nAccording to Benzinga Pro data:\n\nThe[+304 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA34.SA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 21.217236,
+                    "sentiment_score": 0.5017,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Tesla</em> <em>Inc</em>. TSLA led th[+119 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "S&P 500 Rallies On Best Day In 2 Months As Recession Fears Ease, <em>Tesla</em> Rockets, Bitcoin Hits $88,000: What's Driving Markets Monday? - Advanced Micro Devices (NASDAQ:AMD)",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "U1AL34.SA",
+                    "name": "United Airlines Holdings, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 26.114244,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "<em>United</em> <em>Airlines</em> <em>Ho[+166 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "DEAI34.SA",
+                    "name": "Delta Air Lines, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 27.893993,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "UAL , <em>Delta</em> <em>Air</em> <em>Li[+136 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "A1MD34.SA",
+                    "name": "Advanced Micro Devices, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 65.11031,
+                    "sentiment_score": 0.148,
+                    "highlights": [
+                        {
+                            "highlight": "Shares of <em>Advanced</em> <em>Micro</e[+213 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "- <em>Advanced</em> <em>Micro</em> <em>Devices</em> (NASDAQ:AMD)",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BTCUSD",
+                    "name": "Bitcoin USD",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "global",
+                    "type": "cryptocurrency",
+                    "industry": "N/A",
+                    "match_score": 33.60293,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Bitcoin</em> <em>BTC</em>/<em>USD</e[+313 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "CC:BTC",
+                    "name": "Bitcoin",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "global",
+                    "type": "cryptocurrency",
+                    "industry": "N/A",
+                    "match_score": 22.86869,
+                    "sentiment_score": 0.23835,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Bitcoin</em> <em>BTC</em>/USD climbe[+304 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "S&P 500 Rallies On Best Day In 2 Months As Recession Fears Ease, Tesla Rockets, <em>Bitcoin</em> Hits $88,000: What's Driving Markets Monday? - Advanced Micro Devices (NASDAQ:AMD)",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

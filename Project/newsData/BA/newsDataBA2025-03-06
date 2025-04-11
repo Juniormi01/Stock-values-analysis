@@ -1,0 +1,194 @@
+{
+    "meta": {
+        "found": 2,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "947821ae-21ba-4a9e-af61-7fb132646870",
+            "title": "2 Dow Stocks to Buy Hand Over Fist in March and 1 to Avoid",
+            "description": "Two of the Dow Jones Industrial Average's 30 components make for no-brainer buys, while another brand-name member continues to suffer from self-inflicted wounds.",
+            "keywords": "Johnson & Johnson, Dow Jones Industrial Average, Dow stocks, UnitedHealth Group, Dow stock, Donald Trump",
+            "snippet": "Another rarely touted catalyst that has contributed to J&J's long-term success is the lack of turnover in the executive suite. In the 139 years since its foundi...",
+            "url": "https://finance.yahoo.com/news/2-dow-stocks-buy-hand-090600045.html",
+            "image_url": "https://media.zenfs.com/en/motleyfool.com/680dbcc49efecb32e315a42c52b09a9c",
+            "language": "en",
+            "published_at": "2025-03-06T09:06:00.000000Z",
+            "source": "finance.yahoo.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "BA",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 14.526268,
+                    "sentiment_score": -0.6369,
+                    "highlights": [
+                        {
+                            "highlight": "Aircraft and defense company Boeing (<em[+265 characters]",
+                            "sentiment": -0.6369,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "JNJ",
+                    "name": "Johnson & Johnson",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 35.580925,
+                    "sentiment_score": 0.0895,
+                    "highlights": [
+                        {
+                            "highlight": "Demand for novel drugs and innovative me[+170 characters]",
+                            "sentiment": 0.5719,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "With volatility picking up on Wall Stree[+292 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The Motley Fool recommends <em>Johnson</[+267 characters]",
+                            "sentiment": -0.5994,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA.MI",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "it",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 6.425207,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "And the numbers speak for themselves:\n\n<[+264 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "DJNJ2.BA",
+                    "name": "Johnson & Johnson",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 23.505507,
+                    "sentiment_score": 0.0895,
+                    "highlights": [
+                        {
+                            "highlight": "Demand for novel drugs and innovative me[+170 characters]",
+                            "sentiment": 0.5719,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "With volatility picking up on Wall Stree[+274 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The Motley Fool recommends <em>Johnson</[+267 characters]",
+                            "sentiment": -0.5994,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "DJNJ3.BA",
+                    "name": "Johnson & Johnson",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 23.505507,
+                    "sentiment_score": 0.0895,
+                    "highlights": [
+                        {
+                            "highlight": "Demand for novel drugs and innovative me[+170 characters]",
+                            "sentiment": 0.5719,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "With volatility picking up on Wall Stree[+274 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The Motley Fool recommends <em>Johnson</[+267 characters]",
+                            "sentiment": -0.5994,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "UNHD.BA",
+                    "name": "UNITEDHEALTH GROUP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 30.429031,
+                    "sentiment_score": 0.176671,
+                    "highlights": [
+                        {
+                            "highlight": "Dow stock No. 2 investors can purchase w[+267 characters]",
+                            "sentiment": 0.7424,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "After hitting an all-time high in Novemb[+70 characters]",
+                            "sentiment": -0.0772,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "For what it's worth, <em>UnitedHealth</e[+298 characters]",
+                            "sentiment": 0.6239,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "But the more impressive growth story att[+247 characters]",
+                            "sentiment": 0.9318,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Additionally, the services <em>UnitedHea[+246 characters]",
+                            "sentiment": -0.6808,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Also keeping with the theme, <em>UnitedH[+230 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The Motley Fool recommends Johnson & Joh[+267 characters]",
+                            "sentiment": -0.5994,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

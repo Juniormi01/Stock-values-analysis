@@ -1,0 +1,123 @@
+{
+    "meta": {
+        "found": 16,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "148cf03e-7253-4647-abd7-9c19b2ce3985",
+            "title": "Top Stock Market Highlights of the Week: Nvidia, US Federal Reserve and Google",
+            "description": "We look at a leading GPU maker\u2019s latest product and an acquisition from a search engine giant.",
+            "keywords": "",
+            "snippet": "Welcome to this week\u2019s edition of top stock market highlights.\n\nNvidia (NASDAQ: NVDA)\n\nNvidia continues to churn out market-beating products, and CEO Jensen H...",
+            "url": "https://thesmartinvestor.com.sg/top-stock-market-highlights-of-the-week-nvidia-us-federal-reserve-and-google/",
+            "image_url": "https://thesmartinvestor.com.sg/wp-content/uploads/2025/03/Top-Stock-Highlights-of-the-Week-2.png",
+            "language": "en",
+            "published_at": "2025-03-21T23:30:00.000000Z",
+            "source": "thesmartinvestor.com.sg",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "GOOGL",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 31.513466,
+                    "sentiment_score": 0.2846,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Alphabet</em> (<em>NASDAQ</em>: <em>[+289 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Disclosure: Royston Yang owns shares of [+37 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 15.025892,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "These chips are designed to power the AI[+298 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 37.314175,
+                    "sentiment_score": 0.4192,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Nvidia</em> (<em>NASDAQ</em>: <em>NV[+239 characters]",
+                            "sentiment": 0.3818,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "According to <em>Nvidia</em>, Blackwell [+293 characters]",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "For its most recent quarter, <em>Nvidia<[+270 characters]",
+                            "sentiment": 0.4019,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Top Stock Market Highlights of the Week: <em>Nvidia</em>, US Federal Reserve and Google",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFT",
+                    "name": "Microsoft Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 21.94482,
+                    "sentiment_score": 0.3395,
+                    "highlights": [
+                        {
+                            "highlight": "These chips are designed to power the AI[+307 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Wiz will be integrated into Google\u2019s c[+254 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

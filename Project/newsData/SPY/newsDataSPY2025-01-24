@@ -1,0 +1,132 @@
+{
+    "meta": {
+        "found": 5,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "eb779b9d-bb8c-4b00-9dcb-8941d67fc7a9",
+            "title": "Vanguard\u2019s S&P 500 Fund Is About to Become World\u2019s Largest ETF",
+            "description": "A seemingly unstoppable flood of money has Vanguard Group Inc. on the brink of claiming a crown that State Street Corp. has held for decades. Nearly $18 billion has flowed into Vanguard\u2019s S&P 500 ETF (ticker VOO) in the opening days of 2025 \u2014 more than five times the amount attracted by the closest runner-up \u2014 after breaking the record for annual inflows last year with a $116 billion haul, data compiled by Bloomberg show.",
+            "keywords": "bqblue, Vanguard Asset Management, Exchange Traded Fund",
+            "snippet": "A seemingly unstoppable flood of money has Vanguard Group Inc. on the brink of claiming a crown that State Street Corp. has held for decades.\n\nNearly $18 billio...",
+            "url": "https://www.ndtvprofit.com/markets/vanguards-sp-500-fund-is-about-to-become-worlds-largest-etf",
+            "image_url": "https://media.assettype.com/bloombergquint%2F2025-01-24%2Fcrb31hgo%2F424628241.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+            "language": "en",
+            "published_at": "2025-01-24T16:51:10.000000Z",
+            "source": "bloombergquint.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 70.44179,
+                    "sentiment_score": 0.1779,
+                    "highlights": [
+                        {
+                            "highlight": "Assets in the fund have ballooned to $62[+187 characters]",
+                            "sentiment": 0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 70.44211,
+                    "sentiment_score": 0.1779,
+                    "highlights": [
+                        {
+                            "highlight": "Assets in the fund have ballooned to $62[+187 characters]",
+                            "sentiment": 0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": [
+                {
+                    "uuid": "9c335473-0179-456d-b375-74dc895b9ce3",
+                    "title": "Vanguard's VOO Set to Overtake SPY as Largest ETF",
+                    "description": "The unstoppable flow of funds into Vanguard Group Inc.'s S&P 500 ETF (VOO) is poised to dethrone State Street's SPDR S&P 500 ETF Trust (SPY) as the largest ETF",
+                    "keywords": "GuruFocus, Article, News, GuruFocus News, VOO",
+                    "snippet": "The unstoppable flow of funds into Vanguard Group Inc.'s S&P 500 ETF (VOO, Financial) is poised to dethrone State Street's SPDR S&P 500 ETF Trust (SPY) as the l...",
+                    "url": "https://www.gurufocus.com/news/2667230/vanguards-voo-set-to-overtake-spy-as-largest-etf",
+                    "image_url": "https://static.gurufocus.com/images/global_logo_twitter_card.png",
+                    "language": "en",
+                    "published_at": "2025-01-24T16:10:32.000000Z",
+                    "source": "gurufocus.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "IVV",
+                            "name": "iShares Core S&P 500 ETF",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "etf",
+                            "industry": "N/A",
+                            "match_score": 67.077156,
+                            "sentiment_score": 0.738,
+                            "highlights": [
+                                {
+                                    "highlight": "Despite VOO's leading position, BlackRoc[+352 characters]",
+                                    "sentiment": 0.738,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "SPY",
+                            "name": "SPDR S&P 500 ETF Trust",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "etf",
+                            "industry": "N/A",
+                            "match_score": 67.96082,
+                            "sentiment_score": 0.25,
+                            "highlights": [
+                                {
+                                    "highlight": "s S&P 500 ETF (VOO, Financial) is poised[+324 characters]",
+                                    "sentiment": 0.25,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "0KZC.L",
+                            "name": "SPDR S&P 500 ETF Trust",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "gb",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 67.9579,
+                            "sentiment_score": 0.25,
+                            "highlights": [
+                                {
+                                    "highlight": "s S&P 500 ETF (VOO, Financial) is poised[+324 characters]",
+                                    "sentiment": 0.25,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

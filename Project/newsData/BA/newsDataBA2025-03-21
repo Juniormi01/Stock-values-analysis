@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "found": 2,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "d8903216-42db-4856-bd8c-c94cdf0d0926",
+            "title": "Malaysia Aviation Group Announces Order for up to 60 Boeing 737 MAX Airplanes",
+            "description": "- Firm order for 18 737-8 and 12 737-10 jets and options for 30 more to renew Malaysia Airlines' single-aisle fleet, will provide premium flying experience\n-",
+            "keywords": "GuruFocus, Article, News, PRNewswire, NYSE:BA",
+            "snippet": "KUALA LUMPUR, Malaysia, March 21, 2025 /PRNewswire/ -- Boeing [NYSE: BA] and Malaysia Aviation Group today announced an order for 18 737-8 and 12 737-10 single-...",
+            "url": "https://www.gurufocus.com/news/2745062/malaysia-aviation-group-announces-order-for-up-to-60-boeing-737-max-airplanes",
+            "image_url": "https://static.gurufocus.com/images/global_logo_twitter_card.png",
+            "language": "en",
+            "published_at": "2025-03-21T09:00:03.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "BA",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 21.136599,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "KUALA LUMPUR, Malaysia, March 21, 2025 /[+218 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> 737 has ser[+283 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

@@ -1,0 +1,821 @@
+{
+    "meta": {
+        "found": 9,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "fd044b4a-76dd-42ba-9b4e-df5aa240b9eb",
+            "title": "Beware Rotation: Top S&P 500 Giants Underperform Amid Market Shifts",
+            "description": "Stocks Analysis by Brian Gilmartin covering: Nasdaq 100, S&P 500, Microsoft Corporation, JPMorgan Chase & Co. Read Brian Gilmartin's latest article on Investing.com",
+            "keywords": "",
+            "snippet": "Here\u2019s a chart of the Top 10 names (by market cap) and how the stocks have performed YTD through January 15, \u201925, relative to the S&P 500 total return:\n\nSou...",
+            "url": "https://www.investing.com/analysis/beware-rotation-top-sp-500-giants-underperform-amid-market-shifts-200656376",
+            "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+            "language": "en",
+            "published_at": "2025-01-17T20:58:00.000000Z",
+            "source": "investing.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "JPMMV",
+                    "name": "JPMorgan Chase & Co.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 18.95592,
+                    "sentiment_score": 0.5766,
+                    "highlights": [
+                        {
+                            "highlight": "Here\u2019s this blog\u2019s top 10 holdings f[+359 characters]",
+                            "sentiment": 0.5766,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "JPMML",
+                    "name": "JPMorgan Chase & Co.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 18.95592,
+                    "sentiment_score": 0.5766,
+                    "highlights": [
+                        {
+                            "highlight": "Here\u2019s this blog\u2019s top 10 holdings f[+359 characters]",
+                            "sentiment": 0.5766,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "QQQ",
+                    "name": "Invesco QQQ Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 36.11651,
+                    "sentiment_score": 0.1111,
+                    "highlights": [
+                        {
+                            "highlight": "Here\u2019s this blog\u2019s top 10 holdings f[+359 characters]",
+                            "sentiment": 0.1111,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LQD",
+                    "name": "iShares iBoxx $ Investment Grade Corporate Bond ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 58.527855,
+                    "sentiment_score": -0.1769,
+                    "highlights": [
+                        {
+                            "highlight": "total return Tesla (TSLA): +62.52% \u201924[+338 characters]",
+                            "sentiment": -0.8126,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>iBoxx</em> $ <em>Investment</em> <em[+318 characters]",
+                            "sentiment": 0.4588,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 14.332766,
+                    "sentiment_score": -0.343933,
+                    "highlights": [
+                        {
+                            "highlight": "Microsoft (NASDAQ: ), Nvidia (NASDAQ: ),[+58 characters]",
+                            "sentiment": -0.4588,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "(<em>Apple</em> had a very tough day yes[+341 characters]",
+                            "sentiment": -0.4703,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Inc Class A (NASDAQ: ): +1.91%\n\nS&P 500 [+323 characters]",
+                            "sentiment": -0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 18.448967,
+                    "sentiment_score": -0.2865,
+                    "highlights": [
+                        {
+                            "highlight": "(Apple had a very tough day yesterday, J[+350 characters]",
+                            "sentiment": -0.4703,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em> Class A (NASDAQ: ): +1.91%\n[+323 characters]",
+                            "sentiment": -0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 31.388157,
+                    "sentiment_score": -0.30055,
+                    "highlights": [
+                        {
+                            "highlight": "(Apple had a very tough day yesterday, J[+350 characters]",
+                            "sentiment": -0.4703,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em> Class A (NASDAQ: ): +1.91%\n[+323 characters]",
+                            "sentiment": -0.1027,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "NASDAQ: ) ( ETF): +25.58% \u201924 total re[+350 characters]",
+                            "sentiment": -0.6808,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "(<em>GOOGL</em>): +35.94% total return\n\n[+320 characters]",
+                            "sentiment": 0.0516,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 14.535497,
+                    "sentiment_score": -0.4703,
+                    "highlights": [
+                        {
+                            "highlight": "(Apple had a very tough day yesterday, J[+341 characters]",
+                            "sentiment": -0.4703,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGO",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 13.959307,
+                    "sentiment_score": -0.765,
+                    "highlights": [
+                        {
+                            "highlight": "10 names by market cap rank in terms of [+330 characters]",
+                            "sentiment": -0.765,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGOP",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 13.959307,
+                    "sentiment_score": -0.765,
+                    "highlights": [
+                        {
+                            "highlight": "10 names by market cap rank in terms of [+330 characters]",
+                            "sentiment": -0.765,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 16.255037,
+                    "sentiment_score": -0.1422,
+                    "highlights": [
+                        {
+                            "highlight": "Microsoft (NASDAQ: ), <em>Nvidia</em> (N[+58 characters]",
+                            "sentiment": -0.4588,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": ")\n\nHere\u2019s how the Top 10 names by mark[+329 characters]",
+                            "sentiment": -0.7003,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Top 10 Client Holdings:\n\nThis blog has b[+298 characters]",
+                            "sentiment": 0.5903,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Everything about this post-Covid rally i[+178 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFT",
+                    "name": "Microsoft Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 14.066248,
+                    "sentiment_score": -0.169033,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Microsoft</em> (NASDAQ: ), Nvidia (N[+58 characters]",
+                            "sentiment": -0.4588,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Apple and the QQQ\u2019s fell 3.5% and 4% r[+333 characters]",
+                            "sentiment": -0.6249,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "10 holdings for clients as of 12/31/24:\n[+343 characters]",
+                            "sentiment": 0.5766,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 13.966007,
+                    "sentiment_score": -0.08715,
+                    "highlights": [
+                        {
+                            "highlight": "(Apple had a very tough day yesterday, J[+332 characters]",
+                            "sentiment": -0.4703,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Bond fund: \u201924 return +7.73%\n\n\u201924 re[+346 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NFLX",
+                    "name": "Netflix, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 11.871767,
+                    "sentiment_score": 0.296,
+                    "highlights": [
+                        {
+                            "highlight": "(NYSE: ): +43.63% \u201924 total return\n\n+4[+345 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.BA",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 18.78589,
+                    "sentiment_score": -0.417933,
+                    "highlights": [
+                        {
+                            "highlight": "(Apple had a very tough day yesterday, J[+350 characters]",
+                            "sentiment": -0.4703,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em> Class A (NASDAQ: ): +1.91%\n[+323 characters]",
+                            "sentiment": -0.1027,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "NASDAQ: ) ( ETF): +25.58% \u201924 total re[+350 characters]",
+                            "sentiment": -0.6808,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BRKB.BA",
+                    "name": "BERKSHIRE HATHAWAY",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 20.682793,
+                    "sentiment_score": -0.4703,
+                    "highlights": [
+                        {
+                            "highlight": "(Apple had a very tough day yesterday, J[+341 characters]",
+                            "sentiment": -0.4703,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOGLD.BA",
+                    "name": "ALPHABET INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 18.78589,
+                    "sentiment_score": -0.417933,
+                    "highlights": [
+                        {
+                            "highlight": "(Apple had a very tough day yesterday, J[+350 characters]",
+                            "sentiment": -0.4703,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em> Class A (NASDAQ: ): +1.91%\n[+323 characters]",
+                            "sentiment": -0.1027,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "NASDAQ: ) ( ETF): +25.58% \u201924 total re[+350 characters]",
+                            "sentiment": -0.6808,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BRKBD.BA",
+                    "name": "BERKSHIRE HATHAWAY",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 20.682793,
+                    "sentiment_score": -0.4703,
+                    "highlights": [
+                        {
+                            "highlight": "(Apple had a very tough day yesterday, J[+341 characters]",
+                            "sentiment": -0.4703,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BRKBB.BA",
+                    "name": "BERKSHIRE HATHAWAY",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 20.682793,
+                    "sentiment_score": -0.4703,
+                    "highlights": [
+                        {
+                            "highlight": "(Apple had a very tough day yesterday, J[+341 characters]",
+                            "sentiment": -0.4703,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "JPMC.BA",
+                    "name": "JPMORGAN CHASE &CO",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 21.139286,
+                    "sentiment_score": 0.5766,
+                    "highlights": [
+                        {
+                            "highlight": "Here\u2019s this blog\u2019s top 10 holdings f[+359 characters]",
+                            "sentiment": 0.5766,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LQD.SN",
+                    "name": "iShares iBoxx $ Investment Grade Corporate Bond ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 58.520554,
+                    "sentiment_score": -0.1769,
+                    "highlights": [
+                        {
+                            "highlight": "total return Tesla (TSLA): +62.52% \u201924[+338 characters]",
+                            "sentiment": -0.8126,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>iBoxx</em> $ <em>Investment</em> <em[+318 characters]",
+                            "sentiment": 0.4588,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 18.785873,
+                    "sentiment_score": -0.417933,
+                    "highlights": [
+                        {
+                            "highlight": "(Apple had a very tough day yesterday, J[+350 characters]",
+                            "sentiment": -0.4703,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em> Class A (NASDAQ: ): +1.91%\n[+323 characters]",
+                            "sentiment": -0.1027,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "NASDAQ: ) ( ETF): +25.58% \u201924 total re[+350 characters]",
+                            "sentiment": -0.6808,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 18.785873,
+                    "sentiment_score": -0.417933,
+                    "highlights": [
+                        {
+                            "highlight": "(Apple had a very tough day yesterday, J[+350 characters]",
+                            "sentiment": -0.4703,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em> Class A (NASDAQ: ): +1.91%\n[+323 characters]",
+                            "sentiment": -0.1027,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "NASDAQ: ) ( ETF): +25.58% \u201924 total re[+350 characters]",
+                            "sentiment": -0.6808,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BRK-B",
+                    "name": "Berkshire Hathaway Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 17.751213,
+                    "sentiment_score": -0.4703,
+                    "highlights": [
+                        {
+                            "highlight": "(Apple had a very tough day yesterday, J[+341 characters]",
+                            "sentiment": -0.4703,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BRK-A",
+                    "name": "Berkshire Hathaway Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 17.751213,
+                    "sentiment_score": -0.4703,
+                    "highlights": [
+                        {
+                            "highlight": "(Apple had a very tough day yesterday, J[+341 characters]",
+                            "sentiment": -0.4703,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGCL.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 18.785763,
+                    "sentiment_score": -0.417933,
+                    "highlights": [
+                        {
+                            "highlight": "(Apple had a very tough day yesterday, J[+350 characters]",
+                            "sentiment": -0.4703,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em> Class A (NASDAQ: ): +1.91%\n[+323 characters]",
+                            "sentiment": -0.1027,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "NASDAQ: ) ( ETF): +25.58% \u201924 total re[+350 characters]",
+                            "sentiment": -0.6808,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BCS",
+                    "name": "Barclays PLC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 12.171009,
+                    "sentiment_score": 0.6408,
+                    "highlights": [
+                        {
+                            "highlight": "The JP Morgan Income Fund (JMSIX) beat t[+285 characters]",
+                            "sentiment": 0.6408,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "JPMCL.SN",
+                    "name": "JPMORGAN CHASE &CO",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 21.139065,
+                    "sentiment_score": 0.5766,
+                    "highlights": [
+                        {
+                            "highlight": "Here\u2019s this blog\u2019s top 10 holdings f[+359 characters]",
+                            "sentiment": 0.5766,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "JPM",
+                    "name": "JPMorgan Chase & Co.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 25.86552,
+                    "sentiment_score": 0.5766,
+                    "highlights": [
+                        {
+                            "highlight": "Here\u2019s this blog\u2019s top 10 holdings f[+359 characters]",
+                            "sentiment": 0.5766,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "WMT",
+                    "name": "Walmart Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 12.403999,
+                    "sentiment_score": -0.6808,
+                    "highlights": [
+                        {
+                            "highlight": "return Microsoft (MSFT): +12.91% \u201924 t[+344 characters]",
+                            "sentiment": -0.6808,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ABEA.DE",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 18.786106,
+                    "sentiment_score": -0.417933,
+                    "highlights": [
+                        {
+                            "highlight": "(Apple had a very tough day yesterday, J[+350 characters]",
+                            "sentiment": -0.4703,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em> Class A (NASDAQ: ): +1.91%\n[+323 characters]",
+                            "sentiment": -0.1027,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "NASDAQ: ) ( ETF): +25.58% \u201924 total re[+350 characters]",
+                            "sentiment": -0.6808,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ABEC.DE",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 18.78606,
+                    "sentiment_score": -0.417933,
+                    "highlights": [
+                        {
+                            "highlight": "(Apple had a very tough day yesterday, J[+350 characters]",
+                            "sentiment": -0.4703,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em> Class A (NASDAQ: ): +1.91%\n[+323 characters]",
+                            "sentiment": -0.1027,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "NASDAQ: ) ( ETF): +25.58% \u201924 total re[+350 characters]",
+                            "sentiment": -0.6808,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.MX",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 18.785984,
+                    "sentiment_score": -0.417933,
+                    "highlights": [
+                        {
+                            "highlight": "(Apple had a very tough day yesterday, J[+350 characters]",
+                            "sentiment": -0.4703,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em> Class A (NASDAQ: ): +1.91%\n[+323 characters]",
+                            "sentiment": -0.1027,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "NASDAQ: ) ( ETF): +25.58% \u201924 total re[+350 characters]",
+                            "sentiment": -0.6808,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG.MX",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 18.785984,
+                    "sentiment_score": -0.417933,
+                    "highlights": [
+                        {
+                            "highlight": "(Apple had a very tough day yesterday, J[+350 characters]",
+                            "sentiment": -0.4703,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em> Class A (NASDAQ: ): +1.91%\n[+323 characters]",
+                            "sentiment": -0.1027,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "NASDAQ: ) ( ETF): +25.58% \u201924 total re[+350 characters]",
+                            "sentiment": -0.6808,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LQD.MX",
+                    "name": "iShares iBoxx $ Investment Grade Corporate Bond ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 58.51301,
+                    "sentiment_score": -0.1769,
+                    "highlights": [
+                        {
+                            "highlight": "total return Tesla (TSLA): +62.52% \u201924[+338 characters]",
+                            "sentiment": -0.8126,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>iBoxx</em> $ <em>Investment</em> <em[+318 characters]",
+                            "sentiment": 0.4588,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

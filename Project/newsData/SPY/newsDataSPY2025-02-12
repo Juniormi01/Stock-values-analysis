@@ -1,0 +1,254 @@
+{
+    "meta": {
+        "found": 13,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "2ab49ccd-5c0c-4989-ba1a-d9c21453e7e0",
+            "title": "Goldman Sachs Group Inc's Strategic Acquisition of Syndax Pharmaceuticals Shares",
+            "description": "On December 31, 2024, Goldman Sachs Group Inc made a significant move by acquiring 4,341,413 shares of Syndax Pharmaceuticals Inc at a price of $13.22 per share",
+            "keywords": "GuruFocus, Article, News, GuruFocus News, SNDX, SPY, AAPL, AMZN, MSFT, NVDA",
+            "snippet": "On December 31, 2024, Goldman Sachs Group Inc made a significant move by acquiring 4,341,413 shares of Syndax Pharmaceuticals Inc at a price of $13.22 per share...",
+            "url": "https://www.gurufocus.com/news/2694178/goldman-sachs-group-incs-strategic-acquisition-of-syndax-pharmaceuticals-shares",
+            "image_url": "https://static.gurufocus.com/images/global_logo_twitter_card.png",
+            "language": "en",
+            "published_at": "2025-02-12T20:13:30.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 10.200664,
+                    "sentiment_score": 0.8519,
+                    "highlights": [
+                        {
+                            "highlight": "The firm's investment philosophy is cent[+327 characters]",
+                            "sentiment": 0.8519,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 14.479397,
+                    "sentiment_score": 0.8519,
+                    "highlights": [
+                        {
+                            "highlight": "The firm's investment philosophy is cent[+327 characters]",
+                            "sentiment": 0.8519,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SNDX",
+                    "name": "Syndax Pharmaceuticals, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 96.087845,
+                    "sentiment_score": 0.533636,
+                    "highlights": [
+                        {
+                            "highlight": "On December 31, 2024, Goldman Sachs Grou[+301 characters]",
+                            "sentiment": 0.8176,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "This move is noteworthy for value invest[+310 characters]",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Syndax</em> <em>Pharmaceuticals</em>[+228 characters]",
+                            "sentiment": -0.802,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Syndax</em> <em>Pharmaceuticals</em>[+155 characters]",
+                            "sentiment": 0.7783,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The 7% holding in <em>Syndax</em> <em>Ph[+267 characters]",
+                            "sentiment": 0.8979,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Financial Metrics and Valuation of <em>S[+339 characters]",
+                            "sentiment": 0.5426,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Market Performance and Future Outlook\n\nS[+309 characters]",
+                            "sentiment": 0.8709,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Investors will be closely monitoring <em[+177 characters]",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Conclusion: Strategic Implications for V[+196 characters]",
+                            "sentiment": 0.7845,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "As <em>Syndax</em> <em>Pharmaceuticals</[+233 characters]",
+                            "sentiment": 0.5719,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Goldman Sachs Group Inc's Strategic Acquisition of <em>Syndax</em> <em>Pharmaceuticals</em> Shares",
+                            "sentiment": 0.296,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 44.019043,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "The firm's investment philosophy is cent[+363 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 44.02397,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "The firm's investment philosophy is cent[+363 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": [
+                {
+                    "uuid": "ad3eb7d9-f5b4-4a24-935f-e7aea9bc4669",
+                    "title": "Goldman Sachs Group Inc. Increases Stake in Centurion Acquisition Corp",
+                    "description": "On December 31, 2024, Goldman Sachs Group Inc. made a strategic move by acquiring an additional 104,562 shares of Centurion Acquisition Corp, bringing its total",
+                    "keywords": "GuruFocus, Article, News, GuruFocus News, ALF, SPY, AAPL, AMZN, MSFT, NVDA",
+                    "snippet": "On December 31, 2024, Goldman Sachs Group Inc. made a strategic move by acquiring an additional 104,562 shares of Centurion Acquisition Corp, bringing its total...",
+                    "url": "https://www.gurufocus.com/news/2694170/goldman-sachs-group-inc-increases-stake-in-centurion-acquisition-corp",
+                    "image_url": "https://static.gurufocus.com/images/global_logo_twitter_card.png",
+                    "language": "en",
+                    "published_at": "2025-02-12T20:10:17.000000Z",
+                    "source": "gurufocus.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "AAPL",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 10.64438,
+                            "sentiment_score": 0.9136,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's investment philosophy focuses[+184 characters]",
+                                    "sentiment": 0.9136,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZN",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 15.129462,
+                            "sentiment_score": 0.9136,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's investment philosophy focuses[+184 characters]",
+                                    "sentiment": 0.9136,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "SPY",
+                            "name": "SPDR S&P 500 ETF Trust",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "etf",
+                            "industry": "N/A",
+                            "match_score": 46.093575,
+                            "sentiment_score": 0.8555,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's investment philosophy focuses[+220 characters]",
+                                    "sentiment": 0.8555,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "0KZC.L",
+                            "name": "SPDR S&P 500 ETF Trust",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "gb",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 46.098892,
+                            "sentiment_score": 0.8555,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's investment philosophy focuses[+220 characters]",
+                                    "sentiment": 0.8555,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

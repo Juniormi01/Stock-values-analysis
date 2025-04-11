@@ -1,0 +1,296 @@
+{
+    "meta": {
+        "found": 10,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "67966e6e-6694-43e6-9129-d15034a15d11",
+            "title": "Apple (AAPL) and Meta (META) Face EU Fines for Digital Markets Act Violation",
+            "description": "Apple Inc. (AAPL) and Meta Platforms Inc. (META) are reportedly under scrutiny by the European Union for potentially violating the Digital Markets Act (DMA). Si",
+            "keywords": "GuruFocus, Article, News, GuruFocus News, AAPL",
+            "snippet": "Apple Inc. (AAPL, Financial) and Meta Platforms Inc. (META) are reportedly under scrutiny by the European Union for potentially violating the Digital Markets Ac...",
+            "url": "https://www.gurufocus.com/news/2734299/apple-aapl-and-meta-meta-face-eu-fines-for-digital-markets-act-violation",
+            "image_url": "https://static.gurufocus.com/logos/0C00000ADA.png?20",
+            "language": "en",
+            "published_at": "2025-03-10T20:40:17.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "AAPL.NE",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ca",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 27.60011,
+                    "sentiment_score": -0.3454,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Apple</em> <em>Inc</em>. (AAPL, Fina[+268 characters]",
+                            "sentiment": -0.5423,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "As the investigations continue, both <em[+249 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Apple</em> (AAPL) and Meta (META) Face EU Fines for Digital Markets Act Violation",
+                            "sentiment": -0.4939,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 27.599033,
+                    "sentiment_score": -0.3454,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Apple</em> <em>Inc</em>. (AAPL, Fina[+268 characters]",
+                            "sentiment": -0.5423,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "As the investigations continue, both <em[+249 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Apple</em> (AAPL) and Meta (META) Face EU Fines for Digital Markets Act Violation",
+                            "sentiment": -0.4939,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 17.835348,
+                    "sentiment_score": -0.5423,
+                    "highlights": [
+                        {
+                            "highlight": "(AAPL, Financial) and <em>Meta</em> <em>[+266 characters]",
+                            "sentiment": -0.5423,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "APC.DE",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 27.598627,
+                    "sentiment_score": -0.3454,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Apple</em> <em>Inc</em>. (AAPL, Fina[+268 characters]",
+                            "sentiment": -0.5423,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "As the investigations continue, both <em[+249 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Apple</em> (AAPL) and Meta (META) Face EU Fines for Digital Markets Act Violation",
+                            "sentiment": -0.4939,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.MX",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 27.603497,
+                    "sentiment_score": -0.3454,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Apple</em> <em>Inc</em>. (AAPL, Fina[+268 characters]",
+                            "sentiment": -0.5423,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "As the investigations continue, both <em[+249 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Apple</em> (AAPL) and Meta (META) Face EU Fines for Digital Markets Act Violation",
+                            "sentiment": -0.4939,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.BA",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 27.60214,
+                    "sentiment_score": -0.3454,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Apple</em> <em>Inc</em>. (AAPL, Fina[+268 characters]",
+                            "sentiment": -0.5423,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "As the investigations continue, both <em[+249 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Apple</em> (AAPL) and Meta (META) Face EU Fines for Digital Markets Act Violation",
+                            "sentiment": -0.4939,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLD.BA",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 27.602123,
+                    "sentiment_score": -0.3454,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Apple</em> <em>Inc</em>. (AAPL, Fina[+268 characters]",
+                            "sentiment": -0.5423,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "As the investigations continue, both <em[+249 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Apple</em> (AAPL) and Meta (META) Face EU Fines for Digital Markets Act Violation",
+                            "sentiment": -0.4939,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLC.BA",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 27.602123,
+                    "sentiment_score": -0.3454,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Apple</em> <em>Inc</em>. (AAPL, Fina[+268 characters]",
+                            "sentiment": -0.5423,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "As the investigations continue, both <em[+249 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Apple</em> (AAPL) and Meta (META) Face EU Fines for Digital Markets Act Violation",
+                            "sentiment": -0.4939,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLCL.SN",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 27.6017,
+                    "sentiment_score": -0.3454,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Apple</em> <em>Inc</em>. (AAPL, Fina[+268 characters]",
+                            "sentiment": -0.5423,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "As the investigations continue, both <em[+249 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Apple</em> (AAPL) and Meta (META) Face EU Fines for Digital Markets Act Violation",
+                            "sentiment": -0.4939,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.SN",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 27.6017,
+                    "sentiment_score": -0.3454,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Apple</em> <em>Inc</em>. (AAPL, Fina[+268 characters]",
+                            "sentiment": -0.5423,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "As the investigations continue, both <em[+249 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Apple</em> (AAPL) and Meta (META) Face EU Fines for Digital Markets Act Violation",
+                            "sentiment": -0.4939,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

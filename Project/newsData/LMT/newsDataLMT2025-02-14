@@ -1,0 +1,116 @@
+{
+    "meta": {
+        "found": 2,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "9c5d9a7d-f906-4d67-b122-df27534fcdad",
+            "title": "Lockheed Martin Corporation (LMT) is Attracting Investor Attention: Here is What You Should Know",
+            "description": "Lockheed (LMT) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
+            "keywords": "stock, stocks, investment, investment advice, investing, online trading, online investment, online stock trading, stock market, financial, financial planning, quote, quotes, stock quotes",
+            "snippet": "This page has not been authorized, sponsored, or otherwise approved or endorsed by the companies represented herein. Each of the company logos represented herei...",
+            "url": "https://www.zacks.com/stock/news/2416113/lockheed-martin-corporation-lmt-is-attracting-investor-attention-here-is-what-you-should-know?cid=CS-ZC-FT-tale_of_the_tape|most_searched_stocks_v1-2416113",
+            "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default153.jpg",
+            "language": "en",
+            "published_at": "2025-02-14T14:00:11.000000Z",
+            "source": "zacks.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 123.42583,
+                    "sentiment_score": 0.4767,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Corporation</em> (LMT) is Attracting Investor Attention: Here is What You Should Know",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LOM.DE",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 118.46013,
+                    "sentiment_score": 0.4767,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Corporation</em> (LMT) is Attracting Investor Attention: Here is What You Should Know",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LMT.MX",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 118.45878,
+                    "sentiment_score": 0.4767,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Corporation</em> (LMT) is Attracting Investor Attention: Here is What You Should Know",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0R3E.L",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 118.45759,
+                    "sentiment_score": 0.4767,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Corporation</em> (LMT) is Attracting Investor Attention: Here is What You Should Know",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LMTB34.SA",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 118.479935,
+                    "sentiment_score": 0.4767,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Corporation</em> (LMT) is Attracting Investor Attention: Here is What You Should Know",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

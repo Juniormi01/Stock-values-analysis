@@ -1,0 +1,184 @@
+{
+    "meta": {
+        "found": 8,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "336ada8d-3920-49e1-9b36-864c07efc1da",
+            "title": "OpenAI and Oracle Power Stargate with Billions in Nvidia Chips",
+            "description": "OpenAI and Oracle (ORCL) are set to install 64,000 Nvidia GB200 AI chips in a new Abilene, Texas data center by the end of 2026, with 16,000 chips due by summer 2025, as part of the $100 billion Stargate venture, per Bloomberg. The Stargate project, a collaboration with SoftBank unveiled\u2026",
+            "keywords": "",
+            "snippet": "OpenAI and Oracle (ORCL) are set to install 64,000 Nvidia GB200 AI chips in a new Abilene, Texas data center by the end of 2026, with 16,000 chips due by summer...",
+            "url": "https://wallstreetpit.com/124835-openai-and-oracle-power-stargate-with-billions-in-nvidia-chips/",
+            "image_url": "https://wallstreetpit.com/wp-content/uploads/2024/11/tech-servers2-G.jpg",
+            "language": "en",
+            "published_at": "2025-03-06T20:34:34.000000Z",
+            "source": "wallstreetpit.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 12.457912,
+                    "sentiment_score": 0.5859,
+                    "highlights": [
+                        {
+                            "highlight": "This effort mirrors broader industry tre[+337 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SFTBY",
+                    "name": "SoftBank Group Corp.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 26.358833,
+                    "sentiment_score": 0.141333,
+                    "highlights": [
+                        {
+                            "highlight": "The Stargate project, a collaboration wi[+286 characters]",
+                            "sentiment": 0.128,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "This initiative, a collaboration unveile[+263 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Beyond Texas, the Stargate venture is ey[+287 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SFTBF",
+                    "name": "SoftBank Group Corp.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 26.358833,
+                    "sentiment_score": 0.141333,
+                    "highlights": [
+                        {
+                            "highlight": "The Stargate project, a collaboration wi[+286 characters]",
+                            "sentiment": 0.128,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "This initiative, a collaboration unveile[+263 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Beyond Texas, the Stargate venture is ey[+287 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "9984.T",
+                    "name": "SoftBank Group Corp.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "jp",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 26.358967,
+                    "sentiment_score": 0.141333,
+                    "highlights": [
+                        {
+                            "highlight": "The Stargate project, a collaboration wi[+286 characters]",
+                            "sentiment": 0.128,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "This initiative, a collaboration unveile[+263 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Beyond Texas, the Stargate venture is ey[+287 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SOFTN.MX",
+                    "name": "SoftBank Group Corp.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 26.359959,
+                    "sentiment_score": 0.141333,
+                    "highlights": [
+                        {
+                            "highlight": "The Stargate project, a collaboration wi[+286 characters]",
+                            "sentiment": 0.128,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "This initiative, a collaboration unveile[+263 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Beyond Texas, the Stargate venture is ey[+287 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0L7L.L",
+                    "name": "SoftBank Group Corp.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 26.360233,
+                    "sentiment_score": 0.141333,
+                    "highlights": [
+                        {
+                            "highlight": "The Stargate project, a collaboration wi[+286 characters]",
+                            "sentiment": 0.128,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "This initiative, a collaboration unveile[+263 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Beyond Texas, the Stargate venture is ey[+287 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

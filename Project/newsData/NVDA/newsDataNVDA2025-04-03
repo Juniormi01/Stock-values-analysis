@@ -1,0 +1,113 @@
+{
+    "meta": {
+        "found": 82,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "23a07ac3-3aeb-46d5-a7c6-4b1c3d1407bd",
+            "title": "Market Today: Trump's Tariffs Roil Markets, Nvidia Powers New Nintendo Switch",
+            "description": "Market Overview\nThe stock market experienced a sharp selloff today following President Donald Trump's announcement of sweeping tariffs on nearly all U.S. tradin",
+            "keywords": "GuruFocus, Article, News, GuruFocus News, AAPL, AMZN, GOOG, META, MSFT, NVDA, TSLA, HPQ, DELL, INTC, TSM, RH, //s3amazonawscom/gurufocus_userupload/1907909929705041920png\"alt=\"SP500HeatMap\"><h3>TariffDetails</h3>\n-A10%tariffwasimposedonglobalim",
+            "snippet": "Market Overview\n\nTariff Details\n\nMarket Impact\n\nBond Market Reaction\n\nEconomic Data Review\n\nUpcoming Economic Data\n\nGlobal Market Performance\n\nCommodities\n\nThe ...",
+            "url": "https://www.gurufocus.com/news/2762516/market-today-trumps-tariffs-roil-markets-nvidia-powers-new-nintendo-switch",
+            "image_url": "https://static.gurufocus.com/1732803573856661504.png",
+            "language": "en",
+            "published_at": "2025-04-03T22:32:30.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 10.269171,
+                    "sentiment_score": 0.1588,
+                    "highlights": [
+                        {
+                            "highlight": ". - <em>Apple</em> ( AAPL Financial ) dr[+170 characters]",
+                            "sentiment": -0.5574,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The Magnificent Seven stocks, including [+313 characters]",
+                            "sentiment": 0.875,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 27.351204,
+                    "sentiment_score": 0.044467,
+                    "highlights": [
+                        {
+                            "highlight": ". - Apple ( AAPL Financial ) dropped 9.3[+170 characters]",
+                            "sentiment": -0.5574,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Nvidia</em> (NVDA, Financial) has an[+281 characters]",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Market Today: Trump's Tariffs Roil Markets, <em>Nvidia</em> Powers New Nintendo Switch",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFT",
+                    "name": "Microsoft Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 8.955734,
+                    "sentiment_score": 0.875,
+                    "highlights": [
+                        {
+                            "highlight": "The Magnificent Seven stocks, including [+313 characters]",
+                            "sentiment": 0.875,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "EADSF",
+                    "name": "Airbus SE",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 10.706554,
+                    "sentiment_score": -0.1531,
+                    "highlights": [
+                        {
+                            "highlight": "The French aerospace sector, led by Airb[+275 characters]",
+                            "sentiment": -0.1531,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

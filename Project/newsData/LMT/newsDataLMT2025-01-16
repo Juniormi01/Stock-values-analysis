@@ -1,0 +1,138 @@
+{
+    "meta": {
+        "found": 2,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "0c683ec8-2690-470f-8246-0299dd9a1600",
+            "title": "IBM to bolster Oracle expertise with acquisition By Investing.com",
+            "description": "IBM to bolster Oracle expertise with acquisition",
+            "keywords": "",
+            "snippet": "ARMONK, N.Y. - IBM (NYSE: NYSE: ), a $203 billion market cap technology giant and prominent player in the IT Services industry, has announced its intention to a...",
+            "url": "https://www.investing.com/news/company-news/ibm-to-bolster-oracle-expertise-with-acquisition-93CH-3816882",
+            "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investing_300X300.png",
+            "language": "en",
+            "published_at": "2025-01-16T14:20:48.000000Z",
+            "source": "investing.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "N",
+                    "name": "Netsuite Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 18.046423,
+                    "sentiment_score": 0.4215,
+                    "highlights": [
+                        {
+                            "highlight": "Applications Software Technology also of[+309 characters]",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 19.75074,
+                    "sentiment_score": 0.9081,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> (NYSE:[+303 characters]",
+                            "sentiment": 0.9081,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ORCL",
+                    "name": "Oracle Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 39.2839,
+                    "sentiment_score": 0.351467,
+                    "highlights": [
+                        {
+                            "highlight": ". - IBM (NYSE: NYSE: ), a $203 billion m[+269 characters]",
+                            "sentiment": 0.3182,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The acquisition aims to enhance IBM's <e[+220 characters]",
+                            "sentiment": 0.6124,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Applications Software Technology special[+209 characters]",
+                            "sentiment": 0.4019,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Kelly Chambliss, Senior Vice President o[+216 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The consultancy brings a team adept in t[+233 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Applications Software Technology also of[+309 characters]",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Applications Software Technology has bee[+282 characters]",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "IBM's partnership with <em>Oracle</em> s[+307 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "IBM to bolster <em>Oracle</em> expertise with acquisition By Investing.com",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "WMT",
+                    "name": "Walmart Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 16.919447,
+                    "sentiment_score": 0.3818,
+                    "highlights": [
+                        {
+                            "highlight": "In other recent news, <em>Walmart</em> ([+251 characters]",
+                            "sentiment": 0.3818,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "found": 35,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "65099404-cd3e-4118-bd6a-450bb4cf518a",
+            "title": "Texas Stock Exchange files to operate nationally, eyes trading in early 2026",
+            "description": "The Texas Stock Exchange (TXSE) is eyeing a 2026 launch after submitting paperwork to operate as a national securities exchange, its parent company said on Friday.  The company hopes the U.S. Securities & Exchange Commission will approve the application before the end of the year as it attempts to disrupt the New York-dominated industry.  The proposed exchange said it wants to reverse the shrinking number of publicly traded companies, tackling what it described as the high cost of going public and remaining on exchanges.",
+            "keywords": "publicly traded companies, U.S. Securities & Exchange Commission, Texas Governor Greg Abbott, New York Stock Exchange, Stock Exchange, Charles Schwab",
+            "snippet": "By Suzanne McGee and Niket Nishant\n\n(Reuters) - The Texas Stock Exchange (TXSE) is eyeing a 2026 launch after submitting paperwork to operate as a national secu...",
+            "url": "https://finance.yahoo.com/news/texas-stock-exchange-files-operate-230607707.html",
+            "image_url": "https://media.zenfs.com/en/reuters-finance.com/abe55cad70b16f67dedfd7cfa0ef830d",
+            "language": "en",
+            "published_at": "2025-01-31T23:06:07.000000Z",
+            "source": "finance.yahoo.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 10.603962,
+                    "sentiment_score": 0.5367,
+                    "highlights": [
+                        {
+                            "highlight": "A number of high-profile firms, includin[+254 characters]",
+                            "sentiment": 0.5367,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

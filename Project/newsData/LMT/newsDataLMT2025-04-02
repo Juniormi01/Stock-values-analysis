@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "found": 2,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "60e342d8-73b1-4342-8eec-e45558dcfb62",
+            "title": "US greenlights $5.6B F-16 sale to the Philippines (LMT:NYSE)",
+            "description": "The U.S. State Department has approved the sale of F-16 fighter jets to the Philippines for an estimated cost of $5.6B, with Lockheed Martin (LMT) as the principal contractor.",
+            "keywords": "",
+            "snippet": "The U.S. State Department has approved the sale of F-16 fighter jets to the Philippines for an estimated cost of $5.6B, with Lockheed Martin (NYSE:LMT) as the p...",
+            "url": "https://seekingalpha.com/news/4427910-us-greenlights-56b-f-16-sale-to-the-philippines",
+            "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/200200752/image_200200752.jpg?io=getty-c-w750",
+            "language": "en",
+            "published_at": "2025-04-02T10:07:36.000000Z",
+            "source": "seekingalpha.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 37.832542,
+                    "sentiment_score": 0.5267,
+                    "highlights": [
+                        {
+                            "highlight": "State Department has approved the sale o[+240 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

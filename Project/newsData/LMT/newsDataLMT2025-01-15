@@ -1,0 +1,98 @@
+{
+    "meta": {
+        "found": 1,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "69fedba7-5a40-4c7e-bf49-c689ce94e15a",
+            "title": "D-Wave and Carahsoft Partner to Expand Distribution of Quantum Computing Solutions to the Public Sector",
+            "description": "[url=",
+            "keywords": "GuruFocus, Article, News, Business Wire, NYSE:QBTS",
+            "snippet": "D-Wave Quantum Inc. (NYSE: QBTS) (\u201cD-Wave\u201d or the \u201cCompany\u201d), a leader in quantum computing systems, software, and services and the world\u2019s first comm...",
+            "url": "https://www.gurufocus.com/news/2657094/dwave-and-carahsoft-partner-to-expand-distribution-of-quantum-computing-solutions-to-the-public-sector",
+            "image_url": "https://static.gurufocus.com/images/global_logo_twitter_card.png",
+            "language": "en",
+            "published_at": "2025-01-15T13:00:05.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 13.328119,
+                    "sentiment_score": 0.7717,
+                    "highlights": [
+                        {
+                            "highlight": "., DENSO, <em>Lockheed</em> <em>Martin</[+325 characters]",
+                            "sentiment": 0.7717,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "UIS",
+                    "name": "Unisys Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 12.301951,
+                    "sentiment_score": 0.3102,
+                    "highlights": [
+                        {
+                            "highlight": "D-Wave\u2019s technology has been used by s[+322 characters]",
+                            "sentiment": 0.3102,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NIPNF",
+                    "name": "NEC Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 10.009626,
+                    "sentiment_score": 0.3102,
+                    "highlights": [
+                        {
+                            "highlight": "D-Wave\u2019s technology has been used by s[+331 characters]",
+                            "sentiment": 0.3102,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "6701.T",
+                    "name": "NEC Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "jp",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 10.010035,
+                    "sentiment_score": 0.3102,
+                    "highlights": [
+                        {
+                            "highlight": "D-Wave\u2019s technology has been used by s[+331 characters]",
+                            "sentiment": 0.3102,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

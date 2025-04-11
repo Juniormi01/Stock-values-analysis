@@ -1,0 +1,274 @@
+{
+    "meta": {
+        "found": 11,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "1fe02016-6ee6-4830-b10d-2a30dca4fc50",
+            "title": "AI Data Center Build-Out Raises Concerns About America's Future Power Needs",
+            "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
+            "keywords": "",
+            "snippet": "Authored by Wesley Brown via The Epoch Times,\n\nAs the United States prepares to invest billions of dollars in artificial intelligence (AI) infrastructure, publi...",
+            "url": "https://www.zerohedge.com/ai/ai-data-center-build-out-raises-concerns-about-americas-future-power-needs",
+            "image_url": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2025-03/image%281297%29.jpg?itok=hzJCU5ws",
+            "language": "en",
+            "published_at": "2025-03-12T18:00:00.000000Z",
+            "source": "zerohedge.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "MSFT.MI",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "it",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 11.546603,
+                    "sentiment_score": 0.2162,
+                    "highlights": [
+                        {
+                            "highlight": "., <em>Microsoft</em> <em>Corp</em>., Go[+287 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Arm, <em>Microsoft</em>, NVIDIA, and Ora[+114 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In early February, Nashville-based Silic[+205 characters]",
+                            "sentiment": 0.6486,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 11.206275,
+                    "sentiment_score": -0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "Although SB 307 has stalled, Silicon Val[+251 characters]",
+                            "sentiment": -0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 8.468313,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "., Google LLC, <em>Meta</em> <em>Platfor[+279 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTD.BA",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 11.546934,
+                    "sentiment_score": 0.2162,
+                    "highlights": [
+                        {
+                            "highlight": "., <em>Microsoft</em> <em>Corp</em>., Go[+287 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Arm, <em>Microsoft</em>, NVIDIA, and Ora[+114 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In early February, Nashville-based Silic[+205 characters]",
+                            "sentiment": 0.6486,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTB.BA",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 11.546934,
+                    "sentiment_score": 0.2162,
+                    "highlights": [
+                        {
+                            "highlight": "., <em>Microsoft</em> <em>Corp</em>., Go[+287 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Arm, <em>Microsoft</em>, NVIDIA, and Ora[+114 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In early February, Nashville-based Silic[+205 characters]",
+                            "sentiment": 0.6486,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTC.BA",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 11.546934,
+                    "sentiment_score": 0.2162,
+                    "highlights": [
+                        {
+                            "highlight": "., <em>Microsoft</em> <em>Corp</em>., Go[+287 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Arm, <em>Microsoft</em>, NVIDIA, and Ora[+114 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In early February, Nashville-based Silic[+205 characters]",
+                            "sentiment": 0.6486,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZN.SN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 11.206212,
+                    "sentiment_score": -0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "Although SB 307 has stalled, Silicon Val[+251 characters]",
+                            "sentiment": -0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTCL.SN",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 11.546867,
+                    "sentiment_score": 0.2162,
+                    "highlights": [
+                        {
+                            "highlight": "., <em>Microsoft</em> <em>Corp</em>., Go[+287 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Arm, <em>Microsoft</em>, NVIDIA, and Ora[+114 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In early February, Nashville-based Silic[+205 characters]",
+                            "sentiment": 0.6486,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZNCL.SN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 11.206102,
+                    "sentiment_score": -0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "Although SB 307 has stalled, Silicon Val[+251 characters]",
+                            "sentiment": -0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZ.DE",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 11.206495,
+                    "sentiment_score": -0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "Although SB 307 has stalled, Silicon Val[+251 characters]",
+                            "sentiment": -0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZN.MX",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 11.206842,
+                    "sentiment_score": -0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "Although SB 307 has stalled, Silicon Val[+251 characters]",
+                            "sentiment": -0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

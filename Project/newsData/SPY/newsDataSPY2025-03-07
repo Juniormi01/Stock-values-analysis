@@ -1,0 +1,80 @@
+{
+    "meta": {
+        "found": 9,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "23d393f1-e280-411b-85a4-8c1966e1300c",
+            "title": "President Trump Wants To Replace Income Tax With Tariffs, National Economic Council Director Kevin Hassett Says - SPDR S&P 500 (ARCA:SPY)",
+            "description": "White House National Economic Council Director Kevin Hassett appeared on Bloomberg Television Friday and said that President Donald Trump wants to replace income tax revenue with tariff revenue.",
+            "keywords": "",
+            "snippet": "White House National Economic Council Director Kevin Hassett appeared on Bloomberg Television Friday and said that President Donald Trump wants to replace incom...",
+            "url": "https://www.benzinga.com/news/econ-s/25/03/44205662/president-trump-wants-to-replace-income-tax-with-tariffs-national-economic-council-director-kevin-has",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2025/03/07/Trump-Just-Made-English-Americas-Nationa.jpeg?width=1200&height=800&fit=crop",
+            "language": "en",
+            "published_at": "2025-03-07T21:39:41.000000Z",
+            "source": "benzinga.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "QQQ",
+                    "name": "Invesco QQQ Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 49.034462,
+                    "sentiment_score": 0.5106,
+                    "highlights": [
+                        {
+                            "highlight": "The SPDR S&P 500 ETF Trust SPY, tracking[+210 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 60.47577,
+                    "sentiment_score": 0.5106,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>SPDR</em> <em>S</em>&<em>P</em> [+237 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 60.474644,
+                    "sentiment_score": 0.5106,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>SPDR</em> <em>S</em>&<em>P</em> [+237 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "meta": {
+        "found": 70,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "72fd79a3-4a44-47e3-806d-99b1b8af7933",
+            "title": "U.S. Stock Market Plummets Amid Tariff Policy Concerns",
+            "description": "Investors are increasingly worried about the uncertainty surrounding tariff policies, leading to significant declines in U.S. stock markets. The three major ind",
+            "keywords": "GuruFocus, Article, News, GuruFocus News, AAPL",
+            "snippet": "Investors are increasingly worried about the uncertainty surrounding tariff policies, leading to significant declines in U.S. stock markets. The three major ind...",
+            "url": "https://www.gurufocus.com/news/2734528/us-stock-market-plummets-amid-tariff-policy-concerns",
+            "image_url": "https://static.gurufocus.com/logos/0C00000ADA.png?20",
+            "language": "en",
+            "published_at": "2025-03-10T23:50:20.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 12.708983,
+                    "sentiment_score": -0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "Nvidia fell over 5%, <em>Apple</em> (AAP[+306 characters]",
+                            "sentiment": -0.0258,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BILI",
+                    "name": "Bilibili Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 19.03624,
+                    "sentiment_score": 0.4215,
+                    "highlights": [
+                        {
+                            "highlight": "Among popular Chinese stocks, Zeekr decl[+136 characters]",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 14.354563,
+                    "sentiment_score": -0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Nvidia</em> fell over 5%, Apple (AAP[+306 characters]",
+                            "sentiment": -0.0258,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFT",
+                    "name": "Microsoft Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 13.046001,
+                    "sentiment_score": -0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "Nvidia fell over 5%, Apple (AAPL, Financ[+306 characters]",
+                            "sentiment": -0.0258,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "JD",
+                    "name": "JD.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 18.028927,
+                    "sentiment_score": 0.4215,
+                    "highlights": [
+                        {
+                            "highlight": "Among popular Chinese stocks, Zeekr decl[+136 characters]",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 14.029568,
+                    "sentiment_score": 0.4767,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Tesla</em> (TSLA) dropped over 15%, [+266 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

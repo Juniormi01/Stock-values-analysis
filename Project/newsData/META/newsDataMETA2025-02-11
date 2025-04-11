@@ -1,0 +1,85 @@
+{
+    "meta": {
+        "found": 14,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "79719c30-6280-43d7-a434-c9b13a12f1d4",
+            "title": "Asian Stocks Eye Gains, Bonds Fall on Fed Patience: Markets Wrap",
+            "description": "Asian stocks were set to advance on Wednesday, while bond yields climbed after Federal Reserve Chair Jerome Powell signaled patience before cutting interest rates f\u2026",
+            "keywords": "BLOOM, energy",
+            "snippet": "This advertisement has not loaded yet, but your article continues below.\n\nAsian Stocks Eye Gains, Bonds Fall on Fed Patience: Markets Wrap Asian stocks were set...",
+            "url": "https://financialpost.com/pmn/business-pmn/asian-stocks-eye-gains-bonds-fall-on-fed-patience-markets-wrap",
+            "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/02/traders-heed-powells-message-of-no-rush-on-rate-cuts-market.jpg",
+            "language": "en",
+            "published_at": "2025-02-11T22:53:07.000000Z",
+            "source": "financialpost.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "^N225",
+                    "name": "Nikkei 225",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "jp",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 15.949425,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Financial Services panel, Wednesday\n\nFed[+329 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>225</em> futures rose 0.8% as of 7:1[+6 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 8.463951,
+                    "sentiment_score": 0.1779,
+                    "highlights": [
+                        {
+                            "highlight": "The S&P 500 index was mostly flat as mos[+287 characters]",
+                            "sentiment": 0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^AXJO",
+                    "name": "S&P/ASX 200",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "au",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 24.827621,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Tokyo time\n\nHang Seng futures rose 1%\n\n<[+354 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "meta": {
+        "found": 63,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "c3d65475-81f6-432b-803c-2ec0311b0589",
+            "title": "Asia-Pacific stocks set to rise after soft U.S. inflation report pushes two Wall Street benchmarks up",
+            "description": "The\u00a0Nasdaq Composite\u00a0picked up after the soft inflation report eased concerns about a looming recession and as investors snapped up technology shares.",
+            "keywords": "business news",
+            "snippet": "Asia-Pacific markets are primed to rise on Thursday after a soft inflation report in the U.S. helped two of the three benchmarks on Wall Street reverse course f...",
+            "url": "https://www.cnbc.com/2025/03/13/asia-markets-live-stocks-set-to-rise.html",
+            "image_url": "https://image.cnbcfm.com/api/v1/image/108111720-1741222137015-gettyimages-1150967171-dsc00001.jpeg?v=1741222153&w=1920&h=1080",
+            "language": "en",
+            "published_at": "2025-03-12T23:32:38.000000Z",
+            "source": "cnbc.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 11.461531,
+                    "sentiment_score": 0.6597,
+                    "highlights": [
+                        {
+                            "highlight": "Top performers include <em>Nvidia</em>, [+121 characters]",
+                            "sentiment": 0.6597,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 11.175431,
+                    "sentiment_score": 0.25,
+                    "highlights": [
+                        {
+                            "highlight": "Meanwhile, Meta Platforms advanced 2% an[+37 characters]",
+                            "sentiment": 0.25,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GAN",
+                    "name": "GAN Limited",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 14.348455,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Viewers can watch the live stream of the[+315 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^AXJO",
+                    "name": "S&P/ASX 200",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "au",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 44.528442,
+                    "sentiment_score": -0.4019,
+                    "highlights": [
+                        {
+                            "highlight": "Australia's <em>S</em>&<em>P</em>/<em>AS[+318 characters]",
+                            "sentiment": -0.4019,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^HSI",
+                    "name": "HANG SENG INDEX",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "hk",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 38.896606,
+                    "sentiment_score": 0.4019,
+                    "highlights": [
+                        {
+                            "highlight": "Futures for Hong Kong's <em>Hang</em> <e[+288 characters]",
+                            "sentiment": 0.4019,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^N225",
+                    "name": "Nikkei 225",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "jp",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 28.341152,
+                    "sentiment_score": 0.3818,
+                    "highlights": [
+                        {
+                            "highlight": "Over in Japan, the benchmark <em>Nikkei<[+314 characters]",
+                            "sentiment": 0.3818,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "meta": {
+        "found": 2,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "df5aa27c-7547-4362-8fa8-9cce694c32af",
+            "title": "US arms exports hit record in 2024 on Ukraine-related demand By Reuters",
+            "description": "US arms exports hit record in 2024 on Ukraine-related demand",
+            "keywords": "",
+            "snippet": "By Mike Stone\n\n(Reuters) - U.S. military equipment sales to foreign governments in 2024 surged 29% to a record $318.7 billion, the State Department said on Frid...",
+            "url": "https://www.investing.com/news/economic-indicators/ukrainerelated-demand-sends-us-arms-exports-to-record-in-2024-3830318",
+            "image_url": "https://i-invdn-com.investing.com/news/indicatornews_1_800x533_L_1413124982.jpg",
+            "language": "en",
+            "published_at": "2025-01-24T19:12:06.000000Z",
+            "source": "investing.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 21.506939,
+                    "sentiment_score": 0.6705,
+                    "highlights": [
+                        {
+                            "highlight": "The figures from the Biden administratio[+251 characters]",
+                            "sentiment": 0.6705,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GD",
+                    "name": "General Dynamics Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 17.388344,
+                    "sentiment_score": 0.5267,
+                    "highlights": [
+                        {
+                            "highlight": "The figures from the Biden administratio[+251 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NOC",
+                    "name": "Northrop Grumman Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 26.690475,
+                    "sentiment_score": 0.6705,
+                    "highlights": [
+                        {
+                            "highlight": "The figures from the Biden administratio[+251 characters]",
+                            "sentiment": 0.6705,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

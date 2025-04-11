@@ -1,0 +1,94 @@
+{
+    "meta": {
+        "found": 1,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "73b439c5-9061-495a-b534-8212adddaad6",
+            "title": "This Is What Whales Are Betting On Lockheed Martin - Lockheed Martin (NYSE:LMT)",
+            "description": "",
+            "keywords": "",
+            "snippet": "Investors with a lot of money to spend have taken a bearish stance on Lockheed Martin LMT.\n\nAnd retail traders should know.\n\nWe noticed this today when the trad...",
+            "url": "https://www.benzinga.com/insights/options/25/02/43474538/this-is-what-whales-are-betting-on-lockheed-martin",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/movers_image_18.jpeg?width=1200&height=800&fit=crop",
+            "language": "en",
+            "published_at": "2025-02-04T19:00:25.000000Z",
+            "source": "benzinga.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 107.56976,
+                    "sentiment_score": 0.309055,
+                    "highlights": [
+                        {
+                            "highlight": "Today, Benzinga's options scanner spotte[+184 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Projected Price Targets\n\nTaking into acc[+194 characters]",
+                            "sentiment": 0.4588,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Analyzing Volume & Open Interest\n\nIn tod[+153 characters]",
+                            "sentiment": 0.7783,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The accompanying chart delineates the pr[+216 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> Call a[+103 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Martin</em>\n\n<em>Lockheed</em> <em>M[+179 characters]",
+                            "sentiment": 0.7096,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In light of the recent options history f[+285 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": ". * Maintaining their stance, an analyst[+348 characters]",
+                            "sentiment": 0.5622,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "on <em>Lockheed</em> <em>Martin</em>, wh[+340 characters]",
+                            "sentiment": 0.25,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "If you want to stay updated on the lates[+111 characters]",
+                            "sentiment": 0.0772,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "This Is What Whales Are Betting On <em>Lockheed</em> <em>Martin</em> - <em>Lockheed</em> <em>Martin</em> (<em>NYSE:LMT</em>)",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

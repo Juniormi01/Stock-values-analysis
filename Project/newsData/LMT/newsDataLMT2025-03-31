@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "found": 2,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "83202cf8-7b31-4cc3-b038-38b3500a251e",
+            "title": "Lockheed Martin awarded $600M U.S. Air force contract modification (NYSE:LMT)",
+            "description": "Lockheed Martin secures a $600M contract for JASSM & LRASM support through 2027. Discover insights into defense advancements & project timelines.",
+            "keywords": "",
+            "snippet": "Search field Entering text into the input field will update the search result below\n\nEntering text into the input field will update the search result below",
+            "url": "https://seekingalpha.com/news/4427201-lockheed-martin-awarded-600m-us-air-force-contract-modification",
+            "image_url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+            "language": "en",
+            "published_at": "2025-03-31T21:54:57.000000Z",
+            "source": "seekingalpha.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 94.69947,
+                    "sentiment_score": 0.4019,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> awarded $600M U.S. Air force contract modification (<em>NYSE:LMT</em>)",
+                            "sentiment": 0.4019,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

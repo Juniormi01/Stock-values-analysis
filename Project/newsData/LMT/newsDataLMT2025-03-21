@@ -1,0 +1,116 @@
+{
+    "meta": {
+        "found": 6,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "8f29e396-44fb-4fae-ba4a-441e6985f9aa",
+            "title": "Lockheed Martin Corporation (LMT) Is a Trending Stock: Facts to Know Before Betting on It",
+            "description": "Recently, Zacks.com users have been paying close attention to Lockheed (LMT). This makes it worthwhile to examine what the stock has in store.",
+            "keywords": "stock, stocks, investment, investment advice, investing, online trading, online investment, online stock trading, stock market, financial, financial planning, quote, quotes, stock quotes",
+            "snippet": "This page has not been authorized, sponsored, or otherwise approved or endorsed by the companies represented herein. Each of the company logos represented herei...",
+            "url": "https://www.zacks.com/stock/news/2433664/lockheed-martin-corporation-lmt-is-a-trending-stock-facts-to-know-before-betting-on-it?cid=CS-ZC-FT-tale_of_the_tape|most_searched_stocks_v1-2433664",
+            "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default168.jpg",
+            "language": "en",
+            "published_at": "2025-03-21T20:43:46.000000Z",
+            "source": "zacks.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "LOM.DE",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 114.95849,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Corporation</em> (LMT) Is a Trending Stock: Facts to Know Before Betting on It",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 119.93874,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Corporation</em> (LMT) Is a Trending Stock: Facts to Know Before Betting on It",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LMT.MX",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 114.96627,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Corporation</em> (LMT) Is a Trending Stock: Facts to Know Before Betting on It",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0R3E.L",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 114.96577,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Corporation</em> (LMT) Is a Trending Stock: Facts to Know Before Betting on It",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LMTB34.SA",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 114.96456,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Corporation</em> (LMT) Is a Trending Stock: Facts to Know Before Betting on It",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

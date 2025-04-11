@@ -1,0 +1,102 @@
+{
+    "meta": {
+        "found": 4,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "f01d5d80-f807-4213-9ac4-615ecbecdca9",
+            "title": "U.S. Navy Awards Lockheed Martin $383 Million for Next Generation of U.S. Deterrence at Sea",
+            "description": "PR NewswireTITUSVILLE, Fla., Jan. 31, 2025\n\n\n\nCompany will build production facility in Florida and add approximately 300 jobs to support strategic missile mo",
+            "keywords": "GuruFocus, Article, News, PRNewswire, NYSE:LMT",
+            "snippet": "Company will build production facility in Florida and add approximately 300 jobs to support strategic missile modernization\n\nTITUSVILLE, Fla., Jan. 31, 2025 /PR...",
+            "url": "https://www.gurufocus.com/news/2676904/us-navy-awards-lockheed-martin-383-million-for-next-generation-of-us-deterrence-at-sea",
+            "image_url": "https://static.gurufocus.com/images/global_logo_twitter_card.png",
+            "language": "en",
+            "published_at": "2025-01-31T23:00:02.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 66.08798,
+                    "sentiment_score": 0.3729,
+                    "highlights": [
+                        {
+                            "highlight": "Navy awarded <em>Lockheed</em> <em>Marti[+327 characters]",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Under this contract modification, <em>Lo[+283 characters]",
+                            "sentiment": 0.128,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "\"The second life extension of the Triden[+317 characters]",
+                            "sentiment": 0.8625,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Advancing Deterrence\n\nThe D5 missile, bu[+195 characters]",
+                            "sentiment": 0.3321,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "This year, <em>Lockheed</em> <em>Martin<[+207 characters]",
+                            "sentiment": 0.4019,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "New Florida Facility for the Future\n\n<em[+195 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "About <em>Lockheed</em> <em>Martin</em>\n[+304 characters]",
+                            "sentiment": 0.9062,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "View original content to download multim[+207 characters]",
+                            "sentiment": 0.3182,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Navy Awards <em>Lockheed</em> <em>Martin</em> $383 Million for Next Generation of U.S. Deterrence at Sea",
+                            "sentiment": 0.4588,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PII",
+                    "name": "Polaris Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 13.572825,
+                    "sentiment_score": 0.8625,
+                    "highlights": [
+                        {
+                            "highlight": "\"The second life extension of the Triden[+308 characters]",
+                            "sentiment": 0.8625,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

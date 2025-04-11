@@ -1,0 +1,311 @@
+{
+    "meta": {
+        "found": 3,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "bac3fcfd-a071-47a8-aa76-6c46f231be8f",
+            "title": "Tech Defense Stocks Down as Investors React to Defense Budget Cuts",
+            "description": "",
+            "keywords": "",
+            "snippet": "February 24, 2025 (Investorideas.com Newswire) Investorideas.com (www.investorideas.com), a leader in retail investor trading ideas for Tech defense stocks issu...",
+            "url": "https://www.investorideas.com/news/2025/defense/02241Tech-Defense-Stocks-Down.asp",
+            "image_url": "https://www.investorideas.com/news/2025/defense/images/022425-1.jpg",
+            "language": "en",
+            "published_at": "2025-02-24T20:50:00.000000Z",
+            "source": "investorideas.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 43.836018,
+                    "sentiment_score": -0.248,
+                    "highlights": [
+                        {
+                            "highlight": "Meanwhile top military contractors like [+340 characters]",
+                            "sentiment": -0.248,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NOC",
+                    "name": "Northrop Grumman Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 53.409523,
+                    "sentiment_score": -0.248,
+                    "highlights": [
+                        {
+                            "highlight": "Meanwhile top military contractors like [+340 characters]",
+                            "sentiment": -0.248,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PLTR",
+                    "name": "Palantir Technologies Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 43.776398,
+                    "sentiment_score": 0.07655,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Palantir</em> <em>Technologies</em> [+173 characters]",
+                            "sentiment": 0.1531,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Just look at <em>Palantir</em> <em>Techn[+107 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "RDW",
+                    "name": "Redwire Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 56.638153,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Redwire</em> <em>Corporation</em> (<[+187 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BKSY",
+                    "name": "BlackSky Technology Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 64.53243,
+                    "sentiment_score": 0.3041,
+                    "highlights": [
+                        {
+                            "highlight": "<em>BlackSky</em> <em>Technology</em> <e[+284 characters]",
+                            "sentiment": 0.3041,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NTH.DE",
+                    "name": "Northrop Grumman Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 36.81132,
+                    "sentiment_score": -0.248,
+                    "highlights": [
+                        {
+                            "highlight": "Meanwhile top military contractors like [+331 characters]",
+                            "sentiment": -0.248,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LOM.DE",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 27.764967,
+                    "sentiment_score": -0.248,
+                    "highlights": [
+                        {
+                            "highlight": "Meanwhile top military contractors like [+331 characters]",
+                            "sentiment": -0.248,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PTX.DE",
+                    "name": "Palantir Technologies Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 37.925056,
+                    "sentiment_score": 0.07655,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Palantir</em> <em>Technologies</em> [+173 characters]",
+                            "sentiment": 0.1531,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Just look at <em>Palantir</em> <em>Techn[+107 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NOC.MX",
+                    "name": "Northrop Grumman Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 36.812355,
+                    "sentiment_score": -0.248,
+                    "highlights": [
+                        {
+                            "highlight": "Meanwhile top military contractors like [+331 characters]",
+                            "sentiment": -0.248,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LMT.MX",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 27.765936,
+                    "sentiment_score": -0.248,
+                    "highlights": [
+                        {
+                            "highlight": "Meanwhile top military contractors like [+331 characters]",
+                            "sentiment": -0.248,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0R3E.L",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 27.766113,
+                    "sentiment_score": -0.248,
+                    "highlights": [
+                        {
+                            "highlight": "Meanwhile top military contractors like [+331 characters]",
+                            "sentiment": -0.248,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0K92.L",
+                    "name": "Northrop Grumman Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 36.812386,
+                    "sentiment_score": -0.248,
+                    "highlights": [
+                        {
+                            "highlight": "Meanwhile top military contractors like [+331 characters]",
+                            "sentiment": -0.248,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0A7R.L",
+                    "name": "Palantir Technologies Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 37.94262,
+                    "sentiment_score": 0.07655,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Palantir</em> <em>Technologies</em> [+173 characters]",
+                            "sentiment": 0.1531,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Just look at <em>Palantir</em> <em>Techn[+107 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LMTB34.SA",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 27.765802,
+                    "sentiment_score": -0.248,
+                    "highlights": [
+                        {
+                            "highlight": "Meanwhile top military contractors like [+331 characters]",
+                            "sentiment": -0.248,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NOCG34.SA",
+                    "name": "Northrop Grumman Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 36.812805,
+                    "sentiment_score": -0.248,
+                    "highlights": [
+                        {
+                            "highlight": "Meanwhile top military contractors like [+331 characters]",
+                            "sentiment": -0.248,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

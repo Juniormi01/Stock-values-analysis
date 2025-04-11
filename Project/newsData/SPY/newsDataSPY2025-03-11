@@ -1,0 +1,971 @@
+{
+    "meta": {
+        "found": 13,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "6c4e9721-e0f2-4561-a93b-48ae21b393ec",
+            "title": "Hedges Become Profitable, Trump Stock Market Put Failed \u2013 Trump Has Bigger Fish To Fry - SPDR S&P 500 (ARCA:SPY)",
+            "description": "",
+            "keywords": "",
+            "snippet": "To gain an edge, this is what you need to know today.\n\nTake Partial Profits On Hedges\n\nAfter the sell off, consider taking partial profits on hedges.\n\nNibbling\n...",
+            "url": "https://www.benzinga.com/general/market-summary/25/03/44256598/hedges-become-profitable-trump-stock-market-put-failed-trump-has-bigger-fish-to-fry",
+            "image_url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "language": "en",
+            "published_at": "2025-03-11T17:15:17.000000Z",
+            "source": "benzinga.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "AMZN.MX",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 9.957714,
+                    "sentiment_score": -0.5719,
+                    "highlights": [
+                        {
+                            "highlight": "In the early trade, money flows are neut[+222 characters]",
+                            "sentiment": -0.5719,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.MX",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 8.434159,
+                    "sentiment_score": 0.22035,
+                    "highlights": [
+                        {
+                            "highlight": "In the short run, detox may upset the <e[+18 characters]",
+                            "sentiment": -0.3818,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In the early trade, money flows are nega[+288 characters]",
+                            "sentiment": 0.8225,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.MX",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 9.223485,
+                    "sentiment_score": 0.8225,
+                    "highlights": [
+                        {
+                            "highlight": "In the early trade, money flows are nega[+288 characters]",
+                            "sentiment": 0.8225,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG.MX",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 9.223485,
+                    "sentiment_score": 0.8225,
+                    "highlights": [
+                        {
+                            "highlight": "In the early trade, money flows are nega[+288 characters]",
+                            "sentiment": 0.8225,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "QQQ.MX",
+                    "name": "Invesco QQQ Trust, Series 1",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 27.51944,
+                    "sentiment_score": 0.8934,
+                    "highlights": [
+                        {
+                            "highlight": "In the early trade, money flows are like[+309 characters]",
+                            "sentiment": 0.8934,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA.MX",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 8.215567,
+                    "sentiment_score": 0.5859,
+                    "highlights": [
+                        {
+                            "highlight": "Magnificent Seven Money Flows\n\nIn the ea[+320 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SLV.MX",
+                    "name": "iShares Silver Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 18.85299,
+                    "sentiment_score": 0.8666,
+                    "highlights": [
+                        {
+                            "highlight": "The most popular ETF for silver is <em>i[+257 characters]",
+                            "sentiment": 0.8666,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZF.L",
+                    "name": "SPDR Gold Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 18.253765,
+                    "sentiment_score": 0.9441,
+                    "highlights": [
+                        {
+                            "highlight": "The most popular ETF for gold is <em>SPD[+313 characters]",
+                            "sentiment": 0.9441,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "QQQ",
+                    "name": "Invesco QQQ Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 21.908302,
+                    "sentiment_score": 0.8934,
+                    "highlights": [
+                        {
+                            "highlight": "In the early trade, money flows are like[+291 characters]",
+                            "sentiment": 0.8934,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0YIK.L",
+                    "name": "Invesco QQQ Trust, Series 1",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 27.518959,
+                    "sentiment_score": 0.8934,
+                    "highlights": [
+                        {
+                            "highlight": "In the early trade, money flows are like[+309 characters]",
+                            "sentiment": 0.8934,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SLV",
+                    "name": "iShares Silver Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 18.8535,
+                    "sentiment_score": 0.8666,
+                    "highlights": [
+                        {
+                            "highlight": "The most popular ETF for silver is <em>i[+257 characters]",
+                            "sentiment": 0.8666,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 29.568596,
+                    "sentiment_score": 0.7717,
+                    "highlights": [
+                        {
+                            "highlight": "Stock Market Put\n\nPlease click here for [+355 characters]",
+                            "sentiment": 0.7717,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 29.568504,
+                    "sentiment_score": 0.7717,
+                    "highlights": [
+                        {
+                            "highlight": "Stock Market Put\n\nPlease click here for [+355 characters]",
+                            "sentiment": 0.7717,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0JKC.L",
+                    "name": "iShares Silver Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 18.85345,
+                    "sentiment_score": 0.8666,
+                    "highlights": [
+                        {
+                            "highlight": "The most popular ETF for silver is <em>i[+257 characters]",
+                            "sentiment": 0.8666,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 8.433819,
+                    "sentiment_score": 0.22035,
+                    "highlights": [
+                        {
+                            "highlight": "In the short run, detox may upset the <e[+18 characters]",
+                            "sentiment": -0.3818,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In the early trade, money flows are nega[+288 characters]",
+                            "sentiment": 0.8225,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 9.956729,
+                    "sentiment_score": -0.5719,
+                    "highlights": [
+                        {
+                            "highlight": "In the early trade, money flows are neut[+222 characters]",
+                            "sentiment": -0.5719,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 9.223338,
+                    "sentiment_score": 0.8225,
+                    "highlights": [
+                        {
+                            "highlight": "In the early trade, money flows are nega[+288 characters]",
+                            "sentiment": 0.8225,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 7.554876,
+                    "sentiment_score": 0.3612,
+                    "highlights": [
+                        {
+                            "highlight": "(AMZN), NVIDIA Corp (NVDA), Microsoft Co[+275 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 8.215729,
+                    "sentiment_score": 0.5859,
+                    "highlights": [
+                        {
+                            "highlight": "Magnificent Seven Money Flows\n\nIn the ea[+320 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA34.SA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 8.215145,
+                    "sentiment_score": 0.5859,
+                    "highlights": [
+                        {
+                            "highlight": "Magnificent Seven Money Flows\n\nIn the ea[+320 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BSLV39.SA",
+                    "name": "Ishares Silver Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 18.85239,
+                    "sentiment_score": 0.8666,
+                    "highlights": [
+                        {
+                            "highlight": "The most popular ETF for silver is <em>i[+257 characters]",
+                            "sentiment": 0.8666,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFT.MI",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "it",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 8.102166,
+                    "sentiment_score": 0.3612,
+                    "highlights": [
+                        {
+                            "highlight": "(AMZN), NVIDIA Corp (NVDA), <em>Microsof[+266 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA.MI",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "it",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 9.200075,
+                    "sentiment_score": 0.3612,
+                    "highlights": [
+                        {
+                            "highlight": "(AMZN), <em>NVIDIA</em> <em>Corp</em> (N[+266 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.BA",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 8.433559,
+                    "sentiment_score": 0.22035,
+                    "highlights": [
+                        {
+                            "highlight": "In the short run, detox may upset the <e[+18 characters]",
+                            "sentiment": -0.3818,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In the early trade, money flows are nega[+288 characters]",
+                            "sentiment": 0.8225,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.BA",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 9.223756,
+                    "sentiment_score": 0.8225,
+                    "highlights": [
+                        {
+                            "highlight": "In the early trade, money flows are nega[+288 characters]",
+                            "sentiment": 0.8225,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDAD.BA",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 9.199908,
+                    "sentiment_score": 0.3612,
+                    "highlights": [
+                        {
+                            "highlight": "(AMZN), <em>NVIDIA</em> <em>Corp</em> (N[+266 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLAD.BA",
+                    "name": "TESLA INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 8.214747,
+                    "sentiment_score": 0.5859,
+                    "highlights": [
+                        {
+                            "highlight": "Magnificent Seven Money Flows\n\nIn the ea[+320 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTD.BA",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 8.102291,
+                    "sentiment_score": 0.3612,
+                    "highlights": [
+                        {
+                            "highlight": "(AMZN), NVIDIA Corp (NVDA), <em>Microsof[+266 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLD.BA",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 8.433546,
+                    "sentiment_score": 0.22035,
+                    "highlights": [
+                        {
+                            "highlight": "In the short run, detox may upset the <e[+18 characters]",
+                            "sentiment": -0.3818,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In the early trade, money flows are nega[+288 characters]",
+                            "sentiment": 0.8225,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTB.BA",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 8.102291,
+                    "sentiment_score": 0.3612,
+                    "highlights": [
+                        {
+                            "highlight": "(AMZN), NVIDIA Corp (NVDA), <em>Microsof[+266 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTC.BA",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 8.102291,
+                    "sentiment_score": 0.3612,
+                    "highlights": [
+                        {
+                            "highlight": "(AMZN), NVIDIA Corp (NVDA), <em>Microsof[+266 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLAC.BA",
+                    "name": "TESLA INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 8.214737,
+                    "sentiment_score": 0.5859,
+                    "highlights": [
+                        {
+                            "highlight": "Magnificent Seven Money Flows\n\nIn the ea[+320 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDAC.BA",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 9.199907,
+                    "sentiment_score": 0.3612,
+                    "highlights": [
+                        {
+                            "highlight": "(AMZN), <em>NVIDIA</em> <em>Corp</em> (N[+266 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOGLD.BA",
+                    "name": "ALPHABET INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 9.223761,
+                    "sentiment_score": 0.8225,
+                    "highlights": [
+                        {
+                            "highlight": "In the early trade, money flows are nega[+288 characters]",
+                            "sentiment": 0.8225,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLC.BA",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 8.433546,
+                    "sentiment_score": 0.22035,
+                    "highlights": [
+                        {
+                            "highlight": "In the short run, detox may upset the <e[+18 characters]",
+                            "sentiment": -0.3818,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In the early trade, money flows are nega[+288 characters]",
+                            "sentiment": 0.8225,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZN.SN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 9.957096,
+                    "sentiment_score": -0.5719,
+                    "highlights": [
+                        {
+                            "highlight": "In the early trade, money flows are neut[+222 characters]",
+                            "sentiment": -0.5719,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SLV.SN",
+                    "name": "iShares Silver Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 18.85257,
+                    "sentiment_score": 0.8666,
+                    "highlights": [
+                        {
+                            "highlight": "The most popular ETF for silver is <em>i[+257 characters]",
+                            "sentiment": 0.8666,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 9.223503,
+                    "sentiment_score": 0.8225,
+                    "highlights": [
+                        {
+                            "highlight": "In the early trade, money flows are nega[+288 characters]",
+                            "sentiment": 0.8225,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLCL.SN",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 8.433401,
+                    "sentiment_score": 0.22035,
+                    "highlights": [
+                        {
+                            "highlight": "In the short run, detox may upset the <e[+18 characters]",
+                            "sentiment": -0.3818,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In the early trade, money flows are nega[+288 characters]",
+                            "sentiment": 0.8225,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTCL.SN",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 8.102194,
+                    "sentiment_score": 0.3612,
+                    "highlights": [
+                        {
+                            "highlight": "(AMZN), NVIDIA Corp (NVDA), <em>Microsof[+266 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.SN",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 8.433401,
+                    "sentiment_score": 0.22035,
+                    "highlights": [
+                        {
+                            "highlight": "In the short run, detox may upset the <e[+18 characters]",
+                            "sentiment": -0.3818,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In the early trade, money flows are nega[+288 characters]",
+                            "sentiment": 0.8225,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 9.223503,
+                    "sentiment_score": 0.8225,
+                    "highlights": [
+                        {
+                            "highlight": "In the early trade, money flows are nega[+288 characters]",
+                            "sentiment": 0.8225,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZNCL.SN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 9.95695,
+                    "sentiment_score": -0.5719,
+                    "highlights": [
+                        {
+                            "highlight": "In the early trade, money flows are neut[+222 characters]",
+                            "sentiment": -0.5719,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGCL.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 9.223503,
+                    "sentiment_score": 0.8225,
+                    "highlights": [
+                        {
+                            "highlight": "In the early trade, money flows are nega[+288 characters]",
+                            "sentiment": 0.8225,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.NE",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ca",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 8.433204,
+                    "sentiment_score": 0.22035,
+                    "highlights": [
+                        {
+                            "highlight": "In the short run, detox may upset the <e[+18 characters]",
+                            "sentiment": -0.3818,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In the early trade, money flows are nega[+288 characters]",
+                            "sentiment": 0.8225,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZ.DE",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 9.957142,
+                    "sentiment_score": -0.5719,
+                    "highlights": [
+                        {
+                            "highlight": "In the early trade, money flows are neut[+222 characters]",
+                            "sentiment": -0.5719,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "APC.DE",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 8.432949,
+                    "sentiment_score": 0.22035,
+                    "highlights": [
+                        {
+                            "highlight": "In the short run, detox may upset the <e[+18 characters]",
+                            "sentiment": -0.3818,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In the early trade, money flows are nega[+288 characters]",
+                            "sentiment": 0.8225,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ABEA.DE",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 9.223763,
+                    "sentiment_score": 0.8225,
+                    "highlights": [
+                        {
+                            "highlight": "In the early trade, money flows are nega[+288 characters]",
+                            "sentiment": 0.8225,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TL0.DE",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 8.213427,
+                    "sentiment_score": 0.5859,
+                    "highlights": [
+                        {
+                            "highlight": "Magnificent Seven Money Flows\n\nIn the ea[+320 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ABEC.DE",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 9.223719,
+                    "sentiment_score": 0.8225,
+                    "highlights": [
+                        {
+                            "highlight": "In the early trade, money flows are nega[+288 characters]",
+                            "sentiment": 0.8225,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

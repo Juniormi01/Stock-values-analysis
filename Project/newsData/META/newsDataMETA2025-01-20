@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "found": 9,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "2091b996-6cb0-47b1-9518-dfdbe3b45598",
+            "title": "Meta Will Use Fact Checkers Outside The US \u2018For Now\u2019",
+            "description": "Mark Zuckerberg said this month that he decided to pull back on the practice, which was set up almost a decade ago to combat viral hoaxes spreading on the platform",
+            "keywords": "",
+            "snippet": "Meta Platforms Inc. will continue to use its fact checkers outside of the US \u201cfor now\u201d even as the Instagram and Facebook owner does away with the practice ...",
+            "url": "https://www.ndtvprofit.com/technology/meta-will-use-fact-checkers-outside-the-us-for-now",
+            "image_url": "https://media.assettype.com/bloombergquint%2F2025-01-20%2Fxncuufqy%2F424090764.jpg?rect=0%2C0%2C4000%2C2100&w=1200&auto=format%2Ccompress&ogImage=true",
+            "language": "en",
+            "published_at": "2025-01-20T19:05:42.000000Z",
+            "source": "bloombergquint.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 15.577081,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Meta</em> <em>Platforms</em> <em>Inc[+219 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "meta": {
+        "found": 45,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "a68c633c-41db-4115-8933-817e0e7f5820",
+            "title": "Market Today: Consumer Sentiment Plummets, Palantir Gains on AI Developments",
+            "description": "The stock market experienced a significant rally, bouncing back from recent declines. The S&P 500 surged 2.1%, the Dow Jones Industrial Average rose by 674 poin",
+            "keywords": "GuruFocus, Article, News, GuruFocus News, AAPL, TSLA, PLTR, ULTA, REGN, AMGN, CMG, LLY, ALT, COST, NVDA, TSLA, ULTA, DOCU",
+            "snippet": "The stock market experienced a significant rally, bouncing back from recent declines. The S&P 500 surged 2.1%, the Dow Jones Industrial Average rose by 674 poin...",
+            "url": "https://www.gurufocus.com/news/2739385/market-today-consumer-sentiment-plummets-palantir-gains-on-ai-developments",
+            "image_url": "https://static.gurufocus.com/1732803573856661504.png",
+            "language": "en",
+            "published_at": "2025-03-14T22:32:36.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "ALT",
+                    "name": "Altimmune, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 14.848139,
+                    "sentiment_score": 0.7845,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Altimmune</em> (ALT, Financial) shar[+245 characters]",
+                            "sentiment": 0.7845,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMGN",
+                    "name": "Amgen Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 15.702649,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Regeneron Pharmaceuticals (REGN, Financi[+285 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ULTA",
+                    "name": "Ulta Beauty, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 24.6642,
+                    "sentiment_score": 0.53215,
+                    "highlights": [
+                        {
+                            "highlight": "Despite issuing disappointing guidance, [+208 characters]",
+                            "sentiment": 0.1642,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Ulta</em> <em>Beauty</em> (ULTA, Fin[+269 characters]",
+                            "sentiment": 0.9001,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "COST",
+                    "name": "Costco Wholesale Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 16.895004,
+                    "sentiment_score": 0.6597,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Costco</em> <em>Wholesale</em> (COST[+237 characters]",
+                            "sentiment": 0.6597,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 10.085949,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Notable performers included <em>NVIDIA</[+115 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "DOCU",
+                    "name": "DocuSign, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 13.113632,
+                    "sentiment_score": 0.6646,
+                    "highlights": [
+                        {
+                            "highlight": "Despite issuing disappointing guidance, [+199 characters]",
+                            "sentiment": 0.6646,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 9.879486,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Notable performers included NVIDIA (NVDA[+115 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "REGN",
+                    "name": "Regeneron Pharmaceuticals, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 17.996029,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Regeneron</em> <em>Pharmaceuticals</[+285 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "COSTCL.SN",
+                    "name": "COSTCO WHOLESALE",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 23.25557,
+                    "sentiment_score": 0.6597,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Costco</em> <em>Wholesale</em> (COST[+237 characters]",
+                            "sentiment": 0.6597,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

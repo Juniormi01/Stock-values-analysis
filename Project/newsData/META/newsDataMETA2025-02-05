@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "found": 14,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "8776a922-cefc-440f-941d-609a1b0b6fcf",
+            "title": "Meta Platforms, Inc. (META) Lags in AI Race as DeepSeek Surpasses Llama Model",
+            "description": "We recently compiled a list of the 12 High Flying AI Stocks This Week.\u00a0In this article, we are going to take a look at where Meta Platforms, Inc.",
+            "keywords": "",
+            "snippet": "Artificial intelligence is the greatest investment opportunity of our lifetime. The time to invest in groundbreaking AI is now, and this stock is a steal!\n\nThe ...",
+            "url": "https://www.insidermonkey.com/blog/meta-platforms-inc-meta-lags-in-ai-race-as-deepseek-surpasses-llama-model-1443959/",
+            "image_url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/09/19153233/META-insidermonkey-1695151950867.jpg",
+            "language": "en",
+            "published_at": "2025-02-05T17:18:34.000000Z",
+            "source": "insidermonkey.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 60.35959,
+                    "sentiment_score": -0.3612,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Meta</em> <em>Platforms</em>, <em>Inc</em>. (META) Lags in AI Race as DeepSeek Surpasses Llama Model",
+                            "sentiment": -0.3612,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

@@ -1,0 +1,836 @@
+{
+    "meta": {
+        "found": 4,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "95231fe2-7e03-4687-912d-fa32d91af687",
+            "title": "German ETFs Trouncing US Funds Despite Tariff Threats",
+            "description": "EWX, DAX are among the funds outperforming Dow and S&P 500 ETFs like DIA and SPY.",
+            "keywords": "Donald Trump, German equity, Thyssenkrupp AG, German Steel, iShares MSCI Germany ETF, Rheinmetall AG, Global X DAX Germany ETF",
+            "snippet": "German economy\n\nGerman equity ETFs are among the best-performing funds so far this year, beating their US counterparts, as investors bet the country\u2019s manufac...",
+            "url": "https://finance.yahoo.com/news/german-etfs-trouncing-us-funds-140000238.html",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/oD97vTq6_PZiyDY.5BOHog--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/indexuniverse.com/0da59936b00d2946cc92bc66e2de719d",
+            "language": "en",
+            "published_at": "2025-02-11T14:00:00.000000Z",
+            "source": "finance.yahoo.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "BEWW39.SA",
+                    "name": "Ishares Msci Mexico ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 56.86404,
+                    "sentiment_score": -0.3306,
+                    "highlights": [
+                        {
+                            "highlight": "The threat of a 25% tariff has also not [+304 characters]",
+                            "sentiment": -0.3306,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "DAX",
+                    "name": "Global X DAX Germany ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 53.51835,
+                    "sentiment_score": 0.3818,
+                    "highlights": [
+                        {
+                            "highlight": "The largest fund tracking the country\u2019[+230 characters]",
+                            "sentiment": 0.3818,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "DIA",
+                    "name": "SPDR Dow Jones Industrial Average ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 78.5303,
+                    "sentiment_score": 0.4215,
+                    "highlights": [
+                        {
+                            "highlight": "Both are beating US benchmark ETFs like [+319 characters]",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "EWC",
+                    "name": "iShares MSCI Canada ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 54.125256,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Meanwhile, the $2.76 billion <em>iShares[+134 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "THYSS.BD",
+                    "name": "THYSSENKRUPP AG",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "hu",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 27.406757,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "While Trump has said he plans 25% tariff[+272 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "COMMB.BD",
+                    "name": "Commerzbank AG",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "hu",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 25.514347,
+                    "sentiment_score": 0.6124,
+                    "highlights": [
+                        {
+                            "highlight": "Shares in a range of German companies ar[+308 characters]",
+                            "sentiment": 0.6124,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFT.MI",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "it",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 16.246067,
+                    "sentiment_score": -0.3306,
+                    "highlights": [
+                        {
+                            "highlight": "(NVDA) is little changed this year, and [+300 characters]",
+                            "sentiment": -0.3306,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA.MI",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "it",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 18.637526,
+                    "sentiment_score": -0.3306,
+                    "highlights": [
+                        {
+                            "highlight": "(AAPL) has dropped 8.8% this year, <em>N[+273 characters]",
+                            "sentiment": -0.3306,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "EWG",
+                    "name": "iShares MSCI Germany ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 56.166977,
+                    "sentiment_score": 0.3818,
+                    "highlights": [
+                        {
+                            "highlight": "The largest fund tracking the country\u2019[+221 characters]",
+                            "sentiment": 0.3818,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TKA.MI",
+                    "name": "thyssenkrupp AG",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "it",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 27.406055,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "While Trump has said he plans 25% tariff[+272 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "EWW",
+                    "name": "iShares MSCI Mexico ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 56.863266,
+                    "sentiment_score": -0.3306,
+                    "highlights": [
+                        {
+                            "highlight": "The threat of a 25% tariff has also not [+304 characters]",
+                            "sentiment": -0.3306,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 62.37204,
+                    "sentiment_score": 0.4215,
+                    "highlights": [
+                        {
+                            "highlight": "Both are beating US benchmark ETFs like [+310 characters]",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "CBK.MI",
+                    "name": "Commerzbank AG",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "it",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 25.513506,
+                    "sentiment_score": 0.6124,
+                    "highlights": [
+                        {
+                            "highlight": "Shares in a range of German companies ar[+308 characters]",
+                            "sentiment": 0.6124,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 14.127096,
+                    "sentiment_score": -0.3306,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Apple</em> <em>Inc</em>. (AAPL) has [+284 characters]",
+                            "sentiment": -0.3306,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.BA",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 14.12706,
+                    "sentiment_score": -0.3306,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Apple</em> <em>Inc</em>. (AAPL) has [+284 characters]",
+                            "sentiment": -0.3306,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDAD.BA",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 18.6374,
+                    "sentiment_score": -0.3306,
+                    "highlights": [
+                        {
+                            "highlight": "(AAPL) has dropped 8.8% this year, <em>N[+273 characters]",
+                            "sentiment": -0.3306,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTD.BA",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 16.249945,
+                    "sentiment_score": -0.3306,
+                    "highlights": [
+                        {
+                            "highlight": "(NVDA) is little changed this year, and [+300 characters]",
+                            "sentiment": -0.3306,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLD.BA",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 14.127054,
+                    "sentiment_score": -0.3306,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Apple</em> <em>Inc</em>. (AAPL) has [+284 characters]",
+                            "sentiment": -0.3306,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTB.BA",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 16.249945,
+                    "sentiment_score": -0.3306,
+                    "highlights": [
+                        {
+                            "highlight": "(NVDA) is little changed this year, and [+300 characters]",
+                            "sentiment": -0.3306,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTC.BA",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 16.249945,
+                    "sentiment_score": -0.3306,
+                    "highlights": [
+                        {
+                            "highlight": "(NVDA) is little changed this year, and [+300 characters]",
+                            "sentiment": -0.3306,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDAC.BA",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 18.6374,
+                    "sentiment_score": -0.3306,
+                    "highlights": [
+                        {
+                            "highlight": "(AAPL) has dropped 8.8% this year, <em>N[+273 characters]",
+                            "sentiment": -0.3306,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLC.BA",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 14.127054,
+                    "sentiment_score": -0.3306,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Apple</em> <em>Inc</em>. (AAPL) has [+284 characters]",
+                            "sentiment": -0.3306,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "EWW.SN",
+                    "name": "iShares MSCI Mexico ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 56.86199,
+                    "sentiment_score": -0.3306,
+                    "highlights": [
+                        {
+                            "highlight": "The threat of a 25% tariff has also not [+304 characters]",
+                            "sentiment": -0.3306,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "EWC.SN",
+                    "name": "iShares MSCI Canada ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 54.12344,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Meanwhile, the $2.76 billion <em>iShares[+134 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLCL.SN",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 14.126949,
+                    "sentiment_score": -0.3306,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Apple</em> <em>Inc</em>. (AAPL) has [+284 characters]",
+                            "sentiment": -0.3306,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTCL.SN",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 16.249825,
+                    "sentiment_score": -0.3306,
+                    "highlights": [
+                        {
+                            "highlight": "(NVDA) is little changed this year, and [+300 characters]",
+                            "sentiment": -0.3306,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.SN",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 14.126949,
+                    "sentiment_score": -0.3306,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Apple</em> <em>Inc</em>. (AAPL) has [+284 characters]",
+                            "sentiment": -0.3306,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "EWG.SN",
+                    "name": "iShares MSCI Germany ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 56.164993,
+                    "sentiment_score": 0.3818,
+                    "highlights": [
+                        {
+                            "highlight": "The largest fund tracking the country\u2019[+221 characters]",
+                            "sentiment": 0.3818,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TKAMY",
+                    "name": "thyssenkrupp AG",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 27.400795,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "While Trump has said he plans 25% tariff[+272 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "CRZBY",
+                    "name": "Commerzbank AG",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 25.514565,
+                    "sentiment_score": 0.6124,
+                    "highlights": [
+                        {
+                            "highlight": "Shares in a range of German companies ar[+308 characters]",
+                            "sentiment": 0.6124,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TYEKF",
+                    "name": "thyssenkrupp AG",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 27.400564,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "While Trump has said he plans 25% tariff[+272 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "CRZBF",
+                    "name": "Commerzbank AG",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 25.514467,
+                    "sentiment_score": 0.6124,
+                    "highlights": [
+                        {
+                            "highlight": "Shares in a range of German companies ar[+308 characters]",
+                            "sentiment": 0.6124,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "RNMBY",
+                    "name": "Rheinmetall AG",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 26.242386,
+                    "sentiment_score": 0.6124,
+                    "highlights": [
+                        {
+                            "highlight": "Shares in a range of German companies ar[+308 characters]",
+                            "sentiment": 0.6124,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "RNMBF",
+                    "name": "Rheinmetall AG",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 26.241793,
+                    "sentiment_score": 0.6124,
+                    "highlights": [
+                        {
+                            "highlight": "Shares in a range of German companies ar[+308 characters]",
+                            "sentiment": 0.6124,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.NE",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ca",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 14.12664,
+                    "sentiment_score": -0.3306,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Apple</em> <em>Inc</em>. (AAPL) has [+284 characters]",
+                            "sentiment": -0.3306,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TKA.DE",
+                    "name": "thyssenkrupp AG",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 27.399662,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "While Trump has said he plans 25% tariff[+272 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "CBK.DE",
+                    "name": "Commerzbank AG",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 25.514515,
+                    "sentiment_score": 0.6124,
+                    "highlights": [
+                        {
+                            "highlight": "Shares in a range of German companies ar[+308 characters]",
+                            "sentiment": 0.6124,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "RHM.DE",
+                    "name": "Rheinmetall AG",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 26.242004,
+                    "sentiment_score": 0.6124,
+                    "highlights": [
+                        {
+                            "highlight": "Shares in a range of German companies ar[+308 characters]",
+                            "sentiment": 0.6124,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "APC.DE",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 14.12669,
+                    "sentiment_score": -0.3306,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Apple</em> <em>Inc</em>. (AAPL) has [+284 characters]",
+                            "sentiment": -0.3306,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.MX",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 14.126123,
+                    "sentiment_score": -0.3306,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Apple</em> <em>Inc</em>. (AAPL) has [+284 characters]",
+                            "sentiment": -0.3306,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "DIA.MX",
+                    "name": "SPDR Dow Jones Industrial Average ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 78.53236,
+                    "sentiment_score": 0.4215,
+                    "highlights": [
+                        {
+                            "highlight": "Both are beating US benchmark ETFs like [+319 characters]",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "EWC.MX",
+                    "name": "iShares MSCI Canada ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 54.12374,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Meanwhile, the $2.76 billion <em>iShares[+134 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "EWG.MX",
+                    "name": "iShares MSCI Germany ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 56.166225,
+                    "sentiment_score": 0.3818,
+                    "highlights": [
+                        {
+                            "highlight": "The largest fund tracking the country\u2019[+221 characters]",
+                            "sentiment": 0.3818,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 62.372814,
+                    "sentiment_score": 0.4215,
+                    "highlights": [
+                        {
+                            "highlight": "Both are beating US benchmark ETFs like [+310 characters]",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "DIA.AS",
+                    "name": "SPDR Dow Jones Industrial Average ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "nl",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 78.53361,
+                    "sentiment_score": 0.4215,
+                    "highlights": [
+                        {
+                            "highlight": "Both are beating US benchmark ETFs like [+319 characters]",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

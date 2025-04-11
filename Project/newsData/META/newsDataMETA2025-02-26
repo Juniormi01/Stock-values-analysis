@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "found": 12,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "962a75ce-dae8-4d32-a971-88748d9d6db3",
+            "title": "Meta set to snap six days of losses as shares trade in green (META:NASDAQ)",
+            "description": "Meta stock rebounds after six days of losses, gaining nearly 3%. Analysts highlight AI ad monetization as a growth driver.",
+            "keywords": "",
+            "snippet": "Shares of Meta (NASDAQ:META) were on track to snap six straight days of losses, as the stock rose nearly 2.70% to $675.05 in Wednesday afternoon trade.\n\nThe soc...",
+            "url": "https://seekingalpha.com/news/4414213-meta-set-to-snap-six-days-of-losses-as-shares-trade-in-green",
+            "image_url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+            "language": "en",
+            "published_at": "2025-02-26T18:07:00.000000Z",
+            "source": "seekingalpha.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 16.517115,
+                    "sentiment_score": 0.1779,
+                    "highlights": [
+                        {
+                            "highlight": "Shares of Meta (<em>NASDAQ:META</em>) we[+216 characters]",
+                            "sentiment": 0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

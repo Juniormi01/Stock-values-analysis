@@ -1,0 +1,147 @@
+{
+    "meta": {
+        "found": 1,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "bf0a46f4-b0f9-49d3-8332-fe15fbb1395a",
+            "title": "GD Stock Vs. LMT Stock : Why General Dynamics Emerges As The Superior Defense Stock?",
+            "description": "Equity markets experienced a significant downturn amid escalating trade tensions, with both the Dow Jones and the S&P 500 incurring substantial losses.",
+            "keywords": "lmt revenue, lmt valuation, gd stock, gd revenue, gd valuation, general dynamics, lockheed martin, defense",
+            "snippet": "POLAND - 2024/11/21: In this photo illustration, the Lockheed Martin company logo is seen displayed ... [+] on a smartphone screen. (Photo Illustration by Piotr...",
+            "url": "https://www.forbes.com/sites/greatspeculations/2025/03/05/gd-stock-vs-lmt-stock--why-general-dynamics-emerges-as-the-superior-defense-stock/",
+            "image_url": "https://imageio.forbes.com/specials-images/imageserve/67c7eaadd9a0cc1869d82ac8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "language": "en",
+            "published_at": "2025-03-05T10:30:51.000000Z",
+            "source": "forbes.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 37.334038,
+                    "sentiment_score": 0.320988,
+                    "highlights": [
+                        {
+                            "highlight": "POLAND - 2024/11/21: In this photo illus[+109 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In our analysis of defense sector stocks[+222 characters]",
+                            "sentiment": 0.8947,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In contrast, <em>Lockheed</em> <em>Marti[+268 characters]",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Operating Margin Trends: LMT\u2019s Classif[+247 characters]",
+                            "sentiment": -0.6124,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Financial Risk Analysis: Balancing Debt [+156 characters]",
+                            "sentiment": -0.4767,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Essentially, General Dynamics has a stro[+100 characters]",
+                            "sentiment": 0.5046,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Our analysis indicates that General Dyna[+233 characters]",
+                            "sentiment": 0.9112,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Although General Dynamics offers a stron[+242 characters]",
+                            "sentiment": 0.7096,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GD",
+                    "name": "General Dynamics Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 58.468765,
+                    "sentiment_score": 0.456864,
+                    "highlights": [
+                        {
+                            "highlight": "In our analysis of defense sector stocks[+222 characters]",
+                            "sentiment": 0.8643,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In the analysis that follows, we will ex[+183 characters]",
+                            "sentiment": 0.7322,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>General</em> <em>Dynamics</em>\u2019 re[+251 characters]",
+                            "sentiment": 0.891,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In comparison, <em>General</em> <em>Dyna[+151 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Financial Risk Analysis: Balancing Debt [+156 characters]",
+                            "sentiment": -0.6369,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "While Lockheed Martin\u2019s debt-to-equity[+254 characters]",
+                            "sentiment": 0.0094,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Essentially, <em>General</em> <em>Dynami[+100 characters]",
+                            "sentiment": 0.2878,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Our analysis indicates that <em>General<[+233 characters]",
+                            "sentiment": 0.8876,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "While the current geopolitical climate i[+220 characters]",
+                            "sentiment": 0.7918,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Although <em>General</em> <em>Dynamics</[+242 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "LMT Stock : Why <em>General</em> <em>Dynamics</em> Emerges As The Superior Defense Stock?",
+                            "sentiment": 0.6124,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

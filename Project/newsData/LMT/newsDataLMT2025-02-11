@@ -1,0 +1,80 @@
+{
+    "meta": {
+        "found": 1,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "52d7070c-4096-4abd-919c-a4479131a84e",
+            "title": "Justin Trudeau Slams 'Unacceptable' US Tariffs After Trump Imposes 25% Levy On Metal Imports : 'Canadians Will Stand Up Strongly And Firmly If We Need To' Canadian PM Justin Trudeau Slams 'Unacceptabl",
+            "description": "Canadian Prime Minister Justin Trudeau seeks to highlight the adverse effects of the U.S. steel and aluminum tariffs and has warned of a strong response if required.",
+            "keywords": "",
+            "snippet": "Canadian Prime Minister Justin Trudeau on Tuesday highlighted the adverse effects of the U.S. steel and aluminum tariffs and warned of a strong response if requ...",
+            "url": "https://www.benzinga.com/markets/25/02/43621302/justin-trudeau-slams-unacceptable-us-tariffs-after-trump-imposes-25-levy-on-metal-imports-canadians-will-",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2025/02/11/Justin-Trudeau.jpeg?width=1200&height=800&fit=crop",
+            "language": "en",
+            "published_at": "2025-02-11T13:11:36.000000Z",
+            "source": "benzinga.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "GM",
+                    "name": "General Motors Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 15.930773,
+                    "sentiment_score": 0.5574,
+                    "highlights": [
+                        {
+                            "highlight": "The automotive sector, including Ford (N[+272 characters]",
+                            "sentiment": 0.5574,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 19.58909,
+                    "sentiment_score": 0.5574,
+                    "highlights": [
+                        {
+                            "highlight": "The automotive sector, including Ford (N[+272 characters]",
+                            "sentiment": 0.5574,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SSTK",
+                    "name": "Shutterstock, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 12.471383,
+                    "sentiment_score": 0.4019,
+                    "highlights": [
+                        {
+                            "highlight": "Image via <em>Shutterstock</em>\n\nDisclai[+118 characters]",
+                            "sentiment": 0.4019,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

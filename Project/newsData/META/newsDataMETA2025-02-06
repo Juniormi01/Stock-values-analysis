@@ -1,0 +1,1823 @@
+{
+    "meta": {
+        "found": 17,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "73109b47-d2af-45a1-9bea-6c84fc635127",
+            "title": "BlackRock, Inc. Expands Holdings in HA Sustainable Infrastructure Capital Inc",
+            "description": "On December 31, 2024, BlackRock, Inc. (Trades, Portfolio) made a significant addition to its portfolio by acquiring 667,545 shares of HA Sustainable Infrastruct",
+            "keywords": "GuruFocus, Article, News, GuruFocus News, HASI, AAPL, AMZN, META, MSFT, NVDA",
+            "snippet": "On December 31, 2024, BlackRock, Inc. (Trades, Portfolio) made a significant addition to its portfolio by acquiring 667,545 shares of HA Sustainable Infrastruct...",
+            "url": "https://www.gurufocus.com/news/2685969/blackrock-inc-expands-holdings-in-ha-sustainable-infrastructure-capital-inc",
+            "image_url": "https://s3.amazonaws.com/gurufocus_userupload/1887624701283561472.png",
+            "language": "en",
+            "published_at": "2025-02-06T22:09:17.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "AAPL.NE",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ca",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 10.647804,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "BlackRock's top holdings include major t[+238 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZ.DE",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 15.143239,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "BlackRock's top holdings include major t[+238 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "APC.DE",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 10.646869,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "BlackRock's top holdings include major t[+238 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BLQA.DE",
+                    "name": "BlackRock, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 71.72111,
+                    "sentiment_score": 0.57314,
+                    "highlights": [
+                        {
+                            "highlight": "On December 31, 2024, <em>BlackRock</em>[+287 characters]",
+                            "sentiment": 0.8918,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>BlackRock</em>, <em>Inc</em>. (Trade[+239 characters]",
+                            "sentiment": 0.7906,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "With an equity value of $4,761.16 trilli[+84 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Impact of the Transaction on BlackRock's[+168 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>BlackRock</em>, <em>Inc</em>. Expands Holdings in HA Sustainable Infrastructure Capital Inc",
+                            "sentiment": 0.5473,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 10.646515,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "BlackRock's top holdings include major t[+238 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 15.141504,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "BlackRock's top holdings include major t[+238 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 11.347855,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "BlackRock's top holdings include major t[+247 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BLK",
+                    "name": "BlackRock, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 71.67329,
+                    "sentiment_score": 0.57314,
+                    "highlights": [
+                        {
+                            "highlight": "On December 31, 2024, <em>BlackRock</em>[+287 characters]",
+                            "sentiment": 0.8918,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>BlackRock</em>, <em>Inc</em>. (Trade[+239 characters]",
+                            "sentiment": 0.7906,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "With an equity value of $4,761.16 trilli[+84 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Impact of the Transaction on BlackRock's[+168 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>BlackRock</em>, <em>Inc</em>. Expands Holdings in HA Sustainable Infrastructure Capital Inc",
+                            "sentiment": 0.5473,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZN.MX",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 15.137058,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "BlackRock's top holdings include major t[+238 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.MX",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 10.64584,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "BlackRock's top holdings include major t[+238 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BLK.MX",
+                    "name": "BlackRock, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 71.66378,
+                    "sentiment_score": 0.57314,
+                    "highlights": [
+                        {
+                            "highlight": "On December 31, 2024, <em>BlackRock</em>[+287 characters]",
+                            "sentiment": 0.8918,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>BlackRock</em>, <em>Inc</em>. (Trade[+239 characters]",
+                            "sentiment": 0.7906,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "With an equity value of $4,761.16 trilli[+84 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Impact of the Transaction on BlackRock's[+168 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>BlackRock</em>, <em>Inc</em>. Expands Holdings in HA Sustainable Infrastructure Capital Inc",
+                            "sentiment": 0.5473,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0QZZ.L",
+                    "name": "BlackRock, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 71.64314,
+                    "sentiment_score": 0.57314,
+                    "highlights": [
+                        {
+                            "highlight": "On December 31, 2024, <em>BlackRock</em>[+287 characters]",
+                            "sentiment": 0.8918,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>BlackRock</em>, <em>Inc</em>. (Trade[+239 characters]",
+                            "sentiment": 0.7906,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "With an equity value of $4,761.16 trilli[+84 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Impact of the Transaction on BlackRock's[+168 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>BlackRock</em>, <em>Inc</em>. Expands Holdings in HA Sustainable Infrastructure Capital Inc",
+                            "sentiment": 0.5473,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFT.MI",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "it",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 12.205917,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "BlackRock's top holdings include major t[+238 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA.MI",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "it",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 13.958488,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "BlackRock's top holdings include major t[+238 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.BA",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 10.645775,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "BlackRock's top holdings include major t[+238 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDAD.BA",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 13.957872,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "BlackRock's top holdings include major t[+238 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTD.BA",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 12.204991,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "BlackRock's top holdings include major t[+238 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLD.BA",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 10.645775,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "BlackRock's top holdings include major t[+238 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTB.BA",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 12.204844,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "BlackRock's top holdings include major t[+238 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTC.BA",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 12.204844,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "BlackRock's top holdings include major t[+238 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDAC.BA",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 13.957699,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "BlackRock's top holdings include major t[+238 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLC.BA",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 10.645672,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "BlackRock's top holdings include major t[+238 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZN.SN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 15.135839,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "BlackRock's top holdings include major t[+238 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLCL.SN",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 10.645151,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "BlackRock's top holdings include major t[+238 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTCL.SN",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 12.203985,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "BlackRock's top holdings include major t[+238 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.SN",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 10.645151,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "BlackRock's top holdings include major t[+238 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZNCL.SN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 15.134576,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "BlackRock's top holdings include major t[+238 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": [
+                {
+                    "uuid": "9566f84e-cf5f-440f-b9ed-f0b1e9bdf444",
+                    "title": "BlackRock, Inc. Expands Stake in Valaris Ltd with Recent Acquisition",
+                    "description": "On December 31, 2024, BlackRock, Inc. (Trades, Portfolio) executed a strategic stock transaction involving Valaris Ltd, a prominent player in the offshore drill",
+                    "keywords": "GuruFocus, Article, News, GuruFocus News, VAL, AAPL, AMZN, META, MSFT, NVDA",
+                    "snippet": "On December 31, 2024, BlackRock, Inc. (Trades, Portfolio) executed a strategic stock transaction involving Valaris Ltd, a prominent player in the offshore drill...",
+                    "url": "https://www.gurufocus.com/news/2685467/blackrock-inc-expands-stake-in-valaris-ltd-with-recent-acquisition",
+                    "image_url": "https://s3.amazonaws.com/gurufocus_userupload/1887562977931063296.png",
+                    "language": "en",
+                    "published_at": "2025-02-06T18:03:59.000000Z",
+                    "source": "gurufocus.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "AAPL.NE",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ca",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 10.203857,
+                            "sentiment_score": 0.2023,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+203 characters]",
+                                    "sentiment": 0.2023,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZ.DE",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 14.492452,
+                            "sentiment_score": 0.2023,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+203 characters]",
+                                    "sentiment": 0.2023,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "APC.DE",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 10.202977,
+                            "sentiment_score": 0.2023,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+203 characters]",
+                                    "sentiment": 0.2023,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "BLQA.DE",
+                            "name": "BlackRock, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Financial Services",
+                            "match_score": 71.72111,
+                            "sentiment_score": 0.48142,
+                            "highlights": [
+                                {
+                                    "highlight": "On December 31, 2024, <em>BlackRock</em>[+260 characters]",
+                                    "sentiment": 0.6908,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>BlackRock</em>, <em>Inc</em>. (Trade[+280 characters]",
+                                    "sentiment": 0.6249,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Impact of the Transaction on BlackRock's[+294 characters]",
+                                    "sentiment": 0.6705,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Other Notable Investors in Valaris Ltd\n\n[+203 characters]",
+                                    "sentiment": 0.3182,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>BlackRock</em>, <em>Inc</em>. Expands Stake in Valaris Ltd with Recent Acquisition",
+                                    "sentiment": 0.1027,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 10.202641,
+                            "sentiment_score": 0.2023,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+203 characters]",
+                                    "sentiment": 0.2023,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZN",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 14.490797,
+                            "sentiment_score": 0.2023,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+203 characters]",
+                                    "sentiment": 0.2023,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "META",
+                            "name": "Meta Platforms Inc",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 10.871708,
+                            "sentiment_score": 0.2023,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+212 characters]",
+                                    "sentiment": 0.2023,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "BLK",
+                            "name": "BlackRock, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Financial Services",
+                            "match_score": 71.67329,
+                            "sentiment_score": 0.48142,
+                            "highlights": [
+                                {
+                                    "highlight": "On December 31, 2024, <em>BlackRock</em>[+260 characters]",
+                                    "sentiment": 0.6908,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>BlackRock</em>, <em>Inc</em>. (Trade[+280 characters]",
+                                    "sentiment": 0.6249,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Impact of the Transaction on BlackRock's[+294 characters]",
+                                    "sentiment": 0.6705,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Other Notable Investors in Valaris Ltd\n\n[+203 characters]",
+                                    "sentiment": 0.3182,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>BlackRock</em>, <em>Inc</em>. Expands Stake in Valaris Ltd with Recent Acquisition",
+                                    "sentiment": 0.1027,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZN.MX",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 14.486562,
+                            "sentiment_score": 0.2023,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+203 characters]",
+                                    "sentiment": 0.2023,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL.MX",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 10.202,
+                            "sentiment_score": 0.2023,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+203 characters]",
+                                    "sentiment": 0.2023,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "BLK.MX",
+                            "name": "BlackRock, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Financial Services",
+                            "match_score": 71.66378,
+                            "sentiment_score": 0.48142,
+                            "highlights": [
+                                {
+                                    "highlight": "On December 31, 2024, <em>BlackRock</em>[+260 characters]",
+                                    "sentiment": 0.6908,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>BlackRock</em>, <em>Inc</em>. (Trade[+280 characters]",
+                                    "sentiment": 0.6249,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Impact of the Transaction on BlackRock's[+294 characters]",
+                                    "sentiment": 0.6705,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Other Notable Investors in Valaris Ltd\n\n[+203 characters]",
+                                    "sentiment": 0.3182,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>BlackRock</em>, <em>Inc</em>. Expands Stake in Valaris Ltd with Recent Acquisition",
+                                    "sentiment": 0.1027,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "VAL",
+                            "name": "Valaris Limited",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 51.375256,
+                            "sentiment_score": 0.333627,
+                            "highlights": [
+                                {
+                                    "highlight": "(Trades, Portfolio) executed a strategic[+222 characters]",
+                                    "sentiment": 0.6908,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Valaris</em> Ltd: A Leader in Offsho[+211 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Impact of the Transaction on BlackRock's[+294 characters]",
+                                    "sentiment": 0.6705,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Valuation and Performance Metrics of <em[+254 characters]",
+                                    "sentiment": 0.5994,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "The company's [GF Score](https://www.gur[+95 characters]",
+                                    "sentiment": -0.4767,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Valaris</em> Ltd's balance sheet and[+204 characters]",
+                                    "sentiment": 0.0516,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Financial Health and Growth Prospects\n\n<[+282 characters]",
+                                    "sentiment": 0.5859,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "The company's [interest coverage](https:[+250 characters]",
+                                    "sentiment": -0.1027,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Valaris</em> Ltd's growth prospects [+241 characters]",
+                                    "sentiment": 0.6705,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "(Trades, Portfolio), other prominent inv[+300 characters]",
+                                    "sentiment": 0.8779,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Expands Stake in <em>Valaris</em> Ltd with Recent Acquisition",
+                                    "sentiment": 0.1027,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "0QZZ.L",
+                            "name": "BlackRock, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "gb",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 71.64314,
+                            "sentiment_score": 0.48142,
+                            "highlights": [
+                                {
+                                    "highlight": "On December 31, 2024, <em>BlackRock</em>[+260 characters]",
+                                    "sentiment": 0.6908,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>BlackRock</em>, <em>Inc</em>. (Trade[+280 characters]",
+                                    "sentiment": 0.6249,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Impact of the Transaction on BlackRock's[+294 characters]",
+                                    "sentiment": 0.6705,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Other Notable Investors in Valaris Ltd\n\n[+203 characters]",
+                                    "sentiment": 0.3182,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>BlackRock</em>, <em>Inc</em>. Expands Stake in Valaris Ltd with Recent Acquisition",
+                                    "sentiment": 0.1027,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFT.MI",
+                            "name": "MICROSOFT CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "it",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 11.690279,
+                            "sentiment_score": 0.2023,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+203 characters]",
+                                    "sentiment": 0.2023,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "NVDA.MI",
+                            "name": "NVIDIA CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "it",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 13.362206,
+                            "sentiment_score": 0.2023,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+203 characters]",
+                                    "sentiment": 0.2023,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL.BA",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 10.201921,
+                            "sentiment_score": 0.2023,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+203 characters]",
+                                    "sentiment": 0.2023,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "NVDAD.BA",
+                            "name": "NVIDIA CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 13.361613,
+                            "sentiment_score": 0.2023,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+203 characters]",
+                                    "sentiment": 0.2023,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFTD.BA",
+                            "name": "MICROSOFT CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 11.689391,
+                            "sentiment_score": 0.2023,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+203 characters]",
+                                    "sentiment": 0.2023,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPLD.BA",
+                            "name": "APPLE INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 10.201921,
+                            "sentiment_score": 0.2023,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+203 characters]",
+                                    "sentiment": 0.2023,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFTB.BA",
+                            "name": "MICROSOFT CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 11.68925,
+                            "sentiment_score": 0.2023,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+203 characters]",
+                                    "sentiment": 0.2023,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFTC.BA",
+                            "name": "MICROSOFT CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 11.68925,
+                            "sentiment_score": 0.2023,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+203 characters]",
+                                    "sentiment": 0.2023,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "NVDAC.BA",
+                            "name": "NVIDIA CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 13.361446,
+                            "sentiment_score": 0.2023,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+203 characters]",
+                                    "sentiment": 0.2023,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPLC.BA",
+                            "name": "APPLE INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 10.201823,
+                            "sentiment_score": 0.2023,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+203 characters]",
+                                    "sentiment": 0.2023,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZN.SN",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 14.485376,
+                            "sentiment_score": 0.2023,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+203 characters]",
+                                    "sentiment": 0.2023,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPLCL.SN",
+                            "name": "APPLE INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 10.201326,
+                            "sentiment_score": 0.2023,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+203 characters]",
+                                    "sentiment": 0.2023,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFTCL.SN",
+                            "name": "MICROSOFT CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 11.688433,
+                            "sentiment_score": 0.2023,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+203 characters]",
+                                    "sentiment": 0.2023,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL.SN",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 10.201326,
+                            "sentiment_score": 0.2023,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+203 characters]",
+                                    "sentiment": 0.2023,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZNCL.SN",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 14.48417,
+                            "sentiment_score": 0.2023,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+203 characters]",
+                                    "sentiment": 0.2023,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "uuid": "37822f46-3f24-4024-9a32-12432ee0e92a",
+                    "title": "BlackRock, Inc. Expands Holdings with Significant Acquisition of Logitech International SA Shares",
+                    "description": "On December 31, 2024, BlackRock, Inc. (Trades, Portfolio), a leading investment firm, executed a notable transaction by acquiring an additional 12,466,080 share",
+                    "keywords": "GuruFocus, Article, News, GuruFocus News, LOGI, AAPL, AMZN, META, MSFT, NVDA",
+                    "snippet": "On December 31, 2024, BlackRock, Inc. (Trades, Portfolio), a leading investment firm, executed a notable transaction by acquiring an additional 12,466,080 share...",
+                    "url": "https://www.gurufocus.com/news/2685462/blackrock-inc-expands-holdings-with-significant-acquisition-of-logitech-international-sa-shares",
+                    "image_url": "https://s3.amazonaws.com/gurufocus_userupload/1887562790407925760.png",
+                    "language": "en",
+                    "published_at": "2025-02-06T18:03:03.000000Z",
+                    "source": "gurufocus.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "AAPL.NE",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ca",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 11.677897,
+                            "sentiment_score": 0.7906,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm manages an impressive equity po[+275 characters]",
+                                    "sentiment": 0.7906,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZ.DE",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 16.653263,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "(AAPL, Financial), <em>Amazon.com</em> <[+141 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "APC.DE",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 11.67683,
+                            "sentiment_score": 0.7906,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm manages an impressive equity po[+275 characters]",
+                                    "sentiment": 0.7906,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "BLQA.DE",
+                            "name": "BlackRock, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Financial Services",
+                            "match_score": 67.00399,
+                            "sentiment_score": 0.62998,
+                            "highlights": [
+                                {
+                                    "highlight": "On December 31, 2024, <em>BlackRock</em>[+324 characters]",
+                                    "sentiment": 0.7783,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>BlackRock</em>, <em>Inc</em>. Trades[+213 characters]",
+                                    "sentiment": 0.25,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Impact of the Transaction on BlackRock's[+290 characters]",
+                                    "sentiment": 0.8519,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "As <em>BlackRock</em> continues to diver[+262 characters]",
+                                    "sentiment": 0.743,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>BlackRock</em>, <em>Inc</em>. Expands Holdings with Significant Acquisition of Logitech International SA Shares",
+                                    "sentiment": 0.5267,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 11.676437,
+                            "sentiment_score": 0.7906,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm manages an impressive equity po[+275 characters]",
+                                    "sentiment": 0.7906,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZN",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 16.65134,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "(AAPL, Financial), <em>Amazon.com</em> <[+141 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "META",
+                            "name": "Meta Platforms Inc",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 12.452657,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "(AMZN, Financial), <em>Meta</em> <em>Pla[+329 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "BLK",
+                            "name": "BlackRock, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Financial Services",
+                            "match_score": 66.95936,
+                            "sentiment_score": 0.62998,
+                            "highlights": [
+                                {
+                                    "highlight": "On December 31, 2024, <em>BlackRock</em>[+324 characters]",
+                                    "sentiment": 0.7783,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>BlackRock</em>, <em>Inc</em>. Trades[+213 characters]",
+                                    "sentiment": 0.25,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Impact of the Transaction on BlackRock's[+290 characters]",
+                                    "sentiment": 0.8519,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "As <em>BlackRock</em> continues to diver[+262 characters]",
+                                    "sentiment": 0.743,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>BlackRock</em>, <em>Inc</em>. Expands Holdings with Significant Acquisition of Logitech International SA Shares",
+                                    "sentiment": 0.5267,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZN.MX",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 16.6464,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "(AAPL, Financial), <em>Amazon.com</em> <[+141 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL.MX",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 11.675677,
+                            "sentiment_score": 0.7906,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm manages an impressive equity po[+275 characters]",
+                                    "sentiment": 0.7906,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "BLK.MX",
+                            "name": "BlackRock, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Financial Services",
+                            "match_score": 66.9505,
+                            "sentiment_score": 0.62998,
+                            "highlights": [
+                                {
+                                    "highlight": "On December 31, 2024, <em>BlackRock</em>[+324 characters]",
+                                    "sentiment": 0.7783,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>BlackRock</em>, <em>Inc</em>. Trades[+213 characters]",
+                                    "sentiment": 0.25,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Impact of the Transaction on BlackRock's[+290 characters]",
+                                    "sentiment": 0.8519,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "As <em>BlackRock</em> continues to diver[+262 characters]",
+                                    "sentiment": 0.743,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>BlackRock</em>, <em>Inc</em>. Expands Holdings with Significant Acquisition of Logitech International SA Shares",
+                                    "sentiment": 0.5267,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "0QZZ.L",
+                            "name": "BlackRock, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "gb",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 66.93135,
+                            "sentiment_score": 0.62998,
+                            "highlights": [
+                                {
+                                    "highlight": "On December 31, 2024, <em>BlackRock</em>[+324 characters]",
+                                    "sentiment": 0.7783,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>BlackRock</em>, <em>Inc</em>. Trades[+213 characters]",
+                                    "sentiment": 0.25,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Impact of the Transaction on BlackRock's[+290 characters]",
+                                    "sentiment": 0.8519,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "As <em>BlackRock</em> continues to diver[+262 characters]",
+                                    "sentiment": 0.743,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>BlackRock</em>, <em>Inc</em>. Expands Holdings with Significant Acquisition of Logitech International SA Shares",
+                                    "sentiment": 0.5267,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFT.MI",
+                            "name": "MICROSOFT CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "it",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 13.402358,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "(META, Financial), <em>Microsoft</em> <e[+281 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "NVDA.MI",
+                            "name": "NVIDIA CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "it",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 15.342049,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "(MSFT, Financial), and <em>NVIDIA</em> <[+246 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL.BA",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 11.67565,
+                            "sentiment_score": 0.7906,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm manages an impressive equity po[+275 characters]",
+                                    "sentiment": 0.7906,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "NVDAD.BA",
+                            "name": "NVIDIA CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 15.341377,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "(MSFT, Financial), and <em>NVIDIA</em> <[+246 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFTD.BA",
+                            "name": "MICROSOFT CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 13.401342,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "(META, Financial), <em>Microsoft</em> <e[+281 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPLD.BA",
+                            "name": "APPLE INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 11.67565,
+                            "sentiment_score": 0.7906,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm manages an impressive equity po[+275 characters]",
+                                    "sentiment": 0.7906,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFTB.BA",
+                            "name": "MICROSOFT CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 13.401182,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "(META, Financial), <em>Microsoft</em> <e[+281 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFTC.BA",
+                            "name": "MICROSOFT CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 13.401182,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "(META, Financial), <em>Microsoft</em> <e[+281 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "NVDAC.BA",
+                            "name": "NVIDIA CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 15.341188,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "(MSFT, Financial), and <em>NVIDIA</em> <[+246 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPLC.BA",
+                            "name": "APPLE INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 11.675537,
+                            "sentiment_score": 0.7906,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm manages an impressive equity po[+275 characters]",
+                                    "sentiment": 0.7906,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZN.SN",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 16.645115,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "(AAPL, Financial), <em>Amazon.com</em> <[+141 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPLCL.SN",
+                            "name": "APPLE INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 11.674957,
+                            "sentiment_score": 0.7906,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm manages an impressive equity po[+275 characters]",
+                                    "sentiment": 0.7906,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFTCL.SN",
+                            "name": "MICROSOFT CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 13.400229,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "(META, Financial), <em>Microsoft</em> <e[+281 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL.SN",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 11.674957,
+                            "sentiment_score": 0.7906,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm manages an impressive equity po[+275 characters]",
+                                    "sentiment": 0.7906,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZNCL.SN",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 16.643715,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "(AAPL, Financial), <em>Amazon.com</em> <[+141 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

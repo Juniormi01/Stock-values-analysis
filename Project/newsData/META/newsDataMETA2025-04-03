@@ -1,0 +1,64 @@
+{
+    "meta": {
+        "found": 21,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "106a5bf6-bd92-4843-8677-200774d14a7f",
+            "title": "Meta (META) Faces Share Decline Amid Market Challenges",
+            "description": "Meta Platforms, despite a promising UFC partnership, faces a slight dip in stock price.    Wall Street analysts project a significant 38.91% upside for MET",
+            "keywords": "GuruFocus, Article, News, GuruFocus News, META",
+            "snippet": "Meta Platforms, despite a promising UFC partnership, faces a slight dip in stock price.\n\nWall Street analysts project a significant 38.91% upside for META withi...",
+            "url": "https://www.gurufocus.com/news/2762126/meta-meta-faces-share-decline-amid-market-challenges",
+            "image_url": "https://static.gurufocus.com/logos/0C000098V0.png?20",
+            "language": "en",
+            "published_at": "2025-04-03T19:55:48.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 24.590376,
+                    "sentiment_score": 0.36362,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Meta</em> <em>Platforms</em> <em>Inc[+176 characters]",
+                            "sentiment": 0.886,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Wall Street Analysts Forecast\n\nLeveragin[+260 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "For a deeper dive into price projections[+269 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "GF Value Assessment\n\nAccording to GuruFo[+244 characters]",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Additional detailed data can be accessed[+74 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

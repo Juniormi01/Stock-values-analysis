@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "found": 13,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "63c34059-5459-415a-880b-d9ce548e9388",
+            "title": "India befriends Big Tech as Trump tariffs knock on door, aided by a string of biz-friendly moves",
+            "description": "Policymakers are looking to wait and analyze the impact of the upcoming Digital Personal Data Protection Act, 2023 for tech firms, before choosing to regulate further. This could take at least three years\u2014a phase during which Big Tech will find India a friendly nation to do business in.",
+            "keywords": "Big Tech, Trump tariffs, Digital India Act, data privacy, Digital Competition Act, technology regulation, DPDP Act, AI regulation, India US trade, equalization levy, anti-competition, Indian judiciary, innovation economy, Meity, telecom act, startups, foreign online advertisers, digital markets act, global revenue, tech talent.",
+            "snippet": "New Delhi: A string of measures in the field of information technology has suddenly pivoted India into a friendlier place for American Big Tech firms to do busi...",
+            "url": "https://www.livemint.com/industry/infotech/india-big-tech-trump-tariffs-regulation-eu-us-google-meta-11743421052309.html",
+            "image_url": "https://www.livemint.com/lm-img/img/2025/03/31/1600x900/ALPHABET-GOOGLE-SETTLEMENT-0_1743439438559_1743439458015.JPG",
+            "language": "en",
+            "published_at": "2025-03-31T23:30:05.000000Z",
+            "source": "livemint.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 8.472853,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Meta</em> <em>Platforms</em> <em>Inc[+265 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

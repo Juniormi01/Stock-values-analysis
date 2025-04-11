@@ -1,0 +1,390 @@
+{
+    "meta": {
+        "found": 3,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "53120210-0081-48f4-9978-cb0341341796",
+            "title": "Dividend Contenders List: Top 15",
+            "description": "Dividend stocks have remained a popular choice among investors due to the steady income they provide, becoming even more attractive when payouts grow over time.",
+            "keywords": "",
+            "snippet": "In this dividend contenders list, we will discuss the top 15 dividend stocks with the highest yields.\n\nDividend stocks have remained a popular choice among inve...",
+            "url": "https://www.insidermonkey.com/blog/dividend-contenders-list-top-15-2-1480608/",
+            "image_url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2025/01/03215526/pexels-anna-nekrashevich-6801874.jpg",
+            "language": "en",
+            "published_at": "2025-03-13T19:28:14.000000Z",
+            "source": "insidermonkey.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "LMTB34.SA",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 37.726456,
+                    "sentiment_score": 0.3976,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Co[+264 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In the fourth quarter of 2024, <em>Lockh[+152 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Co[+260 characters]",
+                            "sentiment": 0.8316,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BAC",
+                    "name": "Bank of America Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 41.994354,
+                    "sentiment_score": 0.3872,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Bank</em> <em>of</em> <em>America</e[+284 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In the fourth quarter of 2024, <em>Bank<[+283 characters]",
+                            "sentiment": 0.659,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Bank</em> <em>of</em> <em>America</e[+333 characters]",
+                            "sentiment": 0.5026,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 51.73244,
+                    "sentiment_score": 0.3976,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Co[+282 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In the fourth quarter of 2024, <em>Lockh[+161 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Co[+269 characters]",
+                            "sentiment": 0.8316,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BAC.SN",
+                    "name": "Bank of America Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 28.665934,
+                    "sentiment_score": 0.3872,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Bank</em> <em>of</em> <em>America</e[+266 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In the fourth quarter of 2024, <em>Bank<[+274 characters]",
+                            "sentiment": 0.659,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Bank</em> <em>of</em> <em>America</e[+324 characters]",
+                            "sentiment": 0.5026,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MDLZ.SN",
+                    "name": "Mondelez International, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 36.50634,
+                    "sentiment_score": 0.4421,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Mondelez</em> <em>International</em>[+256 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In the fourth quarter of 2024, <em>Monde[+316 characters]",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Mondelez</em> <em>International</em>[+255 characters]",
+                            "sentiment": 0.7269,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BACCL.SN",
+                    "name": "Bank of America Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 28.665901,
+                    "sentiment_score": 0.3872,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Bank</em> <em>of</em> <em>America</e[+266 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In the fourth quarter of 2024, <em>Bank<[+274 characters]",
+                            "sentiment": 0.659,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Bank</em> <em>of</em> <em>America</e[+324 characters]",
+                            "sentiment": 0.5026,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NCB.DE",
+                    "name": "Bank of America Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 28.666664,
+                    "sentiment_score": 0.3872,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Bank</em> <em>of</em> <em>America</e[+266 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In the fourth quarter of 2024, <em>Bank<[+274 characters]",
+                            "sentiment": 0.659,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Bank</em> <em>of</em> <em>America</e[+324 characters]",
+                            "sentiment": 0.5026,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LOM.DE",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 37.725197,
+                    "sentiment_score": 0.3976,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Co[+264 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In the fourth quarter of 2024, <em>Lockh[+152 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Co[+260 characters]",
+                            "sentiment": 0.8316,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BAC.MX",
+                    "name": "Bank of America Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 28.666922,
+                    "sentiment_score": 0.3872,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Bank</em> <em>of</em> <em>America</e[+266 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In the fourth quarter of 2024, <em>Bank<[+274 characters]",
+                            "sentiment": 0.659,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Bank</em> <em>of</em> <em>America</e[+324 characters]",
+                            "sentiment": 0.5026,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LMT.MX",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 37.726475,
+                    "sentiment_score": 0.3976,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Co[+264 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In the fourth quarter of 2024, <em>Lockh[+152 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Co[+260 characters]",
+                            "sentiment": 0.8316,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MDLZ.MX",
+                    "name": "Mondelez International, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 36.507725,
+                    "sentiment_score": 0.4421,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Mondelez</em> <em>International</em>[+256 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In the fourth quarter of 2024, <em>Monde[+316 characters]",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Mondelez</em> <em>International</em>[+255 characters]",
+                            "sentiment": 0.7269,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0R3E.L",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 37.72639,
+                    "sentiment_score": 0.3976,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Co[+264 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In the fourth quarter of 2024, <em>Lockh[+152 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Co[+260 characters]",
+                            "sentiment": 0.8316,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0R0G.L",
+                    "name": "Mondelez International, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 36.508568,
+                    "sentiment_score": 0.4421,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Mondelez</em> <em>International</em>[+256 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In the fourth quarter of 2024, <em>Monde[+316 characters]",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Mondelez</em> <em>International</em>[+255 characters]",
+                            "sentiment": 0.7269,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

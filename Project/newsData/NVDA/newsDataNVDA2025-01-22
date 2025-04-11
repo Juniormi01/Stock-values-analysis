@@ -1,0 +1,530 @@
+{
+    "meta": {
+        "found": 65,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "3d11ddc7-ae2e-4d4c-8ebf-be7998135693",
+            "title": "Nvidia supplier SK Hynix clocks bumper Q4 profit on AI-fueled chip demand By Investing.com",
+            "description": "Nvidia supplier SK Hynix clocks bumper Q4 profit on AI-fueled chip demand",
+            "keywords": "",
+            "snippet": "Investing.com-- Nvidia supplier SK Hynix Inc (KS: ) posted a sharp increase in its fourth-quarter profit on Thursday, as the memory chip maker benefited from in...",
+            "url": "https://www.investing.com/news/stock-market-news/nvidia-supplier-sk-hynix-clocks-bumper-q4-profit-on-aifueled-chip-demand-3825917",
+            "image_url": "https://i-invdn-com.investing.com/news/SKHynix_800x533_L_1648193506.jpg",
+            "language": "en",
+            "published_at": "2025-01-22T23:50:12.000000Z",
+            "source": "investing.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "0L7L.L",
+                    "name": "SoftBank Group Corp.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 28.915766,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "OpenAI and <em>SoftBank</em> <em>Group</[+179 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 39.14428,
+                    "sentiment_score": 0.38945,
+                    "highlights": [
+                        {
+                            "highlight": "Investing.com-- <em>Nvidia</em> supplier[+205 characters]",
+                            "sentiment": 0.836,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "HBM chips a key component of AI processo[+284 characters]",
+                            "sentiment": 0.3818,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "(TYO: ) will lead the venture, with tech[+129 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Nvidia</em> supplier SK Hynix clocks bumper Q4 profit on AI-fueled chip demand By Investing.com",
+                            "sentiment": 0.34,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFT",
+                    "name": "Microsoft Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 13.392862,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "(TYO: ) will lead the venture, with tech[+129 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDC34.SA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 32.085136,
+                    "sentiment_score": 0.38945,
+                    "highlights": [
+                        {
+                            "highlight": "Investing.com-- <em>Nvidia</em> supplier[+205 characters]",
+                            "sentiment": 0.836,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "HBM chips a key component of AI processo[+284 characters]",
+                            "sentiment": 0.3818,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "(TYO: ) will lead the venture, with tech[+129 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Nvidia</em> supplier SK Hynix clocks bumper Q4 profit on AI-fueled chip demand By Investing.com",
+                            "sentiment": 0.34,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MU",
+                    "name": "Micron Technology, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 39.6865,
+                    "sentiment_score": 0.25,
+                    "highlights": [
+                        {
+                            "highlight": "The company is the second-largest maker [+237 characters]",
+                            "sentiment": 0.25,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MUTC34.SA",
+                    "name": "Micron Technology, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 32.62753,
+                    "sentiment_score": 0.25,
+                    "highlights": [
+                        {
+                            "highlight": "The company is the second-largest maker [+237 characters]",
+                            "sentiment": 0.25,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ORCL",
+                    "name": "Oracle Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 14.832097,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "(TYO: ) will lead the venture, with tech[+129 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SFTBY",
+                    "name": "SoftBank Group Corp.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 28.903526,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "OpenAI and <em>SoftBank</em> <em>Group</[+179 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SFTBF",
+                    "name": "SoftBank Group Corp.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 28.903526,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "OpenAI and <em>SoftBank</em> <em>Group</[+179 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA.BA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 32.084934,
+                    "sentiment_score": 0.38945,
+                    "highlights": [
+                        {
+                            "highlight": "Investing.com-- <em>Nvidia</em> supplier[+205 characters]",
+                            "sentiment": 0.836,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "HBM chips a key component of AI processo[+284 characters]",
+                            "sentiment": 0.3818,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "(TYO: ) will lead the venture, with tech[+129 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Nvidia</em> supplier SK Hynix clocks bumper Q4 profit on AI-fueled chip demand By Investing.com",
+                            "sentiment": 0.34,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "9984.T",
+                    "name": "SoftBank Group Corp.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "jp",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 39.92685,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "OpenAI and <em>SoftBank</em> <em>Group</[+179 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "9434.T",
+                    "name": "SoftBank Corp.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "jp",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 21.345964,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "OpenAI and <em>SoftBank</em> Group Corp.[+161 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "6982.T",
+                    "name": "The Lead Co., Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "jp",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 18.63436,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "(TYO: ) will lead the venture, with tech[+138 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "000660.KS",
+                    "name": "SK hynix Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "kr",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 76.49916,
+                    "sentiment_score": 0.56905,
+                    "highlights": [
+                        {
+                            "highlight": "Investing.com-- Nvidia supplier <em>SK</[+223 characters]",
+                            "sentiment": 0.836,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "HBM chips a key component of AI processo[+284 characters]",
+                            "sentiment": 0.3818,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>SK</em> <em>Hynix</em> said that dem[+238 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Nvidia supplier <em>SK</em> <em>Hynix</em> clocks bumper Q4 profit on AI-fueled chip demand By Investing.com",
+                            "sentiment": 0.34,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "005930.KS",
+                    "name": "Samsung Electronics Co., Ltd.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "kr",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 46.006077,
+                    "sentiment_score": 0.25,
+                    "highlights": [
+                        {
+                            "highlight": "The company is the second-largest maker [+246 characters]",
+                            "sentiment": 0.25,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "005935.KS",
+                    "name": "Samsung Electronics Co., Ltd.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "kr",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 46.006077,
+                    "sentiment_score": 0.25,
+                    "highlights": [
+                        {
+                            "highlight": "The company is the second-largest maker [+246 characters]",
+                            "sentiment": 0.25,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVD.DE",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 32.084038,
+                    "sentiment_score": 0.38945,
+                    "highlights": [
+                        {
+                            "highlight": "Investing.com-- <em>Nvidia</em> supplier[+205 characters]",
+                            "sentiment": 0.836,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "HBM chips a key component of AI processo[+284 characters]",
+                            "sentiment": 0.3818,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "(TYO: ) will lead the venture, with tech[+129 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Nvidia</em> supplier SK Hynix clocks bumper Q4 profit on AI-fueled chip demand By Investing.com",
+                            "sentiment": 0.34,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MTE.DE",
+                    "name": "Micron Technology, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 32.62761,
+                    "sentiment_score": 0.25,
+                    "highlights": [
+                        {
+                            "highlight": "The company is the second-largest maker [+237 characters]",
+                            "sentiment": 0.25,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA.MX",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 32.084324,
+                    "sentiment_score": 0.38945,
+                    "highlights": [
+                        {
+                            "highlight": "Investing.com-- <em>Nvidia</em> supplier[+205 characters]",
+                            "sentiment": 0.836,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "HBM chips a key component of AI processo[+284 characters]",
+                            "sentiment": 0.3818,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "(TYO: ) will lead the venture, with tech[+129 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Nvidia</em> supplier SK Hynix clocks bumper Q4 profit on AI-fueled chip demand By Investing.com",
+                            "sentiment": 0.34,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SMSNN.MX",
+                    "name": "Samsung Electronics Co., Ltd.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 46.00403,
+                    "sentiment_score": 0.25,
+                    "highlights": [
+                        {
+                            "highlight": "The company is the second-largest maker [+246 characters]",
+                            "sentiment": 0.25,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MU.MX",
+                    "name": "Micron Technology, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 32.62776,
+                    "sentiment_score": 0.25,
+                    "highlights": [
+                        {
+                            "highlight": "The company is the second-largest maker [+237 characters]",
+                            "sentiment": 0.25,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SOFTN.MX",
+                    "name": "SoftBank Group Corp.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 28.876085,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "OpenAI and <em>SoftBank</em> <em>Group</[+179 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BC94.L",
+                    "name": "Samsung Electronics Co., Ltd.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 46.00462,
+                    "sentiment_score": 0.25,
+                    "highlights": [
+                        {
+                            "highlight": "The company is the second-largest maker [+246 characters]",
+                            "sentiment": 0.25,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

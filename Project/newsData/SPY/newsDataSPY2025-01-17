@@ -1,0 +1,170 @@
+{
+    "meta": {
+        "found": 4,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "b296aff7-4ab9-49c9-8654-0fc9a9c3031e",
+            "title": "State Street Q4 Inflows Dip as SPY Loses Ground to VOO",
+            "description": "SPDR owner\u2019s Q4 inflows fell year over year as SPY pulled in less than half of its total from the same period in 2023.",
+            "keywords": "VOO, State Street, SPDR S&P 500 ETF Trust",
+            "snippet": "State Street\n\nState Street Corp.\u2019s SPDR unit, the number three U.S. ETF issuer, pulled in less cash in the fourth quarter of 2024 than in the same period in 2...",
+            "url": "https://finance.yahoo.com/news/state-street-q4-inflows-dip-223734052.html",
+            "image_url": "https://media.zenfs.com/en/indexuniverse.com/7e3d9cd5e45aa6e4ad3950bd316607e8",
+            "language": "en",
+            "published_at": "2025-01-17T22:37:34.000000Z",
+            "source": "finance.yahoo.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "IVV",
+                    "name": "iShares Core S&P 500 ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 59.66469,
+                    "sentiment_score": 0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "The latter fund has become the world\u2019s[+369 characters]",
+                            "sentiment": 0.0258,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "VOO",
+                    "name": "Vanguard S&P 500 ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 49.495056,
+                    "sentiment_score": 0.8062,
+                    "highlights": [
+                        {
+                            "highlight": "ETF with $621.4 billion in assets, SPY?[+156 characters]",
+                            "sentiment": 0.8062,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 60.441948,
+                    "sentiment_score": -0.1779,
+                    "highlights": [
+                        {
+                            "highlight": "ETF issuer, pulled in less cash in the f[+233 characters]",
+                            "sentiment": -0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BLK",
+                    "name": "BlackRock, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 18.783487,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "State Street, which manages $1.29 trilli[+194 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BLQA.DE",
+                    "name": "BlackRock, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 18.783138,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "State Street, which manages $1.29 trilli[+194 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BLK.MX",
+                    "name": "BlackRock, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 18.783144,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "State Street, which manages $1.29 trilli[+194 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 60.43754,
+                    "sentiment_score": -0.1779,
+                    "highlights": [
+                        {
+                            "highlight": "ETF issuer, pulled in less cash in the f[+233 characters]",
+                            "sentiment": -0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0QZZ.L",
+                    "name": "BlackRock, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 18.782928,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "State Street, which manages $1.29 trilli[+194 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

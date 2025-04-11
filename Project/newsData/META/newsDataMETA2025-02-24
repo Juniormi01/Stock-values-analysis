@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "found": 8,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "e3b65d74-07e8-4b13-82ed-cea9b6eebbc5",
+            "title": "Meta Platforms, Inc. (META): A High Growth Mega Cap Stock You Can Buy and Hold for the Next 5 Years",
+            "description": "We recently compiled a list of the 20 High Growth Mega Cap Stocks You Can Buy And Hold For Next 5 Years.\u00a0In this article, we are going to take a look at where Meta Platforms, Inc.",
+            "keywords": "",
+            "snippet": "Artificial intelligence is the greatest investment opportunity of our lifetime. The time to invest in groundbreaking AI is now, and this stock is a steal!\n\nThe ...",
+            "url": "https://www.insidermonkey.com/blog/meta-platforms-inc-meta-a-high-growth-mega-cap-stock-you-can-buy-and-hold-for-the-next-5-years-1462748/",
+            "image_url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/09/19153233/META-insidermonkey-1695151950867.jpg",
+            "language": "en",
+            "published_at": "2025-02-24T23:12:20.000000Z",
+            "source": "insidermonkey.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 49.35388,
+                    "sentiment_score": 0.3818,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Meta</em> <em>Platforms</em>, <em>Inc</em>. (META): A High Growth Mega Cap Stock You Can Buy and Hold for the Next 5 Years",
+                            "sentiment": 0.3818,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "meta": {
+        "found": 4,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "f22ddc3a-3c6e-4462-af85-3130d80350a0",
+            "title": "5 US Stocks That Could Skyrocket After Trump\u2019s Inauguration",
+            "description": "With Donald Trump starting his second Presidential term of office on 20 January, we look at five stocks that could benefit from his policies.",
+            "keywords": "",
+            "snippet": "It\u2019s interesting times in the US political scene once again as Donald Trump was inaugurated for his second term on 20 January.\n\nThe fiery politician is herald...",
+            "url": "https://thesmartinvestor.com.sg/5-us-stocks-that-could-skyrocket-after-trumps-inauguration/",
+            "image_url": "https://thesmartinvestor.com.sg/wp-content/uploads/2025/01/Donald-Trump.jpg",
+            "language": "en",
+            "published_at": "2025-01-22T23:30:00.000000Z",
+            "source": "thesmartinvestor.com.sg",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "MSFT",
+                    "name": "Microsoft Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 17.715189,
+                    "sentiment_score": 0.62285,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Microsoft</em> (<em>NASDAQ</em>: <em[+320 characters]",
+                            "sentiment": 0.7351,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Microsoft</em> 365 also saw office A[+215 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 30.276001,
+                    "sentiment_score": 0.4019,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> (<em>N[+353 characters]",
+                            "sentiment": 0.4019,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NUE",
+                    "name": "Nucor Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Basic Materials",
+                    "match_score": 30.93425,
+                    "sentiment_score": 0.596067,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Nucor</em> (<em>NYSE</em>: <em>NUE</[+192 characters]",
+                            "sentiment": 0.6486,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "One of these, the purchase of Southwest [+170 characters]",
+                            "sentiment": 0.4588,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "With Trump\u2019s commitment to spending on[+145 characters]",
+                            "sentiment": 0.6808,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

@@ -1,0 +1,222 @@
+{
+    "meta": {
+        "found": 13,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "6ee7f6c3-4157-4105-911d-62b412da55e5",
+            "title": "Is Meta Platforms (META) the Best Innovative Stock to Buy According to Analysts?",
+            "description": "We recently published a list of 11 Best Innovative Stocks to Buy According to Analysts. In this article, we are going to take a look at where Meta Platforms, Inc.",
+            "keywords": "",
+            "snippet": "We recently published a list of 11 Best Innovative Stocks to Buy According to Analysts. In this article, we are going to take a look at where Meta Platforms, In...",
+            "url": "https://www.insidermonkey.com/blog/is-meta-platforms-meta-the-best-innovative-stock-to-buy-according-to-analysts-1501408/",
+            "image_url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2024/11/12134959/META-insidermonkey-1695151950867-768x430-1.jpg",
+            "language": "en",
+            "published_at": "2025-04-04T22:15:07.000000Z",
+            "source": "insidermonkey.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 32.812004,
+                    "sentiment_score": 0.469475,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+158 characters]",
+                            "sentiment": 0.7964,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Meta</em> <em>Platforms</em>, <em>In[+294 characters]",
+                            "sentiment": 0.0772,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Meta</em> <em>Platforms</em>, <em>In[+272 characters]",
+                            "sentiment": 0.802,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The significant infrastructure investmen[+196 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": [
+                {
+                    "uuid": "08540356-ec3a-4c48-aa81-7501993736a6",
+                    "title": "Meta Platforms (META) Plans $1 Billion Data Center in Wisconsin",
+                    "description": "Key Insights:\n    Meta Platforms (META) is set to invest nearly $1 billion in a new data center in Wisconsin.    Analysts predict an average price target of $74",
+                    "keywords": "GuruFocus, Article, News, GuruFocus News, META",
+                    "snippet": "Key Insights:\n\nMeta Platforms (META, Financial) is set to invest nearly $1 billion in a new data center in Wisconsin.\n\nAnalysts predict an average price target ...",
+                    "url": "https://www.gurufocus.com/news/2763653/meta-platforms-meta-plans-1-billion-data-center-in-wisconsin",
+                    "image_url": "https://static.gurufocus.com/logos/0C000098V0.png?20",
+                    "language": "en",
+                    "published_at": "2025-04-04T21:55:37.000000Z",
+                    "source": "gurufocus.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "META",
+                            "name": "Meta Platforms Inc",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 23.22432,
+                            "sentiment_score": 0.22405,
+                            "highlights": [
+                                {
+                                    "highlight": "Analyst Price Predictions for Meta\n\nAcco[+272 characters]",
+                                    "sentiment": -0.25,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Investors can delve deeper into these pr[+285 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Understanding META's GF Value\n\nThe GF Va[+299 characters]",
+                                    "sentiment": 0.836,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "For more comprehensive data, visit the <[+65 characters]",
+                                    "sentiment": 0.3102,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "uuid": "dd555feb-7805-4be5-92e2-da35096f3ad3",
+                    "title": "Meta Platforms (META) Set to Unveil Llama 4 Model",
+                    "description": "Meta Platforms is launching Llama 4, enhancing its AI capabilities to compete with tech giants like Google.    Analysts set a one-year price target of $749",
+                    "keywords": "GuruFocus, Article, News, GuruFocus News, META",
+                    "snippet": "Meta Platforms is launching Llama 4, enhancing its AI capabilities to compete with tech giants like Google.\n\nAnalysts set a one-year price target of $749.34 for...",
+                    "url": "https://www.gurufocus.com/news/2763078/meta-platforms-meta-set-to-unveil-llama-4-model",
+                    "image_url": "https://static.gurufocus.com/logos/0C000098V0.png?20",
+                    "language": "en",
+                    "published_at": "2025-04-04T14:56:50.000000Z",
+                    "source": "gurufocus.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "META",
+                            "name": "Meta Platforms Inc",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 37.43005,
+                            "sentiment_score": 0.25986,
+                            "highlights": [
+                                {
+                                    "highlight": "Meta Platforms (<em>NASDAQ</em>: <em>MET[+289 characters]",
+                                    "sentiment": 0.8176,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Wall Street Analysts' Forecasts for Meta[+249 characters]",
+                                    "sentiment": -0.25,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "For a more comprehensive analysis, visit[+247 characters]",
+                                    "sentiment": 0.3102,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Understanding GuruFocus' GF Value Estima[+230 characters]",
+                                    "sentiment": 0.4215,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "For further insights, explore the <em>Me[+60 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "CASH",
+                            "name": "Meta Financial Group, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Financial Services",
+                            "match_score": 18.559307,
+                            "sentiment_score": 0.227367,
+                            "highlights": [
+                                {
+                                    "highlight": "Wall Street Analysts' Forecasts for Meta[+240 characters]",
+                                    "sentiment": -0.25,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "The consensus recommendation from 72 bro[+260 characters]",
+                                    "sentiment": 0.5106,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Understanding GuruFocus' GF Value Estima[+221 characters]",
+                                    "sentiment": 0.4215,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "uuid": "ec3805e5-eb28-48a8-a565-fcc9ba4a7e0e",
+                    "title": "Meta Platforms, Inc. (META) is Attracting Investor Attention: Here is What You Should Know",
+                    "description": "Meta Platforms (META) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
+                    "keywords": "stock, stocks, investment, investment advice, investing, online trading, online investment, online stock trading, stock market, financial, financial planning, quote, quotes, stock quotes",
+                    "snippet": "This page has not been authorized, sponsored, or otherwise approved or endorsed by the companies represented herein. Each of the company logos represented herei...",
+                    "url": "https://www.zacks.com/stock/news/2440357/meta-platforms-inc-meta-is-attracting-investor-attention-here-is-what-you-should-know?cid=CS-ZC-FT-tale_of_the_tape|most_searched_stocks-2440357",
+                    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default320.jpg",
+                    "language": "en",
+                    "published_at": "2025-04-04T13:00:14.000000Z",
+                    "source": "zacks.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "META",
+                            "name": "Meta Platforms Inc",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 64.42534,
+                            "sentiment_score": 0.4767,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>Meta</em> <em>Platforms</em>, <em>Inc</em>. (META) is Attracting Investor Attention: Here is What You Should Know",
+                                    "sentiment": 0.4767,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

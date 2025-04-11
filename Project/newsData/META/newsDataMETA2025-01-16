@@ -1,0 +1,1157 @@
+{
+    "meta": {
+        "found": 13,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "b391e077-9d10-42b1-bacc-8dbca30d6132",
+            "title": "Adams Diversified Equity Fund Announces 2024 Performance",
+            "description": "**media[517413]**",
+            "keywords": "Adams, Diversified, Equity, Fund, Announces, 2024, Performance",
+            "snippet": "BALTIMORE, Jan. 16, 2025 (GLOBE NEWSWIRE) -- Adams Diversified Equity Fund, Inc. (NYSE: ADX) announces the Fund's investment returns for 2024. The total return ...",
+            "url": "https://www.manilatimes.net/2025/01/17/tmt-newswire/globenewswire/adams-diversified-equity-fund-announces-2024-performance/2040412",
+            "image_url": "https://www.manilatimes.net/manilatimes/uploads/images/2025/01/17/517413.jpg",
+            "language": "en",
+            "published_at": "2025-01-16T22:39:25.000000Z",
+            "source": "manilatimes.net",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "AMZ.DE",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 16.668386,
+                    "sentiment_score": 0.47795,
+                    "highlights": [
+                        {
+                            "highlight": "asset value at the end of 2024, compared[+332 characters]",
+                            "sentiment": 0.9559,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": ", <em>Inc</em>. 4.8 % Alphabet Inc.",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "APC.DE",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 11.680561,
+                    "sentiment_score": 0.48745,
+                    "highlights": [
+                        {
+                            "highlight": "Privacy Policy\n\nNET ASSET VALUE ANNOUNCE[+329 characters]",
+                            "sentiment": 0.9749,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em>. 8.0 % Microsoft Corporatio[+70 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ABEA.DE",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 15.378802,
+                    "sentiment_score": 0.46435,
+                    "highlights": [
+                        {
+                            "highlight": "2024, compared with the year earlier, wa[+327 characters]",
+                            "sentiment": 0.9287,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em>.",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVD.DE",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 14.992046,
+                    "sentiment_score": 0.47795,
+                    "highlights": [
+                        {
+                            "highlight": "Advertisement\n\nThe Fund's net asset valu[+333 characters]",
+                            "sentiment": 0.9559,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Corporation</em> 6.9 % Amazon.com, I[+23 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TL0.DE",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 13.675377,
+                    "sentiment_score": 0.368,
+                    "highlights": [
+                        {
+                            "highlight": ".* 1.9 % JP Morgan Chase & Co. 1.9 % <em[+90 characters]",
+                            "sentiment": 0.368,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSF.DE",
+                    "name": "Microsoft Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 12.995142,
+                    "sentiment_score": 0.48745,
+                    "highlights": [
+                        {
+                            "highlight": "ASSET VALUE ANNOUNCED\n\nAdvertisement\n\nTh[+330 characters]",
+                            "sentiment": 0.9749,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Corporation</em>. 7.1 % NVIDIA Corpo[+49 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ABEC.DE",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 15.378782,
+                    "sentiment_score": 0.46435,
+                    "highlights": [
+                        {
+                            "highlight": "2024, compared with the year earlier, wa[+327 characters]",
+                            "sentiment": 0.9287,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em>.",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "1YD.DE",
+                    "name": "Broadcom Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 18.573305,
+                    "sentiment_score": 0.6166,
+                    "highlights": [
+                        {
+                            "highlight": "Class A 2.8 % <em>Broadcom</em> <em>Inc<[+157 characters]",
+                            "sentiment": 0.6166,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZN.MX",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 16.668327,
+                    "sentiment_score": 0.47795,
+                    "highlights": [
+                        {
+                            "highlight": "asset value at the end of 2024, compared[+332 characters]",
+                            "sentiment": 0.9559,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": ", <em>Inc</em>. 4.8 % Alphabet Inc.",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.MX",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 11.680565,
+                    "sentiment_score": 0.48745,
+                    "highlights": [
+                        {
+                            "highlight": "Privacy Policy\n\nNET ASSET VALUE ANNOUNCE[+329 characters]",
+                            "sentiment": 0.9749,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em>. 8.0 % Microsoft Corporatio[+70 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.MX",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 15.378712,
+                    "sentiment_score": 0.46435,
+                    "highlights": [
+                        {
+                            "highlight": "2024, compared with the year earlier, wa[+327 characters]",
+                            "sentiment": 0.9287,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em>.",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG.MX",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 15.378712,
+                    "sentiment_score": 0.46435,
+                    "highlights": [
+                        {
+                            "highlight": "2024, compared with the year earlier, wa[+327 characters]",
+                            "sentiment": 0.9287,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em>.",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFT.MX",
+                    "name": "Microsoft Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 12.99535,
+                    "sentiment_score": 0.48745,
+                    "highlights": [
+                        {
+                            "highlight": "ASSET VALUE ANNOUNCED\n\nAdvertisement\n\nTh[+330 characters]",
+                            "sentiment": 0.9749,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Corporation</em>. 7.1 % NVIDIA Corpo[+49 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA.MX",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 14.9921,
+                    "sentiment_score": 0.47795,
+                    "highlights": [
+                        {
+                            "highlight": "Advertisement\n\nThe Fund's net asset valu[+333 characters]",
+                            "sentiment": 0.9559,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Corporation</em> 6.9 % Amazon.com, I[+23 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA.MX",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 13.67557,
+                    "sentiment_score": 0.368,
+                    "highlights": [
+                        {
+                            "highlight": ".* 1.9 % JP Morgan Chase & Co. 1.9 % <em[+90 characters]",
+                            "sentiment": 0.368,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGO.MX",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 18.57306,
+                    "sentiment_score": 0.6166,
+                    "highlights": [
+                        {
+                            "highlight": "Class A 2.8 % <em>Broadcom</em> <em>Inc<[+157 characters]",
+                            "sentiment": 0.6166,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 11.680592,
+                    "sentiment_score": 0.48745,
+                    "highlights": [
+                        {
+                            "highlight": "Privacy Policy\n\nNET ASSET VALUE ANNOUNCE[+329 characters]",
+                            "sentiment": 0.9749,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em>. 8.0 % Microsoft Corporatio[+70 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 16.668148,
+                    "sentiment_score": 0.47795,
+                    "highlights": [
+                        {
+                            "highlight": "asset value at the end of 2024, compared[+332 characters]",
+                            "sentiment": 0.9559,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": ", <em>Inc</em>. 4.8 % Alphabet Inc.",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 9.725291,
+                    "sentiment_score": 0.46435,
+                    "highlights": [
+                        {
+                            "highlight": "2024, compared with the year earlier, wa[+327 characters]",
+                            "sentiment": 0.9287,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em>.",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 15.378716,
+                    "sentiment_score": 0.46435,
+                    "highlights": [
+                        {
+                            "highlight": "2024, compared with the year earlier, wa[+327 characters]",
+                            "sentiment": 0.9287,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em>.",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 12.470545,
+                    "sentiment_score": 0.6166,
+                    "highlights": [
+                        {
+                            "highlight": "Class A 3.9 % <em>Meta</em> <em>Platform[+201 characters]",
+                            "sentiment": 0.6166,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGO",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 18.572752,
+                    "sentiment_score": 0.6166,
+                    "highlights": [
+                        {
+                            "highlight": "Class A 2.8 % <em>Broadcom</em> <em>Inc<[+157 characters]",
+                            "sentiment": 0.6166,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGOP",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 18.57248,
+                    "sentiment_score": 0.6166,
+                    "highlights": [
+                        {
+                            "highlight": "Class A 2.8 % <em>Broadcom</em> <em>Inc<[+157 characters]",
+                            "sentiment": 0.6166,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 14.992013,
+                    "sentiment_score": 0.47795,
+                    "highlights": [
+                        {
+                            "highlight": "Advertisement\n\nThe Fund's net asset valu[+333 characters]",
+                            "sentiment": 0.9559,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Corporation</em> 6.9 % Amazon.com, I[+23 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFT",
+                    "name": "Microsoft Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 12.99543,
+                    "sentiment_score": 0.48745,
+                    "highlights": [
+                        {
+                            "highlight": "ASSET VALUE ANNOUNCED\n\nAdvertisement\n\nTh[+330 characters]",
+                            "sentiment": 0.9749,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Corporation</em>. 7.1 % NVIDIA Corpo[+49 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0YXG.L",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 18.57248,
+                    "sentiment_score": 0.6166,
+                    "highlights": [
+                        {
+                            "highlight": "Class A 2.8 % <em>Broadcom</em> <em>Inc<[+157 characters]",
+                            "sentiment": 0.6166,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 13.675596,
+                    "sentiment_score": 0.368,
+                    "highlights": [
+                        {
+                            "highlight": ".* 1.9 % JP Morgan Chase & Co. 1.9 % <em[+90 characters]",
+                            "sentiment": 0.368,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ADX",
+                    "name": "Adams Diversified Equity Fund, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 177.29196,
+                    "sentiment_score": 0.332225,
+                    "highlights": [
+                        {
+                            "highlight": "BALTIMORE, Jan. 16, 2025 (GLOBE NEWSWIRE[+343 characters]",
+                            "sentiment": 0.743,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "ANNUALIZED ONE, THREE, FIVE, AND TEN-YEA[+286 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Adams Funds is comprised of two closed-e[+328 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Adams</em> <em>Diversified</em> <em>Equity</em> <em>Fund</em> Announces 2024 Performance",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PEO",
+                    "name": "Adams Natural Resources Fund, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 74.74329,
+                    "sentiment_score": 0.3431,
+                    "highlights": [
+                        {
+                            "highlight": "Class A 2.8 % Broadcom Inc. 2.5 % <em>Ad[+184 characters]",
+                            "sentiment": 0.368,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "(NYSE: ADX) and <em>Adams</em> <em>Natur[+242 characters]",
+                            "sentiment": 0.3182,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSF.BR",
+                    "name": "Microsoft Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "be",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 12.995558,
+                    "sentiment_score": 0.48745,
+                    "highlights": [
+                        {
+                            "highlight": "ASSET VALUE ANNOUNCED\n\nAdvertisement\n\nTh[+330 characters]",
+                            "sentiment": 0.9749,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Corporation</em>. 7.1 % NVIDIA Corpo[+49 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGO34.SA",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 18.57191,
+                    "sentiment_score": 0.6166,
+                    "highlights": [
+                        {
+                            "highlight": "Class A 2.8 % <em>Broadcom</em> <em>Inc<[+157 characters]",
+                            "sentiment": 0.6166,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDC34.SA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 14.991953,
+                    "sentiment_score": 0.47795,
+                    "highlights": [
+                        {
+                            "highlight": "Advertisement\n\nThe Fund's net asset valu[+333 characters]",
+                            "sentiment": 0.9559,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Corporation</em> 6.9 % Amazon.com, I[+23 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA34.SA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 13.675664,
+                    "sentiment_score": 0.368,
+                    "highlights": [
+                        {
+                            "highlight": ".* 1.9 % JP Morgan Chase & Co. 1.9 % <em[+90 characters]",
+                            "sentiment": 0.368,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.BA",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 11.680164,
+                    "sentiment_score": 0.48745,
+                    "highlights": [
+                        {
+                            "highlight": "Privacy Policy\n\nNET ASSET VALUE ANNOUNCE[+329 characters]",
+                            "sentiment": 0.9749,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em>. 8.0 % Microsoft Corporatio[+70 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.BA",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 15.378572,
+                    "sentiment_score": 0.46435,
+                    "highlights": [
+                        {
+                            "highlight": "2024, compared with the year earlier, wa[+327 characters]",
+                            "sentiment": 0.9287,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em>.",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA.BA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 14.99124,
+                    "sentiment_score": 0.47795,
+                    "highlights": [
+                        {
+                            "highlight": "Advertisement\n\nThe Fund's net asset valu[+333 characters]",
+                            "sentiment": 0.9559,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Corporation</em> 6.9 % Amazon.com, I[+23 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLAD.BA",
+                    "name": "TESLA INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 13.675472,
+                    "sentiment_score": 0.368,
+                    "highlights": [
+                        {
+                            "highlight": ".* 1.9 % JP Morgan Chase & Co. 1.9 % <em[+90 characters]",
+                            "sentiment": 0.368,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLD.BA",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 11.680156,
+                    "sentiment_score": 0.48745,
+                    "highlights": [
+                        {
+                            "highlight": "Privacy Policy\n\nNET ASSET VALUE ANNOUNCE[+329 characters]",
+                            "sentiment": 0.9749,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em>. 8.0 % Microsoft Corporatio[+70 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLAC.BA",
+                    "name": "TESLA INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 13.675472,
+                    "sentiment_score": 0.368,
+                    "highlights": [
+                        {
+                            "highlight": ".* 1.9 % JP Morgan Chase & Co. 1.9 % <em[+90 characters]",
+                            "sentiment": 0.368,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGO.BA",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 18.571632,
+                    "sentiment_score": 0.6166,
+                    "highlights": [
+                        {
+                            "highlight": "Class A 2.8 % <em>Broadcom</em> <em>Inc<[+157 characters]",
+                            "sentiment": 0.6166,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGOD.BA",
+                    "name": "BROADCOM INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 18.571632,
+                    "sentiment_score": 0.6166,
+                    "highlights": [
+                        {
+                            "highlight": "Class A 2.8 % <em>Broadcom</em> <em>Inc<[+157 characters]",
+                            "sentiment": 0.6166,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOGLD.BA",
+                    "name": "ALPHABET INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 15.378565,
+                    "sentiment_score": 0.46435,
+                    "highlights": [
+                        {
+                            "highlight": "2024, compared with the year earlier, wa[+327 characters]",
+                            "sentiment": 0.9287,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em>.",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLC.BA",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 11.680156,
+                    "sentiment_score": 0.48745,
+                    "highlights": [
+                        {
+                            "highlight": "Privacy Policy\n\nNET ASSET VALUE ANNOUNCE[+329 characters]",
+                            "sentiment": 0.9749,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em>. 8.0 % Microsoft Corporatio[+70 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZN.SN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 16.667234,
+                    "sentiment_score": 0.47795,
+                    "highlights": [
+                        {
+                            "highlight": "asset value at the end of 2024, compared[+332 characters]",
+                            "sentiment": 0.9559,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": ", <em>Inc</em>. 4.8 % Alphabet Inc.",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFT.SN",
+                    "name": "Microsoft Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 12.993971,
+                    "sentiment_score": 0.48745,
+                    "highlights": [
+                        {
+                            "highlight": "ASSET VALUE ANNOUNCED\n\nAdvertisement\n\nTh[+330 characters]",
+                            "sentiment": 0.9749,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Corporation</em>. 7.1 % NVIDIA Corpo[+49 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 15.378416,
+                    "sentiment_score": 0.46435,
+                    "highlights": [
+                        {
+                            "highlight": "2024, compared with the year earlier, wa[+327 characters]",
+                            "sentiment": 0.9287,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em>.",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLCL.SN",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 11.680094,
+                    "sentiment_score": 0.48745,
+                    "highlights": [
+                        {
+                            "highlight": "Privacy Policy\n\nNET ASSET VALUE ANNOUNCE[+329 characters]",
+                            "sentiment": 0.9749,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em>. 8.0 % Microsoft Corporatio[+70 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.SN",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 11.680094,
+                    "sentiment_score": 0.48745,
+                    "highlights": [
+                        {
+                            "highlight": "Privacy Policy\n\nNET ASSET VALUE ANNOUNCE[+329 characters]",
+                            "sentiment": 0.9749,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em>. 8.0 % Microsoft Corporatio[+70 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 15.378416,
+                    "sentiment_score": 0.46435,
+                    "highlights": [
+                        {
+                            "highlight": "2024, compared with the year earlier, wa[+327 characters]",
+                            "sentiment": 0.9287,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em>.",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZNCL.SN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 16.666918,
+                    "sentiment_score": 0.47795,
+                    "highlights": [
+                        {
+                            "highlight": "asset value at the end of 2024, compared[+332 characters]",
+                            "sentiment": 0.9559,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": ", <em>Inc</em>. 4.8 % Alphabet Inc.",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGCL.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 15.378374,
+                    "sentiment_score": 0.46435,
+                    "highlights": [
+                        {
+                            "highlight": "2024, compared with the year earlier, wa[+327 characters]",
+                            "sentiment": 0.9287,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em>.",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.NE",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ca",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 11.680119,
+                    "sentiment_score": 0.48745,
+                    "highlights": [
+                        {
+                            "highlight": "Privacy Policy\n\nNET ASSET VALUE ANNOUNCE[+329 characters]",
+                            "sentiment": 0.9749,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em>. 8.0 % Microsoft Corporatio[+70 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

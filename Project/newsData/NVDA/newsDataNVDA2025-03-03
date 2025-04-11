@@ -1,0 +1,59 @@
+{
+    "meta": {
+        "found": 87,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "9da0bdef-9e04-413b-9e58-c50dd4ab734a",
+            "title": "NVIDIA (NVDA) Stock Drops Amid Tariff Concerns and Market Downturn",
+            "description": "NVIDIA (NVDA) shares fell nearly 9% following President Donald Trump's confirmation that tariffs on Canadian and Mexican imports would take effect soon. The bro",
+            "keywords": "GuruFocus, Article, News, GuruFocus News, NVDA",
+            "snippet": "NVIDIA (NVDA, Financial) shares fell nearly 9% following President Donald Trump's confirmation that tariffs on Canadian and Mexican imports would take effect so...",
+            "url": "https://www.gurufocus.com/news/2725655/nvidia-nvda-stock-drops-amid-tariff-concerns-and-market-downturn",
+            "image_url": "https://static.gurufocus.com/logos/0C00000BXN.png?20",
+            "language": "en",
+            "published_at": "2025-03-03T23:50:32.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 28.450064,
+                    "sentiment_score": -0.057175,
+                    "highlights": [
+                        {
+                            "highlight": "<em>NVIDIA</em> (NVDA, Financial) shares[+323 characters]",
+                            "sentiment": 0.1531,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "During the earnings call, analysts quest[+193 characters]",
+                            "sentiment": -0.3818,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Additionally, <em>NVIDIA</em> faced scru[+198 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>NVIDIA</em> (NVDA) Stock Drops Amid Tariff Concerns and Market Downturn",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

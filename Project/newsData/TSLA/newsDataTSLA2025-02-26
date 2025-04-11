@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "found": 27,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "1e11cb6f-5870-4dc3-8ba5-a0bfb8d92aa2",
+            "title": "Bitcoin Prices Plunge To Almost $82,000 As Political Momentum Stalls",
+            "description": "Bitcoin prices fell sharply on Wednesday, February 26, breaking through the $85,000 level and approaching $82,000 as U.S. political momentum stalled.",
+            "keywords": "bitcoin, bitcoin prices, digital currency, cryptocurrency, digital asset",
+            "snippet": "Bitcoin prices reached a fresh, 2025 low today. getty\n\nBitcoin prices fell sharply on Wednesday, February 26, breaking through the $85,000 level and approaching...",
+            "url": "https://www.forbes.com/sites/digital-assets/2025/02/26/bitcoin-prices-plunge-to-almost-82000-as-political-momentum-stalls/",
+            "image_url": "https://imageio.forbes.com/specials-images/imageserve/63d2b0bc9cb9afadefacf78d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "language": "en",
+            "published_at": "2025-02-26T21:43:55.000000Z",
+            "source": "forbes.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 10.964911,
+                    "sentiment_score": 0.6124,
+                    "highlights": [
+                        {
+                            "highlight": "Because Bitcoin often moves in line with[+238 characters]",
+                            "sentiment": 0.6124,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 10.76482,
+                    "sentiment_score": 0.6124,
+                    "highlights": [
+                        {
+                            "highlight": "Because Bitcoin often moves in line with[+238 characters]",
+                            "sentiment": 0.6124,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "CC:BTC",
+                    "name": "Bitcoin",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "global",
+                    "type": "cryptocurrency",
+                    "industry": "N/A",
+                    "match_score": 44.279232,
+                    "sentiment_score": 0.102713,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Bitcoin</em> prices reached a fresh,[+239 characters]",
+                            "sentiment": 0.4588,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Tim Enneking, managing partner of Psalio[+292 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "\u201cLarge funds are pulling out of <em>Bi[+268 characters]",
+                            "sentiment": 0.3818,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "\u201cI think there are quite a few reasons[+277 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "\u201cThere have also been massive outflows[+307 characters]",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "\u201cWhile it wasn\u2019t directly hacked of [+258 characters]",
+                            "sentiment": -0.4404,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Disclosure: I own some <em>bitcoin</em>,[+53 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Bitcoin</em> Prices Plunge To Almost $82,000 As Political Momentum Stalls",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "meta": {
+        "found": 7,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "b43c1610-a304-4fd5-a5fb-e4f1a3e65756",
+            "title": "February Inflation Data Sparks Wall Street Optimism on Rate Cuts",
+            "description": "The latest Producer Price Index (PPI) report brought some good news\u201d\u201dinflation is cooling off faster than expected, fueling speculation that the Federal Reserv",
+            "keywords": "GuruFocus, Article, News, Muslim Farooque, BCS, SPY",
+            "snippet": "The latest Producer Price Index (PPI) report brought some good news\u2014inflation is cooling off faster than expected, fueling speculation that the Federal Reserv...",
+            "url": "https://www.gurufocus.com/news/2737795/february-inflation-data-sparks-wall-street-optimism-on-rate-cuts",
+            "image_url": "https://static.gurufocus.com/1732803573856661504.png",
+            "language": "en",
+            "published_at": "2025-03-13T16:42:28.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 64.45572,
+                    "sentiment_score": 0.6652,
+                    "highlights": [
+                        {
+                            "highlight": "Meanwhile, the <em>SPDR</em> <em>S</em>&[+240 characters]",
+                            "sentiment": 0.6652,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 64.45053,
+                    "sentiment_score": 0.6652,
+                    "highlights": [
+                        {
+                            "highlight": "Meanwhile, the <em>SPDR</em> <em>S</em>&[+240 characters]",
+                            "sentiment": 0.6652,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

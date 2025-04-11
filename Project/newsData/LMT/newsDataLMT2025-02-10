@@ -1,0 +1,185 @@
+{
+    "meta": {
+        "found": 1,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "aaf8b6ba-e79d-4122-81ae-adddf5d5362c",
+            "title": "Artillery Systems Market Poised to Reach $16.0 Billion by 2028: Market Trends, Dynamics & Growth Segments",
+            "description": "**media[536149]**",
+            "keywords": "Artillery, Systems, Market, Poised, to, Reach, $16.0, Billion, by, 2028:, Market, Trends, , Dynamics, &, Growth, Segments",
+            "snippet": "Delray Beach, FL, Feb. 09, 2025 (GLOBE NEWSWIRE) -- The report \"Artillery Systems Market by Type (Howitzers, Rocket Launchers, Mortars, Anti-air weapons, Artill...",
+            "url": "https://www.manilatimes.net/2025/02/10/tmt-newswire/globenewswire/artillery-systems-market-poised-to-reach-160-billion-by-2028-market-trends-dynamics-growth-segments/2052733",
+            "image_url": "https://www.manilatimes.net/manilatimes/uploads/images/2025/02/10/536149.jpg",
+            "language": "en",
+            "published_at": "2025-02-10T01:40:23.000000Z",
+            "source": "manilatimes.net",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "RNMBY",
+                    "name": "Rheinmetall AG",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 14.385438,
+                    "sentiment_score": 0.1806,
+                    "highlights": [
+                        {
+                            "highlight": "69844596\n\nGet the latest news\n\ndelivered[+333 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>AG</em> ( Germany),\n\nNexter Group (F[+45 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0R3E.L",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 18.449568,
+                    "sentiment_score": 0.3612,
+                    "highlights": [
+                        {
+                            "highlight": "id=69844596\n\nGet the latest news\n\ndelive[+339 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "RNMBF",
+                    "name": "Rheinmetall AG",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 14.385357,
+                    "sentiment_score": 0.1806,
+                    "highlights": [
+                        {
+                            "highlight": "69844596\n\nGet the latest news\n\ndelivered[+333 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>AG</em> ( Germany),\n\nNexter Group (F[+45 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LMTB34.SA",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 18.448637,
+                    "sentiment_score": 0.3612,
+                    "highlights": [
+                        {
+                            "highlight": "id=69844596\n\nGet the latest news\n\ndelive[+339 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 18.44861,
+                    "sentiment_score": 0.3612,
+                    "highlights": [
+                        {
+                            "highlight": "id=69844596\n\nGet the latest news\n\ndelive[+339 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "RHM.DE",
+                    "name": "Rheinmetall AG",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 14.384613,
+                    "sentiment_score": 0.1806,
+                    "highlights": [
+                        {
+                            "highlight": "69844596\n\nGet the latest news\n\ndelivered[+333 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>AG</em> ( Germany),\n\nNexter Group (F[+45 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LOM.DE",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 18.4494,
+                    "sentiment_score": 0.3612,
+                    "highlights": [
+                        {
+                            "highlight": "id=69844596\n\nGet the latest news\n\ndelive[+339 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LMT.MX",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 18.449814,
+                    "sentiment_score": 0.3612,
+                    "highlights": [
+                        {
+                            "highlight": "id=69844596\n\nGet the latest news\n\ndelive[+339 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

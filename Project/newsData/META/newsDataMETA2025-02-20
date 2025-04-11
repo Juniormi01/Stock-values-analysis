@@ -1,0 +1,1529 @@
+{
+    "meta": {
+        "found": 3,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "2de11eac-b331-4a67-a025-1725f2a14f23",
+            "title": "Meta Platforms\u2019 record winning streak puts stock split in view",
+            "description": "Meta's record-breaking rally propelled share price to a level where investors may call on the company to split its stock. Read more here",
+            "keywords": "Big Tech, Facebook, Magnificent Seven stocks, Meta Platforms Inc, stock split, stock splits, tech sector, Tech stocks",
+            "snippet": "This advertisement has not loaded yet, but your article continues below.\n\nMeta Platforms\u2019 record winning streak puts stock split in view Five of the Magnifice...",
+            "url": "https://financialpost.com/investing/meta-platforms-streak-puts-stock-split-in-view",
+            "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/02/0221-mg-meta.jpg",
+            "language": "en",
+            "published_at": "2025-02-20T17:31:02.000000Z",
+            "source": "thepost.on.ca",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "NOW",
+                    "name": "ServiceNow, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 13.647134,
+                    "sentiment_score": 0.296,
+                    "highlights": [
+                        {
+                            "highlight": "Aside from Meta and Netflix, that includ[+243 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TYL",
+                    "name": "Tyler Technologies, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 15.908455,
+                    "sentiment_score": 0.296,
+                    "highlights": [
+                        {
+                            "highlight": "., <em>Tyler</em> <em>Technologies</em> [+184 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.NE",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ca",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 12.797279,
+                    "sentiment_score": 0.41135,
+                    "highlights": [
+                        {
+                            "highlight": "., Tesla Inc. and <em>Apple</em> <em>Inc[+290 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Article content Recommended from Editori[+321 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZ.DE",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 16.962841,
+                    "sentiment_score": 0.41135,
+                    "highlights": [
+                        {
+                            "highlight": "., <em>Amazon.com</em> <em>Inc</em>., Te[+307 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Article content Recommended from Editori[+312 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "APC.DE",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 12.796868,
+                    "sentiment_score": 0.41135,
+                    "highlights": [
+                        {
+                            "highlight": "., Tesla Inc. and <em>Apple</em> <em>Inc[+290 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Article content Recommended from Editori[+321 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ABEA.DE",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 15.666601,
+                    "sentiment_score": 0.66705,
+                    "highlights": [
+                        {
+                            "highlight": "Meta Platforms\u2019 record winning streak [+192 characters]",
+                            "sentiment": 0.8074,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Article content Recommended from Editori[+312 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TL0.DE",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 13.895262,
+                    "sentiment_score": 0.41135,
+                    "highlights": [
+                        {
+                            "highlight": "., <em>Tesla</em> <em>Inc</em>. and Appl[+290 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Article content Recommended from Editori[+312 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NFC.DE",
+                    "name": "Netflix, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 11.575335,
+                    "sentiment_score": 0.49815,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Netflix</em> <em>Inc</em>. has gaine[+324 characters]",
+                            "sentiment": 0.7003,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Aside from Meta and <em>Netflix</em>, th[+234 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ABEC.DE",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 15.666494,
+                    "sentiment_score": 0.66705,
+                    "highlights": [
+                        {
+                            "highlight": "Meta Platforms\u2019 record winning streak [+192 characters]",
+                            "sentiment": 0.8074,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Article content Recommended from Editori[+312 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ITU.DE",
+                    "name": "Intuit Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 13.41571,
+                    "sentiment_score": 0.296,
+                    "highlights": [
+                        {
+                            "highlight": "., <em>Intuit</em> <em>Inc</em>. and Syn[+150 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SYP.DE",
+                    "name": "Synopsys Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 14.538338,
+                    "sentiment_score": 0.296,
+                    "highlights": [
+                        {
+                            "highlight": "., Intuit Inc. and <em>Synopsys</em> <em[+150 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "1YD.DE",
+                    "name": "Broadcom Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 12.38554,
+                    "sentiment_score": 0.3612,
+                    "highlights": [
+                        {
+                            "highlight": "In 2024, companies such as Nvidia Corp. [+284 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 15.261807,
+                    "sentiment_score": 0.41135,
+                    "highlights": [
+                        {
+                            "highlight": "., Tesla Inc. and <em>Apple</em> <em>Inc[+290 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Article content Recommended from Editori[+321 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 19.427393,
+                    "sentiment_score": 0.41135,
+                    "highlights": [
+                        {
+                            "highlight": "., <em>Amazon.com</em> <em>Inc</em>., Te[+307 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Article content Recommended from Editori[+312 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 12.360556,
+                    "sentiment_score": 0.66705,
+                    "highlights": [
+                        {
+                            "highlight": "Meta Platforms\u2019 record winning streak [+192 characters]",
+                            "sentiment": 0.8074,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Article content Recommended from Editori[+312 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 18.131538,
+                    "sentiment_score": 0.66705,
+                    "highlights": [
+                        {
+                            "highlight": "Meta Platforms\u2019 record winning streak [+192 characters]",
+                            "sentiment": 0.8074,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Article content Recommended from Editori[+312 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 10.930195,
+                    "sentiment_score": -0.5647,
+                    "highlights": [
+                        {
+                            "highlight": "V\u00e1squez/Associated Press files\n\nArticle[+314 characters]",
+                            "sentiment": -0.5647,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGO",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 14.849475,
+                    "sentiment_score": 0.3612,
+                    "highlights": [
+                        {
+                            "highlight": "In 2024, companies such as Nvidia Corp. [+284 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGOP",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 14.849475,
+                    "sentiment_score": 0.3612,
+                    "highlights": [
+                        {
+                            "highlight": "In 2024, companies such as Nvidia Corp. [+284 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 9.779055,
+                    "sentiment_score": 0.5651,
+                    "highlights": [
+                        {
+                            "highlight": "Meta Platforms\u2019 record winning streak [+183 characters]",
+                            "sentiment": 0.8074,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In 2024, companies such as <em>Nvidia</e[+275 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Article content Recommended from Editori[+303 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFT",
+                    "name": "Microsoft Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 6.107204,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "The last time <em>Microsoft</em> Corp. d[+298 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 16.3598,
+                    "sentiment_score": 0.41135,
+                    "highlights": [
+                        {
+                            "highlight": "., <em>Tesla</em> <em>Inc</em>. and Appl[+290 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Article content Recommended from Editori[+312 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NFLX",
+                    "name": "Netflix, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 14.039764,
+                    "sentiment_score": 0.49815,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Netflix</em> <em>Inc</em>. has gaine[+324 characters]",
+                            "sentiment": 0.7003,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Aside from Meta and <em>Netflix</em>, th[+234 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "INTU",
+                    "name": "Intuit Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 15.879219,
+                    "sentiment_score": 0.296,
+                    "highlights": [
+                        {
+                            "highlight": "., <em>Intuit</em> <em>Inc</em>. and Syn[+150 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SNPS",
+                    "name": "Synopsys, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 17.000134,
+                    "sentiment_score": 0.296,
+                    "highlights": [
+                        {
+                            "highlight": "., Intuit Inc. and <em>Synopsys</em> <em[+150 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZN.MX",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 16.961998,
+                    "sentiment_score": 0.41135,
+                    "highlights": [
+                        {
+                            "highlight": "., <em>Amazon.com</em> <em>Inc</em>., Te[+307 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Article content Recommended from Editori[+312 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.MX",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 12.796156,
+                    "sentiment_score": 0.41135,
+                    "highlights": [
+                        {
+                            "highlight": "., Tesla Inc. and <em>Apple</em> <em>Inc[+290 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Article content Recommended from Editori[+321 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.MX",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 15.666145,
+                    "sentiment_score": 0.66705,
+                    "highlights": [
+                        {
+                            "highlight": "Meta Platforms\u2019 record winning streak [+192 characters]",
+                            "sentiment": 0.8074,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Article content Recommended from Editori[+312 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG.MX",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 15.666145,
+                    "sentiment_score": 0.66705,
+                    "highlights": [
+                        {
+                            "highlight": "Meta Platforms\u2019 record winning streak [+192 characters]",
+                            "sentiment": 0.8074,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Article content Recommended from Editori[+312 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NFLX.MX",
+                    "name": "Netflix, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 11.574677,
+                    "sentiment_score": 0.49815,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Netflix</em> <em>Inc</em>. has gaine[+324 characters]",
+                            "sentiment": 0.7003,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Aside from Meta and <em>Netflix</em>, th[+234 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA.MX",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 13.895058,
+                    "sentiment_score": 0.41135,
+                    "highlights": [
+                        {
+                            "highlight": "., <em>Tesla</em> <em>Inc</em>. and Appl[+290 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Article content Recommended from Editori[+312 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TYL.MX",
+                    "name": "Tyler Technologies, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 15.907969,
+                    "sentiment_score": 0.296,
+                    "highlights": [
+                        {
+                            "highlight": "., <em>Tyler</em> <em>Technologies</em> [+184 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGO.MX",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 12.382692,
+                    "sentiment_score": 0.3612,
+                    "highlights": [
+                        {
+                            "highlight": "In 2024, companies such as Nvidia Corp. [+284 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NOWW.MX",
+                    "name": "ServiceNow, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 13.642497,
+                    "sentiment_score": 0.296,
+                    "highlights": [
+                        {
+                            "highlight": "Aside from Meta and Netflix, that includ[+243 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "INTU.MX",
+                    "name": "Intuit Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 13.413333,
+                    "sentiment_score": 0.296,
+                    "highlights": [
+                        {
+                            "highlight": "., <em>Intuit</em> <em>Inc</em>. and Syn[+150 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0L5N.L",
+                    "name": "ServiceNow, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 13.642397,
+                    "sentiment_score": 0.296,
+                    "highlights": [
+                        {
+                            "highlight": "Aside from Meta and Netflix, that includ[+243 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0JCT.L",
+                    "name": "Intuit Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 13.41321,
+                    "sentiment_score": 0.296,
+                    "highlights": [
+                        {
+                            "highlight": "., <em>Intuit</em> <em>Inc</em>. and Syn[+150 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0LBP.L",
+                    "name": "Synopsys, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 14.53222,
+                    "sentiment_score": 0.296,
+                    "highlights": [
+                        {
+                            "highlight": "., Intuit Inc. and <em>Synopsys</em> <em[+150 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0YXG.L",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 12.382127,
+                    "sentiment_score": 0.3612,
+                    "highlights": [
+                        {
+                            "highlight": "In 2024, companies such as Nvidia Corp. [+284 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGO34.SA",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 12.381356,
+                    "sentiment_score": 0.3612,
+                    "highlights": [
+                        {
+                            "highlight": "In 2024, companies such as Nvidia Corp. [+284 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA34.SA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 13.895307,
+                    "sentiment_score": 0.41135,
+                    "highlights": [
+                        {
+                            "highlight": "., <em>Tesla</em> <em>Inc</em>. and Appl[+290 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Article content Recommended from Editori[+312 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NFLX34.SA",
+                    "name": "Netflix, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 11.574347,
+                    "sentiment_score": 0.49815,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Netflix</em> <em>Inc</em>. has gaine[+324 characters]",
+                            "sentiment": 0.7003,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Aside from Meta and <em>Netflix</em>, th[+234 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "INTU34.SA",
+                    "name": "Intuit Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 13.412883,
+                    "sentiment_score": 0.296,
+                    "highlights": [
+                        {
+                            "highlight": "., <em>Intuit</em> <em>Inc</em>. and Syn[+150 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "N1OW34.SA",
+                    "name": "ServiceNow, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 13.641919,
+                    "sentiment_score": 0.296,
+                    "highlights": [
+                        {
+                            "highlight": "Aside from Meta and Netflix, that includ[+243 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "S1NP34.SA",
+                    "name": "Synopsys, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 14.530722,
+                    "sentiment_score": 0.296,
+                    "highlights": [
+                        {
+                            "highlight": "., Intuit Inc. and <em>Synopsys</em> <em[+150 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFT.MI",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "it",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 9.085583,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "The last time <em>Microsoft</em> <em>Cor[+307 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA.MI",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "it",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 13.386982,
+                    "sentiment_score": 0.5651,
+                    "highlights": [
+                        {
+                            "highlight": "Meta Platforms\u2019 record winning streak [+183 characters]",
+                            "sentiment": 0.8074,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In 2024, companies such as <em>Nvidia</e[+284 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Article content Recommended from Editori[+303 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.BA",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 12.795704,
+                    "sentiment_score": 0.41135,
+                    "highlights": [
+                        {
+                            "highlight": "., Tesla Inc. and <em>Apple</em> <em>Inc[+290 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Article content Recommended from Editori[+321 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.BA",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 15.666616,
+                    "sentiment_score": 0.66705,
+                    "highlights": [
+                        {
+                            "highlight": "Meta Platforms\u2019 record winning streak [+192 characters]",
+                            "sentiment": 0.8074,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Article content Recommended from Editori[+312 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NFLX.BA",
+                    "name": "Netflix, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 11.574537,
+                    "sentiment_score": 0.49815,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Netflix</em> <em>Inc</em>. has gaine[+324 characters]",
+                            "sentiment": 0.7003,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Aside from Meta and <em>Netflix</em>, th[+234 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDAD.BA",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 13.387127,
+                    "sentiment_score": 0.5651,
+                    "highlights": [
+                        {
+                            "highlight": "Meta Platforms\u2019 record winning streak [+183 characters]",
+                            "sentiment": 0.8074,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In 2024, companies such as <em>Nvidia</e[+284 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Article content Recommended from Editori[+303 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NFLXD.BA",
+                    "name": "NETFLIX INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 11.574537,
+                    "sentiment_score": 0.49815,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Netflix</em> <em>Inc</em>. has gaine[+324 characters]",
+                            "sentiment": 0.7003,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Aside from Meta and <em>Netflix</em>, th[+234 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLAD.BA",
+                    "name": "TESLA INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 13.895338,
+                    "sentiment_score": 0.41135,
+                    "highlights": [
+                        {
+                            "highlight": "., <em>Tesla</em> <em>Inc</em>. and Appl[+290 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Article content Recommended from Editori[+312 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTD.BA",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 9.0856,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "The last time <em>Microsoft</em> <em>Cor[+307 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLD.BA",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 12.795704,
+                    "sentiment_score": 0.41135,
+                    "highlights": [
+                        {
+                            "highlight": "., Tesla Inc. and <em>Apple</em> <em>Inc[+290 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Article content Recommended from Editori[+321 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTB.BA",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 9.0856,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "The last time <em>Microsoft</em> <em>Cor[+307 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTC.BA",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 9.0856,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "The last time <em>Microsoft</em> <em>Cor[+307 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLAC.BA",
+                    "name": "TESLA INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 13.895338,
+                    "sentiment_score": 0.41135,
+                    "highlights": [
+                        {
+                            "highlight": "., <em>Tesla</em> <em>Inc</em>. and Appl[+290 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Article content Recommended from Editori[+312 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDAC.BA",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 13.387127,
+                    "sentiment_score": 0.5651,
+                    "highlights": [
+                        {
+                            "highlight": "Meta Platforms\u2019 record winning streak [+183 characters]",
+                            "sentiment": 0.8074,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In 2024, companies such as <em>Nvidia</e[+284 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Article content Recommended from Editori[+303 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGO.BA",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 12.382094,
+                    "sentiment_score": 0.3612,
+                    "highlights": [
+                        {
+                            "highlight": "In 2024, companies such as Nvidia Corp. [+284 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGOD.BA",
+                    "name": "BROADCOM INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 12.382094,
+                    "sentiment_score": 0.3612,
+                    "highlights": [
+                        {
+                            "highlight": "In 2024, companies such as Nvidia Corp. [+284 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOGLD.BA",
+                    "name": "ALPHABET INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 15.666616,
+                    "sentiment_score": 0.66705,
+                    "highlights": [
+                        {
+                            "highlight": "Meta Platforms\u2019 record winning streak [+192 characters]",
+                            "sentiment": 0.8074,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Article content Recommended from Editori[+312 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLC.BA",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 12.795704,
+                    "sentiment_score": 0.41135,
+                    "highlights": [
+                        {
+                            "highlight": "., Tesla Inc. and <em>Apple</em> <em>Inc[+290 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Article content Recommended from Editori[+321 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZN.SN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 16.961266,
+                    "sentiment_score": 0.41135,
+                    "highlights": [
+                        {
+                            "highlight": "., <em>Amazon.com</em> <em>Inc</em>., Te[+307 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Article content Recommended from Editori[+312 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 15.666454,
+                    "sentiment_score": 0.66705,
+                    "highlights": [
+                        {
+                            "highlight": "Meta Platforms\u2019 record winning streak [+192 characters]",
+                            "sentiment": 0.8074,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Article content Recommended from Editori[+312 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLCL.SN",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 12.79567,
+                    "sentiment_score": 0.41135,
+                    "highlights": [
+                        {
+                            "highlight": "., Tesla Inc. and <em>Apple</em> <em>Inc[+290 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Article content Recommended from Editori[+321 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTCL.SN",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 9.085564,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "The last time <em>Microsoft</em> <em>Cor[+307 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.SN",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 12.79567,
+                    "sentiment_score": 0.41135,
+                    "highlights": [
+                        {
+                            "highlight": "., Tesla Inc. and <em>Apple</em> <em>Inc[+290 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Article content Recommended from Editori[+321 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 15.666454,
+                    "sentiment_score": 0.66705,
+                    "highlights": [
+                        {
+                            "highlight": "Meta Platforms\u2019 record winning streak [+192 characters]",
+                            "sentiment": 0.8074,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Article content Recommended from Editori[+312 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZNCL.SN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 16.961063,
+                    "sentiment_score": 0.41135,
+                    "highlights": [
+                        {
+                            "highlight": "., <em>Amazon.com</em> <em>Inc</em>., Te[+307 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Article content Recommended from Editori[+312 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGCL.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 15.666311,
+                    "sentiment_score": 0.66705,
+                    "highlights": [
+                        {
+                            "highlight": "Meta Platforms\u2019 record winning streak [+192 characters]",
+                            "sentiment": 0.8074,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Article content Recommended from Editori[+312 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

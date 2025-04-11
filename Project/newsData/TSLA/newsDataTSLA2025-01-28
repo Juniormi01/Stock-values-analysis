@@ -1,0 +1,195 @@
+{
+    "meta": {
+        "found": 48,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "f13c8e80-41e0-4900-bdbd-821c18244d5b",
+            "title": "NVIDIA\u2019s $600 Billion Wipeout: How DeepSeek\u2019s AI Breakthrough Reshaped the Tech Landscape",
+            "description": "In a shocking turn of events, NVIDIA Corporation has faced an unprecedented $600 billion drop in market value, marking the largest single-day loss in U.S. stock market history. The surprising\u2026",
+            "keywords": "",
+            "snippet": "NVIDIA\u2019s $600 Billion Wipeout: How DeepSeek\u2019s AI Breakthrough Reshaped the Tech Landscape What's Trending \u00b7 Follow 3 min read \u00b7 Just now Just now -- Liste...",
+            "url": "https://medium.com/@WTPlaybook/nvidias-600-billion-wipeout-how-deepseek-s-ai-breakthrough-reshaped-the-tech-landscape-409740d60424",
+            "image_url": "https://miro.medium.com/v2/resize:fit:1200/1*MeGrrMd_zJgGjDfJAQznAA.jpeg",
+            "language": "en",
+            "published_at": "2025-01-28T23:02:10.000000Z",
+            "source": "medium.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "NVDC34.SA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 17.350155,
+                    "sentiment_score": -0.07715,
+                    "highlights": [
+                        {
+                            "highlight": "NVIDIA\u2019s $600 Billion Wipeout: How Dee[+338 characters]",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Market Shockwaves\n\nNews of DeepSeek\u2019s [+277 characters]",
+                            "sentiment": -0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 10.687649,
+                    "sentiment_score": -0.6705,
+                    "highlights": [
+                        {
+                            "highlight": "The repercussions didn\u2019t stop there ?[+249 characters]",
+                            "sentiment": -0.6705,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 21.23554,
+                    "sentiment_score": -0.07715,
+                    "highlights": [
+                        {
+                            "highlight": "NVIDIA\u2019s $600 Billion Wipeout: How Dee[+338 characters]",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Market Shockwaves\n\nNews of DeepSeek\u2019s [+277 characters]",
+                            "sentiment": -0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFT",
+                    "name": "Microsoft Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 9.050203,
+                    "sentiment_score": -0.6705,
+                    "highlights": [
+                        {
+                            "highlight": "The repercussions didn\u2019t stop there ?[+249 characters]",
+                            "sentiment": -0.6705,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 9.811701,
+                    "sentiment_score": -0.6705,
+                    "highlights": [
+                        {
+                            "highlight": "The repercussions didn\u2019t stop there ?[+249 characters]",
+                            "sentiment": -0.6705,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA.BA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 17.348234,
+                    "sentiment_score": -0.07715,
+                    "highlights": [
+                        {
+                            "highlight": "NVIDIA\u2019s $600 Billion Wipeout: How Dee[+338 characters]",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Market Shockwaves\n\nNews of DeepSeek\u2019s [+277 characters]",
+                            "sentiment": -0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVD.DE",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 17.3469,
+                    "sentiment_score": -0.07715,
+                    "highlights": [
+                        {
+                            "highlight": "NVIDIA\u2019s $600 Billion Wipeout: How Dee[+338 characters]",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Market Shockwaves\n\nNews of DeepSeek\u2019s [+277 characters]",
+                            "sentiment": -0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA.MX",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 17.345665,
+                    "sentiment_score": -0.07715,
+                    "highlights": [
+                        {
+                            "highlight": "NVIDIA\u2019s $600 Billion Wipeout: How Dee[+338 characters]",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Market Shockwaves\n\nNews of DeepSeek\u2019s [+277 characters]",
+                            "sentiment": -0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "meta": {
+        "found": 47,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "34c6376c-25ff-40fd-b4ef-7eaab77310eb",
+            "title": "Tech-Focused Tiger Cubs Notch January Gains Amid DeepSeek Drama",
+            "description": "Hedge funds run by proteges of the late Julian Robertson beat the broader equity markets in January, shrugging off gyrations sparked by the emergence of Chinese AI \u2026",
+            "keywords": "BLOOM, Canada",
+            "snippet": "Hedge funds run by proteges of the late Julian Robertson beat the broader equity markets in January, shrugging off gyrations sparked by the emergence of Chinese...",
+            "url": "https://financialpost.com/pmn/business-pmn/tech-focused-tiger-cubs-notch-january-gains-amid-deepseek-drama",
+            "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/02/strong-january-tiger-cubs-beat-the-broader-equity-markets-.jpg",
+            "language": "en",
+            "published_at": "2025-02-10T23:55:19.000000Z",
+            "source": "financialpost.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "NVDAD.BA",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 17.54823,
+                    "sentiment_score": 0.5859,
+                    "highlights": [
+                        {
+                            "highlight": "AI darling <em>Nvidia</em> <em>Corp</em>[+141 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDAC.BA",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 17.54824,
+                    "sentiment_score": 0.5859,
+                    "highlights": [
+                        {
+                            "highlight": "AI darling <em>Nvidia</em> <em>Corp</em>[+141 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 18.567875,
+                    "sentiment_score": -0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "Large stakes in Facebook parent <em>Meta[+248 characters]",
+                            "sentiment": -0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 11.154827,
+                    "sentiment_score": 0.5859,
+                    "highlights": [
+                        {
+                            "highlight": "AI darling <em>Nvidia</em> Corp. took a [+132 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA.MI",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "it",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 17.54789,
+                    "sentiment_score": 0.5859,
+                    "highlights": [
+                        {
+                            "highlight": "AI darling <em>Nvidia</em> <em>Corp</em>[+141 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

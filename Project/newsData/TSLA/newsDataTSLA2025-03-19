@@ -1,0 +1,224 @@
+{
+    "meta": {
+        "found": 68,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "6e87f6ed-9cf7-4a27-84c7-865b2fd369af",
+            "title": "Tesla (TSLA): \u201cIt\u2019s Not About Where You Bought, It\u2019s About Where It\u2019s Going\u201d \u2013 Jim Cramer",
+            "description": "We recently published a list of Jim Cramer Put These 10 Stocks Under the Spotlight. In this article, we are going to take a look at where Tesla, Inc.",
+            "keywords": "",
+            "snippet": "We recently published a list of Jim Cramer Put These 10 Stocks Under the Spotlight. In this article, we are going to take a look at where Tesla, Inc. (NASDAQ:TS...",
+            "url": "https://www.insidermonkey.com/blog/tesla-tsla-its-not-about-where-you-bought-its-about-where-its-going-jim-cramer-1487036/",
+            "image_url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/10/11155347/Jim-Cramer.jpg",
+            "language": "en",
+            "published_at": "2025-03-19T23:45:55.000000Z",
+            "source": "insidermonkey.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "TSLA34.SA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 28.586235,
+                    "sentiment_score": 0.1461,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+305 characters]",
+                            "sentiment": -0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Number of Hedge Fund Holders: 126\n\nA cal[+282 characters]",
+                            "sentiment": 0.128,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Tesla</em> (NASDAQ:TSLA) develops, p[+253 characters]",
+                            "sentiment": 0.7964,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Tesla</em> (TSLA): \u201cIt\u2019s Not About Where You Bought, It\u2019s About Where It\u2019s Going\u201d \u2013 Jim Cramer",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 40.77765,
+                    "sentiment_score": 0.1461,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+314 characters]",
+                            "sentiment": -0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Number of Hedge Fund Holders: 126\n\nA cal[+291 characters]",
+                            "sentiment": 0.128,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Tesla</em> (<em>NASDAQ:TSLA</em>) de[+262 characters]",
+                            "sentiment": 0.7964,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Tesla</em> (TSLA): \u201cIt\u2019s Not About Where You Bought, It\u2019s About Where It\u2019s Going\u201d \u2013 Jim Cramer",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLAD.BA",
+                    "name": "TESLA INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 28.586304,
+                    "sentiment_score": 0.1461,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+305 characters]",
+                            "sentiment": -0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Number of Hedge Fund Holders: 126\n\nA cal[+282 characters]",
+                            "sentiment": 0.128,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Tesla</em> (NASDAQ:TSLA) develops, p[+253 characters]",
+                            "sentiment": 0.7964,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Tesla</em> (TSLA): \u201cIt\u2019s Not About Where You Bought, It\u2019s About Where It\u2019s Going\u201d \u2013 Jim Cramer",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLAC.BA",
+                    "name": "TESLA INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 28.586304,
+                    "sentiment_score": 0.1461,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+305 characters]",
+                            "sentiment": -0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Number of Hedge Fund Holders: 126\n\nA cal[+282 characters]",
+                            "sentiment": 0.128,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Tesla</em> (NASDAQ:TSLA) develops, p[+253 characters]",
+                            "sentiment": 0.7964,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Tesla</em> (TSLA): \u201cIt\u2019s Not About Where You Bought, It\u2019s About Where It\u2019s Going\u201d \u2013 Jim Cramer",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TL0.DE",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 28.586807,
+                    "sentiment_score": 0.1461,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+305 characters]",
+                            "sentiment": -0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Number of Hedge Fund Holders: 126\n\nA cal[+282 characters]",
+                            "sentiment": 0.128,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Tesla</em> (NASDAQ:TSLA) develops, p[+253 characters]",
+                            "sentiment": 0.7964,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Tesla</em> (TSLA): \u201cIt\u2019s Not About Where You Bought, It\u2019s About Where It\u2019s Going\u201d \u2013 Jim Cramer",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA.MX",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 28.586878,
+                    "sentiment_score": 0.1461,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+305 characters]",
+                            "sentiment": -0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Number of Hedge Fund Holders: 126\n\nA cal[+282 characters]",
+                            "sentiment": 0.128,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Tesla</em> (NASDAQ:TSLA) develops, p[+253 characters]",
+                            "sentiment": 0.7964,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Tesla</em> (TSLA): \u201cIt\u2019s Not About Where You Bought, It\u2019s About Where It\u2019s Going\u201d \u2013 Jim Cramer",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

@@ -1,0 +1,1049 @@
+{
+    "meta": {
+        "found": 7,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "7caba405-21b1-4a43-9316-2efa6e9ee78f",
+            "title": "Wall Street Awaits Trump's Tariff Decision, Digests Mixed Economic Data: What's Driving Markets Wednesday? - SPDR S&P 500 (ARCA:SPY)",
+            "description": "The three major indices were mostly flat in midday trading Wednesday with the S&P 500 and Nasdaq slightly under the flatline and the Dow Jones up 39 points.",
+            "keywords": "",
+            "snippet": "The three major indices were mostly flat in midday trading Wednesday with the S&P 500 and Nasdaq slightly under the flatline and the Dow Jones up 39 points.\n\nWa...",
+            "url": "https://www.benzinga.com/general/market-summary/25/03/44146094/wall-street-awaits-trumps-tariff-decision-digests-mixed-economic-data-whats-driving-market",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2025/03/05/Wall-Street-Cautiously-Optimistic-About-.jpeg?width=1200&height=800&fit=crop",
+            "language": "en",
+            "published_at": "2025-03-05T16:53:29.000000Z",
+            "source": "benzinga.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "CHPT",
+                    "name": "ChargePoint Holdings, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 43.67594,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Stocks reacting to company earnings repo[+328 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SQM-RW",
+                    "name": "Sociedad Quimica y Minera S.A. ",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 64.17049,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "BOX\n\n<em>Sociedad</em> <em>Quimica</em> [+345 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SQM-RI",
+                    "name": "Sociedad Quimica y Minera S.A.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 64.17049,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "BOX\n\n<em>Sociedad</em> <em>Quimica</em> [+345 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "CHPT-WT",
+                    "name": "ChargePoint Holdings, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 32.994347,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Stocks reacting to company earnings repo[+319 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "STEM",
+                    "name": "Stem, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 10.803397,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "AVAV\n\n<em>Stem</em>, <em>Inc</em>. STEM\n[+305 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TLT",
+                    "name": "iShares 20+ Year Treasury Bond ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 61.773994,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>iShares</em> <em>20</em>+ <em>Ye[+310 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "QQQ",
+                    "name": "Invesco QQQ Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 46.345276,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "The tech-heavy <em>Invesco</em> <em>QQQ<[+332 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MDB",
+                    "name": "MongoDB, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 28.184736,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>MongoDB</em>, <em>Inc</em>. (NAS+DAQ[+186 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "RSO.DE",
+                    "name": "Ross Stores Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 27.564732,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "CHPT\n\n<em>Ross</em> <em>Stores</em>, <em[+337 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "XLY",
+                    "name": "Consumer Discretionary Select Sector SPDR Fund",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 63.32112,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Consumer</em> <em>Discretionary<[+242 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "XLE",
+                    "name": "Energy Select Sector SPDR Fund",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 48.75917,
+                    "sentiment_score": -0.1779,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Energy</em> <em>Select</em> <em>[+353 characters]",
+                            "sentiment": -0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "IWM",
+                    "name": "iShares Russell 2000 ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 46.47062,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>iShares</em> <em>Russell</em> <e[+304 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0ZC.DE",
+                    "name": "Zscaler, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 23.464296,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "MRVL\n\n<em>Zscaler</em>, <em>Inc</em>. ZS[+88 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 55.276558,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Nasdaq 100 18,207.74 -0.43% S&P 500 5,75[+338 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AFT.DE",
+                    "name": "Abercrombie & Fitch Co.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 51.459557,
+                    "sentiment_score": -0.08895,
+                    "highlights": [
+                        {
+                            "highlight": "Wednesday\u2019s Stock Movers:\n\n<em>Abercro[+269 characters]",
+                            "sentiment": -0.1779,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "FL\n\n<em>Abercrombie</em> & <em>Fitch</em[+327 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "T77.DE",
+                    "name": "LendingTree, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 25.208042,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "GRND\n\n<em>LendingTree</em>, <em>Inc</em>[+219 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^XLE-IV",
+                    "name": "Energy Select Sector SPDR Fund ",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 48.758854,
+                    "sentiment_score": -0.1779,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Energy</em> <em>Select</em> <em>[+353 characters]",
+                            "sentiment": -0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^XLE-TC",
+                    "name": "Energy Select Sector SPDR Fund ",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 48.759132,
+                    "sentiment_score": -0.1779,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Energy</em> <em>Select</em> <em>[+353 characters]",
+                            "sentiment": -0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^XLE-EU",
+                    "name": "Energy Select Sector SPDR Fund ",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 48.759106,
+                    "sentiment_score": -0.1779,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Energy</em> <em>Select</em> <em>[+353 characters]",
+                            "sentiment": -0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVAV",
+                    "name": "AeroVironment, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 30.544514,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>AeroVironment</em>, <em>Inc</em>. AV[+325 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "CRWD",
+                    "name": "CrowdStrike Holdings, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 35.768997,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "RIGL\n\n<em>CrowdStrike</em> <em>Holdings<[+326 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MRVL",
+                    "name": "Marvell Technology, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 35.353996,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "RGTI\n\n<em>Marvell</em> <em>Technology</e[+128 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ZS",
+                    "name": "Zscaler, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 29.082977,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "MRVL\n\n<em>Zscaler</em>, <em>Inc</em>. ZS[+88 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TREE",
+                    "name": "LendingTree, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 30.824125,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "GRND\n\n<em>LendingTree</em>, <em>Inc</em>[+219 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "RIGL",
+                    "name": "Rigel Pharmaceuticals, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 44.576317,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "ROST\n\n<em>Rigel</em> <em>Pharmaceuticals[+338 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ROST",
+                    "name": "Ross Stores, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 33.186806,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "CHPT\n\n<em>Ross</em> <em>Stores</em>, <em[+337 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ANF",
+                    "name": "Abercrombie & Fitch Co.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 51.444633,
+                    "sentiment_score": -0.08895,
+                    "highlights": [
+                        {
+                            "highlight": "Wednesday\u2019s Stock Movers:\n\n<em>Abercro[+269 characters]",
+                            "sentiment": -0.1779,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "FL\n\n<em>Abercrombie</em> & <em>Fitch</em[+327 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BOX",
+                    "name": "Box, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 8.984803,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Box</em>, <em>Inc</em>. BOX\n\nSocieda[+328 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "XLE.MX",
+                    "name": "Energy Select Sector SPDR Fund",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 48.757927,
+                    "sentiment_score": -0.1779,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Energy</em> <em>Select</em> <em>[+353 characters]",
+                            "sentiment": -0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "CRWD.MX",
+                    "name": "CrowdStrike Holdings, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 30.144958,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "RIGL\n\n<em>CrowdStrike</em> <em>Holdings<[+326 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "FL",
+                    "name": "Foot Locker, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 28.402435,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "STEM\n\n<em>Foot</em> <em>Locker</em>, <em[+324 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ROST.MX",
+                    "name": "Ross Stores, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 27.5643,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "CHPT\n\n<em>Ross</em> <em>Stores</em>, <em[+337 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TLT.MX",
+                    "name": "iShares 20+ Year Treasury Bond ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 56.151917,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>iShares</em> <em>20</em>+ <em>Ye[+310 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ZS.MX",
+                    "name": "Zscaler, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 23.45683,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "MRVL\n\n<em>Zscaler</em>, <em>Inc</em>. ZS[+88 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "IWM.MX",
+                    "name": "iShares Russell 2000 ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 46.47057,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>iShares</em> <em>Russell</em> <e[+304 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "XLY.MX",
+                    "name": "Consumer Discretionary Select Sector SPDR Fund",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 63.31852,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Consumer</em> <em>Discretionary<[+242 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MDB.MX",
+                    "name": "MongoDB, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 22.555063,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>MongoDB</em>, <em>Inc</em>. (NAS+DAQ[+186 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MRVL1.MX",
+                    "name": "Marvell Technology, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 29.727947,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "RGTI\n\n<em>Marvell</em> <em>Technology</e[+128 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TREE.MX",
+                    "name": "LendingTree, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 25.18723,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "GRND\n\n<em>LendingTree</em>, <em>Inc</em>[+219 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0UBI.L",
+                    "name": "Marvell Technology, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 29.726973,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "RGTI\n\n<em>Marvell</em> <em>Technology</e[+128 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KXO.L",
+                    "name": "Ross Stores, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 27.564186,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "CHPT\n\n<em>Ross</em> <em>Stores</em>, <em[+337 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0IQK.L",
+                    "name": "Foot Locker, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 28.402018,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "STEM\n\n<em>Foot</em> <em>Locker</em>, <em[+324 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0XVU.L",
+                    "name": "Zscaler, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 23.452145,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "MRVL\n\n<em>Zscaler</em>, <em>Inc</em>. ZS[+88 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 55.275066,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Nasdaq 100 18,207.74 -0.43% S&P 500 5,75[+338 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0HP1.L",
+                    "name": "Box, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 15.355742,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Box</em>, <em>Inc</em>. <em>BOX</em>[+337 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0JTZ.L",
+                    "name": "LendingTree, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 25.180302,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "GRND\n\n<em>LendingTree</em>, <em>Inc</em>[+219 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KKZ.L",
+                    "name": "MongoDB, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 22.552982,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>MongoDB</em>, <em>Inc</em>. (NAS+DAQ[+186 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0HAL.L",
+                    "name": "AeroVironment, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 24.894009,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>AeroVironment</em>, <em>Inc</em>. AV[+325 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0A3N.L",
+                    "name": "CrowdStrike Holdings, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 30.140331,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "RIGL\n\n<em>CrowdStrike</em> <em>Holdings<[+326 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0R32.L",
+                    "name": "Abercrombie & Fitch Co.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 51.415833,
+                    "sentiment_score": -0.08895,
+                    "highlights": [
+                        {
+                            "highlight": "Wednesday\u2019s Stock Movers:\n\n<em>Abercro[+269 characters]",
+                            "sentiment": -0.1779,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "FL\n\n<em>Abercrombie</em> & <em>Fitch</em[+327 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "FOOTL.BR",
+                    "name": "Foot Locker, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "be",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 28.401762,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "STEM\n\n<em>Foot</em> <em>Locker</em>, <em[+324 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "M1DB34.SA",
+                    "name": "MongoDB, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 22.55159,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>MongoDB</em>, <em>Inc</em>. (NAS+DAQ[+186 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BTCUSD",
+                    "name": "Bitcoin USD",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "global",
+                    "type": "cryptocurrency",
+                    "industry": "N/A",
+                    "match_score": 40.58934,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Bitcoin</em> <em>BTC</em>/<em>USD</e[+227 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "CC:BTC",
+                    "name": "Bitcoin",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "global",
+                    "type": "cryptocurrency",
+                    "industry": "N/A",
+                    "match_score": 17.650957,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Bitcoin</em> <em>BTC</em>/USD was up[+218 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "IWM.SN",
+                    "name": "iShares Russell 2000 ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 46.471607,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>iShares</em> <em>Russell</em> <e[+304 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SQMB-OSA.SN",
+                    "name": "QUIMICA Y MINERA",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 42.30791,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "BOX\n\nSociedad <em>Quimica</em> <em>y</em[+327 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "meta": {
+        "found": 100,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "3d554319-8565-499b-ae0e-13b65e4bac6c",
+            "title": "Tariff uncertainty is weighing on market action, Jim Cramer says",
+            "description": "CNBC's Jim Cramer suggested uncertainty regarding tariff policy will continue to shape market action.",
+            "keywords": "Jim Cramer, Stock markets, Investment strategy, Business, Markets, S&P 500 Index, Dow Jones Industrial Average, NASDAQ Composite, Apple Inc, U.S. 10 Year Treasury, Donald J. Trump, NVIDIA Corp, business news",
+            "snippet": "CNBC's Jim Cramer suggested uncertainty over tariff policies will continue to shape market action, saying stocks retreated on Wednesday after President Donald T...",
+            "url": "https://www.cnbc.com/2025/02/26/tariff-uncertainty-is-weighing-on-market-action-jim-cramer-says.html",
+            "image_url": "https://image.cnbcfm.com/api/v1/image/104951455-IMG_1534r.jpg?v=1692054813&w=1920&h=1080",
+            "language": "en",
+            "published_at": "2025-02-26T23:54:40.000000Z",
+            "source": "cnbc.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 11.518568,
+                    "sentiment_score": -0.3239,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Apple</em> finished the day down 2.7[+122 characters]",
+                            "sentiment": -0.4215,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "He said it's hard to own <em>Apple</em> [+172 characters]",
+                            "sentiment": -0.2263,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 11.473612,
+                    "sentiment_score": 0.9327,
+                    "highlights": [
+                        {
+                            "highlight": "\"This market's decided that, as much as [+233 characters]",
+                            "sentiment": 0.9327,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

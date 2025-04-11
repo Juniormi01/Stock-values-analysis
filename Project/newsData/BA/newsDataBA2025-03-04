@@ -1,0 +1,139 @@
+{
+    "meta": {
+        "found": 1,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "252c017d-634f-4486-aa59-c736574029bb",
+            "title": "Boeing Stock is Edging Out Airbus Again \u2014 Is the Recovery Real?",
+            "description": "Stocks Analysis by MarketBeat.com (Jea Yu) covering: Boeing Co, Southwest Airlines Company, United Airlines Holdings Inc, Air Lease Corporation. Read MarketBeat.com (Jea Yu)'s latest article on Investing.com",
+            "keywords": "",
+            "snippet": "The Boeing (NYSE: ) faced a lot of turbulence in 2024, from quality control issues, nightmare PR and the IAM union strike. The aerospace sector giant endured an...",
+            "url": "https://www.investing.com/analysis/boeing-stock-is-edging-out-airbus-again--is-the-recovery-real-200657940",
+            "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+            "language": "en",
+            "published_at": "2025-03-04T13:37:00.000000Z",
+            "source": "investing.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "UAL",
+                    "name": "United Airlines Holdings, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 15.609086,
+                    "sentiment_score": 0.0772,
+                    "highlights": [
+                        {
+                            "highlight": "In January 2025, Boeing delivered 40 Boe[+323 characters]",
+                            "sentiment": 0.0772,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BA",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 17.567223,
+                    "sentiment_score": 0.1816,
+                    "highlights": [
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> (NYSE: ) fa[+272 characters]",
+                            "sentiment": -0.0772,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The Commercial Airplanes segment booked [+307 characters]",
+                            "sentiment": 0.4404,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LUV",
+                    "name": "Southwest Airlines Co.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 18.099133,
+                    "sentiment_score": 0.4767,
+                    "highlights": [
+                        {
+                            "highlight": "In January 2025, Boeing delivered 40 Boe[+314 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ALK",
+                    "name": "Alaska Air Group, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 16.893108,
+                    "sentiment_score": -0.4404,
+                    "highlights": [
+                        {
+                            "highlight": "This was right before the fallout from t[+302 characters]",
+                            "sentiment": -0.4404,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AL",
+                    "name": "Air Lease Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 16.478779,
+                    "sentiment_score": 0.4767,
+                    "highlights": [
+                        {
+                            "highlight": "In January 2025, Boeing delivered 40 Boe[+314 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AL-PA",
+                    "name": "Air Lease Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 16.478748,
+                    "sentiment_score": 0.4767,
+                    "highlights": [
+                        {
+                            "highlight": "In January 2025, Boeing delivered 40 Boe[+314 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

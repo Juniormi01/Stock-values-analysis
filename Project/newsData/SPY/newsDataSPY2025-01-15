@@ -1,0 +1,131 @@
+{
+    "meta": {
+        "found": 6,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "74a662a6-073f-42db-8a8a-475ec1769589",
+            "title": "Fed Beige Book Flags Moderate Growth, Yet Tariffs, Immigration Policies Spark Concerns - Invesco QQQ Trust, Series 1 (NASDAQ:QQQ), SPDR S&P 500 (ARCA:SPY)",
+            "description": "The Fed's Beige Book reported moderate economic growth, strong holiday sales, and rising wages, but concerns over immigration and tariff policies loom. Markets showed little reaction.",
+            "keywords": "",
+            "snippet": "Economic activity expanded slightly to moderately across the Federal Reserve\u2019s 12 districts during late November and December, yet concerns over looming chang...",
+            "url": "https://www.benzinga.com/25/01/43013717/fed-beige-book-flags-moderate-growth-yet-tariffs-immigration-policies-spark-concerns",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/15/Office-workers.jpeg?width=1200&height=800&fit=crop",
+            "language": "en",
+            "published_at": "2025-01-15T19:54:06.000000Z",
+            "source": "benzinga.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "QQQ.MX",
+                    "name": "Invesco QQQ Trust, Series 1",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 162.5867,
+                    "sentiment_score": 0.49135,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Invesco</em> <em>QQQ</em> <em>Tr[+273 characters]",
+                            "sentiment": 0.4404,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Fed Beige Book Flags Moderate Growth, Yet Tariffs, Immigration Policies Spark Concerns - <em>Invesco</em> <em>QQQ</em> <em>Trust</em>, <em>Series</em> <em>1</em> (NASDAQ:QQQ), SPDR S&P 500 (ARCA:SPY)",
+                            "sentiment": 0.5423,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0YIK.L",
+                    "name": "Invesco QQQ Trust, Series 1",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 162.58304,
+                    "sentiment_score": 0.49135,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Invesco</em> <em>QQQ</em> <em>Tr[+273 characters]",
+                            "sentiment": 0.4404,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Fed Beige Book Flags Moderate Growth, Yet Tariffs, Immigration Policies Spark Concerns - <em>Invesco</em> <em>QQQ</em> <em>Trust</em>, <em>Series</em> <em>1</em> (NASDAQ:QQQ), SPDR S&P 500 (ARCA:SPY)",
+                            "sentiment": 0.5423,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 50.93634,
+                    "sentiment_score": 0.8225,
+                    "highlights": [
+                        {
+                            "highlight": "The S&P 500, tracked by the <em>SPDR</em[+329 characters]",
+                            "sentiment": 0.8225,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "QQQ",
+                    "name": "Invesco QQQ Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 140.11653,
+                    "sentiment_score": 0.49135,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Invesco</em> <em>QQQ</em> <em>Tr[+255 characters]",
+                            "sentiment": 0.4404,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Fed Beige Book Flags Moderate Growth, Yet Tariffs, Immigration Policies Spark Concerns - <em>Invesco</em> <em>QQQ</em> <em>Trust</em>, Series 1 (<em>NASDAQ:QQQ</em>), SPDR S&P 500 (ARCA:SPY)",
+                            "sentiment": 0.5423,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 50.93702,
+                    "sentiment_score": 0.8225,
+                    "highlights": [
+                        {
+                            "highlight": "The S&P 500, tracked by the <em>SPDR</em[+329 characters]",
+                            "sentiment": 0.8225,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

@@ -1,0 +1,216 @@
+{
+    "meta": {
+        "found": 1,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "71d20b7f-e418-45b6-ab74-4d18b82ac0b7",
+            "title": "Why Lockheed Martin Corporation (LMT) Is Gaining This Week?",
+            "description": "We recently published a list of Why These Defense Stocks Are Gaining This Week.",
+            "keywords": "",
+            "snippet": "We recently published a list of Why These Defense Stocks Are Gaining This Week. In this article, we are going to take a look at where Lockheed Martin Corporatio...",
+            "url": "https://www.insidermonkey.com/blog/why-lockheed-martin-corporation-lmt-is-gaining-this-week-2-1479239/",
+            "image_url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/09/23125230/LMT-insidermonkey-1695487948742.jpg",
+            "language": "en",
+            "published_at": "2025-03-11T17:38:43.000000Z",
+            "source": "insidermonkey.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "LMT.MX",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 140.30322,
+                    "sentiment_score": 0.49036,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+314 characters]",
+                            "sentiment": 0.4404,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Co[+290 characters]",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The stock has gained 5.17% over the past[+315 characters]",
+                            "sentiment": 0.1779,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Co[+331 characters]",
+                            "sentiment": 0.8126,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Why <em>Lockheed</em> <em>Martin</em> <em>Corporation</em> (LMT) Is Gaining This Week?",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0R3E.L",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 140.30011,
+                    "sentiment_score": 0.49036,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+314 characters]",
+                            "sentiment": 0.4404,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Co[+290 characters]",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The stock has gained 5.17% over the past[+315 characters]",
+                            "sentiment": 0.1779,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Co[+331 characters]",
+                            "sentiment": 0.8126,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Why <em>Lockheed</em> <em>Martin</em> <em>Corporation</em> (LMT) Is Gaining This Week?",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 157.7905,
+                    "sentiment_score": 0.49036,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+323 characters]",
+                            "sentiment": 0.4404,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Co[+308 characters]",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The stock has gained 5.17% over the past[+324 characters]",
+                            "sentiment": 0.1779,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Co[+340 characters]",
+                            "sentiment": 0.8126,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Why <em>Lockheed</em> <em>Martin</em> <em>Corporation</em> (LMT) Is Gaining This Week?",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LMTB34.SA",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 140.2685,
+                    "sentiment_score": 0.49036,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+314 characters]",
+                            "sentiment": 0.4404,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Co[+290 characters]",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The stock has gained 5.17% over the past[+315 characters]",
+                            "sentiment": 0.1779,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Co[+331 characters]",
+                            "sentiment": 0.8126,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Why <em>Lockheed</em> <em>Martin</em> <em>Corporation</em> (LMT) Is Gaining This Week?",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LOM.DE",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 140.27025,
+                    "sentiment_score": 0.49036,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+314 characters]",
+                            "sentiment": 0.4404,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Co[+290 characters]",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The stock has gained 5.17% over the past[+315 characters]",
+                            "sentiment": 0.1779,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Co[+331 characters]",
+                            "sentiment": 0.8126,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Why <em>Lockheed</em> <em>Martin</em> <em>Corporation</em> (LMT) Is Gaining This Week?",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

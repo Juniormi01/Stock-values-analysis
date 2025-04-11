@@ -1,0 +1,112 @@
+{
+    "meta": {
+        "found": 75,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "a713cb82-e9e8-4406-b478-506b0b8a6939",
+            "title": "Couchbase Announces Fourth Quarter and Fiscal 2025 Financial Results",
+            "description": "PR NewswireSANTA CLARA, Calif., Feb. 25, 2025\n\n\n\nSANTA CLARA, Calif., Feb. 25, 2025 /PRNewswire/ -- Couchbase, Inc. (NASDAQ: BASE), the developer data platfor",
+            "keywords": "GuruFocus, Article, News, PRNewswire, NAS:BASE",
+            "snippet": "SANTA CLARA, Calif., Feb. 25, 2025 /PRNewswire/ -- Couchbase, Inc. (NASDAQ: BASE), the developer data platform for critical applications in our AI world, today ...",
+            "url": "https://www.gurufocus.com/news/2714630/couchbase-announces-fourth-quarter-and-fiscal-2025-financial-results",
+            "image_url": "https://static.gurufocus.com/images/global_logo_twitter_card.png",
+            "language": "en",
+            "published_at": "2025-02-25T22:00:36.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 5.057885,
+                    "sentiment_score": 0.6249,
+                    "highlights": [
+                        {
+                            "highlight": "Announced that Couchbase is helping ente[+329 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BASE",
+                    "name": "Couchbase, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 59.681515,
+                    "sentiment_score": 0.096936,
+                    "highlights": [
+                        {
+                            "highlight": "., Feb. 25, 2025 /PRNewswire/ -- <em>Cou[+228 characters]",
+                            "sentiment": -0.3182,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "\"We finished fiscal 2025 on a strong not[+158 characters]",
+                            "sentiment": 0.765,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "About <em>Couchbase</em>\n\nAs industries [+278 characters]",
+                            "sentiment": 0.5423,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Couchbase</em> enables organizations[+258 characters]",
+                            "sentiment": 0.0772,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Couchbase</em>, <em>Inc</em>.",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": ", <em>Inc</em>.",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": ", <em>Inc</em>.",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": ", <em>Inc</em>.",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": ", <em>Inc</em>.",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "-2025-financial-results-302385147.html\n\n[+40 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Couchbase</em> Announces Fourth Quarter and Fiscal 2025 Financial Results",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

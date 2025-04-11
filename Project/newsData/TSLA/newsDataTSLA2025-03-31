@@ -1,0 +1,789 @@
+{
+    "meta": {
+        "found": 56,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "1ee700dd-0f92-47ed-85b3-7928d39a4b3c",
+            "title": "Traders Brace for More Volatility Ahead of Tariffs: Markets Wrap",
+            "description": "Global stocks were poised to endure another rocky session on Tuesday as concerns around President Donald Trump\u2019s looming tariff rollout continue to whipsaw markets.",
+            "keywords": "BLOOM, energy",
+            "snippet": "This advertisement has not loaded yet, but your article continues below.\n\nTraders Brace for More Volatility Ahead of Tariffs: Markets Wrap Global stocks were po...",
+            "url": "https://financialpost.com/pmn/business-pmn/traders-brace-for-more-volatility-ahead-of-tariffs-markets-wrap",
+            "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/03/chinas-factory-activity-expands-in-march-manufacturing-non.jpg",
+            "language": "en",
+            "published_at": "2025-03-31T23:12:58.000000Z",
+            "source": "financialpost.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "AAPL.MX",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 7.519411,
+                    "sentiment_score": 0.1027,
+                    "highlights": [
+                        {
+                            "highlight": "Tesla Inc. led losses in megacaps, while[+300 characters]",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA.MX",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 8.659087,
+                    "sentiment_score": 0.1027,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Tesla</em> <em>Inc</em>. led losses [+300 characters]",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 9.823895,
+                    "sentiment_score": 0.1027,
+                    "highlights": [
+                        {
+                            "highlight": "Tesla Inc. led losses in megacaps, while[+300 characters]",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "IBKR",
+                    "name": "Interactive Brokers Group, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 10.387898,
+                    "sentiment_score": -0.5165,
+                    "highlights": [
+                        {
+                            "highlight": "Article content \u201cSome on Wall Street a[+228 characters]",
+                            "sentiment": -0.5165,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 10.96365,
+                    "sentiment_score": 0.1027,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Tesla</em> <em>Inc</em>. led losses [+300 characters]",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^AXJO",
+                    "name": "S&P/ASX 200",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "au",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 23.30655,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Tokyo time\n\nHang Seng futures rose 0.3%\n[+346 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA34.SA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 8.658931,
+                    "sentiment_score": 0.1027,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Tesla</em> <em>Inc</em>. led losses [+300 characters]",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.BA",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 7.519099,
+                    "sentiment_score": 0.1027,
+                    "highlights": [
+                        {
+                            "highlight": "Tesla Inc. led losses in megacaps, while[+300 characters]",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLAD.BA",
+                    "name": "TESLA INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 8.659086,
+                    "sentiment_score": 0.1027,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Tesla</em> <em>Inc</em>. led losses [+300 characters]",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLD.BA",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 7.519121,
+                    "sentiment_score": 0.1027,
+                    "highlights": [
+                        {
+                            "highlight": "Tesla Inc. led losses in megacaps, while[+300 characters]",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLAC.BA",
+                    "name": "TESLA INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 8.659086,
+                    "sentiment_score": 0.1027,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Tesla</em> <em>Inc</em>. led losses [+300 characters]",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLC.BA",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 7.519121,
+                    "sentiment_score": 0.1027,
+                    "highlights": [
+                        {
+                            "highlight": "Tesla Inc. led losses in megacaps, while[+300 characters]",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLCL.SN",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 7.519108,
+                    "sentiment_score": 0.1027,
+                    "highlights": [
+                        {
+                            "highlight": "Tesla Inc. led losses in megacaps, while[+300 characters]",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.SN",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 7.519108,
+                    "sentiment_score": 0.1027,
+                    "highlights": [
+                        {
+                            "highlight": "Tesla Inc. led losses in megacaps, while[+300 characters]",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSCL.SN",
+                    "name": "MORGAN STANLEY",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 12.617416,
+                    "sentiment_score": -0.1354,
+                    "highlights": [
+                        {
+                            "highlight": "\u201cTariffs will likely continue to drive[+323 characters]",
+                            "sentiment": -0.1354,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.NE",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ca",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 7.519229,
+                    "sentiment_score": 0.1027,
+                    "highlights": [
+                        {
+                            "highlight": "Tesla Inc. led losses in megacaps, while[+300 characters]",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^N225",
+                    "name": "Nikkei 225",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "jp",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 15.010521,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Tokyo time\n\nHang Seng futures rose 0.3%\n[+328 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "APC.DE",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 7.519864,
+                    "sentiment_score": 0.1027,
+                    "highlights": [
+                        {
+                            "highlight": "Tesla Inc. led losses in megacaps, while[+300 characters]",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TL0.DE",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 8.659337,
+                    "sentiment_score": 0.1027,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Tesla</em> <em>Inc</em>. led losses [+300 characters]",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": [
+                {
+                    "uuid": "da0f32d5-e5a6-45fe-b374-13e4fea34d32",
+                    "title": "Stocks See Wild Swings in Run-Up to Tariff Rollout: Markets Wrap",
+                    "description": "A renewed wave of volatility gripped global markets just days ahead of President Donald Trump\u2019s tariff rollout, with stocks erasing losses in the final stretch of a\u2026",
+                    "keywords": "BLOOM, energy",
+                    "snippet": "This advertisement has not loaded yet, but your article continues below.\n\nStocks See Wild Swings in Run-Up to Tariff Rollout: Markets Wrap A renewed wave of vol...",
+                    "url": "https://financialpost.com/pmn/business-pmn/stocks-see-wild-swings-in-run-up-to-tariff-rollout-markets-wrap",
+                    "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/03/still-uncorrelated-returns-based-on-intra-sp-500-correlatio.jpg",
+                    "language": "en",
+                    "published_at": "2025-03-31T20:50:35.000000Z",
+                    "source": "financialpost.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "AAPL.BA",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 8.057993,
+                            "sentiment_score": 0.7065,
+                            "highlights": [
+                                {
+                                    "highlight": "Access articles from across Canada with [+321 characters]",
+                                    "sentiment": 0.8271,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Tesla Inc. and Nvidia Corp. led losses i[+310 characters]",
+                                    "sentiment": 0.5859,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "NVDAD.BA",
+                            "name": "NVIDIA CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 8.715632,
+                            "sentiment_score": 0.5859,
+                            "highlights": [
+                                {
+                                    "highlight": "Tesla Inc. and <em>Nvidia</em> <em>Corp<[+310 characters]",
+                                    "sentiment": 0.5859,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TSLAD.BA",
+                            "name": "TESLA INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 7.777107,
+                            "sentiment_score": 0.5859,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>Tesla</em> <em>Inc</em>. and Nvidia [+310 characters]",
+                                    "sentiment": 0.5859,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPLD.BA",
+                            "name": "APPLE INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 8.057999,
+                            "sentiment_score": 0.7065,
+                            "highlights": [
+                                {
+                                    "highlight": "Access articles from across Canada with [+321 characters]",
+                                    "sentiment": 0.8271,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Tesla Inc. and Nvidia Corp. led losses i[+310 characters]",
+                                    "sentiment": 0.5859,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TSLAC.BA",
+                            "name": "TESLA INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 7.777103,
+                            "sentiment_score": 0.5859,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>Tesla</em> <em>Inc</em>. and Nvidia [+310 characters]",
+                                    "sentiment": 0.5859,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "NVDAC.BA",
+                            "name": "NVIDIA CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 8.715634,
+                            "sentiment_score": 0.5859,
+                            "highlights": [
+                                {
+                                    "highlight": "Tesla Inc. and <em>Nvidia</em> <em>Corp<[+310 characters]",
+                                    "sentiment": 0.5859,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPLC.BA",
+                            "name": "APPLE INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 8.057999,
+                            "sentiment_score": 0.7065,
+                            "highlights": [
+                                {
+                                    "highlight": "Access articles from across Canada with [+321 characters]",
+                                    "sentiment": 0.8271,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Tesla Inc. and Nvidia Corp. led losses i[+310 characters]",
+                                    "sentiment": 0.5859,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPLCL.SN",
+                            "name": "APPLE INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 8.05794,
+                            "sentiment_score": 0.7065,
+                            "highlights": [
+                                {
+                                    "highlight": "Access articles from across Canada with [+321 characters]",
+                                    "sentiment": 0.8271,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Tesla Inc. and Nvidia Corp. led losses i[+310 characters]",
+                                    "sentiment": 0.5859,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL.SN",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 8.05794,
+                            "sentiment_score": 0.7065,
+                            "highlights": [
+                                {
+                                    "highlight": "Access articles from across Canada with [+321 characters]",
+                                    "sentiment": 0.8271,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Tesla Inc. and Nvidia Corp. led losses i[+310 characters]",
+                                    "sentiment": 0.5859,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSCL.SN",
+                            "name": "MORGAN STANLEY",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 11.279228,
+                            "sentiment_score": -0.1354,
+                            "highlights": [
+                                {
+                                    "highlight": "Article content \u201cTariffs will likely c[+297 characters]",
+                                    "sentiment": -0.1354,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 11.375297,
+                            "sentiment_score": 0.7065,
+                            "highlights": [
+                                {
+                                    "highlight": "Access articles from across Canada with [+321 characters]",
+                                    "sentiment": 0.8271,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Tesla Inc. and Nvidia Corp. led losses i[+310 characters]",
+                                    "sentiment": 0.5859,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "NVDA",
+                            "name": "NVIDIA Corporation",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 7.013815,
+                            "sentiment_score": 0.5859,
+                            "highlights": [
+                                {
+                                    "highlight": "Tesla Inc. and <em>Nvidia</em> Corp. led[+301 characters]",
+                                    "sentiment": 0.5859,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TSLA",
+                            "name": "Tesla, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 11.095228,
+                            "sentiment_score": 0.5859,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>Tesla</em> <em>Inc</em>. and Nvidia [+310 characters]",
+                                    "sentiment": 0.5859,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL.NE",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ca",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 8.059136,
+                            "sentiment_score": 0.7065,
+                            "highlights": [
+                                {
+                                    "highlight": "Access articles from across Canada with [+321 characters]",
+                                    "sentiment": 0.8271,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Tesla Inc. and Nvidia Corp. led losses i[+310 characters]",
+                                    "sentiment": 0.5859,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "APC.DE",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 8.059017,
+                            "sentiment_score": 0.7065,
+                            "highlights": [
+                                {
+                                    "highlight": "Access articles from across Canada with [+321 characters]",
+                                    "sentiment": 0.8271,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Tesla Inc. and Nvidia Corp. led losses i[+310 characters]",
+                                    "sentiment": 0.5859,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TL0.DE",
+                            "name": "Tesla, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 7.777767,
+                            "sentiment_score": 0.5859,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>Tesla</em> <em>Inc</em>. and Nvidia [+310 characters]",
+                                    "sentiment": 0.5859,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL.MX",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 8.058793,
+                            "sentiment_score": 0.7065,
+                            "highlights": [
+                                {
+                                    "highlight": "Access articles from across Canada with [+321 characters]",
+                                    "sentiment": 0.8271,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Tesla Inc. and Nvidia Corp. led losses i[+310 characters]",
+                                    "sentiment": 0.5859,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TSLA.MX",
+                            "name": "Tesla, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 7.777548,
+                            "sentiment_score": 0.5859,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>Tesla</em> <em>Inc</em>. and Nvidia [+310 characters]",
+                                    "sentiment": 0.5859,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TSLA34.SA",
+                            "name": "Tesla, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "br",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 7.777414,
+                            "sentiment_score": 0.5859,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>Tesla</em> <em>Inc</em>. and Nvidia [+310 characters]",
+                                    "sentiment": 0.5859,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "NVDA.MI",
+                            "name": "NVIDIA CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "it",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 8.715946,
+                            "sentiment_score": 0.5859,
+                            "highlights": [
+                                {
+                                    "highlight": "Tesla Inc. and <em>Nvidia</em> <em>Corp<[+310 characters]",
+                                    "sentiment": 0.5859,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

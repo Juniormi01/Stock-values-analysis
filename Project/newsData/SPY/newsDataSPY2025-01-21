@@ -1,0 +1,1007 @@
+{
+    "meta": {
+        "found": 4,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "ceccf165-8c69-453e-b011-b1848cc807eb",
+            "title": "Small Caps Soar, Apple Slips, Treasury Yields Fall On Trump Day 2: What's Driving Markets Tuesday? - Apple (NASDAQ:AAPL)",
+            "description": "Wall Street saw a strong preference for small and mid-cap equities, with the Russell 2000 index leading the market as investors bet on more domestic-friendly policies following Donald Trump's inauguration on Jan. 20 as the 47th U.S. president.",
+            "keywords": "",
+            "snippet": "Wall Street saw a strong preference for small and mid-cap equities, with the Russell 2000 index leading the market as investors bet on more domestic-friendly po...",
+            "url": "https://www.benzinga.com/news/global/25/01/43109835/small-caps-soar-apple-slips-treasury-yields-fall-on-trump-day-2-whats-driving-markets-tuesday",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/21/Wall-Street-subway-sign.jpeg?width=1200&height=800&fit=crop",
+            "language": "en",
+            "published_at": "2025-01-21T19:04:11.000000Z",
+            "source": "benzinga.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "^XLE-TC",
+                    "name": "Energy Select Sector SPDR Fund ",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 46.20293,
+                    "sentiment_score": 0.1779,
+                    "highlights": [
+                        {
+                            "highlight": "The Industrials Select Sector SPDR Fund [+301 characters]",
+                            "sentiment": 0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^XLE-EU",
+                    "name": "Energy Select Sector SPDR Fund ",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 46.202873,
+                    "sentiment_score": 0.1779,
+                    "highlights": [
+                        {
+                            "highlight": "The Industrials Select Sector SPDR Fund [+301 characters]",
+                            "sentiment": 0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 57.490677,
+                    "sentiment_score": -0.1918,
+                    "highlights": [
+                        {
+                            "highlight": "One of the session's most notable moves [+210 characters]",
+                            "sentiment": -0.5859,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Small Caps Soar, <em>Apple</em> Slips, Treasury Yields Fall On Trump Day 2: What's Driving Markets Tuesday? - <em>Apple</em> (<em>NASDAQ:AAPL</em>)",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "FITB",
+                    "name": "Fifth Third Bancorp",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 36.24565,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "DHI , down 0.4%; KeyCorp KEY , down near[+284 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "IBKR",
+                    "name": "Interactive Brokers Group, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 36.198452,
+                    "sentiment_score": 0.4215,
+                    "highlights": [
+                        {
+                            "highlight": "NFLX , <em>Interactive</em> <em>Brokers<[+141 characters]",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "FITBI",
+                    "name": "Fifth Third Bancorp",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 36.24565,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "DHI , down 0.4%; KeyCorp KEY , down near[+284 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "FITBO",
+                    "name": "Fifth Third Bancorp",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 36.24565,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "DHI , down 0.4%; KeyCorp KEY , down near[+284 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "FITBP",
+                    "name": "Fifth Third Bancorp",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 36.24565,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "DHI , down 0.4%; KeyCorp KEY , down near[+284 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "UAL",
+                    "name": "United Airlines Holdings, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 35.052856,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "COF and <em>United</em> <em>Airlines</em[+68 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NFLX",
+                    "name": "Netflix, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 18.806309,
+                    "sentiment_score": 0.4215,
+                    "highlights": [
+                        {
+                            "highlight": "Companies slated to report earnings afte[+196 characters]",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MMM",
+                    "name": "3M Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 17.465942,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "PLD , up 6.4%; <em>3M</em> <em>Company</[+206 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.BA",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 28.63836,
+                    "sentiment_score": -0.1918,
+                    "highlights": [
+                        {
+                            "highlight": "One of the session's most notable moves [+210 characters]",
+                            "sentiment": -0.5859,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Small Caps Soar, <em>Apple</em> Slips, Treasury Yields Fall On Trump Day 2: What's Driving Markets Tuesday? - <em>Apple</em> (NASDAQ:AAPL)",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NFLX.BA",
+                    "name": "Netflix, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.390247,
+                    "sentiment_score": 0.4215,
+                    "highlights": [
+                        {
+                            "highlight": "Companies slated to report earnings afte[+196 characters]",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NFLXD.BA",
+                    "name": "NETFLIX INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 13.390247,
+                    "sentiment_score": 0.4215,
+                    "highlights": [
+                        {
+                            "highlight": "Companies slated to report earnings afte[+196 characters]",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLD.BA",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 28.63836,
+                    "sentiment_score": -0.1918,
+                    "highlights": [
+                        {
+                            "highlight": "One of the session's most notable moves [+210 characters]",
+                            "sentiment": -0.5859,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Small Caps Soar, <em>Apple</em> Slips, Treasury Yields Fall On Trump Day 2: What's Driving Markets Tuesday? - <em>Apple</em> (NASDAQ:AAPL)",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MMMD.BA",
+                    "name": "3M COMPANY",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 17.465967,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "PLD , up 6.4%; <em>3M</em> <em>Company</[+206 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLC.BA",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 28.638176,
+                    "sentiment_score": -0.1918,
+                    "highlights": [
+                        {
+                            "highlight": "One of the session's most notable moves [+210 characters]",
+                            "sentiment": -0.5859,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Small Caps Soar, <em>Apple</em> Slips, Treasury Yields Fall On Trump Day 2: What's Driving Markets Tuesday? - <em>Apple</em> (NASDAQ:AAPL)",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLCL.SN",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 28.637589,
+                    "sentiment_score": -0.1918,
+                    "highlights": [
+                        {
+                            "highlight": "One of the session's most notable moves [+210 characters]",
+                            "sentiment": -0.5859,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Small Caps Soar, <em>Apple</em> Slips, Treasury Yields Fall On Trump Day 2: What's Driving Markets Tuesday? - <em>Apple</em> (NASDAQ:AAPL)",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "IWM.SN",
+                    "name": "iShares Russell 2000 ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 43.936275,
+                    "sentiment_score": -0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>iShares</em> <em>Russell</em> <e[+244 characters]",
+                            "sentiment": -0.0258,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.SN",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 28.637589,
+                    "sentiment_score": -0.1918,
+                    "highlights": [
+                        {
+                            "highlight": "One of the session's most notable moves [+210 characters]",
+                            "sentiment": -0.5859,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Small Caps Soar, <em>Apple</em> Slips, Treasury Yields Fall On Trump Day 2: What's Driving Markets Tuesday? - <em>Apple</em> (NASDAQ:AAPL)",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MMM.SN",
+                    "name": "3M Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 17.465088,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "PLD , up 6.4%; <em>3M</em> <em>Company</[+206 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MMMCL.SN",
+                    "name": "3M Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 17.465004,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "PLD , up 6.4%; <em>3M</em> <em>Company</[+206 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PLD",
+                    "name": "Prologis, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Real Estate",
+                    "match_score": 22.479137,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Other stocks reacting to earnings includ[+263 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PLDGP",
+                    "name": "Prologis, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Real Estate",
+                    "match_score": 22.47927,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Other stocks reacting to earnings includ[+263 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.NE",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ca",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 28.640379,
+                    "sentiment_score": -0.1918,
+                    "highlights": [
+                        {
+                            "highlight": "One of the session's most notable moves [+210 characters]",
+                            "sentiment": -0.5859,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Small Caps Soar, <em>Apple</em> Slips, Treasury Yields Fall On Trump Day 2: What's Driving Markets Tuesday? - <em>Apple</em> (NASDAQ:AAPL)",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "QQQ",
+                    "name": "Invesco QQQ Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 43.953487,
+                    "sentiment_score": -0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "The tech-heavy <em>Invesco</em> <em>QQQ<[+292 characters]",
+                            "sentiment": -0.0258,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "XLE",
+                    "name": "Energy Select Sector SPDR Fund",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 46.20265,
+                    "sentiment_score": 0.1779,
+                    "highlights": [
+                        {
+                            "highlight": "The Industrials Select Sector SPDR Fund [+301 characters]",
+                            "sentiment": 0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "IWM",
+                    "name": "iShares Russell 2000 ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 43.936092,
+                    "sentiment_score": -0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>iShares</em> <em>Russell</em> <e[+244 characters]",
+                            "sentiment": -0.0258,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 52.321213,
+                    "sentiment_score": 0.5106,
+                    "highlights": [
+                        {
+                            "highlight": "ET\n\nAccording to Benzinga Pro data:\n\nThe[+318 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^XLE-IV",
+                    "name": "Energy Select Sector SPDR Fund ",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 46.20248,
+                    "sentiment_score": 0.1779,
+                    "highlights": [
+                        {
+                            "highlight": "The Industrials Select Sector SPDR Fund [+301 characters]",
+                            "sentiment": 0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "APC.DE",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 28.639334,
+                    "sentiment_score": -0.1918,
+                    "highlights": [
+                        {
+                            "highlight": "One of the session's most notable moves [+210 characters]",
+                            "sentiment": -0.5859,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Small Caps Soar, <em>Apple</em> Slips, Treasury Yields Fall On Trump Day 2: What's Driving Markets Tuesday? - <em>Apple</em> (NASDAQ:AAPL)",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MMM.DE",
+                    "name": "3M Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 17.472961,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "PLD , up 6.4%; <em>3M</em> <em>Company</[+206 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NFC.DE",
+                    "name": "Netflix, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.391268,
+                    "sentiment_score": 0.4215,
+                    "highlights": [
+                        {
+                            "highlight": "Companies slated to report earnings afte[+196 characters]",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.MX",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 28.63834,
+                    "sentiment_score": -0.1918,
+                    "highlights": [
+                        {
+                            "highlight": "One of the session's most notable moves [+210 characters]",
+                            "sentiment": -0.5859,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Small Caps Soar, <em>Apple</em> Slips, Treasury Yields Fall On Trump Day 2: What's Driving Markets Tuesday? - <em>Apple</em> (NASDAQ:AAPL)",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "UAL.MX",
+                    "name": "United Airlines Holdings, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 29.63763,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "COF and <em>United</em> <em>Airlines</em[+68 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "XLE.MX",
+                    "name": "Energy Select Sector SPDR Fund",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 46.20226,
+                    "sentiment_score": 0.1779,
+                    "highlights": [
+                        {
+                            "highlight": "The Industrials Select Sector SPDR Fund [+301 characters]",
+                            "sentiment": 0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NFLX.MX",
+                    "name": "Netflix, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.391029,
+                    "sentiment_score": 0.4215,
+                    "highlights": [
+                        {
+                            "highlight": "Companies slated to report earnings afte[+196 characters]",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "IWM.MX",
+                    "name": "iShares Russell 2000 ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 43.936054,
+                    "sentiment_score": -0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>iShares</em> <em>Russell</em> <e[+244 characters]",
+                            "sentiment": -0.0258,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MMM.MX",
+                    "name": "3M Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 17.472519,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "PLD , up 6.4%; <em>3M</em> <em>Company</[+206 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "IBKR.MX",
+                    "name": "Interactive Brokers Group, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 30.781279,
+                    "sentiment_score": 0.4215,
+                    "highlights": [
+                        {
+                            "highlight": "NFLX , <em>Interactive</em> <em>Brokers<[+141 characters]",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PLD.MX",
+                    "name": "Prologis, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Real Estate",
+                    "match_score": 22.478388,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Other stocks reacting to earnings includ[+263 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KOD.L",
+                    "name": "Prologis, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 22.477234,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Other stocks reacting to earnings includ[+263 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0LIU.L",
+                    "name": "United Airlines Holdings, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 29.637085,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "COF and <em>United</em> <em>Airlines</em[+68 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 52.32081,
+                    "sentiment_score": 0.5106,
+                    "highlights": [
+                        {
+                            "highlight": "ET\n\nAccording to Benzinga Pro data:\n\nThe[+318 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0IM1.L",
+                    "name": "Fifth Third Bancorp",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 30.828293,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "DHI , down 0.4%; KeyCorp KEY , down near[+284 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MMM.SW",
+                    "name": "3M Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ch",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 17.469242,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "PLD , up 6.4%; <em>3M</em> <em>Company</[+206 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NFLX34.SA",
+                    "name": "Netflix, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.389866,
+                    "sentiment_score": 0.4215,
+                    "highlights": [
+                        {
+                            "highlight": "Companies slated to report earnings afte[+196 characters]",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MMMC34.SA",
+                    "name": "3M Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 17.469051,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "PLD , up 6.4%; <em>3M</em> <em>Company</[+206 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "U1AL34.SA",
+                    "name": "United Airlines Holdings, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 29.636524,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "COF and <em>United</em> <em>Airlines</em[+68 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "P1LD34.SA",
+                    "name": "Prologis, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Real Estate",
+                    "match_score": 22.45957,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Other stocks reacting to earnings includ[+263 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BTCUSD",
+                    "name": "Bitcoin USD",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "global",
+                    "type": "cryptocurrency",
+                    "industry": "N/A",
+                    "match_score": 38.329323,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "In the crypto space, <em>Bitcoin</em> <e[+211 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "CC:BTC",
+                    "name": "Bitcoin",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "global",
+                    "type": "cryptocurrency",
+                    "industry": "N/A",
+                    "match_score": 18.722305,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "In the crypto space, <em>Bitcoin</em> <e[+202 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

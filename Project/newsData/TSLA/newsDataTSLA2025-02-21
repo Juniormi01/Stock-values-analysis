@@ -1,0 +1,152 @@
+{
+    "meta": {
+        "found": 33,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "521c8903-458c-45d6-af56-3c3e862b4846",
+            "title": "Tech Stocks Decline as Chinese Equities Shine; NVDA Loses $139 Billion in Value",
+            "description": "U.S. stock markets experienced a significant downturn, with major indices closing lower. The Dow Jones Industrial Average fell by 748.63 points, marking a subst",
+            "keywords": "GuruFocus, Article, News, GuruFocus News, NVDA",
+            "snippet": "U.S. stock markets experienced a significant downturn, with major indices closing lower. The Dow Jones Industrial Average fell by 748.63 points, marking a subst...",
+            "url": "https://www.gurufocus.com/news/2709510/tech-stocks-decline-as-chinese-equities-shine-nvda-loses-139-billion-in-value",
+            "image_url": "https://static.gurufocus.com/logos/0C00000BXN.png?20",
+            "language": "en",
+            "published_at": "2025-02-21T23:50:23.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "LI",
+                    "name": "Li Auto Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 19.333271,
+                    "sentiment_score": 0.8442,
+                    "highlights": [
+                        {
+                            "highlight": "Alibaba and Pinduoduo saw gains of over [+206 characters]",
+                            "sentiment": 0.8442,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 14.791268,
+                    "sentiment_score": -0.8481,
+                    "highlights": [
+                        {
+                            "highlight": "Large tech stocks were notably affected,[+254 characters]",
+                            "sentiment": -0.8481,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "JD",
+                    "name": "JD.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 18.590977,
+                    "sentiment_score": 0.8442,
+                    "highlights": [
+                        {
+                            "highlight": "Alibaba and Pinduoduo saw gains of over [+197 characters]",
+                            "sentiment": 0.8442,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 14.459125,
+                    "sentiment_score": -0.6249,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Tesla</em>, Netflix, Google, and Ama[+307 characters]",
+                            "sentiment": -0.6249,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NFLX",
+                    "name": "Netflix, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 14.04517,
+                    "sentiment_score": -0.6249,
+                    "highlights": [
+                        {
+                            "highlight": "Tesla, <em>Netflix</em>, Google, and Ama[+307 characters]",
+                            "sentiment": -0.6249,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PDD",
+                    "name": "Pinduoduo Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 19.528343,
+                    "sentiment_score": 0.8442,
+                    "highlights": [
+                        {
+                            "highlight": "Alibaba and <em>Pinduoduo</em> saw gains[+197 characters]",
+                            "sentiment": 0.8442,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSCL.SN",
+                    "name": "MORGAN STANLEY",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 27.938871,
+                    "sentiment_score": 0.5859,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Morgan</em> <em>Stanley</em> strateg[+148 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

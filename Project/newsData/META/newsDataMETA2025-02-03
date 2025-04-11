@@ -1,0 +1,234 @@
+{
+    "meta": {
+        "found": 17,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "55d88366-933b-4856-9635-a1b1b123feb5",
+            "title": "Is Cisco Systems (CSCO) the Best FAANG+ Stock to Invest in Right Now?",
+            "description": "We recently published a list of 12 Best FAANG+ Stocks to Invest in Right Now. In this article, we are going to take a look at where Cisco Systems, Inc.",
+            "keywords": "",
+            "snippet": "We recently published a list of 12 Best FAANG+ Stocks to Invest in Right Now. In this article, we are going to take a look at where Cisco Systems, Inc. (NASDAQ:...",
+            "url": "https://www.insidermonkey.com/blog/is-cisco-systems-csco-the-best-faang-stock-to-invest-in-right-now-1441828/",
+            "image_url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/09/23101907/CSCO-insidermonkey-1695478745637.jpg",
+            "language": "en",
+            "published_at": "2025-02-03T20:36:13.000000Z",
+            "source": "insidermonkey.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "CIS.DE",
+                    "name": "Cisco Systems, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 71.801315,
+                    "sentiment_score": 0.52646,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+262 characters]",
+                            "sentiment": 0.8225,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Cisco</em> <em>Systems</em>, <em>Inc[+208 characters]",
+                            "sentiment": 0.0772,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Two-thirds of <em>Cisco</em> <em>Systems[+256 characters]",
+                            "sentiment": 0.4588,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Additionally, Meta Platforms Inc. is exp[+241 characters]",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Is <em>Cisco</em> <em>Systems</em> (CSCO) the Best FAANG+ Stock to Invest in Right Now?",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "CSCO.MX",
+                    "name": "Cisco Systems, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 71.80636,
+                    "sentiment_score": 0.52646,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+262 characters]",
+                            "sentiment": 0.8225,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Cisco</em> <em>Systems</em>, <em>Inc[+208 characters]",
+                            "sentiment": 0.0772,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Two-thirds of <em>Cisco</em> <em>Systems[+256 characters]",
+                            "sentiment": 0.4588,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Additionally, Meta Platforms Inc. is exp[+241 characters]",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Is <em>Cisco</em> <em>Systems</em> (CSCO) the Best FAANG+ Stock to Invest in Right Now?",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 9.670748,
+                    "sentiment_score": 0.6369,
+                    "highlights": [
+                        {
+                            "highlight": "Additionally, <em>Meta</em> <em>Platform[+241 characters]",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "CSCO",
+                    "name": "Cisco Systems, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 88.45825,
+                    "sentiment_score": 0.52646,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+271 characters]",
+                            "sentiment": 0.8225,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Cisco</em> <em>Systems</em>, <em>Inc[+226 characters]",
+                            "sentiment": 0.0772,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Two-thirds of <em>Cisco</em> <em>Systems[+265 characters]",
+                            "sentiment": 0.4588,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Additionally, Meta Platforms Inc. is exp[+250 characters]",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Is <em>Cisco</em> <em>Systems</em> (CSCO) the Best FAANG+ Stock to Invest in Right Now?",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "CIS.BR",
+                    "name": "Cisco Systems, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "be",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 71.80571,
+                    "sentiment_score": 0.52646,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+262 characters]",
+                            "sentiment": 0.8225,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Cisco</em> <em>Systems</em>, <em>Inc[+208 characters]",
+                            "sentiment": 0.0772,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Two-thirds of <em>Cisco</em> <em>Systems[+256 characters]",
+                            "sentiment": 0.4588,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Additionally, Meta Platforms Inc. is exp[+241 characters]",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Is <em>Cisco</em> <em>Systems</em> (CSCO) the Best FAANG+ Stock to Invest in Right Now?",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "4333.HK",
+                    "name": "Cisco Systems, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "hk",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 71.80555,
+                    "sentiment_score": 0.52646,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+262 characters]",
+                            "sentiment": 0.8225,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Cisco</em> <em>Systems</em>, <em>Inc[+208 characters]",
+                            "sentiment": 0.0772,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Two-thirds of <em>Cisco</em> <em>Systems[+256 characters]",
+                            "sentiment": 0.4588,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Additionally, Meta Platforms Inc. is exp[+241 characters]",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Is <em>Cisco</em> <em>Systems</em> (CSCO) the Best FAANG+ Stock to Invest in Right Now?",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

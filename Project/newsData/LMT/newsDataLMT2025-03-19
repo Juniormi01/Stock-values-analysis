@@ -1,0 +1,80 @@
+{
+    "meta": {
+        "found": 2,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "0607ee40-94be-479d-8d39-e979d75b99f2",
+            "title": "StandardAero Appoints Rama Bondada to Vice President, Investor Relations",
+            "description": "StandardAero (NYSE: SARO), a leading pure-play provider of aerospace aftermarket services for fixed- and rotary-wing aircraft, has appointed Rama Bondada to se",
+            "keywords": "GuruFocus, Article, News, Business Wire, NYSE:SARO",
+            "snippet": "StandardAero (NYSE: SARO), a leading pure-play provider of aerospace aftermarket services for fixed- and rotary-wing aircraft, has appointed Rama Bondada to ser...",
+            "url": "https://www.gurufocus.com/news/2743287/standardaero-appoints-rama-bondada-to-vice-president-investor-relations",
+            "image_url": "https://static.gurufocus.com/images/global_logo_twitter_card.png",
+            "language": "en",
+            "published_at": "2025-03-19T22:00:08.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "RY",
+                    "name": "Royal Bank of Canada",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 36.879013,
+                    "sentiment_score": 0.4767,
+                    "highlights": [
+                        {
+                            "highlight": "Prior to his buy-side career he spent fi[+285 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 20.98229,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "Bondada also worked for <em>Lockheed</em[+252 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0QKU.L",
+                    "name": "Royal Bank of Canada",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 29.711369,
+                    "sentiment_score": 0.4767,
+                    "highlights": [
+                        {
+                            "highlight": "Prior to his buy-side career he spent fi[+285 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "meta": {
+        "found": 61,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "542fcbee-9419-461a-b56c-e5e182ab5ffc",
+            "title": "Cramer tells Nvidia investors to prepare for 'turbulence'",
+            "description": "CNBC's Jim Cramer on Wednesday opined on declines in the tech sector.",
+            "keywords": "Jim Cramer, Stock markets, Investment strategy, Business, Markets, NVIDIA Corp, Dow Jones Industrial Average, S&P 500 Index, NASDAQ Composite, Amazon.com Inc, Alphabet Inc, Tesla Inc, Meta Platforms Inc, business news",
+            "snippet": "CNBC's Jim Cramer on Wednesday assessed stock declines in the tech sector after Nvidia closed down 5.74%, and he advised investors that the artificial intellige...",
+            "url": "https://www.cnbc.com/2025/03/26/cramer-tells-nvidia-investors-to-prepare-for-turbulence.html",
+            "image_url": "https://image.cnbcfm.com/api/v1/image/106349570-1579719779302img_3404r.jpg?v=1694617758&w=1920&h=1080",
+            "language": "en",
+            "published_at": "2025-03-26T23:01:47.000000Z",
+            "source": "cnbc.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "GOOGL",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 12.979747,
+                    "sentiment_score": -0.6369,
+                    "highlights": [
+                        {
+                            "highlight": "The Dow Jones Industrial Average decline[+169 characters]",
+                            "sentiment": -0.6369,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 30.030674,
+                    "sentiment_score": -0.050043,
+                    "highlights": [
+                        {
+                            "highlight": "CNBC's Jim Cramer on Wednesday assessed [+235 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The Dow Jones Industrial Average decline[+169 characters]",
+                            "sentiment": -0.6369,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Nvidia</em> spent much of last year [+142 characters]",
+                            "sentiment": -0.1901,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In January, <em>Nvidia</em> clocked the [+324 characters]",
+                            "sentiment": -0.7351,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Cramer asserted his long-held faith in <[+277 characters]",
+                            "sentiment": 0.7351,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "An <em>Nvidia</em> spokesperson declined[+12 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Cramer tells <em>Nvidia</em> investors to prepare for 'turbulence'",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 11.835466,
+                    "sentiment_score": -0.6369,
+                    "highlights": [
+                        {
+                            "highlight": "The Dow Jones Industrial Average decline[+169 characters]",
+                            "sentiment": -0.6369,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

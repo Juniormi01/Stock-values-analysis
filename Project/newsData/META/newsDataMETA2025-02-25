@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "found": 8,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "046db7b0-7146-4dd7-8eab-e5e05e22cbd9",
+            "title": "Meta sued for allegedly favouring foreign workers over US citizens; case could impact H-1B visa hiring",
+            "description": "Meta is facing a lawsuit accusing it of favouring foreign workers on H-1B visas over American citizens. The case, revived by a federal appeals court, could influence tech industry hiring practices.",
+            "keywords": "Meta, lawsuit, hiring bias, H-1B visa, foreign workers, U.S. citizens, discrimination, tech industry",
+            "snippet": "Meta, the parent company of Facebook and Instagram, is facing a lawsuit in the United States for allegedly favouring foreign workers over American citizens in i...",
+            "url": "https://www.businesstoday.in/technology/news/story/meta-sued-for-allegedly-favouring-foreign-workers-over-us-citizens-case-could-impact-h-1b-visa-hiring-465975-2025-02-26",
+            "image_url": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202502/67be5426b2625-in-a-blog-post--meta-stated-that-the-multi-billion-dollar-project-would-boost-the-global-digital-net-234044238-16x9.jpg",
+            "language": "en",
+            "published_at": "2025-02-25T23:39:35.000000Z",
+            "source": "businesstoday.in",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 15.077336,
+                    "sentiment_score": 0.5859,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Meta</em> <em>Platforms</em> <em>Inc[+205 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

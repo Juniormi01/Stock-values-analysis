@@ -1,0 +1,433 @@
+{
+    "meta": {
+        "found": 3,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "751c58d1-66dd-4bdb-9461-2772b689ef32",
+            "title": "10 Most Undervalued High Quality Stocks to Buy According to Analysts",
+            "description": "In one of our recent articles, titled 11 Best Undervalued Stocks to Invest in Now, we talked about how the recent tariffs have caused a slowdown in the market and are likely to cause inflation.",
+            "keywords": "",
+            "snippet": "In this article, we will look at the 10 Most Undervalued High-Quality Stocks to Buy According to Analysts.\n\nIs a Market Rally Around The Corner?\n\nIn one of our ...",
+            "url": "https://www.insidermonkey.com/blog/10-most-undervalued-high-quality-stocks-to-buy-according-to-analysts-1474316/",
+            "image_url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/12/01201115/SCHO-insidermonkey-1701479473002.jpg",
+            "language": "en",
+            "published_at": "2025-03-06T21:24:09.000000Z",
+            "source": "insidermonkey.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "QUAL",
+                    "name": "iShares MSCI USA Quality Factor ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 39.567337,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Our Methodology\n\nTo compile the list of [+320 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "CAT",
+                    "name": "Caterpillar Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 46.30971,
+                    "sentiment_score": 0.096625,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Caterpillar</em> <em>Inc</em>. (<em>[+337 characters]",
+                            "sentiment": 0.0772,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Caterpillar</em> <em>Inc</em>. (<em>[+284 characters]",
+                            "sentiment": -0.7269,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Diamond Hill Large Cap Strategy stated t[+223 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Heavy construction machinery manufacture[+163 characters]",
+                            "sentiment": 0.5423,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 58.201134,
+                    "sentiment_score": 0.339967,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Co[+262 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "During the fiscal year 2024, <em>Lockhee[+311 characters]",
+                            "sentiment": 0.8176,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Looking ahead, <em>Lockheed</em> <em>Mar[+348 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "CAT1.DE",
+                    "name": "Caterpillar Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 30.071074,
+                    "sentiment_score": 0.096625,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Caterpillar</em> <em>Inc</em>. (NYSE[+319 characters]",
+                            "sentiment": 0.0772,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Caterpillar</em> <em>Inc</em>. (NYSE[+275 characters]",
+                            "sentiment": -0.7269,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Diamond Hill Large Cap Strategy stated t[+205 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Heavy construction machinery manufacture[+163 characters]",
+                            "sentiment": 0.5423,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LOM.DE",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 42.39232,
+                    "sentiment_score": 0.339967,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Co[+244 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "During the fiscal year 2024, <em>Lockhee[+302 characters]",
+                            "sentiment": 0.8176,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Looking ahead, <em>Lockheed</em> <em>Mar[+330 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "CATR.PA",
+                    "name": "Caterpillar Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "fr",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 30.070724,
+                    "sentiment_score": 0.096625,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Caterpillar</em> <em>Inc</em>. (NYSE[+319 characters]",
+                            "sentiment": 0.0772,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Caterpillar</em> <em>Inc</em>. (NYSE[+275 characters]",
+                            "sentiment": -0.7269,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Diamond Hill Large Cap Strategy stated t[+205 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Heavy construction machinery manufacture[+163 characters]",
+                            "sentiment": 0.5423,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "QUAL.MX",
+                    "name": "iShares MSCI USA Quality Factor ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 39.56865,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Our Methodology\n\nTo compile the list of [+320 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LMT.MX",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 42.3916,
+                    "sentiment_score": 0.339967,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Co[+244 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "During the fiscal year 2024, <em>Lockhee[+302 characters]",
+                            "sentiment": 0.8176,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Looking ahead, <em>Lockheed</em> <em>Mar[+330 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "CAT.MX",
+                    "name": "Caterpillar Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 30.070276,
+                    "sentiment_score": 0.096625,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Caterpillar</em> <em>Inc</em>. (NYSE[+319 characters]",
+                            "sentiment": 0.0772,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Caterpillar</em> <em>Inc</em>. (NYSE[+275 characters]",
+                            "sentiment": -0.7269,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Diamond Hill Large Cap Strategy stated t[+205 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Heavy construction machinery manufacture[+163 characters]",
+                            "sentiment": 0.5423,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0R3E.L",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 42.39172,
+                    "sentiment_score": 0.339967,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Co[+244 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "During the fiscal year 2024, <em>Lockhee[+302 characters]",
+                            "sentiment": 0.8176,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Looking ahead, <em>Lockheed</em> <em>Mar[+330 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "CAT.SW",
+                    "name": "Caterpillar Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ch",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 30.07089,
+                    "sentiment_score": 0.096625,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Caterpillar</em> <em>Inc</em>. (NYSE[+319 characters]",
+                            "sentiment": 0.0772,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Caterpillar</em> <em>Inc</em>. (NYSE[+275 characters]",
+                            "sentiment": -0.7269,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Diamond Hill Large Cap Strategy stated t[+205 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Heavy construction machinery manufacture[+163 characters]",
+                            "sentiment": 0.5423,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LMTB34.SA",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 42.39258,
+                    "sentiment_score": 0.339967,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Co[+244 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "During the fiscal year 2024, <em>Lockhee[+302 characters]",
+                            "sentiment": 0.8176,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Looking ahead, <em>Lockheed</em> <em>Mar[+330 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "CAT.BA",
+                    "name": "Caterpillar Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 30.072062,
+                    "sentiment_score": 0.096625,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Caterpillar</em> <em>Inc</em>. (NYSE[+319 characters]",
+                            "sentiment": 0.0772,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Caterpillar</em> <em>Inc</em>. (NYSE[+275 characters]",
+                            "sentiment": -0.7269,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Diamond Hill Large Cap Strategy stated t[+205 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Heavy construction machinery manufacture[+163 characters]",
+                            "sentiment": 0.5423,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "CAT.SN",
+                    "name": "Caterpillar Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 30.071756,
+                    "sentiment_score": 0.096625,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Caterpillar</em> <em>Inc</em>. (NYSE[+319 characters]",
+                            "sentiment": 0.0772,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Caterpillar</em> <em>Inc</em>. (NYSE[+275 characters]",
+                            "sentiment": -0.7269,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Diamond Hill Large Cap Strategy stated t[+205 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Heavy construction machinery manufacture[+163 characters]",
+                            "sentiment": 0.5423,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

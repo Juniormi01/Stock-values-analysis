@@ -1,0 +1,162 @@
+{
+    "meta": {
+        "found": 19,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "3ffc3341-5c35-4366-b372-1c1089dc438c",
+            "title": "3 megacaps unite to tackle AI buildout, while Meta gets a big nod from the Street",
+            "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+            "keywords": "Texas Roadhouse Inc, Darden Restaurants Inc, Accenture PLC, Jabil Inc, PDD Holdings Inc, Five Below Inc, Meta Platforms Inc, BlackRock Inc, Microsoft Corp, NVIDIA Corp, Jim Cramer, Investment strategy, Markets, Breaking News: Markets, Homestretch, business news",
+            "snippet": "Every weekday, the CNBC Investing Club with Jim Cramer releases the Homestretch \u2014 an actionable afternoon update, just in time for the last hour of trading on...",
+            "url": "https://www.cnbc.com/2025/03/19/3-megacaps-tackle-ai-buildout-while-meta-gets-a-big-nod-from-street.html",
+            "image_url": "https://image.cnbcfm.com/api/v1/image/108046121-1728579433575-gettyimages-2173579322-META_CONNECT.jpeg?v=1738187681&w=1920&h=1080",
+            "language": "en",
+            "published_at": "2025-03-19T18:34:02.000000Z",
+            "source": "cnbc.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 12.535496,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Mark Zuckerberg, CEO of <em>Meta</em> <e[+182 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 10.774288,
+                    "sentiment_score": 0.11035,
+                    "highlights": [
+                        {
+                            "highlight": "The AI rush continues: What do Club hold[+321 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The news comes one day after <em>Nvidia<[+313 characters]",
+                            "sentiment": -0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFT",
+                    "name": "Microsoft Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 8.503471,
+                    "sentiment_score": 0.4939,
+                    "highlights": [
+                        {
+                            "highlight": "The AI rush continues: What do Club hold[+321 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PDD",
+                    "name": "Pinduoduo Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 10.209562,
+                    "sentiment_score": 0.4522,
+                    "highlights": [
+                        {
+                            "highlight": "Some companies reporting before the mark[+219 characters]",
+                            "sentiment": 0.4522,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TXRH",
+                    "name": "Texas Roadhouse, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 14.283321,
+                    "sentiment_score": -0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "As we saw from <em>Texas</em> <em>Roadho[+291 characters]",
+                            "sentiment": -0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFT.MI",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "it",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 8.584349,
+                    "sentiment_score": 0.4939,
+                    "highlights": [
+                        {
+                            "highlight": "The AI rush continues: What do Club hold[+321 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA.MI",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "it",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 10.853557,
+                    "sentiment_score": 0.11035,
+                    "highlights": [
+                        {
+                            "highlight": "The AI rush continues: What do Club hold[+321 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The news comes one day after <em>Nvidia<[+313 characters]",
+                            "sentiment": -0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

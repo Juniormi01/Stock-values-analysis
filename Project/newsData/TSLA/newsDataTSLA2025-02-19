@@ -1,0 +1,254 @@
+{
+    "meta": {
+        "found": 24,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "e0c1b8b0-108a-433a-9c93-f70304333ddd",
+            "title": "Why Investing in Enterprise Software Development is Crucial. Insights from Netflix, Tesla, and Spider",
+            "description": "In our modern business setting, using the latest technology gives a competitive edge. Custom enterprise software brings together business processes, improves efficiency, and drives innovation for\u2026",
+            "keywords": "",
+            "snippet": "Why Investing in Enterprise Software Development is Crucial. Insights from Netflix, Tesla, and Spider IT-Dimension \u00b7 Follow 6 min read \u00b7 6 hours ago 6 hours a...",
+            "url": "https://it-dimension.medium.com/why-investing-in-enterprise-software-development-is-crucial-8238c74eb1ee",
+            "image_url": "https://miro.medium.com/v2/resize:fit:1200/1*tXvzSn1kUkNR_XpwYR7SxA.png",
+            "language": "en",
+            "published_at": "2025-02-19T23:49:07.000000Z",
+            "source": "medium.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 24.890203,
+                    "sentiment_score": 0.6072,
+                    "highlights": [
+                        {
+                            "highlight": "Insights from Netflix, <em>Tesla</em>, a[+207 characters]",
+                            "sentiment": 0.7574,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Case Study: <em>Tesla</em> Smart Manufac[+326 characters]",
+                            "sentiment": 0.8658,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "By integrating machine learning algorith[+240 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Case Study: IT-Dimension\u2019s Smart Wareh[+283 characters]",
+                            "sentiment": 0.9022,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Insights from Netflix, <em>Tesla</em>, and Spider",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA34.SA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 24.890766,
+                    "sentiment_score": 0.6072,
+                    "highlights": [
+                        {
+                            "highlight": "Insights from Netflix, <em>Tesla</em>, a[+207 characters]",
+                            "sentiment": 0.7574,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Case Study: <em>Tesla</em> Smart Manufac[+326 characters]",
+                            "sentiment": 0.8658,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "By integrating machine learning algorith[+240 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Case Study: IT-Dimension\u2019s Smart Wareh[+283 characters]",
+                            "sentiment": 0.9022,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Insights from Netflix, <em>Tesla</em>, and Spider",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLAD.BA",
+                    "name": "TESLA INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 24.891048,
+                    "sentiment_score": 0.6072,
+                    "highlights": [
+                        {
+                            "highlight": "Insights from Netflix, <em>Tesla</em>, a[+207 characters]",
+                            "sentiment": 0.7574,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Case Study: <em>Tesla</em> Smart Manufac[+326 characters]",
+                            "sentiment": 0.8658,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "By integrating machine learning algorith[+240 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Case Study: IT-Dimension\u2019s Smart Wareh[+283 characters]",
+                            "sentiment": 0.9022,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Insights from Netflix, <em>Tesla</em>, and Spider",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLAC.BA",
+                    "name": "TESLA INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 24.891048,
+                    "sentiment_score": 0.6072,
+                    "highlights": [
+                        {
+                            "highlight": "Insights from Netflix, <em>Tesla</em>, a[+207 characters]",
+                            "sentiment": 0.7574,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Case Study: <em>Tesla</em> Smart Manufac[+326 characters]",
+                            "sentiment": 0.8658,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "By integrating machine learning algorith[+240 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Case Study: IT-Dimension\u2019s Smart Wareh[+283 characters]",
+                            "sentiment": 0.9022,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Insights from Netflix, <em>Tesla</em>, and Spider",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TL0.DE",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 24.88993,
+                    "sentiment_score": 0.6072,
+                    "highlights": [
+                        {
+                            "highlight": "Insights from Netflix, <em>Tesla</em>, a[+207 characters]",
+                            "sentiment": 0.7574,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Case Study: <em>Tesla</em> Smart Manufac[+326 characters]",
+                            "sentiment": 0.8658,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "By integrating machine learning algorith[+240 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Case Study: IT-Dimension\u2019s Smart Wareh[+283 characters]",
+                            "sentiment": 0.9022,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Insights from Netflix, <em>Tesla</em>, and Spider",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA.MX",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 24.890276,
+                    "sentiment_score": 0.6072,
+                    "highlights": [
+                        {
+                            "highlight": "Insights from Netflix, <em>Tesla</em>, a[+207 characters]",
+                            "sentiment": 0.7574,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Case Study: <em>Tesla</em> Smart Manufac[+326 characters]",
+                            "sentiment": 0.8658,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "By integrating machine learning algorith[+240 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Case Study: IT-Dimension\u2019s Smart Wareh[+283 characters]",
+                            "sentiment": 0.9022,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Insights from Netflix, <em>Tesla</em>, and Spider",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

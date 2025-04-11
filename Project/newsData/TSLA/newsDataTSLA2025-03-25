@@ -1,0 +1,194 @@
+{
+    "meta": {
+        "found": 68,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "1c9f2a3f-eb9c-4eec-98b6-6577807d711c",
+            "title": "Tesla, Inc. (TSLA) Set to Launch Full Self-Driving in China After Regulatory Green Light",
+            "description": "We recently published a list of 9 Trending AI Stocks Making Headlines Today. In this article, we are going to take a look at where Tesla, Inc.",
+            "keywords": "",
+            "snippet": "We recently published a list of 9 Trending AI Stocks Making Headlines Today. In this article, we are going to take a look at where Tesla, Inc. (NASDAQ:TSLA) sta...",
+            "url": "https://www.insidermonkey.com/blog/tesla-inc-tsla-set-to-launch-full-self-driving-in-china-after-regulatory-green-light-1492827/",
+            "image_url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2020/03/06163905/Tesla-cars-parked-in-front-of-company-building-2449452.jpg",
+            "language": "en",
+            "published_at": "2025-03-25T22:24:29.000000Z",
+            "source": "insidermonkey.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 60.78578,
+                    "sentiment_score": 0.358833,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+289 characters]",
+                            "sentiment": 0.144,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Number of Hedge Fund Holders: 126\n\n<em>T[+331 characters]",
+                            "sentiment": 0.9325,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Tesla</em>, <em>Inc</em>. (TSLA) Set to Launch Full Self-Driving in China After Regulatory Green Light",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TL0.DE",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 50.219883,
+                    "sentiment_score": 0.358833,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+280 characters]",
+                            "sentiment": 0.144,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Number of Hedge Fund Holders: 126\n\n<em>T[+322 characters]",
+                            "sentiment": 0.9325,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Tesla</em>, <em>Inc</em>. (TSLA) Set to Launch Full Self-Driving in China After Regulatory Green Light",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA.MX",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 50.22002,
+                    "sentiment_score": 0.358833,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+280 characters]",
+                            "sentiment": 0.144,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Number of Hedge Fund Holders: 126\n\n<em>T[+322 characters]",
+                            "sentiment": 0.9325,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Tesla</em>, <em>Inc</em>. (TSLA) Set to Launch Full Self-Driving in China After Regulatory Green Light",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA34.SA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 50.22173,
+                    "sentiment_score": 0.358833,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+280 characters]",
+                            "sentiment": 0.144,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Number of Hedge Fund Holders: 126\n\n<em>T[+322 characters]",
+                            "sentiment": 0.9325,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Tesla</em>, <em>Inc</em>. (TSLA) Set to Launch Full Self-Driving in China After Regulatory Green Light",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLAD.BA",
+                    "name": "TESLA INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 50.223225,
+                    "sentiment_score": 0.358833,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+280 characters]",
+                            "sentiment": 0.144,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Number of Hedge Fund Holders: 126\n\n<em>T[+322 characters]",
+                            "sentiment": 0.9325,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Tesla</em>, <em>Inc</em>. (TSLA) Set to Launch Full Self-Driving in China After Regulatory Green Light",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLAC.BA",
+                    "name": "TESLA INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 50.223225,
+                    "sentiment_score": 0.358833,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+280 characters]",
+                            "sentiment": 0.144,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Number of Hedge Fund Holders: 126\n\n<em>T[+322 characters]",
+                            "sentiment": 0.9325,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Tesla</em>, <em>Inc</em>. (TSLA) Set to Launch Full Self-Driving in China After Regulatory Green Light",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

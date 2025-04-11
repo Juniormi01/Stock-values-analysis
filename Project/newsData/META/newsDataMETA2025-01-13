@@ -1,0 +1,268 @@
+{
+    "meta": {
+        "found": 17,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "76bbf5fc-8caa-44d2-9666-30d6b859b731",
+            "title": "Mark Zuckerberg sells $7.98 million in Meta Platforms stock By Investing.com",
+            "description": "Mark Zuckerberg sells $7.98 million in Meta Platforms stock",
+            "keywords": "",
+            "snippet": "Mark Zuckerberg, the Chairman and CEO of Meta Platforms, Inc. (NASDAQ: ), recently sold a significant portion of his Class A Common Stock holdings. According to...",
+            "url": "https://www.investing.com/news/insider-trading-news/mark-zuckerberg-sells-798-million-in-meta-platforms-stock-93CH-3810596",
+            "image_url": "https://i-invdn-com.investing.com/news/moved_LYNXMPEHA815E_L.jpg",
+            "language": "en",
+            "published_at": "2025-01-13T23:26:52.000000Z",
+            "source": "investing.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "GOOGL",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.035645,
+                    "sentiment_score": -0.2263,
+                    "highlights": [
+                        {
+                            "highlight": "If the ban goes into effect, it could re[+271 characters]",
+                            "sentiment": -0.2263,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 19.0145,
+                    "sentiment_score": 0.7096,
+                    "highlights": [
+                        {
+                            "highlight": "Mark Zuckerberg, the Chairman and CEO of[+257 characters]",
+                            "sentiment": 0.7096,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "EBAY",
+                    "name": "eBay Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 16.605658,
+                    "sentiment_score": 0.08255,
+                    "highlights": [
+                        {
+                            "highlight": "Recently, Meta announced a trial to allo[+264 characters]",
+                            "sentiment": -0.1531,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The trial aims to increase visibility fo[+246 characters]",
+                            "sentiment": 0.3182,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ORCL",
+                    "name": "Oracle Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 16.08125,
+                    "sentiment_score": -0.0726,
+                    "highlights": [
+                        {
+                            "highlight": "This move, initiated by a law signed by [+317 characters]",
+                            "sentiment": -0.2732,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Oracle</em>, which hosts the app, co[+159 characters]",
+                            "sentiment": 0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SNAP",
+                    "name": "Snap Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 12.871019,
+                    "sentiment_score": -0.2263,
+                    "highlights": [
+                        {
+                            "highlight": "If the ban goes into effect, it could re[+271 characters]",
+                            "sentiment": -0.2263,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSCL.SN",
+                    "name": "MORGAN STANLEY",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 20.562296,
+                    "sentiment_score": 0.4215,
+                    "highlights": [
+                        {
+                            "highlight": "Analysts from <em>Morgan</em> <em>Stanle[+104 characters]",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": [
+                {
+                    "uuid": "3ff0c298-91f2-4538-8884-3a1e9194ebf9",
+                    "title": "Mark Zuckerberg sells $14.1m in Meta Platforms stock By Investing.com",
+                    "description": "Mark Zuckerberg sells $14.1m in Meta Platforms stock",
+                    "keywords": "",
+                    "snippet": "Mark Zuckerberg, the Chairman and CEO of Meta Platforms, Inc. (NASDAQ: ), which has grown to a market capitalization of $1.54 trillion and achieved an impressiv...",
+                    "url": "https://www.investing.com/news/insider-trading-news/mark-zuckerberg-sells-141m-in-meta-platforms-stock-93CH-3810592",
+                    "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEB4E0IS_L.jpg",
+                    "language": "en",
+                    "published_at": "2025-01-13T23:24:21.000000Z",
+                    "source": "investing.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "GOOGL",
+                            "name": "Alphabet Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 14.779122,
+                            "sentiment_score": 0.8126,
+                            "highlights": [
+                                {
+                                    "highlight": "Analysts from Morgan Stanley (NYSE: ) su[+302 characters]",
+                                    "sentiment": 0.8126,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "META",
+                            "name": "Meta Platforms Inc",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 21.93581,
+                            "sentiment_score": 0.5106,
+                            "highlights": [
+                                {
+                                    "highlight": "Mark Zuckerberg, the Chairman and CEO of[+274 characters]",
+                                    "sentiment": 0.5106,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "EBAY",
+                            "name": "eBay Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 18.418243,
+                            "sentiment_score": 0.3182,
+                            "highlights": [
+                                {
+                                    "highlight": "The company has also announced a trial t[+290 characters]",
+                                    "sentiment": 0.3182,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "ORCL",
+                            "name": "Oracle Corporation",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 18.032024,
+                            "sentiment_score": -0.5106,
+                            "highlights": [
+                                {
+                                    "highlight": "The potential ban, labeled \"unprecedente[+287 characters]",
+                                    "sentiment": -0.5106,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "SNAP",
+                            "name": "Snap Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 14.805128,
+                            "sentiment_score": 0.8126,
+                            "highlights": [
+                                {
+                                    "highlight": "Analysts from Morgan Stanley (NYSE: ) su[+302 characters]",
+                                    "sentiment": 0.8126,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSCL.SN",
+                            "name": "MORGAN STANLEY",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 24.41605,
+                            "sentiment_score": 0.8126,
+                            "highlights": [
+                                {
+                                    "highlight": "Analysts from <em>Morgan</em> <em>Stanle[+311 characters]",
+                                    "sentiment": 0.8126,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

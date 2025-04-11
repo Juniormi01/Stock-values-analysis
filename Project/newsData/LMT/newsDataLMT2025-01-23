@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "found": 2,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "f6cfe6d9-f681-42a3-8c31-b0ae0fe896b5",
+            "title": "Lockheed Martin (LMT) Stock Sinks As Market Gains: Here's Why",
+            "description": "In the closing of the recent trading day, Lockheed Martin (LMT) stood at $497.28, denoting a -0.41% change from the preceding trading day.",
+            "keywords": "stock, stocks, investment, investment advice, investing, online trading, online investment, online stock trading, stock market, financial, financial planning, quote, quotes, stock quotes",
+            "snippet": "This page has not been authorized, sponsored, or otherwise approved or endorsed by the companies represented herein. Each of the company logos represented herei...",
+            "url": "https://www.zacks.com/stock/news/2402539/lockheed-martin-lmt-stock-sinks-as-market-gains-heres-why?cid=CS-ZC-FT-tale_of_the_tape|yseop_template_6v2-2402539",
+            "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default315.jpg",
+            "language": "en",
+            "published_at": "2025-01-23T23:00:23.000000Z",
+            "source": "zacks.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 62.000187,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> (LMT) Stock Sinks As Market Gains: Here's Why",
+                            "sentiment": 0.34,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

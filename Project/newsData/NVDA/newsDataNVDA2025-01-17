@@ -1,0 +1,134 @@
+{
+    "meta": {
+        "found": 46,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "811d335f-a4c0-430b-8fea-0e2846f22c46",
+            "title": "Ses ai corp CFO sells shares worth $51,000 By Investing.com",
+            "description": "Ses ai corp CFO sells shares worth $51,000",
+            "keywords": "",
+            "snippet": "Nealis Jing, the Chief Financial Officer of SES AI Corp (NASDAQ:NYSE: ), a company currently valued at $375 million and trading at $0.93 per share, recently exe...",
+            "url": "https://www.investing.com/news/insider-trading-news/ses-ai-corp-cfo-sells-shares-worth-51000-93CH-3819781",
+            "image_url": "https://i-invdn-com.investing.com/news/World_News_8_800x533_L_1420026210.jpg",
+            "language": "en",
+            "published_at": "2025-01-17T23:01:48.000000Z",
+            "source": "investing.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 13.325697,
+                    "sentiment_score": 0.8591,
+                    "highlights": [
+                        {
+                            "highlight": "This innovative battery incorporates an [+306 characters]",
+                            "sentiment": 0.8591,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "CRNC",
+                    "name": "Cerence Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 36.454357,
+                    "sentiment_score": -0.296,
+                    "highlights": [
+                        {
+                            "highlight": "However, the company also announced the [+303 characters]",
+                            "sentiment": -0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0S6.DE",
+                    "name": "Cerence Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 30.339529,
+                    "sentiment_score": -0.296,
+                    "highlights": [
+                        {
+                            "highlight": "However, the company also announced the [+303 characters]",
+                            "sentiment": -0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "CRNC.MX",
+                    "name": "Cerence Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 30.33232,
+                    "sentiment_score": -0.296,
+                    "highlights": [
+                        {
+                            "highlight": "However, the company also announced the [+303 characters]",
+                            "sentiment": -0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "9984.T",
+                    "name": "SoftBank Group Corp.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "jp",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 20.084743,
+                    "sentiment_score": 0.8658,
+                    "highlights": [
+                        {
+                            "highlight": "These developments, along with the estab[+270 characters]",
+                            "sentiment": 0.8658,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "9434.T",
+                    "name": "SoftBank Corp.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "jp",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 20.084743,
+                    "sentiment_score": 0.8658,
+                    "highlights": [
+                        {
+                            "highlight": "These developments, along with the estab[+270 characters]",
+                            "sentiment": 0.8658,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

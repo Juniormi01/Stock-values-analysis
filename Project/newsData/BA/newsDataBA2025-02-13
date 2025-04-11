@@ -1,0 +1,546 @@
+{
+    "meta": {
+        "found": 1,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "262cddba-ad30-4a73-b91e-defd55e14498",
+            "title": "Howmet Aerospace Reports Fourth Quarter and Full Year 2024 Results",
+            "description": "Howmet Aerospace (NYSE:HWM):\n\n\nFourth Quarter 2024 GAAP Financial Results\n\n\n\nRevenue of $1.9 billion, up 9% year over year, driven by Commercial Aerospace, up",
+            "keywords": "GuruFocus, Article, News, Business Wire, NYSE:HWM",
+            "snippet": "Howmet Aerospace (NYSE:HWM, Financial):\n\nFourth Quarter 2024 GAAP Financial Results\n\nRevenue of $1.9 billion, up 9% year over year, driven by Commercial Aerospa...",
+            "url": "https://www.gurufocus.com/news/2695846/howmet-aerospace-reports-fourth-quarter-and-full-year-2024-results",
+            "image_url": "https://static.gurufocus.com/images/global_logo_twitter_card.png",
+            "language": "en",
+            "published_at": "2025-02-13T13:00:09.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "BA",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 4.109319,
+                    "sentiment_score": -0.1027,
+                    "highlights": [
+                        {
+                            "highlight": "We continue to employ a cautious view on[+293 characters]",
+                            "sentiment": -0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "HWM",
+                    "name": "Howmet Aerospace Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 94.46375,
+                    "sentiment_score": 0.281464,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Howmet</em> <em>Aerospace</em> (<em>[+346 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Howmet</em> <em>Aerospace</em> (<em>[+241 characters]",
+                            "sentiment": 0.3818,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Howmet</em> <em>Aerospace</em> repor[+137 characters]",
+                            "sentiment": 0.3818,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Howmet</em> <em>Aerospace</em> belie[+288 characters]",
+                            "sentiment": -0.5574,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "About <em>Howmet</em> <em>Aerospace</em>[+205 characters]",
+                            "sentiment": 0.4019,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The statements in this release are made [+134 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Other Information\n\nIn this press release[+328 characters]",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Howmet</em> <em>Aerospace</em> <em>I[+339 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Howmet</em> <em>Aerospace</em> <em>I[+339 characters]",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Howmet</em> <em>Aerospace</em> <em>I[+337 characters]",
+                            "sentiment": 0.6597,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Howmet</em> <em>Aerospace</em> Reports Fourth Quarter and Full Year 2024 Results",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ARNC",
+                    "name": "Arconic Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 6.821178,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "(previously named <em>Arconic</em> Inc.)[+54 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BCO.DE",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 3.472571,
+                    "sentiment_score": -0.1027,
+                    "highlights": [
+                        {
+                            "highlight": "We continue to employ a cautious view on[+293 characters]",
+                            "sentiment": -0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "48Z.DE",
+                    "name": "Howmet Aerospace Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 89.828476,
+                    "sentiment_score": 0.247582,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Howmet</em> <em>Aerospace</em> repor[+137 characters]",
+                            "sentiment": 0.3818,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Howmet</em> <em>Aerospace</em> belie[+288 characters]",
+                            "sentiment": -0.5574,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "About <em>Howmet</em> <em>Aerospace</em>[+205 characters]",
+                            "sentiment": 0.4019,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The statements in this release are made [+134 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Other Information\n\nIn this press release[+328 characters]",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Howmet</em> <em>Aerospace</em> <em>I[+339 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Howmet</em> <em>Aerospace</em> <em>I[+340 characters]",
+                            "sentiment": -0.5859,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Howmet</em> <em>Aerospace</em> <em>I[+339 characters]",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Howmet</em> <em>Aerospace</em> <em>I[+340 characters]",
+                            "sentiment": 0.891,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Howmet</em> <em>Aerospace</em> <em>I[+337 characters]",
+                            "sentiment": 0.6597,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Howmet</em> <em>Aerospace</em> Reports Fourth Quarter and Full Year 2024 Results",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "47I.DE",
+                    "name": "Arconic Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 6.1822,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "(previously named <em>Arconic</em> Inc.)[+54 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BA.MX",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 3.472567,
+                    "sentiment_score": -0.1027,
+                    "highlights": [
+                        {
+                            "highlight": "We continue to employ a cautious view on[+293 characters]",
+                            "sentiment": -0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "HWM-P",
+                    "name": "Howmet Aerospace Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 89.78548,
+                    "sentiment_score": 0.247582,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Howmet</em> <em>Aerospace</em> repor[+137 characters]",
+                            "sentiment": 0.3818,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Howmet</em> <em>Aerospace</em> belie[+288 characters]",
+                            "sentiment": -0.5574,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "About <em>Howmet</em> <em>Aerospace</em>[+205 characters]",
+                            "sentiment": 0.4019,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The statements in this release are made [+134 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Other Information\n\nIn this press release[+328 characters]",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Howmet</em> <em>Aerospace</em> <em>I[+339 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Howmet</em> <em>Aerospace</em> <em>I[+340 characters]",
+                            "sentiment": -0.5859,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Howmet</em> <em>Aerospace</em> <em>I[+339 characters]",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Howmet</em> <em>Aerospace</em> <em>I[+340 characters]",
+                            "sentiment": 0.891,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Howmet</em> <em>Aerospace</em> <em>I[+337 characters]",
+                            "sentiment": 0.6597,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Howmet</em> <em>Aerospace</em> Reports Fourth Quarter and Full Year 2024 Results",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ARNC1.MX",
+                    "name": "Arconic Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 6.182446,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "(previously named <em>Arconic</em> Inc.)[+54 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BOE.L",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 3.472435,
+                    "sentiment_score": -0.1027,
+                    "highlights": [
+                        {
+                            "highlight": "We continue to employ a cautious view on[+293 characters]",
+                            "sentiment": -0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0TCU.L",
+                    "name": "Howmet Aerospace Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 89.93965,
+                    "sentiment_score": 0.247582,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Howmet</em> <em>Aerospace</em> repor[+137 characters]",
+                            "sentiment": 0.3818,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Howmet</em> <em>Aerospace</em> belie[+288 characters]",
+                            "sentiment": -0.5574,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "About <em>Howmet</em> <em>Aerospace</em>[+205 characters]",
+                            "sentiment": 0.4019,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The statements in this release are made [+134 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Other Information\n\nIn this press release[+328 characters]",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Howmet</em> <em>Aerospace</em> <em>I[+339 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Howmet</em> <em>Aerospace</em> <em>I[+340 characters]",
+                            "sentiment": -0.5859,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Howmet</em> <em>Aerospace</em> <em>I[+339 characters]",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Howmet</em> <em>Aerospace</em> <em>I[+340 characters]",
+                            "sentiment": 0.891,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Howmet</em> <em>Aerospace</em> <em>I[+337 characters]",
+                            "sentiment": 0.6597,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Howmet</em> <em>Aerospace</em> Reports Fourth Quarter and Full Year 2024 Results",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BOEI.BR",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "be",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 3.47225,
+                    "sentiment_score": -0.1027,
+                    "highlights": [
+                        {
+                            "highlight": "We continue to employ a cautious view on[+293 characters]",
+                            "sentiment": -0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BOEI34.SA",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 3.472282,
+                    "sentiment_score": -0.1027,
+                    "highlights": [
+                        {
+                            "highlight": "We continue to employ a cautious view on[+293 characters]",
+                            "sentiment": -0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "HWM.BA",
+                    "name": "Howmet Aerospace Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 89.64843,
+                    "sentiment_score": 0.247582,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Howmet</em> <em>Aerospace</em> repor[+137 characters]",
+                            "sentiment": 0.3818,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Howmet</em> <em>Aerospace</em> belie[+288 characters]",
+                            "sentiment": -0.5574,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "About <em>Howmet</em> <em>Aerospace</em>[+205 characters]",
+                            "sentiment": 0.4019,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The statements in this release are made [+134 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Other Information\n\nIn this press release[+328 characters]",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Howmet</em> <em>Aerospace</em> <em>I[+339 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Howmet</em> <em>Aerospace</em> <em>I[+340 characters]",
+                            "sentiment": -0.5859,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Howmet</em> <em>Aerospace</em> <em>I[+339 characters]",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Howmet</em> <em>Aerospace</em> <em>I[+340 characters]",
+                            "sentiment": 0.891,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Howmet</em> <em>Aerospace</em> <em>I[+337 characters]",
+                            "sentiment": 0.6597,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Howmet</em> <em>Aerospace</em> Reports Fourth Quarter and Full Year 2024 Results",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BA.SN",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 3.472264,
+                    "sentiment_score": -0.1027,
+                    "highlights": [
+                        {
+                            "highlight": "We continue to employ a cautious view on[+293 characters]",
+                            "sentiment": -0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

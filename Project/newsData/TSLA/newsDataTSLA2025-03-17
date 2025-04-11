@@ -1,0 +1,198 @@
+{
+    "meta": {
+        "found": 41,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "7397ea36-2b27-49db-8709-43b14aab8635",
+            "title": "Market Today: Alphabet Eyes $30B Wiz Deal Amid Intel's Strategic Shifts",
+            "description": "Market Overview\nThe trading session today displayed a positive trend, driven by a prevailing buy-the-dip mentality after the S&P 500 entered correction territor",
+            "keywords": "GuruFocus, Article, News, GuruFocus News, AAPL, GOOGL, NVDA, TSLA, INTC, ARQT, ARQQ, COF, DFS, QXO, BABA, CELH, -17%YTD</li>\n<li>S&P500",
+            "snippet": "Market Overview\n\nThe trading session today displayed a positive trend, driven by a prevailing buy-the-dip mentality after the S&P 500 entered correction territo...",
+            "url": "https://www.gurufocus.com/news/2740959/market-today-alphabet-eyes-30b-wiz-deal-amid-intels-strategic-shifts",
+            "image_url": "https://static.gurufocus.com/1732803573856661504.png",
+            "language": "en",
+            "published_at": "2025-03-17T22:32:32.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "TSM",
+                    "name": "Taiwan Semiconductor Manufacturing Company Limited",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 18.973352,
+                    "sentiment_score": 0.3612,
+                    "highlights": [
+                        {
+                            "highlight": "Reports suggest that <em>Taiwan</em> <em[+337 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ARQQ",
+                    "name": "Arqit Quantum Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 27.48939,
+                    "sentiment_score": 0.8271,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Arqit</em> <em>Quantum</em> (<em>ARQ[+254 characters]",
+                            "sentiment": 0.8271,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 7.255345,
+                    "sentiment_score": -0.3182,
+                    "highlights": [
+                        {
+                            "highlight": "Notably, <em>Apple</em> (AAPL, Financial[+251 characters]",
+                            "sentiment": -0.3182,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 36.337303,
+                    "sentiment_score": 0.125,
+                    "highlights": [
+                        {
+                            "highlight": "Guru Stock Picks\n\nDavid Nierenberg has m[+207 characters]",
+                            "sentiment": 0.25,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Market Today: <em>Alphabet</em> Eyes $30B Wiz Deal Amid Intel's Strategic Shifts",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ARQT",
+                    "name": "Arcutis Biotherapeutics, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 20.070208,
+                    "sentiment_score": 0.4588,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Arcutis</em> <em>Biotherapeutics</em[+232 characters]",
+                            "sentiment": 0.4588,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BECN",
+                    "name": "Beacon Roofing Supply, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 19.733067,
+                    "sentiment_score": 0.4404,
+                    "highlights": [
+                        {
+                            "highlight": "QXO (QXO, Financial) raised $830 million[+301 characters]",
+                            "sentiment": 0.4404,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 10.233062,
+                    "sentiment_score": 0.46655,
+                    "highlights": [
+                        {
+                            "highlight": "Reports suggest that Taiwan Semiconducto[+310 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Nvidia</em> (NVDA, Financial) is set[+241 characters]",
+                            "sentiment": 0.5719,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFT",
+                    "name": "Microsoft Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 7.461957,
+                    "sentiment_score": -0.3182,
+                    "highlights": [
+                        {
+                            "highlight": "Notably, Apple (AAPL, Financial) and <em[+251 characters]",
+                            "sentiment": -0.3182,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 8.050297,
+                    "sentiment_score": -0.0772,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Tesla</em> (TSLA, Financial) faced a[+232 characters]",
+                            "sentiment": -0.0772,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

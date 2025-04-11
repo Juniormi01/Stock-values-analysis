@@ -1,0 +1,78 @@
+{
+    "meta": {
+        "found": 4,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "849403e6-5a49-498f-90a0-9f3ac3d968bf",
+            "title": "Lockheed Martin (LMT) Ascends While Market Falls: Some Facts to Note",
+            "description": "Lockheed Martin (LMT) reachead $454.78 at the closing of the latest trading day, reflecting a +0.42% change compared to its last close.",
+            "keywords": "stock, stocks, investment, investment advice, investing, online trading, online investment, online stock trading, stock market, financial, financial planning, quote, quotes, stock quotes",
+            "snippet": "This page has not been authorized, sponsored, or otherwise approved or endorsed by the companies represented herein. Each of the company logos represented herei...",
+            "url": "https://www.zacks.com/stock/news/2440099/lockheed-martin-lmt-ascends-while-market-falls-some-facts-to-note?cid=CS-ZC-FT-tale_of_the_tape|yseop_template_6v1-2440099",
+            "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default179.jpg",
+            "language": "en",
+            "published_at": "2025-04-03T21:50:10.000000Z",
+            "source": "zacks.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 60.14884,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> (LMT) Ascends While Market Falls: Some Facts to Note",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": [
+                {
+                    "uuid": "48136cb8-0ac4-4b94-b3b0-58494d96d8b9",
+                    "title": "Lockheed Martin Secures Contract to Support the F-35 Jet Program",
+                    "description": "LMT secures a $65.5 million modification contract to provide support to the F-35 jet program.",
+                    "keywords": "stock, stocks, investment, investment advice, investing, online trading, online investment, online stock trading, stock market, financial, financial planning, quote, quotes, stock quotes",
+                    "snippet": "This page has not been authorized, sponsored, or otherwise approved or endorsed by the companies represented herein. Each of the company logos represented herei...",
+                    "url": "https://www.zacks.com/stock/news/2440015/lockheed-martin-secures-contract-to-support-the-f-35-jet-program?cid=CS-ZC-FT-analyst_blog|company_news_corporate_actions-2440015",
+                    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/ad/148.jpg",
+                    "language": "en",
+                    "published_at": "2025-04-03T16:01:00.000000Z",
+                    "source": "zacks.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "LMT",
+                            "name": "Lockheed Martin Corporation",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Industrials",
+                            "match_score": 60.142998,
+                            "sentiment_score": 0.6124,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>Lockheed</em> <em>Martin</em> Secures Contract to Support the F-35 Jet Program",
+                                    "sentiment": 0.6124,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

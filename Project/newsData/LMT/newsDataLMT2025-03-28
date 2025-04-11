@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "found": 1,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "d08a280e-798d-434f-b369-7ecfdb1a06c8",
+            "title": "Lockheed Martin Stock Loses 9% YTD: Should You Buy the Stock Now?",
+            "description": "Investors interested in LMT stock should wait for a better entry point, considering its higher debt-to-capital ratio.",
+            "keywords": "stock, stocks, investment, investment advice, investing, online trading, online investment, online stock trading, stock market, financial, financial planning, quote, quotes, stock quotes",
+            "snippet": "This page has not been authorized, sponsored, or otherwise approved or endorsed by the companies represented herein. Each of the company logos represented herei...",
+            "url": "https://www.zacks.com/stock/news/2437052/lockheed-martin-stock-loses-9-ytd-should-you-buy-the-stock-now?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-2437052",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/df/1357.jpg",
+            "language": "en",
+            "published_at": "2025-03-28T17:06:00.000000Z",
+            "source": "zacks.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 58.31995,
+                    "sentiment_score": -0.3182,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> Stock Loses 9% YTD: Should You Buy the Stock Now?",
+                            "sentiment": -0.3182,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

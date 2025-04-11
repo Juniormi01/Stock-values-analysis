@@ -1,0 +1,925 @@
+{
+    "meta": {
+        "found": 63,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "e9d25d80-f03d-4c00-8bf5-92438dca25f4",
+            "title": "David Rolfe's Strategic Moves: Texas Pacific Land Corp Exit Impacts Portfolio by -3.27%",
+            "description": "Insights into David Rolfe (Trades, Portfolio)'s Fourth Quarter 2024 Investment Decisions\n\nDavid Rolfe (Trades, Portfolio) recently submitted the 13F filing for",
+            "keywords": "GuruFocus, Article, News, GuruFocus News, GOOGL, TSM, META, AAPL, PYPL, IWF, TPL",
+            "snippet": "Insights into David Rolfe Trades, Portfolio)'s Fourth Quarter 2024 Investment Decisions\n\nDavid Rolfe (Trades, Portfolio) recently submitted the 13F filing for t...",
+            "url": "https://www.gurufocus.com/news/2699919/david-rolfes-strategic-moves-texas-pacific-land-corp-exit-impacts-portfolio-by-327",
+            "image_url": "https://static.gurufocus.com/images/global_logo_twitter_card.png",
+            "language": "en",
+            "published_at": "2025-02-14T23:33:25.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 11.671722,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+334 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 9.713632,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+334 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 22.139393,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+343 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 17.066397,
+                    "sentiment_score": 0.3645,
+                    "highlights": [
+                        {
+                            "highlight": "Reduced <em>Meta</em> <em>Platforms</em>[+267 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+343 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PYPL",
+                    "name": "PayPal Holdings, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 33.530865,
+                    "sentiment_score": 0.289633,
+                    "highlights": [
+                        {
+                            "highlight": "The most significant changes include:\n\nR[+305 characters]",
+                            "sentiment": 0.6666,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+334 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em> (PYPL).",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PYPL34.SA",
+                    "name": "PayPal Holdings, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 33.523758,
+                    "sentiment_score": 0.289633,
+                    "highlights": [
+                        {
+                            "highlight": "The most significant changes include:\n\nR[+305 characters]",
+                            "sentiment": 0.6666,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+334 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em> (PYPL).",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "IWF",
+                    "name": "iShares Russell 1000 Growth ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 49.767113,
+                    "sentiment_score": 0.6872,
+                    "highlights": [
+                        {
+                            "highlight": "Summary of New Buy\n\nDavid Rolfe (Trades,[+272 characters]",
+                            "sentiment": 0.6872,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.BA",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 11.668654,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+334 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.BA",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 15.35886,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+334 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PYPL.BA",
+                    "name": "PayPal Holdings, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 33.519817,
+                    "sentiment_score": 0.289633,
+                    "highlights": [
+                        {
+                            "highlight": "The most significant changes include:\n\nR[+305 characters]",
+                            "sentiment": 0.6666,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+334 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em> (PYPL).",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLD.BA",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 11.668654,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+334 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOGLD.BA",
+                    "name": "ALPHABET INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 15.358045,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+334 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLC.BA",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 11.668462,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+334 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 15.356055,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+334 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLCL.SN",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 11.667545,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+334 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.SN",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 11.667545,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+334 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "IWF.SN",
+                    "name": "iShares Russell 1000 Growth ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 49.76277,
+                    "sentiment_score": 0.6872,
+                    "highlights": [
+                        {
+                            "highlight": "Summary of New Buy\n\nDavid Rolfe (Trades,[+272 characters]",
+                            "sentiment": 0.6872,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 15.356055,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+334 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGCL.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 15.356055,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+334 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.NE",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ca",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 11.666588,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+334 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "APC.DE",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 11.6665,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+334 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ABEA.DE",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 15.353045,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+334 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ABEC.DE",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 15.352071,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+334 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "2PP.DE",
+                    "name": "PayPal Holdings, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 33.512104,
+                    "sentiment_score": 0.289633,
+                    "highlights": [
+                        {
+                            "highlight": "The most significant changes include:\n\nR[+305 characters]",
+                            "sentiment": 0.6666,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+334 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em> (PYPL).",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.MX",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 11.665748,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+334 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.MX",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 15.350605,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+334 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG.MX",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 15.350605,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+334 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PYPL.MX",
+                    "name": "PayPal Holdings, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 33.50901,
+                    "sentiment_score": 0.289633,
+                    "highlights": [
+                        {
+                            "highlight": "The most significant changes include:\n\nR[+305 characters]",
+                            "sentiment": 0.6666,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+334 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Inc</em> (PYPL).",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": [
+                {
+                    "uuid": "161a1a7c-61d2-457e-9407-9a7b7f8ffb6b",
+                    "title": "Philippe Laffont's Strategic Moves: Reddit Inc. Takes Center Stage with 3.6% Portfolio Share",
+                    "description": "Insight into Philippe Laffont (Trades, Portfolio)'s Fourth Quarter 2024 13F Filing\n\nPhilippe Laffont (Trades, Portfolio), a prominent figure in the investment w",
+                    "keywords": "GuruFocus, Article, News, GuruFocus News, AMZN, META, TSM, MSFT, CEG, RDDT, NOW, SCHW, TEAM, SMCI, CMG, FXI, PDD, JD",
+                    "snippet": "Insight into Philippe Laffont Trades, Portfolio)'s Fourth Quarter 2024 13F Filing\n\nPhilippe Laffont (Trades, Portfolio), a prominent figure in the investment wo...",
+                    "url": "https://www.gurufocus.com/news/2699524/philippe-laffonts-strategic-moves-reddit-inc-takes-center-stage-with-36-portfolio-share",
+                    "image_url": "https://static.gurufocus.com/images/global_logo_twitter_card.png",
+                    "language": "en",
+                    "published_at": "2025-02-14T20:32:15.000000Z",
+                    "source": "gurufocus.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "SMCI",
+                            "name": "Super Micro Computer, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 28.377722,
+                            "sentiment_score": 0.8807,
+                            "highlights": [
+                                {
+                                    "highlight": "The second largest increase was in <em>S[+258 characters]",
+                                    "sentiment": 0.8807,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "JD",
+                            "name": "JD.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 17.680101,
+                            "sentiment_score": 0.5267,
+                            "highlights": [
+                                {
+                                    "highlight": "Reduced <em>JD.com</em> <em>Inc</em> (JD[+252 characters]",
+                                    "sentiment": 0.5267,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "CMG",
+                            "name": "Chipotle Mexican Grill, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 40.944298,
+                            "sentiment_score": 0.296,
+                            "highlights": [
+                                {
+                                    "highlight": "Summary of Sold Out\n\nPhilippe Laffont (T[+281 characters]",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "9618.HK",
+                            "name": "JD.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "hk",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 17.678585,
+                            "sentiment_score": 0.5267,
+                            "highlights": [
+                                {
+                                    "highlight": "Reduced <em>JD.com</em> <em>Inc</em> (JD[+252 characters]",
+                                    "sentiment": 0.5267,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "NOW",
+                            "name": "ServiceNow, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 18.525913,
+                            "sentiment_score": 0.5574,
+                            "highlights": [
+                                {
+                                    "highlight": "The second largest addition was <em>Serv[+161 characters]",
+                                    "sentiment": 0.5574,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "JDCO34.SA",
+                            "name": "JD.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "br",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 17.67739,
+                            "sentiment_score": 0.5267,
+                            "highlights": [
+                                {
+                                    "highlight": "Reduced <em>JD.com</em> <em>Inc</em> (JD[+252 characters]",
+                                    "sentiment": 0.5267,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "N1OW34.SA",
+                            "name": "ServiceNow, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "br",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 18.524143,
+                            "sentiment_score": 0.5574,
+                            "highlights": [
+                                {
+                                    "highlight": "The second largest addition was <em>Serv[+161 characters]",
+                                    "sentiment": 0.5574,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "JDCMF",
+                            "name": "JD.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 17.676807,
+                            "sentiment_score": 0.5267,
+                            "highlights": [
+                                {
+                                    "highlight": "Reduced <em>JD.com</em> <em>Inc</em> (JD[+252 characters]",
+                                    "sentiment": 0.5267,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "FXI",
+                            "name": "iShares China Large-Cap ETF",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "etf",
+                            "industry": "N/A",
+                            "match_score": 41.23665,
+                            "sentiment_score": 0.5267,
+                            "highlights": [
+                                {
+                                    "highlight": "Trades, Portfolio) sold all 4,575,054 sh[+254 characters]",
+                                    "sentiment": 0.5267,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "JD.BA",
+                            "name": "JD.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 17.676105,
+                            "sentiment_score": 0.5267,
+                            "highlights": [
+                                {
+                                    "highlight": "Reduced <em>JD.com</em> <em>Inc</em> (JD[+252 characters]",
+                                    "sentiment": 0.5267,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "META",
+                            "name": "Meta Platforms Inc",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 11.341257,
+                            "sentiment_score": 0.4404,
+                            "highlights": [
+                                {
+                                    "highlight": "The top holdings were:\n\n7.89% in Amazon.[+338 characters]",
+                                    "sentiment": 0.4404,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "C9F.DE",
+                            "name": "Chipotle Mexican Grill, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 40.932358,
+                            "sentiment_score": 0.296,
+                            "highlights": [
+                                {
+                                    "highlight": "Summary of Sold Out\n\nPhilippe Laffont (T[+281 characters]",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "CMG.MX",
+                            "name": "Chipotle Mexican Grill, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 40.930695,
+                            "sentiment_score": 0.296,
+                            "highlights": [
+                                {
+                                    "highlight": "Summary of Sold Out\n\nPhilippe Laffont (T[+281 characters]",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "JDN.MX",
+                            "name": "JD.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 17.674927,
+                            "sentiment_score": 0.5267,
+                            "highlights": [
+                                {
+                                    "highlight": "Reduced <em>JD.com</em> <em>Inc</em> (JD[+252 characters]",
+                                    "sentiment": 0.5267,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "FXI.MX",
+                            "name": "iShares China Large-Cap ETF",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "etf",
+                            "industry": "N/A",
+                            "match_score": 41.22937,
+                            "sentiment_score": 0.5267,
+                            "highlights": [
+                                {
+                                    "highlight": "Trades, Portfolio) sold all 4,575,054 sh[+254 characters]",
+                                    "sentiment": 0.5267,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "NOWW.MX",
+                            "name": "ServiceNow, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 18.515928,
+                            "sentiment_score": 0.5574,
+                            "highlights": [
+                                {
+                                    "highlight": "The second largest addition was <em>Serv[+161 characters]",
+                                    "sentiment": 0.5574,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "0L5N.L",
+                            "name": "ServiceNow, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "gb",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 18.514988,
+                            "sentiment_score": 0.5574,
+                            "highlights": [
+                                {
+                                    "highlight": "The second largest addition was <em>Serv[+161 characters]",
+                                    "sentiment": 0.5574,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "0HXW.L",
+                            "name": "Chipotle Mexican Grill, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "gb",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 40.92554,
+                            "sentiment_score": 0.296,
+                            "highlights": [
+                                {
+                                    "highlight": "Summary of Sold Out\n\nPhilippe Laffont (T[+281 characters]",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

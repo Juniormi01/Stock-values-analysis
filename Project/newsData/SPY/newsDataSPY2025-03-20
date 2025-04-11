@@ -1,0 +1,1064 @@
+{
+    "meta": {
+        "found": 6,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "b3b74298-d046-4985-bd3d-00ed0af910c1",
+            "title": "Nvidia's First Quantum Computing Day, $4.5T Quad Witching, European Banks Beat Tech Stocks By 34%",
+            "description": "",
+            "keywords": "",
+            "snippet": "To gain an edge, this is what you need to know today.\n\nFed Rethink\n\nPlease click here for an enlarged chart comparing Nasdaq 100 ETF Invesco QQQ Trust Series 1 ...",
+            "url": "https://www.benzinga.com/markets/equities/25/03/44421496/nvidias-first-quantum-computing-day-4-5t-quad-witching-european-banks-beat-tech-stocks-by-34",
+            "image_url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "language": "en",
+            "published_at": "2025-03-20T16:59:58.000000Z",
+            "source": "benzinga.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "TSLA34.SA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 9.820913,
+                    "sentiment_score": 0.6908,
+                    "highlights": [
+                        {
+                            "highlight": "(AMZN), Alphabet Inc Class C (GOOG), Met[+315 characters]",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BSLV39.SA",
+                    "name": "Ishares Silver Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 22.864918,
+                    "sentiment_score": 0.8666,
+                    "highlights": [
+                        {
+                            "highlight": "The most popular ETF for silver is <em>i[+297 characters]",
+                            "sentiment": 0.8666,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFT.MI",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "it",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 9.69407,
+                    "sentiment_score": 0.6908,
+                    "highlights": [
+                        {
+                            "highlight": "(AMZN), Alphabet Inc Class C (GOOG), Met[+315 characters]",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA.MI",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "it",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 12.918486,
+                    "sentiment_score": 0.39675,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Nvidia</em> is hosting its first qua[+302 characters]",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "(AMZN), Alphabet Inc Class C (GOOG), Met[+315 characters]",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "EUFN",
+                    "name": "iShares MSCI Europe Financials ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 43.470528,
+                    "sentiment_score": 0.6808,
+                    "highlights": [
+                        {
+                            "highlight": "Fed Rethink\n\nPlease click here for an en[+333 characters]",
+                            "sentiment": 0.6808,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "QQQ",
+                    "name": "Invesco QQQ Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 30.682238,
+                    "sentiment_score": 0.3182,
+                    "highlights": [
+                        {
+                            "highlight": "Fed Rethink\n\nPlease click here for an en[+315 characters]",
+                            "sentiment": 0.3182,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SLV",
+                    "name": "iShares Silver Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 22.864986,
+                    "sentiment_score": 0.8666,
+                    "highlights": [
+                        {
+                            "highlight": "The most popular ETF for silver is <em>i[+297 characters]",
+                            "sentiment": 0.8666,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 35.984673,
+                    "sentiment_score": 0.6249,
+                    "highlights": [
+                        {
+                            "highlight": "In the early trade, money flows are nega[+314 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.BA",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 8.482818,
+                    "sentiment_score": -0.0516,
+                    "highlights": [
+                        {
+                            "highlight": "Magnificent Seven Money Flows\n\nIn the ea[+324 characters]",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.BA",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 11.068194,
+                    "sentiment_score": 0.6908,
+                    "highlights": [
+                        {
+                            "highlight": "(AMZN), <em>Alphabet</em> <em>Inc</em> C[+315 characters]",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDAD.BA",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 12.917814,
+                    "sentiment_score": 0.39675,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Nvidia</em> is hosting its first qua[+302 characters]",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "(AMZN), Alphabet Inc Class C (GOOG), Met[+315 characters]",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLAD.BA",
+                    "name": "TESLA INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 9.820515,
+                    "sentiment_score": 0.6908,
+                    "highlights": [
+                        {
+                            "highlight": "(AMZN), Alphabet Inc Class C (GOOG), Met[+315 characters]",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTD.BA",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 9.69404,
+                    "sentiment_score": 0.6908,
+                    "highlights": [
+                        {
+                            "highlight": "(AMZN), Alphabet Inc Class C (GOOG), Met[+315 characters]",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLD.BA",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 8.482819,
+                    "sentiment_score": -0.0516,
+                    "highlights": [
+                        {
+                            "highlight": "Magnificent Seven Money Flows\n\nIn the ea[+324 characters]",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTB.BA",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 9.69404,
+                    "sentiment_score": 0.6908,
+                    "highlights": [
+                        {
+                            "highlight": "(AMZN), Alphabet Inc Class C (GOOG), Met[+315 characters]",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTC.BA",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 9.69404,
+                    "sentiment_score": 0.6908,
+                    "highlights": [
+                        {
+                            "highlight": "(AMZN), Alphabet Inc Class C (GOOG), Met[+315 characters]",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLAC.BA",
+                    "name": "TESLA INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 9.820515,
+                    "sentiment_score": 0.6908,
+                    "highlights": [
+                        {
+                            "highlight": "(AMZN), Alphabet Inc Class C (GOOG), Met[+315 characters]",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDAC.BA",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 12.917814,
+                    "sentiment_score": 0.39675,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Nvidia</em> is hosting its first qua[+302 characters]",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "(AMZN), Alphabet Inc Class C (GOOG), Met[+315 characters]",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOGLD.BA",
+                    "name": "ALPHABET INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 11.06807,
+                    "sentiment_score": 0.6908,
+                    "highlights": [
+                        {
+                            "highlight": "(AMZN), <em>Alphabet</em> <em>Inc</em> C[+315 characters]",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLC.BA",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 8.482796,
+                    "sentiment_score": -0.0516,
+                    "highlights": [
+                        {
+                            "highlight": "Magnificent Seven Money Flows\n\nIn the ea[+324 characters]",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZN.SN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 11.97226,
+                    "sentiment_score": -0.0516,
+                    "highlights": [
+                        {
+                            "highlight": "Magnificent Seven Money Flows\n\nIn the ea[+324 characters]",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SLV.SN",
+                    "name": "iShares Silver Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 22.86478,
+                    "sentiment_score": 0.8666,
+                    "highlights": [
+                        {
+                            "highlight": "The most popular ETF for silver is <em>i[+297 characters]",
+                            "sentiment": 0.8666,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 11.067841,
+                    "sentiment_score": 0.6908,
+                    "highlights": [
+                        {
+                            "highlight": "(AMZN), <em>Alphabet</em> <em>Inc</em> C[+315 characters]",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLCL.SN",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 8.482739,
+                    "sentiment_score": -0.0516,
+                    "highlights": [
+                        {
+                            "highlight": "Magnificent Seven Money Flows\n\nIn the ea[+324 characters]",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTCL.SN",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 9.693909,
+                    "sentiment_score": 0.6908,
+                    "highlights": [
+                        {
+                            "highlight": "(AMZN), Alphabet Inc Class C (GOOG), Met[+315 characters]",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.SN",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 8.482744,
+                    "sentiment_score": -0.0516,
+                    "highlights": [
+                        {
+                            "highlight": "Magnificent Seven Money Flows\n\nIn the ea[+324 characters]",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 11.067859,
+                    "sentiment_score": 0.6908,
+                    "highlights": [
+                        {
+                            "highlight": "(AMZN), <em>Alphabet</em> <em>Inc</em> C[+315 characters]",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZNCL.SN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 11.972211,
+                    "sentiment_score": -0.0516,
+                    "highlights": [
+                        {
+                            "highlight": "Magnificent Seven Money Flows\n\nIn the ea[+324 characters]",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGCL.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 11.067859,
+                    "sentiment_score": 0.6908,
+                    "highlights": [
+                        {
+                            "highlight": "(AMZN), <em>Alphabet</em> <em>Inc</em> C[+315 characters]",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 12.561562,
+                    "sentiment_score": -0.0516,
+                    "highlights": [
+                        {
+                            "highlight": "Magnificent Seven Money Flows\n\nIn the ea[+324 characters]",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 16.051193,
+                    "sentiment_score": -0.0516,
+                    "highlights": [
+                        {
+                            "highlight": "Magnificent Seven Money Flows\n\nIn the ea[+324 characters]",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 11.184488,
+                    "sentiment_score": 0.6908,
+                    "highlights": [
+                        {
+                            "highlight": "(AMZN), <em>Alphabet</em> <em>Inc</em> C[+315 characters]",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 15.146799,
+                    "sentiment_score": 0.6908,
+                    "highlights": [
+                        {
+                            "highlight": "(AMZN), <em>Alphabet</em> <em>Inc</em> C[+315 characters]",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.10528,
+                    "sentiment_score": 0.6908,
+                    "highlights": [
+                        {
+                            "highlight": "(AMZN), Alphabet Inc Class C (GOOG), <em[+324 characters]",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 10.477085,
+                    "sentiment_score": 0.39675,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Nvidia</em> is hosting its first qua[+302 characters]",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "(AMZN), Alphabet Inc Class C (GOOG), Met[+306 characters]",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFT",
+                    "name": "Microsoft Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 7.917964,
+                    "sentiment_score": 0.6908,
+                    "highlights": [
+                        {
+                            "highlight": "(AMZN), Alphabet Inc Class C (GOOG), Met[+306 characters]",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 13.898606,
+                    "sentiment_score": 0.6908,
+                    "highlights": [
+                        {
+                            "highlight": "(AMZN), Alphabet Inc Class C (GOOG), Met[+315 characters]",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MOMO",
+                    "name": "Momo Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 16.386656,
+                    "sentiment_score": 0.6415,
+                    "highlights": [
+                        {
+                            "highlight": "Yesterday after the Fed announcement, wh[+229 characters]",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Right now, the <em>momo</em> crowd is bu[+263 characters]",
+                            "sentiment": 0.8555,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Momo</em> Crowd And Smart Money In S[+284 characters]",
+                            "sentiment": 0.9663,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.NE",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ca",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 8.483809,
+                    "sentiment_score": -0.0516,
+                    "highlights": [
+                        {
+                            "highlight": "Magnificent Seven Money Flows\n\nIn the ea[+324 characters]",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZ.DE",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 11.972894,
+                    "sentiment_score": -0.0516,
+                    "highlights": [
+                        {
+                            "highlight": "Magnificent Seven Money Flows\n\nIn the ea[+324 characters]",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "APC.DE",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 8.483812,
+                    "sentiment_score": -0.0516,
+                    "highlights": [
+                        {
+                            "highlight": "Magnificent Seven Money Flows\n\nIn the ea[+324 characters]",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ABEA.DE",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 11.068828,
+                    "sentiment_score": 0.6908,
+                    "highlights": [
+                        {
+                            "highlight": "(AMZN), <em>Alphabet</em> <em>Inc</em> C[+315 characters]",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TL0.DE",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 9.821017,
+                    "sentiment_score": 0.6908,
+                    "highlights": [
+                        {
+                            "highlight": "(AMZN), Alphabet Inc Class C (GOOG), Met[+315 characters]",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ABEC.DE",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 11.068757,
+                    "sentiment_score": 0.6908,
+                    "highlights": [
+                        {
+                            "highlight": "(AMZN), <em>Alphabet</em> <em>Inc</em> C[+315 characters]",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZN.MX",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 11.972831,
+                    "sentiment_score": -0.0516,
+                    "highlights": [
+                        {
+                            "highlight": "Magnificent Seven Money Flows\n\nIn the ea[+324 characters]",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.MX",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 8.483712,
+                    "sentiment_score": -0.0516,
+                    "highlights": [
+                        {
+                            "highlight": "Magnificent Seven Money Flows\n\nIn the ea[+324 characters]",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.MX",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 11.069006,
+                    "sentiment_score": 0.6908,
+                    "highlights": [
+                        {
+                            "highlight": "(AMZN), <em>Alphabet</em> <em>Inc</em> C[+315 characters]",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG.MX",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 11.069006,
+                    "sentiment_score": 0.6908,
+                    "highlights": [
+                        {
+                            "highlight": "(AMZN), <em>Alphabet</em> <em>Inc</em> C[+315 characters]",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "QQQ.MX",
+                    "name": "Invesco QQQ Trust, Series 1",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 33.474396,
+                    "sentiment_score": 0.3182,
+                    "highlights": [
+                        {
+                            "highlight": "Fed Rethink\n\nPlease click here for an en[+333 characters]",
+                            "sentiment": 0.3182,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "EUFN.MX",
+                    "name": "iShares MSCI Europe Financials ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 39.392357,
+                    "sentiment_score": 0.6808,
+                    "highlights": [
+                        {
+                            "highlight": "Fed Rethink\n\nPlease click here for an en[+333 characters]",
+                            "sentiment": 0.6808,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA.MX",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 9.820557,
+                    "sentiment_score": 0.6908,
+                    "highlights": [
+                        {
+                            "highlight": "(AMZN), Alphabet Inc Class C (GOOG), Met[+315 characters]",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SLV.MX",
+                    "name": "iShares Silver Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 22.864994,
+                    "sentiment_score": 0.8666,
+                    "highlights": [
+                        {
+                            "highlight": "The most popular ETF for silver is <em>i[+297 characters]",
+                            "sentiment": 0.8666,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZF.L",
+                    "name": "SPDR Gold Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 22.129753,
+                    "sentiment_score": 0.9359,
+                    "highlights": [
+                        {
+                            "highlight": "The most popular ETF for gold is <em>SPD[+240 characters]",
+                            "sentiment": 0.9359,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0YIK.L",
+                    "name": "Invesco QQQ Trust, Series 1",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 33.47352,
+                    "sentiment_score": 0.3182,
+                    "highlights": [
+                        {
+                            "highlight": "Fed Rethink\n\nPlease click here for an en[+333 characters]",
+                            "sentiment": 0.3182,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 35.987106,
+                    "sentiment_score": 0.6249,
+                    "highlights": [
+                        {
+                            "highlight": "In the early trade, money flows are nega[+314 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0JKC.L",
+                    "name": "iShares Silver Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 22.864773,
+                    "sentiment_score": 0.8666,
+                    "highlights": [
+                        {
+                            "highlight": "The most popular ETF for silver is <em>i[+297 characters]",
+                            "sentiment": 0.8666,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

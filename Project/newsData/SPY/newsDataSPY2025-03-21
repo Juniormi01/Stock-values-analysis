@@ -1,0 +1,62 @@
+{
+    "meta": {
+        "found": 4,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "14366e24-9409-4ec0-bea0-3ce30663502e",
+            "title": "SPDR S&P 500 ETF Trust declares $1.6955 distribution (NYSEARCA:SPY)",
+            "description": "SPDR S&P 500 ETF Trust (SPY) announces a quarterly dividend of $1.6955/share. Explore SPY's Dividend Scorecard, Yield Chart, and Growth trends.",
+            "keywords": "",
+            "snippet": "Search field Entering text into the input field will update the search result below\n\nEntering text into the input field will update the search result below",
+            "url": "https://seekingalpha.com/news/4423551-spdr-sp-500-etf-trust-declares-16955-distribution",
+            "image_url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+            "language": "en",
+            "published_at": "2025-03-21T14:34:56.000000Z",
+            "source": "seekingalpha.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 305.869,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>SPDR</em> <em>S</em>&<em>P</em> <em>500</em> <em>ETF</em> <em>Trust</em> declares $1.6955 distribution (<em>NYSEARCA:SPY</em>)",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 267.34122,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>SPDR</em> <em>S</em>&<em>P</em> <em>500</em> <em>ETF</em> <em>Trust</em> declares $1.6955 distribution (NYSEARCA:SPY)",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

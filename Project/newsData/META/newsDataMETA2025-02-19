@@ -1,0 +1,54 @@
+{
+    "meta": {
+        "found": 8,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "f57ecefc-f849-492e-8306-c0022637589c",
+            "title": "Meta Platforms, Inc. (META) Launches Project Waterworth, World\u2019s Longest Subsea Cable",
+            "description": "We recently compiled a list of the 15 AI Stocks Every Investor Should Be Watching.\u00a0In this article, we are going to take a look at where Meta Platforms, Inc.",
+            "keywords": "",
+            "snippet": "We recently compiled a list of the 15 AI Stocks Every Investor Should Be Watching. In this article, we are going to take a look at where Meta Platforms, Inc. (N...",
+            "url": "https://www.insidermonkey.com/blog/meta-platforms-inc-meta-launches-project-waterworth-worlds-longest-subsea-cable-1457912/",
+            "image_url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/09/19153233/META-insidermonkey-1695151950867.jpg",
+            "language": "en",
+            "published_at": "2025-02-19T22:33:33.000000Z",
+            "source": "insidermonkey.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 77.74472,
+                    "sentiment_score": 0.264333,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+222 characters]",
+                            "sentiment": 0.2263,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Meta</em> <em>Platforms</em>, <em>In[+283 characters]",
+                            "sentiment": 0.5667,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Meta</em> <em>Platforms</em>, <em>Inc</em>. (META) Launches Project Waterworth, World\u2019s Longest Subsea Cable",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

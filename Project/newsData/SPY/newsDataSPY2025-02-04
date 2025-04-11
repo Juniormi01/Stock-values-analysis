@@ -1,0 +1,2732 @@
+{
+    "meta": {
+        "found": 6,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "8abefe49-b80f-47e4-a059-3433e932dfe9",
+            "title": "US Stocks Rise Despite China's Trade Fears, Palantir Defies Gravity, Gold Rallies Further: What's Driving Markets Tuesday? - Archer-Daniels Midland (NYSE:ADM)",
+            "description": "U.S. stocks advanced midday Tuesday, demonstrating resilience despite escalating geopolitical tensions and trade uncertainties between the world\u2019s two largest economies.",
+            "keywords": "",
+            "snippet": "U.S. stocks advanced midday Tuesday, demonstrating resilience despite escalating geopolitical tensions and trade uncertainties between the world\u2019s two largest...",
+            "url": "https://www.benzinga.com/economics/macro-economic-events/25/02/43473576/us-stocks-rise-despite-chinas-trade-fears-palantir-defies-gravity-gold-rallies-fu",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2025/02/04/wall-street-photo-by-marek-masik-on-shut.jpeg?width=1200&height=800&fit=crop",
+            "language": "en",
+            "published_at": "2025-02-04T18:28:26.000000Z",
+            "source": "benzinga.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "GOOGL.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 18.529398,
+                    "sentiment_score": 0.40835,
+                    "highlights": [
+                        {
+                            "highlight": "ILMN to its \u201cUnreliable Entity List,?[+179 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "MLAB : up 10.48%\n\nMajor companies report[+321 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "IWM.SN",
+                    "name": "iShares Russell 2000 ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 35.433765,
+                    "sentiment_score": -0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>iShares</em> <em>Russell</em> <e[+331 characters]",
+                            "sentiment": -0.0258,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 18.529398,
+                    "sentiment_score": 0.40835,
+                    "highlights": [
+                        {
+                            "highlight": "ILMN to its \u201cUnreliable Entity List,?[+179 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "MLAB : up 10.48%\n\nMajor companies report[+321 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MDLZ.SN",
+                    "name": "Mondelez International, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 22.342674,
+                    "sentiment_score": 0.6705,
+                    "highlights": [
+                        {
+                            "highlight": "AMD, <em>Mondelez</em> <em>International[+319 characters]",
+                            "sentiment": 0.6705,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGCL.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 18.529398,
+                    "sentiment_score": 0.40835,
+                    "highlights": [
+                        {
+                            "highlight": "ILMN to its \u201cUnreliable Entity List,?[+179 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "MLAB : up 10.48%\n\nMajor companies report[+321 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PFECL.SN",
+                    "name": "PFIZER INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 13.211054,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Tuesday\u2019s Stock Movers\n\nStocks reactin[+304 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PEP.SN",
+                    "name": "PepsiCo, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 15.63751,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "PFE : down 1.53%\n\n: down 1.53% <em>Pepsi[+325 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PFE.SN",
+                    "name": "Pfizer Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 13.211019,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Tuesday\u2019s Stock Movers\n\nStocks reactin[+304 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ASPU",
+                    "name": "Aspen Group, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 10.501568,
+                    "sentiment_score": 0.5267,
+                    "highlights": [
+                        {
+                            "highlight": "ATO, <em>Aspen</em> Technology Inc. AZPN[+171 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ENPH",
+                    "name": "Enphase Energy, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 26.7732,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "IEX and <em>Enphase</em> <em>Energy</em>[+68 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "QQQ",
+                    "name": "Invesco QQQ Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 34.203873,
+                    "sentiment_score": -0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "The tech-heavy <em>Invesco</em> <em>QQQ<[+282 characters]",
+                            "sentiment": -0.0258,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "XLE",
+                    "name": "Energy Select Sector SPDR Fund",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 37.204857,
+                    "sentiment_score": -0.296,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Energy</em> <em>Select</em> <em>[+353 characters]",
+                            "sentiment": -0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "IWM",
+                    "name": "iShares Russell 2000 ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 35.432793,
+                    "sentiment_score": -0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>iShares</em> <em>Russell</em> <e[+331 characters]",
+                            "sentiment": -0.0258,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "XLU",
+                    "name": "Utilities Select Sector SPDR Fund",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 40.905586,
+                    "sentiment_score": -0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "The Energy Select Sector SPDR Fund XLE o[+353 characters]",
+                            "sentiment": -0.0258,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 42.12204,
+                    "sentiment_score": 0.5106,
+                    "highlights": [
+                        {
+                            "highlight": "ET\n\nAccording to Benzinga Pro data:\n\nThe[+320 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^XLE-IV",
+                    "name": "Energy Select Sector SPDR Fund ",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 37.204704,
+                    "sentiment_score": -0.296,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Energy</em> <em>Select</em> <em>[+353 characters]",
+                            "sentiment": -0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^XLE-TC",
+                    "name": "Energy Select Sector SPDR Fund ",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 37.204742,
+                    "sentiment_score": -0.296,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Energy</em> <em>Select</em> <em>[+353 characters]",
+                            "sentiment": -0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^XLE-EU",
+                    "name": "Energy Select Sector SPDR Fund ",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 37.20475,
+                    "sentiment_score": -0.296,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Energy</em> <em>Select</em> <em>[+353 characters]",
+                            "sentiment": -0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMD",
+                    "name": "Advanced Micro Devices, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 28.98697,
+                    "sentiment_score": 0.5267,
+                    "highlights": [
+                        {
+                            "highlight": "AMGN, <em>Advanced</em> <em>Micro</em> <[+328 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 14.746099,
+                    "sentiment_score": 0.40835,
+                    "highlights": [
+                        {
+                            "highlight": "ILMN to its \u201cUnreliable Entity List,?[+179 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "MLAB : up 10.48%\n\nMajor companies report[+321 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 21.64255,
+                    "sentiment_score": 0.40835,
+                    "highlights": [
+                        {
+                            "highlight": "ILMN to its \u201cUnreliable Entity List,?[+179 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "MLAB : up 10.48%\n\nMajor companies report[+321 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMGN",
+                    "name": "Amgen Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 19.60834,
+                    "sentiment_score": 0.6597,
+                    "highlights": [
+                        {
+                            "highlight": "., <em>Amgen</em> <em>Inc</em>. AMGN, Ad[+324 characters]",
+                            "sentiment": 0.6597,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "EA",
+                    "name": "Electronic Arts Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 23.105034,
+                    "sentiment_score": 0.6705,
+                    "highlights": [
+                        {
+                            "highlight": "CMG, <em>Electronic</em> <em>Arts</em> <[+300 characters]",
+                            "sentiment": 0.6705,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AZPN",
+                    "name": "Aspen Technology, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 24.787205,
+                    "sentiment_score": 0.5267,
+                    "highlights": [
+                        {
+                            "highlight": "ATO, <em>Aspen</em> <em>Technology</em> [+189 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "JKHY",
+                    "name": "Jack Henry & Associates, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 32.659103,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "FICO, <em>Jack</em> <em>Henry</em> & <em[+129 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BRY",
+                    "name": "Berry Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Energy",
+                    "match_score": 9.747812,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "ATKR : down 20.50%\n\n: down 20.50% <em>Be[+234 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "OCSL",
+                    "name": "Oaktree Specialty Lending Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 20.254097,
+                    "sentiment_score": 0.4767,
+                    "highlights": [
+                        {
+                            "highlight": "PINC : down 15.36%\n\n: down 15.36% MPLX L[+299 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LANC",
+                    "name": "Lancaster Colony Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 15.91637,
+                    "sentiment_score": 0.4767,
+                    "highlights": [
+                        {
+                            "highlight": "BALL : down 8.03%\n\n: down 8.03% <em>Lanc[+278 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PYPL",
+                    "name": "PayPal Holdings, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 23.218628,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "MRK : down 10.49%\n\n: down 10.49% <em>Pay[+303 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "REGN",
+                    "name": "Regeneron Pharmaceuticals, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 30.003439,
+                    "sentiment_score": 0.1779,
+                    "highlights": [
+                        {
+                            "highlight": "XYL : up 5.85%\n\n: up 5.85% Ferrari NV RA[+307 characters]",
+                            "sentiment": 0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PEP",
+                    "name": "PepsiCo, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 18.749056,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "PFE : down 1.53%\n\n: down 1.53% <em>Pepsi[+325 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ILMN",
+                    "name": "Illumina, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 19.409771,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "PVH and <em>Illumina</em> <em>Inc</em>. [+201 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "INMD",
+                    "name": "InMode Ltd.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 27.783867,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "MSGS : down 3.74%\n\n: down 3.74% Pentair [+265 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MDLZ",
+                    "name": "Mondelez International, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 25.451488,
+                    "sentiment_score": 0.6705,
+                    "highlights": [
+                        {
+                            "highlight": "AMD, <em>Mondelez</em> <em>International[+319 characters]",
+                            "sentiment": 0.6705,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SLAB",
+                    "name": "Silicon Laboratories Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 26.083687,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "ENR : down 4.45%\n\n: down 4.45% <em>Silic[+286 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PINC",
+                    "name": "Premier, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 9.574064,
+                    "sentiment_score": 0.4767,
+                    "highlights": [
+                        {
+                            "highlight": "LANC : up 9.27%\n\n: up 9.27% <em>Premier<[+280 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MLAB",
+                    "name": "Mesa Laboratories, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 24.712933,
+                    "sentiment_score": 0.25,
+                    "highlights": [
+                        {
+                            "highlight": "AXTA : up 7.86%\n\n: up 7.86% <em>Mesa</em[+330 characters]",
+                            "sentiment": 0.25,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ADM",
+                    "name": "Archer-Daniels-Midland Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 98.45307,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "PYPL : down 11.57%\n\n: down 11.57% <em>Ar[+304 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "- <em>Archer</em>-<em>Daniels</em> <em>Midland</em> (<em>NYSE:ADM</em>)",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "APO",
+                    "name": "Apollo Global Management, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 23.847765,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "EL : down 16.35%\n\n: down 16.35% <em>Apol[+329 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMCR",
+                    "name": "Amcor plc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 20.735912,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "MSGS : down 3.74%\n\n: down 3.74% Pentair [+265 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AXTA",
+                    "name": "Axalta Coating Systems Ltd.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Basic Materials",
+                    "match_score": 42.655563,
+                    "sentiment_score": 0.25,
+                    "highlights": [
+                        {
+                            "highlight": "INMD : up 2.82%\n\n: up 2.82% Willis Tower[+330 characters]",
+                            "sentiment": 0.25,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AME",
+                    "name": "AMETEK, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 19.82637,
+                    "sentiment_score": 0.1779,
+                    "highlights": [
+                        {
+                            "highlight": "FOXA : up 4.00%\n\n: up 4.00% <em>Ametek</[+258 characters]",
+                            "sentiment": 0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ATKR",
+                    "name": "Atkore Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 21.151249,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "CNC : down 3.41%\n\n: down 3.41% <em>Atkor[+286 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BERY",
+                    "name": "Berry Global Group, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 21.667833,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "ATKR : down 20.50%\n\n: down 20.50% <em>Be[+261 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "CMG",
+                    "name": "Chipotle Mexican Grill, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 37.41797,
+                    "sentiment_score": 0.6705,
+                    "highlights": [
+                        {
+                            "highlight": "MDLZ, <em>Chipotle</em> <em>Mexican</em>[+343 characters]",
+                            "sentiment": 0.6705,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "CMI",
+                    "name": "Cummins Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 15.85862,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "KKR : down 7.90%\n\n: down 7.90% <em>Cummi[+296 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PVH",
+                    "name": "PVH Corp.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 22.902962,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "Additionally, China added <em>PVH</em> <[+246 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSGS",
+                    "name": "Madison Square Garden Sports Corp.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 37.423706,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "HLNE : down 0.01%\n\n: down 0.01% <em>Madi[+308 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "EPD",
+                    "name": "Enterprise Products Partners L.P.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Energy",
+                    "match_score": 31.312294,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "CMI : up 3.81%\n\n: up 3.81% <em>Enterpris[+310 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "WEC",
+                    "name": "WEC Energy Group, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Utilities",
+                    "match_score": 24.832018,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "BERY : up 4.15%\n\n: up 4.15% <em>WEC</em>[+336 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ENR",
+                    "name": "Energizer Holdings, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 26.027803,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "PJT : up 12.77%\n\n: up 12.77% <em>Energiz[+214 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ENR-PA",
+                    "name": "Energizer Holdings, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 26.027832,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "PJT : up 12.77%\n\n: up 12.77% <em>Energiz[+214 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PRU",
+                    "name": "Prudential Financial, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 20.599823,
+                    "sentiment_score": 0.6705,
+                    "highlights": [
+                        {
+                            "highlight": "EA, <em>Prudential</em> <em>Financial</e[+274 characters]",
+                            "sentiment": 0.6705,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPG",
+                    "name": "Simon Property Group, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Real Estate",
+                    "match_score": 21.305405,
+                    "sentiment_score": 0.6705,
+                    "highlights": [
+                        {
+                            "highlight": "PRU, <em>Simon</em> <em>Property</em> <e[+253 characters]",
+                            "sentiment": 0.6705,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "IT",
+                    "name": "Gartner, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 15.499807,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "J : down 2.72%\n\n: down 2.72% Aramark ARM[+294 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPG-PJ",
+                    "name": "Simon Property Group, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Real Estate",
+                    "match_score": 21.305405,
+                    "sentiment_score": 0.6705,
+                    "highlights": [
+                        {
+                            "highlight": "PRU, <em>Simon</em> <em>Property</em> <e[+253 characters]",
+                            "sentiment": 0.6705,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PFE",
+                    "name": "Pfizer Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 13.210325,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Tuesday\u2019s Stock Movers\n\nStocks reactin[+304 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PLTR",
+                    "name": "Palantir Technologies Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 22.732595,
+                    "sentiment_score": 0.5106,
+                    "highlights": [
+                        {
+                            "highlight": "Among individual stocks, <em>Palantir</e[+302 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PFE-WI",
+                    "name": "Pfizer, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 13.210271,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Tuesday\u2019s Stock Movers\n\nStocks reactin[+304 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "XYL",
+                    "name": "Xylem Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 19.1544,
+                    "sentiment_score": 0.1779,
+                    "highlights": [
+                        {
+                            "highlight": "AME : down 1.00%\n\n: down 1.00% <em>Xylem[+300 characters]",
+                            "sentiment": 0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PJT",
+                    "name": "PJT Partners Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 25.90699,
+                    "sentiment_score": 0.4767,
+                    "highlights": [
+                        {
+                            "highlight": "OCSL : down 3.42%\n\n: down 3.42% <em>PJT<[+264 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MPLX",
+                    "name": "MPLX LP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Energy",
+                    "match_score": 28.260483,
+                    "sentiment_score": 0.4767,
+                    "highlights": [
+                        {
+                            "highlight": "PINC : down 15.36%\n\n: down 15.36% <em>MP[+290 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PNR",
+                    "name": "Pentair plc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 21.715935,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "MSGS : down 3.74%\n\n: down 3.74% <em>Pent[+265 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMD.DE",
+                    "name": "Advanced Micro Devices, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 25.872797,
+                    "sentiment_score": 0.5267,
+                    "highlights": [
+                        {
+                            "highlight": "AMGN, <em>Advanced</em> <em>Micro</em> <[+328 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ABEA.DE",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 18.52829,
+                    "sentiment_score": 0.40835,
+                    "highlights": [
+                        {
+                            "highlight": "ILMN to its \u201cUnreliable Entity List,?[+179 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "MLAB : up 10.48%\n\nMajor companies report[+321 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PFE.DE",
+                    "name": "Pfizer Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 13.210511,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Tuesday\u2019s Stock Movers\n\nStocks reactin[+304 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ABEC.DE",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 18.528143,
+                    "sentiment_score": 0.40835,
+                    "highlights": [
+                        {
+                            "highlight": "ILMN to its \u201cUnreliable Entity List,?[+179 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "MLAB : up 10.48%\n\nMajor companies report[+321 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PEP.DE",
+                    "name": "PepsiCo, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 15.632166,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "PFE : down 1.53%\n\n: down 1.53% <em>Pepsi[+325 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MPLXP",
+                    "name": "MPLX LP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Energy",
+                    "match_score": 28.251059,
+                    "sentiment_score": 0.4767,
+                    "highlights": [
+                        {
+                            "highlight": "PINC : down 15.36%\n\n: down 15.36% <em>MP[+290 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "2PP.DE",
+                    "name": "PayPal Holdings, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 20.104609,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "MRK : down 10.49%\n\n: down 10.49% <em>Pay[+303 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "XY6.DE",
+                    "name": "Xylem Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 19.1431,
+                    "sentiment_score": 0.1779,
+                    "highlights": [
+                        {
+                            "highlight": "AME : down 1.00%\n\n: down 1.00% <em>Xylem[+300 characters]",
+                            "sentiment": 0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ILU.DE",
+                    "name": "Illumina, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 16.285742,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "PVH and <em>Illumina</em> <em>Inc</em>. [+201 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMG.DE",
+                    "name": "Amgen Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 16.489347,
+                    "sentiment_score": 0.6597,
+                    "highlights": [
+                        {
+                            "highlight": "., <em>Amgen</em> <em>Inc</em>. AMGN, Ad[+324 characters]",
+                            "sentiment": 0.6597,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "C9F.DE",
+                    "name": "Chipotle Mexican Grill, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 37.41265,
+                    "sentiment_score": 0.6705,
+                    "highlights": [
+                        {
+                            "highlight": "MDLZ, <em>Chipotle</em> <em>Mexican</em>[+343 characters]",
+                            "sentiment": 0.6705,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ERT.DE",
+                    "name": "Electronic Arts Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 19.990986,
+                    "sentiment_score": 0.6705,
+                    "highlights": [
+                        {
+                            "highlight": "CMG, <em>Electronic</em> <em>Arts</em> <[+300 characters]",
+                            "sentiment": 0.6705,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PTX.DE",
+                    "name": "Palantir Technologies Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 22.72696,
+                    "sentiment_score": 0.5106,
+                    "highlights": [
+                        {
+                            "highlight": "Among individual stocks, <em>Palantir</e[+302 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AK1.DE",
+                    "name": "Ametek Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 19.78582,
+                    "sentiment_score": 0.1779,
+                    "highlights": [
+                        {
+                            "highlight": "FOXA : up 4.00%\n\n: up 4.00% <em>Ametek</[+258 characters]",
+                            "sentiment": 0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PNT.DE",
+                    "name": "Pentair plc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 21.694923,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "MSGS : down 3.74%\n\n: down 3.74% <em>Pent[+265 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "CUM.DE",
+                    "name": "Cummins Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 15.856396,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "KKR : down 7.90%\n\n: down 7.90% <em>Cummi[+296 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMD.MX",
+                    "name": "Advanced Micro Devices, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 25.872335,
+                    "sentiment_score": 0.5267,
+                    "highlights": [
+                        {
+                            "highlight": "AMGN, <em>Advanced</em> <em>Micro</em> <[+328 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.MX",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 18.527546,
+                    "sentiment_score": 0.40835,
+                    "highlights": [
+                        {
+                            "highlight": "ILMN to its \u201cUnreliable Entity List,?[+179 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "MLAB : up 10.48%\n\nMajor companies report[+321 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG.MX",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 18.527546,
+                    "sentiment_score": 0.40835,
+                    "highlights": [
+                        {
+                            "highlight": "ILMN to its \u201cUnreliable Entity List,?[+179 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "MLAB : up 10.48%\n\nMajor companies report[+321 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "XLE.MX",
+                    "name": "Energy Select Sector SPDR Fund",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 37.202538,
+                    "sentiment_score": -0.296,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Energy</em> <em>Select</em> <em>[+353 characters]",
+                            "sentiment": -0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "CMG.MX",
+                    "name": "Chipotle Mexican Grill, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 37.41015,
+                    "sentiment_score": 0.6705,
+                    "highlights": [
+                        {
+                            "highlight": "MDLZ, <em>Chipotle</em> <em>Mexican</em>[+343 characters]",
+                            "sentiment": 0.6705,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPG.MX",
+                    "name": "Simon Property Group, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Real Estate",
+                    "match_score": 21.305939,
+                    "sentiment_score": 0.6705,
+                    "highlights": [
+                        {
+                            "highlight": "PRU, <em>Simon</em> <em>Property</em> <e[+253 characters]",
+                            "sentiment": 0.6705,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PYPL.MX",
+                    "name": "PayPal Holdings, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 20.104382,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "MRK : down 10.49%\n\n: down 10.49% <em>Pay[+303 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PFE.MX",
+                    "name": "Pfizer Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 13.210254,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Tuesday\u2019s Stock Movers\n\nStocks reactin[+304 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PEP.MX",
+                    "name": "PepsiCo, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 15.629297,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "PFE : down 1.53%\n\n: down 1.53% <em>Pepsi[+325 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "REGN.MX",
+                    "name": "Regeneron Pharmaceuticals, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 26.878649,
+                    "sentiment_score": 0.1779,
+                    "highlights": [
+                        {
+                            "highlight": "XYL : up 5.85%\n\n: up 5.85% Ferrari NV RA[+307 characters]",
+                            "sentiment": 0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "IWM.MX",
+                    "name": "iShares Russell 2000 ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 35.431053,
+                    "sentiment_score": -0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>iShares</em> <em>Russell</em> <e[+331 characters]",
+                            "sentiment": -0.0258,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AZPN.MX",
+                    "name": "Aspen Technology, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 21.66721,
+                    "sentiment_score": 0.5267,
+                    "highlights": [
+                        {
+                            "highlight": "ATO, <em>Aspen</em> <em>Technology</em> [+189 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ILMN.MX",
+                    "name": "Illumina, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 16.28026,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "PVH and <em>Illumina</em> <em>Inc</em>. [+201 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "XLU.MX",
+                    "name": "Utilities Select Sector SPDR Fund",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 40.9013,
+                    "sentiment_score": -0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "The Energy Select Sector SPDR Fund XLE o[+353 characters]",
+                            "sentiment": -0.0258,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ENPH.MX",
+                    "name": "Enphase Energy, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 23.637468,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "IEX and <em>Enphase</em> <em>Energy</em>[+68 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "EA.MX",
+                    "name": "Electronic Arts Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 19.990788,
+                    "sentiment_score": 0.6705,
+                    "highlights": [
+                        {
+                            "highlight": "CMG, <em>Electronic</em> <em>Arts</em> <[+300 characters]",
+                            "sentiment": 0.6705,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MDLZ.MX",
+                    "name": "Mondelez International, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 22.325514,
+                    "sentiment_score": 0.6705,
+                    "highlights": [
+                        {
+                            "highlight": "AMD, <em>Mondelez</em> <em>International[+319 characters]",
+                            "sentiment": 0.6705,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMGN.MX",
+                    "name": "Amgen Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 16.48666,
+                    "sentiment_score": 0.6597,
+                    "highlights": [
+                        {
+                            "highlight": "., <em>Amgen</em> <em>Inc</em>. AMGN, Ad[+324 characters]",
+                            "sentiment": 0.6597,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ATKR.MX",
+                    "name": "Atkore Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 20.991192,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "CNC : down 3.41%\n\n: down 3.41% <em>Atkor[+286 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PRU.MX",
+                    "name": "Prudential Financial, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 20.597687,
+                    "sentiment_score": 0.6705,
+                    "highlights": [
+                        {
+                            "highlight": "EA, <em>Prudential</em> <em>Financial</e[+274 characters]",
+                            "sentiment": 0.6705,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "XYL.MX",
+                    "name": "Xylem Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 19.123777,
+                    "sentiment_score": 0.1779,
+                    "highlights": [
+                        {
+                            "highlight": "AME : down 1.00%\n\n: down 1.00% <em>Xylem[+300 characters]",
+                            "sentiment": 0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0L6P.L",
+                    "name": "Simon Property Group, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 21.3059,
+                    "sentiment_score": 0.6705,
+                    "highlights": [
+                        {
+                            "highlight": "PRU, <em>Simon</em> <em>Property</em> <e[+253 characters]",
+                            "sentiment": 0.6705,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0M29.L",
+                    "name": "Xylem Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 19.120827,
+                    "sentiment_score": 0.1779,
+                    "highlights": [
+                        {
+                            "highlight": "AME : down 1.00%\n\n: down 1.00% <em>Xylem[+300 characters]",
+                            "sentiment": 0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0J8Z.L",
+                    "name": "Illumina, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 16.277386,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "PVH and <em>Illumina</em> <em>Inc</em>. [+201 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 42.121674,
+                    "sentiment_score": 0.5106,
+                    "highlights": [
+                        {
+                            "highlight": "ET\n\nAccording to Benzinga Pro data:\n\nThe[+320 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0U6C.L",
+                    "name": "Axalta Coating Systems Ltd.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 42.61534,
+                    "sentiment_score": 0.25,
+                    "highlights": [
+                        {
+                            "highlight": "INMD : up 2.82%\n\n: up 2.82% Willis Tower[+330 characters]",
+                            "sentiment": 0.25,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0HN1.L",
+                    "name": "Berry Global Group, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 21.66763,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "ATKR : down 20.50%\n\n: down 20.50% <em>Be[+261 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KEC.L",
+                    "name": "PJT Partners Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 25.896576,
+                    "sentiment_score": 0.4767,
+                    "highlights": [
+                        {
+                            "highlight": "OCSL : down 3.42%\n\n: down 3.42% <em>PJT<[+264 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0LSL.L",
+                    "name": "WEC Energy Group, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 24.830078,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "BERY : up 4.15%\n\n: up 4.15% <em>WEC</em>[+336 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0QYE.L",
+                    "name": "Enphase Energy, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 23.643738,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "IEX and <em>Enphase</em> <em>Energy</em>[+68 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0ITV.L",
+                    "name": "Gartner, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 15.498908,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "J : down 2.72%\n\n: down 2.72% Aramark ARM[+294 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KEQ.L",
+                    "name": "PVH Corp.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 22.863747,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "Additionally, China added <em>PVH</em> <[+246 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0Y5X.L",
+                    "name": "Pentair plc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 21.695036,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "MSGS : down 3.74%\n\n: down 3.74% <em>Pent[+265 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0A6D.L",
+                    "name": "Jack Henry & Associates, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 29.543432,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "FICO, <em>Jack</em> <em>Henry</em> & <em[+129 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0A7R.L",
+                    "name": "Palantir Technologies Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 22.726446,
+                    "sentiment_score": 0.5106,
+                    "highlights": [
+                        {
+                            "highlight": "Among individual stocks, <em>Palantir</e[+302 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0HXW.L",
+                    "name": "Chipotle Mexican Grill, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 37.409195,
+                    "sentiment_score": 0.6705,
+                    "highlights": [
+                        {
+                            "highlight": "MDLZ, <em>Chipotle</em> <em>Mexican</em>[+343 characters]",
+                            "sentiment": 0.6705,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0R2M.L",
+                    "name": "Regeneron Pharmaceuticals, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 26.881487,
+                    "sentiment_score": 0.1779,
+                    "highlights": [
+                        {
+                            "highlight": "XYL : up 5.85%\n\n: up 5.85% Ferrari NV RA[+307 characters]",
+                            "sentiment": 0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0IFX.L",
+                    "name": "Electronic Arts Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 19.990696,
+                    "sentiment_score": 0.6705,
+                    "highlights": [
+                        {
+                            "highlight": "CMG, <em>Electronic</em> <em>Arts</em> <[+300 characters]",
+                            "sentiment": 0.6705,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0S23.L",
+                    "name": "Enterprise Products Partners L.P.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 31.311802,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "CMI : up 3.81%\n\n: up 3.81% <em>Enterpris[+310 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0HF7.L",
+                    "name": "AMETEK, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 19.785902,
+                    "sentiment_score": 0.1779,
+                    "highlights": [
+                        {
+                            "highlight": "FOXA : up 4.00%\n\n: up 4.00% <em>Ametek</[+258 characters]",
+                            "sentiment": 0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0A72.L",
+                    "name": "Apollo Global Management, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 23.847979,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "EL : down 16.35%\n\n: down 16.35% <em>Apol[+329 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0I58.L",
+                    "name": "Cummins Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 15.856206,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "KKR : down 7.90%\n\n: down 7.90% <em>Cummi[+296 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0R0G.L",
+                    "name": "Mondelez International, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 22.326332,
+                    "sentiment_score": 0.6705,
+                    "highlights": [
+                        {
+                            "highlight": "AMD, <em>Mondelez</em> <em>International[+319 characters]",
+                            "sentiment": 0.6705,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KRX.L",
+                    "name": "Prudential Financial, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 20.598366,
+                    "sentiment_score": 0.6705,
+                    "highlights": [
+                        {
+                            "highlight": "EA, <em>Prudential</em> <em>Financial</e[+274 characters]",
+                            "sentiment": 0.6705,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PEP.SW",
+                    "name": "PepsiCo, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ch",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 15.638696,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "PFE : down 1.53%\n\n: down 1.53% <em>Pepsi[+325 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SIMN34.SA",
+                    "name": "Simon Property Group, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Real Estate",
+                    "match_score": 21.305855,
+                    "sentiment_score": 0.6705,
+                    "highlights": [
+                        {
+                            "highlight": "PRU, <em>Simon</em> <em>Property</em> <e[+253 characters]",
+                            "sentiment": 0.6705,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PYPL34.SA",
+                    "name": "PayPal Holdings, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 20.106022,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "MRK : down 10.49%\n\n: down 10.49% <em>Pay[+303 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "A1ME34.SA",
+                    "name": "AMETEK, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 19.856007,
+                    "sentiment_score": 0.1779,
+                    "highlights": [
+                        {
+                            "highlight": "FOXA : up 4.00%\n\n: up 4.00% <em>Ametek</[+258 characters]",
+                            "sentiment": 0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PEPB34.SA",
+                    "name": "PepsiCo, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 15.638659,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "PFE : down 1.53%\n\n: down 1.53% <em>Pepsi[+325 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "P1DT34.SA",
+                    "name": "Prudential Financial, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 20.60212,
+                    "sentiment_score": 0.6705,
+                    "highlights": [
+                        {
+                            "highlight": "EA, <em>Prudential</em> <em>Financial</e[+274 characters]",
+                            "sentiment": 0.6705,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "J1KH34.SA",
+                    "name": "Jack Henry & Associates, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 29.544952,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "FICO, <em>Jack</em> <em>Henry</em> & <em[+129 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "REGN34.SA",
+                    "name": "Regeneron Pharmaceuticals, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 26.892698,
+                    "sentiment_score": 0.1779,
+                    "highlights": [
+                        {
+                            "highlight": "XYL : up 5.85%\n\n: up 5.85% Ferrari NV RA[+307 characters]",
+                            "sentiment": 0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "I1LM34.SA",
+                    "name": "Illumina, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 16.301289,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "PVH and <em>Illumina</em> <em>Inc</em>. [+201 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "A1MD34.SA",
+                    "name": "Advanced Micro Devices, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 25.873579,
+                    "sentiment_score": 0.5267,
+                    "highlights": [
+                        {
+                            "highlight": "AMGN, <em>Advanced</em> <em>Micro</em> <[+328 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "X1YL34.SA",
+                    "name": "Xylem Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 19.17923,
+                    "sentiment_score": 0.1779,
+                    "highlights": [
+                        {
+                            "highlight": "AME : down 1.00%\n\n: down 1.00% <em>Xylem[+300 characters]",
+                            "sentiment": 0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "G1AR34.SA",
+                    "name": "Gartner, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 15.502218,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "J : down 2.72%\n\n: down 2.72% Aramark ARM[+294 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "W1EC34.SA",
+                    "name": "WEC Energy Group, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Utilities",
+                    "match_score": 24.836138,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "BERY : up 4.15%\n\n: up 4.15% <em>WEC</em>[+336 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "A1CR34.SA",
+                    "name": "Amcor plc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 20.73838,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "MSGS : down 3.74%\n\n: down 3.74% Pentair [+265 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "EAIN34.SA",
+                    "name": "Electronic Arts Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 19.991411,
+                    "sentiment_score": 0.6705,
+                    "highlights": [
+                        {
+                            "highlight": "CMG, <em>Electronic</em> <em>Arts</em> <[+300 characters]",
+                            "sentiment": 0.6705,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "C1MI34.SA",
+                    "name": "Cummins Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 15.85982,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "KKR : down 7.90%\n\n: down 7.90% <em>Cummi[+296 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BTCUSD",
+                    "name": "Bitcoin USD",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "global",
+                    "type": "cryptocurrency",
+                    "industry": "N/A",
+                    "match_score": 30.661572,
+                    "sentiment_score": 0.5106,
+                    "highlights": [
+                        {
+                            "highlight": "Meanwhile, <em>Bitcoin</em> <em>BTC</em>[+335 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.BA",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 18.528786,
+                    "sentiment_score": 0.40835,
+                    "highlights": [
+                        {
+                            "highlight": "ILMN to its \u201cUnreliable Entity List,?[+179 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "MLAB : up 10.48%\n\nMajor companies report[+321 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PYPL.BA",
+                    "name": "PayPal Holdings, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 20.105125,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "MRK : down 10.49%\n\n: down 10.49% <em>Pay[+303 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PFED.BA",
+                    "name": "PFIZER INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 13.211331,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Tuesday\u2019s Stock Movers\n\nStocks reactin[+304 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMGN.BA",
+                    "name": "Amgen Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 16.492184,
+                    "sentiment_score": 0.6597,
+                    "highlights": [
+                        {
+                            "highlight": "., <em>Amgen</em> <em>Inc</em>. AMGN, Ad[+324 characters]",
+                            "sentiment": 0.6597,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PEP.BA",
+                    "name": "PepsiCo, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 15.637483,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "PFE : down 1.53%\n\n: down 1.53% <em>Pepsi[+325 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOGLD.BA",
+                    "name": "ALPHABET INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 18.528786,
+                    "sentiment_score": 0.40835,
+                    "highlights": [
+                        {
+                            "highlight": "ILMN to its \u201cUnreliable Entity List,?[+179 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "MLAB : up 10.48%\n\nMajor companies report[+321 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPOTD.BA",
+                    "name": "SPOTIFY TECHNOLOGY",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 15.220612,
+                    "sentiment_score": 0.1779,
+                    "highlights": [
+                        {
+                            "highlight": "XYL : up 5.85%\n\n: up 5.85% Ferrari NV RA[+298 characters]",
+                            "sentiment": 0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

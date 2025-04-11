@@ -1,0 +1,350 @@
+{
+    "meta": {
+        "found": 82,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "2bdc285c-0de7-4c72-aed5-06463ad2dfbb",
+            "title": "Stock Market Recap: Why Was the Market Up Today?",
+            "description": "The U.S. stock market ended Monday, January 13, 2025, with mixed results as investors grappled with shifting expectations for interest rate cuts and upcoming",
+            "keywords": "",
+            "snippet": "Major Indexes Close Mixed as Investors Weigh Rate Cut Outlook\n\nThe U.S. stock market ended Monday, January 13, 2025, with mixed results as investors grappled wi...",
+            "url": "https://thestockmarketwatch.com/stock-market-news/stock-market-recap-why-was-the-market-up-today-january-13-2025-3/48733/",
+            "image_url": "https://thestockmarketwatch.com/stock-market-news/wp-content/uploads/2024/08/5.jpg",
+            "language": "en",
+            "published_at": "2025-01-13T22:28:39.000000Z",
+            "source": "thestockmarketwatch.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 11.368862,
+                    "sentiment_score": 0.1027,
+                    "highlights": [
+                        {
+                            "highlight": "\u2013 <em>NVIDIA</em> (NVDA): Fell 1.97% a[+249 characters]",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ITCI",
+                    "name": "Intra-Cellular Therapies, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 25.414845,
+                    "sentiment_score": 0.743,
+                    "highlights": [
+                        {
+                            "highlight": "Major Stock News\n\nSeveral stocks made si[+318 characters]",
+                            "sentiment": 0.743,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 11.118138,
+                    "sentiment_score": 0.4939,
+                    "highlights": [
+                        {
+                            "highlight": "\u2013 <em>Tesla</em> (TSLA): Gained 2.17%,[+299 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MRNA",
+                    "name": "Moderna, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 11.587856,
+                    "sentiment_score": -0.4215,
+                    "highlights": [
+                        {
+                            "highlight": "\u2013 <em>Moderna</em> (MRNA): Plummeted 1[+240 characters]",
+                            "sentiment": -0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": [
+                {
+                    "uuid": "c7b06f53-a9bc-4670-ab84-d45f17fb339e",
+                    "title": "Stock Market Recap: Why Was the Market Up Today?",
+                    "description": "As of Monday, January 13, 2025, the U.S. stock market showed mixed performance. The Dow Jones Industrial Average demonstrated resilience, ticking up about",
+                    "keywords": "",
+                    "snippet": "Major Market Indexes Performance\n\nAs of Monday, January 13, 2025, the U.S. stock market showed mixed performance. The Dow Jones Industrial Average demonstrated ...",
+                    "url": "https://thestockmarketwatch.com/stock-market-news/stock-market-recap-why-was-the-market-up-today-january-13-2025-2/48732/",
+                    "image_url": "https://thestockmarketwatch.com/stock-market-news/wp-content/uploads/2024/08/5.jpg",
+                    "language": "en",
+                    "published_at": "2025-01-13T22:01:30.000000Z",
+                    "source": "thestockmarketwatch.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "AAPL",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 8.593123,
+                            "sentiment_score": -0.1531,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>Apple</em> (AAPL): Shares declined o[+295 characters]",
+                                    "sentiment": -0.1531,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GOOGL",
+                            "name": "Alphabet Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 17.219688,
+                            "sentiment_score": 0.4472,
+                            "highlights": [
+                                {
+                                    "highlight": "Nvidia (NVDA) dropped about 3%, while Me[+324 characters]",
+                                    "sentiment": 0.4472,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "NVDA",
+                            "name": "NVIDIA Corporation",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 9.841284,
+                            "sentiment_score": 0.4472,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>Nvidia</em> (NVDA) dropped about 3%,[+315 characters]",
+                                    "sentiment": 0.4472,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFT",
+                            "name": "Microsoft Corporation",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 8.840242,
+                            "sentiment_score": 0.4472,
+                            "highlights": [
+                                {
+                                    "highlight": "Nvidia (NVDA) dropped about 3%, while Me[+315 characters]",
+                                    "sentiment": 0.4472,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MRNA",
+                            "name": "Moderna, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Healthcare",
+                            "match_score": 10.060289,
+                            "sentiment_score": 0.296,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>Moderna</em> (MRNA): Shares plummete[+234 characters]",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "uuid": "c0cb2d8a-5413-487b-ba5e-e2f407935273",
+                    "title": "Stock Market Recap: Why Was the Market Up Today?",
+                    "description": "As of Monday, January 13, 2025, the U.S. stock market showed mixed performance. The Dow Jones Industrial Average demonstrated resilience, ticking up about",
+                    "keywords": "",
+                    "snippet": "Major Market Indexes Performance\n\nAs of Monday, January 13, 2025, the U.S. stock market showed mixed performance. The Dow Jones Industrial Average demonstrated ...",
+                    "url": "https://thestockmarketwatch.com/stock-market-news/stock-market-recap-why-was-the-market-up-today-january-13-2025/48731/",
+                    "image_url": "https://thestockmarketwatch.com/stock-market-news/wp-content/uploads/2024/08/5.jpg",
+                    "language": "en",
+                    "published_at": "2025-01-13T19:28:32.000000Z",
+                    "source": "thestockmarketwatch.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "AAPL",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 8.208618,
+                            "sentiment_score": 0.5423,
+                            "highlights": [
+                                {
+                                    "highlight": "Apple\u2019s Market Share Concerns: <em>App[+176 characters]",
+                                    "sentiment": 0.5423,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GOOGL",
+                            "name": "Alphabet Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 16.39753,
+                            "sentiment_score": 0.5423,
+                            "highlights": [
+                                {
+                                    "highlight": "Nvidia (NVDA) dropped about 3%, while Me[+317 characters]",
+                                    "sentiment": 0.5423,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "NVDA",
+                            "name": "NVIDIA Corporation",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 11.433926,
+                            "sentiment_score": 0.69325,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>Nvidia</em> (NVDA) dropped about 3%,[+308 characters]",
+                                    "sentiment": 0.5423,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Super Micro Computer (SMCI), Micron (MU)[+277 characters]",
+                                    "sentiment": 0.8442,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFT",
+                            "name": "Microsoft Corporation",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 8.442961,
+                            "sentiment_score": 0.5423,
+                            "highlights": [
+                                {
+                                    "highlight": "Nvidia (NVDA) dropped about 3%, while Me[+308 characters]",
+                                    "sentiment": 0.5423,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "SMCI",
+                            "name": "Super Micro Computer, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 17.531898,
+                            "sentiment_score": 0.6369,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>Super</em> <em>Micro</em> <em>Comput[+295 characters]",
+                                    "sentiment": 0.6369,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MRNA",
+                            "name": "Moderna, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Healthcare",
+                            "match_score": 9.601896,
+                            "sentiment_score": 0.296,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>Moderna</em> (MRNA): Shares plummete[+258 characters]",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "UNHD.BA",
+                            "name": "UNITEDHEALTH GROUP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 17.958477,
+                            "sentiment_score": 0.296,
+                            "highlights": [
+                                {
+                                    "highlight": "Healthcare Sector Update: <em>UnitedHeal[+308 characters]",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,827 @@
+{
+    "meta": {
+        "found": 14,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "c898e7a9-5a03-4f71-b439-04ad7ee4977a",
+            "title": "Meta Platforms Inc. (META): DCF Valuation: Is The Stock Undervalued?",
+            "description": "",
+            "keywords": "",
+            "snippet": "As part of a new series, each week we typically conduct a DCF on one of the companies in our screens. This week we thought we\u2019d take a look at one of the stoc...",
+            "url": "https://acquirersmultiple.com/2025/03/meta-platforms-inc-meta-dcf-valuation-is-the-stock-undervalued-3/",
+            "image_url": "https://acquirersmultiple.com/wp-content/uploads/2015/06/rocketsquare_orange_175x175-100x100.png",
+            "language": "en",
+            "published_at": "2025-03-20T23:37:13.000000Z",
+            "source": "acquirersmultiple.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 66.616356,
+                    "sentiment_score": 0.1909,
+                    "highlights": [
+                        {
+                            "highlight": "This week we thought we\u2019d take a look [+280 characters]",
+                            "sentiment": 0.3818,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Meta</em> <em>Platforms</em> <em>Inc</em>. (META): DCF Valuation: Is The Stock Undervalued?",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": [
+                {
+                    "uuid": "14f6ad7b-77f4-4003-b95d-76a1dcbde0c9",
+                    "title": "Meta Platforms, Inc. (META): A Bull Case Theory",
+                    "description": "We came across a\u00a0bullish thesis\u00a0on Meta Platforms, Inc. (META) on Substack by Pacific Northwest Edge. In this article, we will summarize the bulls\u2019 thesis on META. Meta Platforms, Inc.",
+                    "keywords": "",
+                    "snippet": "We came across a bullish thesis on Meta Platforms, Inc. (META) on Substack by Pacific Northwest Edge. In this article, we will summarize the bulls\u2019 thesis on ...",
+                    "url": "https://www.insidermonkey.com/blog/meta-platforms-inc-meta-a-bull-case-theory-4-1487680/",
+                    "image_url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/12/08081106/WLDS-insidermonkey-1702041063793.jpg",
+                    "language": "en",
+                    "published_at": "2025-03-20T22:32:44.000000Z",
+                    "source": "insidermonkey.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "META",
+                            "name": "Meta Platforms Inc",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 71.64818,
+                            "sentiment_score": 0.342567,
+                            "highlights": [
+                                {
+                                    "highlight": "We came across a bullish thesis on <em>M[+354 characters]",
+                                    "sentiment": 0.5574,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Meta</em> <em>Platforms</em>, <em>In[+207 characters]",
+                                    "sentiment": 0.4703,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Meta</em> <em>Platforms</em>, <em>Inc</em>. (META): A Bull Case Theory",
+                                    "sentiment": 0,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "uuid": "21ca3701-48ae-485a-a4d7-d363d97c3765",
+                    "title": "Top Research Reports for Apple, Meta Platforms & Chevron",
+                    "description": "Today's Research Daily features new research reports on 16 major stocks, including Apple Inc. (AAPL), Meta Platforms, Inc. (META) and Chevron Corporation (CVX), as well as two micro-cap stocks Taylor Devices, Inc. (TAYD) and GSI Technology, Inc. (GSIT).",
+                    "keywords": "stock, stocks, investment, investment advice, investing, online trading, online investment, online stock trading, stock market, financial, financial planning, quote, quotes, stock quotes",
+                    "snippet": "Thursday, March 20, 2025\n\n\n\nThe Zacks Research Daily presents the best research output of our analyst team. Today's Research Daily features new research reports...",
+                    "url": "https://www.zacks.com/research-daily/2432978/top-research-reports-for-apple-meta-platforms-chevron?cid=CS-ZC-FT-research_daily-2432978",
+                    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/ad/429.jpg",
+                    "language": "en",
+                    "published_at": "2025-03-20T21:34:00.000000Z",
+                    "source": "zacks.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "J1CI34.SA",
+                            "name": "Johnson Controls International plc",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "br",
+                            "type": "equity",
+                            "industry": "Industrials",
+                            "match_score": 22.702532,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "(GLW) and <em>Johnson</em> <em>Controls<[+324 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "H1ES34.SA",
+                            "name": "Hess Corporation",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "br",
+                            "type": "equity",
+                            "industry": "Energy",
+                            "match_score": 14.91442,
+                            "sentiment_score": 0.3182,
+                            "highlights": [
+                                {
+                                    "highlight": "Further, the planned acquisition of <em>[+221 characters]",
+                                    "sentiment": 0.3182,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TAYD",
+                            "name": "Taylor Devices, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Industrials",
+                            "match_score": 23.629644,
+                            "sentiment_score": 0.3428,
+                            "highlights": [
+                                {
+                                    "highlight": "(CVX), as well as two micro-cap stocks <[+242 characters]",
+                                    "sentiment": 0.2732,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "(You can read the full research report o[+178 characters]",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Nevertheless, <em>Taylor</em> <em>Device[+299 characters]",
+                                    "sentiment": 0.802,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "(You can read the full research report o[+171 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL.BA",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 25.522758,
+                            "sentiment_score": 0.43266,
+                            "highlights": [
+                                {
+                                    "highlight": "Today's Research Daily features new rese[+225 characters]",
+                                    "sentiment": 0.2732,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "The expanding content portfolio of <em>A[+288 characters]",
+                                    "sentiment": 0.25,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Introduction of <em>Apple</em> Intellige[+273 characters]",
+                                    "sentiment": 0.8519,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "(You can read the full research report o[+247 characters]",
+                                    "sentiment": 0.5859,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Top Research Reports for <em>Apple</em>, Meta Platforms & Chevron",
+                                    "sentiment": 0.2023,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "CVXD.BA",
+                            "name": "CHEVRON CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 40.641033,
+                            "sentiment_score": 0.257167,
+                            "highlights": [
+                                {
+                                    "highlight": "(META) and <em>Chevron</em> <em>Corp</em[+258 characters]",
+                                    "sentiment": 0.2732,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "(You can read the full research report o[+169 characters]",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Top Research Reports for Apple, Meta Platforms & <em>Chevron</em>",
+                                    "sentiment": 0.2023,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "PFED.BA",
+                            "name": "PFIZER INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 11.409287,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "(You can read the full research report o[+187 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPLD.BA",
+                            "name": "APPLE INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 25.522758,
+                            "sentiment_score": 0.43266,
+                            "highlights": [
+                                {
+                                    "highlight": "Today's Research Daily features new rese[+225 characters]",
+                                    "sentiment": 0.2732,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "The expanding content portfolio of <em>A[+288 characters]",
+                                    "sentiment": 0.25,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Introduction of <em>Apple</em> Intellige[+273 characters]",
+                                    "sentiment": 0.8519,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "(You can read the full research report o[+247 characters]",
+                                    "sentiment": 0.5859,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Top Research Reports for <em>Apple</em>, Meta Platforms & Chevron",
+                                    "sentiment": 0.2023,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPLC.BA",
+                            "name": "APPLE INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 25.522732,
+                            "sentiment_score": 0.43266,
+                            "highlights": [
+                                {
+                                    "highlight": "Today's Research Daily features new rese[+225 characters]",
+                                    "sentiment": 0.2732,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "The expanding content portfolio of <em>A[+288 characters]",
+                                    "sentiment": 0.25,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Introduction of <em>Apple</em> Intellige[+273 characters]",
+                                    "sentiment": 0.8519,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "(You can read the full research report o[+247 characters]",
+                                    "sentiment": 0.5859,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Top Research Reports for <em>Apple</em>, Meta Platforms & Chevron",
+                                    "sentiment": 0.2023,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPLCL.SN",
+                            "name": "APPLE INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 25.52266,
+                            "sentiment_score": 0.43266,
+                            "highlights": [
+                                {
+                                    "highlight": "Today's Research Daily features new rese[+225 characters]",
+                                    "sentiment": 0.2732,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "The expanding content portfolio of <em>A[+288 characters]",
+                                    "sentiment": 0.25,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Introduction of <em>Apple</em> Intellige[+273 characters]",
+                                    "sentiment": 0.8519,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "(You can read the full research report o[+247 characters]",
+                                    "sentiment": 0.5859,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Top Research Reports for <em>Apple</em>, Meta Platforms & Chevron",
+                                    "sentiment": 0.2023,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL.SN",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 25.52266,
+                            "sentiment_score": 0.43266,
+                            "highlights": [
+                                {
+                                    "highlight": "Today's Research Daily features new rese[+225 characters]",
+                                    "sentiment": 0.2732,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "The expanding content portfolio of <em>A[+288 characters]",
+                                    "sentiment": 0.25,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Introduction of <em>Apple</em> Intellige[+273 characters]",
+                                    "sentiment": 0.8519,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "(You can read the full research report o[+247 characters]",
+                                    "sentiment": 0.5859,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Top Research Reports for <em>Apple</em>, Meta Platforms & Chevron",
+                                    "sentiment": 0.2023,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "PFECL.SN",
+                            "name": "PFIZER INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 11.409232,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "(You can read the full research report o[+187 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "PFE.SN",
+                            "name": "Pfizer Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "Healthcare",
+                            "match_score": 11.409232,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "(You can read the full research report o[+187 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 25.522652,
+                            "sentiment_score": 0.43266,
+                            "highlights": [
+                                {
+                                    "highlight": "Today's Research Daily features new rese[+225 characters]",
+                                    "sentiment": 0.2732,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "The expanding content portfolio of <em>A[+288 characters]",
+                                    "sentiment": 0.25,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Introduction of <em>Apple</em> Intellige[+273 characters]",
+                                    "sentiment": 0.8519,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "(You can read the full research report o[+247 characters]",
+                                    "sentiment": 0.5859,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Top Research Reports for <em>Apple</em>, Meta Platforms & Chevron",
+                                    "sentiment": 0.2023,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "META",
+                            "name": "Meta Platforms Inc",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 9.026968,
+                            "sentiment_score": 0.2732,
+                            "highlights": [
+                                {
+                                    "highlight": "(AAPL), <em>Meta</em> <em>Platforms</em>[+296 characters]",
+                                    "sentiment": 0.2732,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GSIT",
+                            "name": "GSI Technology, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 26.918903,
+                            "sentiment_score": 0.1468,
+                            "highlights": [
+                                {
+                                    "highlight": "(TAYD) and <em>GSI</em> <em>Technology</[+295 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Nevertheless, <em>GSI</em> <em>Technolog[+259 characters]",
+                                    "sentiment": 0.4404,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "(You can read the full research report o[+187 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "JCI",
+                            "name": "Johnson Controls International plc",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Industrials",
+                            "match_score": 22.702784,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "(GLW) and <em>Johnson</em> <em>Controls<[+324 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "HES",
+                            "name": "Hess Corporation",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Energy",
+                            "match_score": 14.911233,
+                            "sentiment_score": 0.3182,
+                            "highlights": [
+                                {
+                                    "highlight": "Further, the planned acquisition of <em>[+221 characters]",
+                                    "sentiment": 0.3182,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "PFE",
+                            "name": "Pfizer Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Healthcare",
+                            "match_score": 11.409294,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "(You can read the full research report o[+187 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "PFE-WI",
+                            "name": "Pfizer, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 11.409294,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "(You can read the full research report o[+187 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL.NE",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ca",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 25.527452,
+                            "sentiment_score": 0.43266,
+                            "highlights": [
+                                {
+                                    "highlight": "Today's Research Daily features new rese[+225 characters]",
+                                    "sentiment": 0.2732,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "The expanding content portfolio of <em>A[+288 characters]",
+                                    "sentiment": 0.25,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Introduction of <em>Apple</em> Intellige[+273 characters]",
+                                    "sentiment": 0.8519,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "(You can read the full research report o[+247 characters]",
+                                    "sentiment": 0.5859,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Top Research Reports for <em>Apple</em>, Meta Platforms & Chevron",
+                                    "sentiment": 0.2023,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "APC.DE",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 25.5279,
+                            "sentiment_score": 0.43266,
+                            "highlights": [
+                                {
+                                    "highlight": "Today's Research Daily features new rese[+225 characters]",
+                                    "sentiment": 0.2732,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "The expanding content portfolio of <em>A[+288 characters]",
+                                    "sentiment": 0.25,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Introduction of <em>Apple</em> Intellige[+273 characters]",
+                                    "sentiment": 0.8519,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "(You can read the full research report o[+247 characters]",
+                                    "sentiment": 0.5859,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Top Research Reports for <em>Apple</em>, Meta Platforms & Chevron",
+                                    "sentiment": 0.2023,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "PFE.DE",
+                            "name": "Pfizer Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Healthcare",
+                            "match_score": 11.408738,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "(You can read the full research report o[+187 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AHC.DE",
+                            "name": "Hess Corporation",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Energy",
+                            "match_score": 14.916249,
+                            "sentiment_score": 0.3182,
+                            "highlights": [
+                                {
+                                    "highlight": "Further, the planned acquisition of <em>[+221 characters]",
+                                    "sentiment": 0.3182,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TYIA.DE",
+                            "name": "Johnson Controls International plc",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Industrials",
+                            "match_score": 22.70319,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "(GLW) and <em>Johnson</em> <em>Controls<[+324 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL.MX",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 25.52826,
+                            "sentiment_score": 0.43266,
+                            "highlights": [
+                                {
+                                    "highlight": "Today's Research Daily features new rese[+225 characters]",
+                                    "sentiment": 0.2732,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "The expanding content portfolio of <em>A[+288 characters]",
+                                    "sentiment": 0.25,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Introduction of <em>Apple</em> Intellige[+273 characters]",
+                                    "sentiment": 0.8519,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "(You can read the full research report o[+247 characters]",
+                                    "sentiment": 0.5859,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Top Research Reports for <em>Apple</em>, Meta Platforms & Chevron",
+                                    "sentiment": 0.2023,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "PFE.MX",
+                            "name": "Pfizer Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Healthcare",
+                            "match_score": 11.40892,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "(You can read the full research report o[+187 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "0Y7S.L",
+                            "name": "Johnson Controls International plc",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "gb",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 22.703772,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "(GLW) and <em>Johnson</em> <em>Controls<[+324 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "0J50.L",
+                            "name": "Hess Corporation",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "gb",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 14.915508,
+                            "sentiment_score": 0.3182,
+                            "highlights": [
+                                {
+                                    "highlight": "Further, the planned acquisition of <em>[+221 characters]",
+                                    "sentiment": 0.3182,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

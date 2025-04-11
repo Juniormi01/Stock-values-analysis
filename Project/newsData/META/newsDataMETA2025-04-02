@@ -1,0 +1,54 @@
+{
+    "meta": {
+        "found": 14,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "06cda9e2-3939-4d84-8d49-90f3e814568f",
+            "title": "Meta (META) Seeks Settlement to Avert Antitrust Trial",
+            "description": "Meta Platforms is in discussions for a settlement to avoid a major antitrust trial.    Current Wall Street forecasts suggest significant upside potential f",
+            "keywords": "GuruFocus, Article, News, GuruFocus News, META",
+            "snippet": "Meta Platforms is in discussions for a settlement to avoid a major antitrust trial.\n\nCurrent Wall Street forecasts suggest significant upside potential for META...",
+            "url": "https://www.gurufocus.com/news/2761082/meta-meta-seeks-settlement-to-avert-antitrust-trial",
+            "image_url": "https://static.gurufocus.com/logos/0C000098V0.png?20",
+            "language": "en",
+            "published_at": "2025-04-02T23:55:36.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 22.162464,
+                    "sentiment_score": 0.2993,
+                    "highlights": [
+                        {
+                            "highlight": "Meta Platforms' Antitrust Challenges\n\nUn[+201 characters]",
+                            "sentiment": -0.1027,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "For further detailed estimates, visit th[+271 characters]",
+                            "sentiment": 0.7506,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "For comprehensive data, visit the <em>Me[+71 characters]",
+                            "sentiment": 0.25,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

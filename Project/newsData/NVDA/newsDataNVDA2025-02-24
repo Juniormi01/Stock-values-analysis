@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "found": 79,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "4b5fea14-4bd7-4846-909d-f1b05c7e6816",
+            "title": "Nvidia Q4 Preview: Problems With The Jevons Paradox (NASDAQ:NVDA)",
+            "description": "Nvidia faces growth challenges as Blackwell GPUs reduce demand, competitors like AMD cut costs, and delays raise risks. Click to read why NVDA stock is a Strong Sell.",
+            "keywords": "",
+            "snippet": "This account is managed by Noah's Arc Capital Management. Our goal is provide Wall Street level insights to main street investors. Our research focus is mainly ...",
+            "url": "https://seekingalpha.com/article/4761427-nvidia-q4-preview-problems-with-jevons-paradox",
+            "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/493247947/image_493247947.jpg?io=getty-c-w1536",
+            "language": "en",
+            "published_at": "2025-02-24T23:27:11.000000Z",
+            "source": "seekingalpha.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 58.69023,
+                    "sentiment_score": -0.4767,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Nvidia</em> Q4 Preview: Problems With The Jevons Paradox (<em>NASDAQ:NVDA</em>)",
+                            "sentiment": -0.4767,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

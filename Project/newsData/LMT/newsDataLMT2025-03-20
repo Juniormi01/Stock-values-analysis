@@ -1,0 +1,216 @@
+{
+    "meta": {
+        "found": 2,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "0736f659-201c-4670-a95f-48b6a02044fb",
+            "title": "Is Lockheed Martin (LMT) The Best Industrial Dividend Stock to Invest in Now?",
+            "description": "We recently published a list of 12 Best Industrial Dividend Stocks to Invest in Now.",
+            "keywords": "",
+            "snippet": "We recently published a list of 12 Best Industrial Dividend Stocks to Invest in Now. In this article, we are going to take a look at where Lockheed Martin Corpo...",
+            "url": "https://www.insidermonkey.com/blog/is-lockheed-martin-lmt-the-best-industrial-dividend-stock-to-invest-in-now-1487917/",
+            "image_url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/11/22153931/CLMT-insidermonkey-1700685569166.jpg",
+            "language": "en",
+            "published_at": "2025-03-20T21:31:02.000000Z",
+            "source": "insidermonkey.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 93.21457,
+                    "sentiment_score": 0.65104,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+297 characters]",
+                            "sentiment": 0.8481,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Co[+308 characters]",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In the fourth quarter of 2024, <em>Lockh[+328 characters]",
+                            "sentiment": 0.872,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "At the end of Q4 2024, 65 hedge funds in[+318 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Is <em>Lockheed</em> <em>Martin</em> (LMT) The Best Industrial Dividend Stock to Invest in Now?",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LMTB34.SA",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 76.587875,
+                    "sentiment_score": 0.65104,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+288 characters]",
+                            "sentiment": 0.8481,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Co[+290 characters]",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In the fourth quarter of 2024, <em>Lockh[+319 characters]",
+                            "sentiment": 0.872,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "At the end of Q4 2024, 65 hedge funds in[+309 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Is <em>Lockheed</em> <em>Martin</em> (LMT) The Best Industrial Dividend Stock to Invest in Now?",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LOM.DE",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 76.59282,
+                    "sentiment_score": 0.65104,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+288 characters]",
+                            "sentiment": 0.8481,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Co[+290 characters]",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In the fourth quarter of 2024, <em>Lockh[+319 characters]",
+                            "sentiment": 0.872,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "At the end of Q4 2024, 65 hedge funds in[+309 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Is <em>Lockheed</em> <em>Martin</em> (LMT) The Best Industrial Dividend Stock to Invest in Now?",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LMT.MX",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 76.593475,
+                    "sentiment_score": 0.65104,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+288 characters]",
+                            "sentiment": 0.8481,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Co[+290 characters]",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In the fourth quarter of 2024, <em>Lockh[+319 characters]",
+                            "sentiment": 0.872,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "At the end of Q4 2024, 65 hedge funds in[+309 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Is <em>Lockheed</em> <em>Martin</em> (LMT) The Best Industrial Dividend Stock to Invest in Now?",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0R3E.L",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 76.59392,
+                    "sentiment_score": 0.65104,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+288 characters]",
+                            "sentiment": 0.8481,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Co[+290 characters]",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In the fourth quarter of 2024, <em>Lockh[+319 characters]",
+                            "sentiment": 0.872,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "At the end of Q4 2024, 65 hedge funds in[+309 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Is <em>Lockheed</em> <em>Martin</em> (LMT) The Best Industrial Dividend Stock to Invest in Now?",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

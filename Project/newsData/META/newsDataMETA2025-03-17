@@ -1,0 +1,861 @@
+{
+    "meta": {
+        "found": 6,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "20e9d066-d765-4e4e-90e7-9aa6e7a7eb34",
+            "title": "Is Goldman Sachs Group Inc. (NYSE:GS) the Most Profitable Value Stock to Buy Now?",
+            "description": "We recently published a list of 10 Most Profitable Value Stocks to Buy Now. In this article, we are going to take a look at where Goldman Sachs Group Inc.",
+            "keywords": "",
+            "snippet": "We recently published a list of 10 Most Profitable Value Stocks to Buy Now. In this article, we are going to take a look at where Goldman Sachs Group Inc. (NYSE...",
+            "url": "https://www.insidermonkey.com/blog/is-goldman-sachs-group-inc-nysegs-the-most-profitable-value-stock-to-buy-now-1483914/",
+            "image_url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/12/16104556/GCBC-insidermonkey-1702741554367.jpg",
+            "language": "en",
+            "published_at": "2025-03-17T19:31:12.000000Z",
+            "source": "insidermonkey.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 10.177364,
+                    "sentiment_score": 0.5994,
+                    "highlights": [
+                        {
+                            "highlight": "(NVDA) and <em>Tesla</em>, <em>Inc</em>.[+285 characters]",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GS",
+                    "name": "The Goldman Sachs Group, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 54.91578,
+                    "sentiment_score": 0.82855,
+                    "highlights": [
+                        {
+                            "highlight": "(<em>NYSE:GS</em>) stands against other [+277 characters]",
+                            "sentiment": 0.8519,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "(<em>NYSE:GS</em>)\n\nTTM Net Income as of[+282 characters]",
+                            "sentiment": 0.7717,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "(<em>NYSE:GS</em>) is focused on digital[+221 characters]",
+                            "sentiment": 0.9153,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "(<em>NYSE:GS</em>) in its Q4 2024 invest[+345 characters]",
+                            "sentiment": 0.8271,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "(<em>NYSE:GS</em>) ranks 9th on our list[+251 characters]",
+                            "sentiment": 0.901,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "(<em>NYSE:GS</em>) the Most Profitable Value Stock to Buy Now?",
+                            "sentiment": 0.7043,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA34.SA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 10.177155,
+                    "sentiment_score": 0.5994,
+                    "highlights": [
+                        {
+                            "highlight": "(NVDA) and <em>Tesla</em>, <em>Inc</em>.[+285 characters]",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GSGI34.SA",
+                    "name": "The Goldman Sachs Group, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 21.88957,
+                    "sentiment_score": 0.8934,
+                    "highlights": [
+                        {
+                            "highlight": "Global investment bank, <em>The</em> <em[+308 characters]",
+                            "sentiment": 0.8934,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFT.MI",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "it",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 10.040782,
+                    "sentiment_score": 0.5994,
+                    "highlights": [
+                        {
+                            "highlight": "(META), <em>Microsoft</em> <em>Corp</em>[+330 characters]",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA.MI",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "it",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 11.430542,
+                    "sentiment_score": 0.5994,
+                    "highlights": [
+                        {
+                            "highlight": "(MSFT), <em>NVIDIA</em> <em>Corp</em>. ([+306 characters]",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.BA",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 8.771339,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Investors expect the incoming administra[+331 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.BA",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 11.473251,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "(AMZN), <em>Alphabet</em> <em>Inc</em>. [+234 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDAD.BA",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 11.430599,
+                    "sentiment_score": 0.5994,
+                    "highlights": [
+                        {
+                            "highlight": "(MSFT), <em>NVIDIA</em> <em>Corp</em>. ([+306 characters]",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLAD.BA",
+                    "name": "TESLA INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 10.177233,
+                    "sentiment_score": 0.5994,
+                    "highlights": [
+                        {
+                            "highlight": "(NVDA) and <em>Tesla</em>, <em>Inc</em>.[+285 characters]",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GS.BA",
+                    "name": "The Goldman Sachs Group, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 21.890461,
+                    "sentiment_score": 0.8934,
+                    "highlights": [
+                        {
+                            "highlight": "Global investment bank, <em>The</em> <em[+308 characters]",
+                            "sentiment": 0.8934,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTD.BA",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 10.040997,
+                    "sentiment_score": 0.5994,
+                    "highlights": [
+                        {
+                            "highlight": "(META), <em>Microsoft</em> <em>Corp</em>[+330 characters]",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLD.BA",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 8.771335,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Investors expect the incoming administra[+331 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTB.BA",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 10.040997,
+                    "sentiment_score": 0.5994,
+                    "highlights": [
+                        {
+                            "highlight": "(META), <em>Microsoft</em> <em>Corp</em>[+330 characters]",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTC.BA",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 10.040997,
+                    "sentiment_score": 0.5994,
+                    "highlights": [
+                        {
+                            "highlight": "(META), <em>Microsoft</em> <em>Corp</em>[+330 characters]",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLAC.BA",
+                    "name": "TESLA INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 10.177233,
+                    "sentiment_score": 0.5994,
+                    "highlights": [
+                        {
+                            "highlight": "(NVDA) and <em>Tesla</em>, <em>Inc</em>.[+285 characters]",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDAC.BA",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 11.430599,
+                    "sentiment_score": 0.5994,
+                    "highlights": [
+                        {
+                            "highlight": "(MSFT), <em>NVIDIA</em> <em>Corp</em>. ([+306 characters]",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOGLD.BA",
+                    "name": "ALPHABET INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 11.47325,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "(AMZN), <em>Alphabet</em> <em>Inc</em>. [+234 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLC.BA",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 8.771335,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Investors expect the incoming administra[+331 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZN.SN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 12.406796,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "(AAPL), <em>Amazon.com</em>, <em>Inc</em[+259 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 11.473114,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "(AMZN), <em>Alphabet</em> <em>Inc</em>. [+234 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLCL.SN",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 8.771269,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Investors expect the incoming administra[+331 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTCL.SN",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 10.04096,
+                    "sentiment_score": 0.5994,
+                    "highlights": [
+                        {
+                            "highlight": "(META), <em>Microsoft</em> <em>Corp</em>[+330 characters]",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.SN",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 8.771269,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Investors expect the incoming administra[+331 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 11.473114,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "(AMZN), <em>Alphabet</em> <em>Inc</em>. [+234 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZNCL.SN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 12.406737,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "(AAPL), <em>Amazon.com</em>, <em>Inc</em[+259 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGCL.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 11.473114,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "(AMZN), <em>Alphabet</em> <em>Inc</em>. [+234 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 8.771215,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Investors expect the incoming administra[+331 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 12.406617,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "(AAPL), <em>Amazon.com</em>, <em>Inc</em[+259 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 7.35145,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "(AMZN), <em>Alphabet</em> <em>Inc</em>. [+234 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 16.413036,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "(AMZN), <em>Alphabet</em> <em>Inc</em>. [+243 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 9.344837,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "(GOOGL), <em>Meta</em> <em>Platforms</em[+221 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.NE",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ca",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 8.77115,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Investors expect the incoming administra[+331 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZ.DE",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 12.406917,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "(AAPL), <em>Amazon.com</em>, <em>Inc</em[+259 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "APC.DE",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 8.771619,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Investors expect the incoming administra[+331 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ABEA.DE",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 11.473355,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "(AMZN), <em>Alphabet</em> <em>Inc</em>. [+234 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TL0.DE",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 10.177648,
+                    "sentiment_score": 0.5994,
+                    "highlights": [
+                        {
+                            "highlight": "(NVDA) and <em>Tesla</em>, <em>Inc</em>.[+285 characters]",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ABEC.DE",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 11.473338,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "(AMZN), <em>Alphabet</em> <em>Inc</em>. [+234 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOS.DE",
+                    "name": "The Goldman Sachs Group, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 21.890837,
+                    "sentiment_score": 0.8934,
+                    "highlights": [
+                        {
+                            "highlight": "Global investment bank, <em>The</em> <em[+308 characters]",
+                            "sentiment": 0.8934,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZN.MX",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 12.406823,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "(AAPL), <em>Amazon.com</em>, <em>Inc</em[+259 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.MX",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 8.77174,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Investors expect the incoming administra[+331 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.MX",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 11.473438,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "(AMZN), <em>Alphabet</em> <em>Inc</em>. [+234 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG.MX",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 11.473438,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "(AMZN), <em>Alphabet</em> <em>Inc</em>. [+234 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA.MX",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 10.177769,
+                    "sentiment_score": 0.5994,
+                    "highlights": [
+                        {
+                            "highlight": "(NVDA) and <em>Tesla</em>, <em>Inc</em>.[+285 characters]",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GS.MX",
+                    "name": "The Goldman Sachs Group, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 21.88955,
+                    "sentiment_score": 0.8934,
+                    "highlights": [
+                        {
+                            "highlight": "Global investment bank, <em>The</em> <em[+308 characters]",
+                            "sentiment": 0.8934,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

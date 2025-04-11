@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "found": 73,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "2209cabb-bd0b-4988-8974-62cf13734699",
+            "title": "Tesla (TSLA) Reports Q4 Earnings: What Key Metrics Have to Say",
+            "description": "The headline numbers for Tesla (TSLA) give insight into how the company performed in the quarter ended December 2024, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.",
+            "keywords": "stock, stocks, investment, investment advice, investing, online trading, online investment, online stock trading, stock market, financial, financial planning, quote, quotes, stock quotes",
+            "snippet": "This page has not been authorized, sponsored, or otherwise approved or endorsed by the companies represented herein. Each of the company logos represented herei...",
+            "url": "https://www.zacks.com/stock/news/2406202/tesla-tsla-reports-q4-earnings-what-key-metrics-have-to-say?cid=CS-ZC-FT-fundamental_analysis|nfm-2406202",
+            "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default190.jpg",
+            "language": "en",
+            "published_at": "2025-01-29T23:30:05.000000Z",
+            "source": "zacks.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 27.68008,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Tesla</em> (TSLA) Reports Q4 Earnings: What Key Metrics Have to Say",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

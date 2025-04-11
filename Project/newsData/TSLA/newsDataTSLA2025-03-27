@@ -1,0 +1,67 @@
+{
+    "meta": {
+        "found": 53,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "e8a42999-34c2-491c-8335-8512b99a2212",
+            "title": "Auto Tariffs Affect Carmakers, Boost Used Car Retailers; Tesla (TSLA) Gains",
+            "description": "On Thursday, Wall Street saw mixed movements as new tariffs on car imports announced by President Trump affected market sentiment. The S&P 500 (SP500) and Nasda",
+            "keywords": "GuruFocus, Article, News, GuruFocus News, TSLA",
+            "snippet": "On Thursday, Wall Street saw mixed movements as new tariffs on car imports announced by President Trump affected market sentiment. The S&P 500 (SP500) and Nasda...",
+            "url": "https://www.gurufocus.com/news/2754163/auto-tariffs-affect-carmakers-boost-used-car-retailers-tesla-tsla-gains",
+            "image_url": "https://static.gurufocus.com/logos/0C00004EP4.png?20",
+            "language": "en",
+            "published_at": "2025-03-27T23:15:32.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "CAR",
+                    "name": "Avis Budget Group, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 21.78295,
+                    "sentiment_score": 0.5291,
+                    "highlights": [
+                        {
+                            "highlight": "Used car retailers Hertz (HTZ) and <em>A[+283 characters]",
+                            "sentiment": 0.5291,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 27.033764,
+                    "sentiment_score": 0.46045,
+                    "highlights": [
+                        {
+                            "highlight": "Conversely, <em>Tesla</em> (TSLA, Financ[+192 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Auto Tariffs Affect Carmakers, Boost Used Car Retailers; <em>Tesla</em> (TSLA) Gains",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

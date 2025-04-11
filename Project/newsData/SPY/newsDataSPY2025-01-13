@@ -1,0 +1,373 @@
+{
+    "meta": {
+        "found": 1,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "7728573e-e264-41a8-9780-04108b695ad1",
+            "title": "US Stock Futures Indicate Lower Opening On Monday After Last Week's Steep Fall: Analyst Says It's A 'Buying Opportunity,' But Market May Dip Further If This Happens - Advanced Micro Devices (NASDAQ:AM",
+            "description": "U.S. stock futures declined on Monday following Friday's steep fall. Futures of all four major indices fell in premarket trade.",
+            "keywords": "",
+            "snippet": "U.S. stock futures declined on Monday following Friday\u2019s steep fall. Futures of all four major indices fell in premarket trade.\n\nFriday\u2019s decline followed a...",
+            "url": "https://www.benzinga.com/25/01/42940228/us-stocks-to-open-lower-as-index-futures-decline-analysts-see-a-buying-opportunity",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/13/New-York---May-22-New-York-Stock-Exchang.jpeg?width=1200&height=800&fit=crop",
+            "language": "en",
+            "published_at": "2025-01-13T11:34:10.000000Z",
+            "source": "benzinga.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "0K8J.L",
+                    "name": "Nordstrom, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 13.399203,
+                    "sentiment_score": 0.5859,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Nordstrom</em> <em>Inc</em> JWN was [+146 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "QQQ",
+                    "name": "Invesco QQQ Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 29.575943,
+                    "sentiment_score": 0.5106,
+                    "highlights": [
+                        {
+                            "highlight": "Futures Change (+/-) Nasdaq 100 -1.27% S[+259 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 33.54712,
+                    "sentiment_score": 0.5106,
+                    "highlights": [
+                        {
+                            "highlight": "Futures Change (+/-) Nasdaq 100 -1.27% S[+286 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDC34.SA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 10.130668,
+                    "sentiment_score": 0.5267,
+                    "highlights": [
+                        {
+                            "highlight": "This included semiconductor companies su[+238 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "J1WN34.SA",
+                    "name": "Nordstrom, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 13.396903,
+                    "sentiment_score": 0.5859,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Nordstrom</em> <em>Inc</em> JWN was [+146 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMD",
+                    "name": "Advanced Micro Devices, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 50.885887,
+                    "sentiment_score": 0.022,
+                    "highlights": [
+                        {
+                            "highlight": "This included semiconductor companies su[+247 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "US Stock Futures Indicate Lower Opening On Monday After Last Week's Steep Fall: Analyst Says It's A 'Buying Opportunity,' But Market May Dip Further If This Happens - <em>Advanced</em> <em>Micro</em> <em>Devices</em> (NASDAQ:AM",
+                            "sentiment": -0.296,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 14.897656,
+                    "sentiment_score": 0.5267,
+                    "highlights": [
+                        {
+                            "highlight": "This included semiconductor companies su[+238 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "CMTL",
+                    "name": "Comtech Telecommunications Corp.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 16.83713,
+                    "sentiment_score": -0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "Stocks In Focus:\n\n<em>Comtech</em> <em>T[+199 characters]",
+                            "sentiment": -0.0258,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "WDFC",
+                    "name": "WD-40 Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Basic Materials",
+                    "match_score": 21.439898,
+                    "sentiment_score": 0.296,
+                    "highlights": [
+                        {
+                            "highlight": "<em>WD</em>-<em>40</em> <em>Company</em>[+319 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "KBH",
+                    "name": "KB Home",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 12.915079,
+                    "sentiment_score": 0.296,
+                    "highlights": [
+                        {
+                            "highlight": "<em>KB</em> <em>Home</em> KBH was down 0[+166 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "JWN",
+                    "name": "Nordstrom, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 13.395932,
+                    "sentiment_score": 0.5859,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Nordstrom</em> <em>Inc</em> JWN was [+146 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "QUBT",
+                    "name": "Quantum Computing, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 22.337732,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Rigetti Computing Inc RGTI was down 16.0[+360 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA.BA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 10.130118,
+                    "sentiment_score": 0.5267,
+                    "highlights": [
+                        {
+                            "highlight": "This included semiconductor companies su[+238 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^BSESN",
+                    "name": "S&P BSE SENSEX",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "in",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 27.190178,
+                    "sentiment_score": -0.5267,
+                    "highlights": [
+                        {
+                            "highlight": "Asian markets closed lower on Monday as [+270 characters]",
+                            "sentiment": -0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^N225",
+                    "name": "Nikkei 225",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "jp",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 15.931103,
+                    "sentiment_score": -0.5267,
+                    "highlights": [
+                        {
+                            "highlight": "Asian markets closed lower on Monday as [+252 characters]",
+                            "sentiment": -0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVD.DE",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 10.129236,
+                    "sentiment_score": 0.5267,
+                    "highlights": [
+                        {
+                            "highlight": "This included semiconductor companies su[+238 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA.MX",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 10.129091,
+                    "sentiment_score": 0.5267,
+                    "highlights": [
+                        {
+                            "highlight": "This included semiconductor companies su[+238 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "JWN.MX",
+                    "name": "Nordstrom, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 13.394414,
+                    "sentiment_score": 0.5859,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Nordstrom</em> <em>Inc</em> JWN was [+146 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 33.54489,
+                    "sentiment_score": 0.5106,
+                    "highlights": [
+                        {
+                            "highlight": "Futures Change (+/-) Nasdaq 100 -1.27% S[+286 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

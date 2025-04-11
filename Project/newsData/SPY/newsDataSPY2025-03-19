@@ -1,0 +1,62 @@
+{
+    "meta": {
+        "found": 6,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "15d77f52-d4d7-4d80-a4d9-cef095f82f35",
+            "title": "Fed Holds Rates, Slows Balance Sheet Runoff as Markets Assess Next Steps",
+            "description": "As expected, the Federal Reserve kept interest rates unchanged at 4.25%-4.50% on Wednesday, pointing to solid economic growth, low unemployment, and somewhat el",
+            "keywords": "GuruFocus, Article, News, Muslim Farooque, SPY",
+            "snippet": "As expected, the Federal Reserve kept interest rates unchanged at 4.25%-4.50% on Wednesday, pointing to solid economic growth, low unemployment, and somewhat el...",
+            "url": "https://www.gurufocus.com/news/2743171/fed-holds-rates-slows-balance-sheet-runoff-as-markets-assess-next-steps",
+            "image_url": "https://static.gurufocus.com/1732803573856661504.png",
+            "language": "en",
+            "published_at": "2025-03-19T19:39:41.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 72.98533,
+                    "sentiment_score": -0.128,
+                    "highlights": [
+                        {
+                            "highlight": "Following the announcement, the <em>SPDR[+274 characters]",
+                            "sentiment": -0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 72.98984,
+                    "sentiment_score": -0.128,
+                    "highlights": [
+                        {
+                            "highlight": "Following the announcement, the <em>SPDR[+274 characters]",
+                            "sentiment": -0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

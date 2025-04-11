@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "found": 1,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "c6f4c5aa-4394-49fc-bd2a-641f1a21b6b4",
+            "title": "Lockheed Martin Secures a $266M Contract to Aid F-16 Jet Program",
+            "description": "LMT's unit secures a $266 million contract to provide operational flight program updates and transfer F-16 aircraft from Denmark to Argentina.",
+            "keywords": "stock, stocks, investment, investment advice, investing, online trading, online investment, online stock trading, stock market, financial, financial planning, quote, quotes, stock quotes",
+            "snippet": "This page has not been authorized, sponsored, or otherwise approved or endorsed by the companies represented herein. Each of the company logos represented herei...",
+            "url": "https://www.zacks.com/stock/news/2429189/lockheed-martin-secures-a-266m-contract-to-aid-f-16-jet-program?cid=CS-ZC-FT-analyst_blog|company_news_corporate_actions-2429189",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/cf/36324.jpg",
+            "language": "en",
+            "published_at": "2025-03-12T14:58:00.000000Z",
+            "source": "zacks.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 58.279053,
+                    "sentiment_score": 0.3182,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> Secures a $266M Contract to Aid F-16 Jet Program",
+                            "sentiment": 0.3182,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

@@ -1,0 +1,512 @@
+{
+    "meta": {
+        "found": 65,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "27b7093f-7dcb-45af-932c-f4c8353d6a23",
+            "title": "Capital International Investors Expands Stake in Vail Resorts Inc",
+            "description": "On January 31, 2025, Capital International Investors (Trades, Portfolio) made a significant move by acquiring an additional 912,317 shares of Vail Resorts Inc (",
+            "keywords": "GuruFocus, Article, News, GuruFocus News, MTN, AAPL, AVGO, META, GOOG, MSFT",
+            "snippet": "On January 31, 2025, Capital International Investors (Trades, Portfolio) made a significant move by acquiring an additional 912,317 shares of Vail Resorts Inc (...",
+            "url": "https://www.gurufocus.com/news/2687879/capital-international-investors-expands-stake-in-vail-resorts-inc",
+            "image_url": "https://static.gurufocus.com/images/global_logo_twitter_card.png",
+            "language": "en",
+            "published_at": "2025-02-07T22:15:15.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "0YXG.L",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 16.102058,
+                    "sentiment_score": 0.4939,
+                    "highlights": [
+                        {
+                            "highlight": "With an estimated market value of approx[+315 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 8.511959,
+                    "sentiment_score": 0.4939,
+                    "highlights": [
+                        {
+                            "highlight": "With an estimated market value of approx[+315 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.381474,
+                    "sentiment_score": 0.4939,
+                    "highlights": [
+                        {
+                            "highlight": "With an estimated market value of approx[+315 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGO",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 16.101866,
+                    "sentiment_score": 0.4939,
+                    "highlights": [
+                        {
+                            "highlight": "With an estimated market value of approx[+315 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGOP",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 16.101616,
+                    "sentiment_score": 0.4939,
+                    "highlights": [
+                        {
+                            "highlight": "With an estimated market value of approx[+315 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ABEA.DE",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.380328,
+                    "sentiment_score": 0.4939,
+                    "highlights": [
+                        {
+                            "highlight": "With an estimated market value of approx[+315 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MTN",
+                    "name": "Vail Resorts, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 154.01396,
+                    "sentiment_score": 0.62959,
+                    "highlights": [
+                        {
+                            "highlight": "On January 31, 2025, Capital Internation[+352 characters]",
+                            "sentiment": 0.8176,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Vail</em> <em>Resorts</em> <em>Inc</[+289 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "With a market capitalization of $6.28 bi[+315 characters]",
+                            "sentiment": 0.6486,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Impact of the Transaction\n\nThe acquisiti[+266 characters]",
+                            "sentiment": 0.802,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The total shares held now account for 12[+315 characters]",
+                            "sentiment": 0.8176,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Performance and Growth Indicators\n\n<em>V[+318 characters]",
+                            "sentiment": 0.9136,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Other Gurus Holding <em>Vail</em> <em>Re[+329 characters]",
+                            "sentiment": 0.5574,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Conclusion\n\nCapital International Invest[+185 characters]",
+                            "sentiment": 0.8519,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "For value investors, the current valuati[+286 characters]",
+                            "sentiment": 0.7845,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Capital International Investors Expands Stake in <em>Vail</em> <em>Resorts</em> <em>Inc</em>",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ABEC.DE",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.380182,
+                    "sentiment_score": 0.4939,
+                    "highlights": [
+                        {
+                            "highlight": "With an estimated market value of approx[+315 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "1YD.DE",
+                    "name": "Broadcom Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 16.100746,
+                    "sentiment_score": 0.4939,
+                    "highlights": [
+                        {
+                            "highlight": "With an estimated market value of approx[+315 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.MX",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.379631,
+                    "sentiment_score": 0.4939,
+                    "highlights": [
+                        {
+                            "highlight": "With an estimated market value of approx[+315 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG.MX",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.379631,
+                    "sentiment_score": 0.4939,
+                    "highlights": [
+                        {
+                            "highlight": "With an estimated market value of approx[+315 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGO.MX",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 16.100452,
+                    "sentiment_score": 0.4939,
+                    "highlights": [
+                        {
+                            "highlight": "With an estimated market value of approx[+315 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 10.872108,
+                    "sentiment_score": 0.4939,
+                    "highlights": [
+                        {
+                            "highlight": "With an estimated market value of approx[+324 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0LK3.L",
+                    "name": "Vail Resorts, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 153.95023,
+                    "sentiment_score": 0.62959,
+                    "highlights": [
+                        {
+                            "highlight": "On January 31, 2025, Capital Internation[+352 characters]",
+                            "sentiment": 0.8176,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Vail</em> <em>Resorts</em> <em>Inc</[+289 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "With a market capitalization of $6.28 bi[+315 characters]",
+                            "sentiment": 0.6486,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Impact of the Transaction\n\nThe acquisiti[+266 characters]",
+                            "sentiment": 0.802,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The total shares held now account for 12[+315 characters]",
+                            "sentiment": 0.8176,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Performance and Growth Indicators\n\n<em>V[+318 characters]",
+                            "sentiment": 0.9136,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Other Gurus Holding <em>Vail</em> <em>Re[+329 characters]",
+                            "sentiment": 0.5574,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Conclusion\n\nCapital International Invest[+185 characters]",
+                            "sentiment": 0.8519,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "For value investors, the current valuati[+286 characters]",
+                            "sentiment": 0.7845,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Capital International Investors Expands Stake in <em>Vail</em> <em>Resorts</em> <em>Inc</em>",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGO34.SA",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 16.10041,
+                    "sentiment_score": 0.4939,
+                    "highlights": [
+                        {
+                            "highlight": "With an estimated market value of approx[+315 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.BA",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.378741,
+                    "sentiment_score": 0.4939,
+                    "highlights": [
+                        {
+                            "highlight": "With an estimated market value of approx[+315 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGO.BA",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 16.100325,
+                    "sentiment_score": 0.4939,
+                    "highlights": [
+                        {
+                            "highlight": "With an estimated market value of approx[+315 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGOD.BA",
+                    "name": "BROADCOM INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 16.100325,
+                    "sentiment_score": 0.4939,
+                    "highlights": [
+                        {
+                            "highlight": "With an estimated market value of approx[+315 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOGLD.BA",
+                    "name": "ALPHABET INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 13.378449,
+                    "sentiment_score": 0.4939,
+                    "highlights": [
+                        {
+                            "highlight": "With an estimated market value of approx[+315 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.377701,
+                    "sentiment_score": 0.4939,
+                    "highlights": [
+                        {
+                            "highlight": "With an estimated market value of approx[+315 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.377701,
+                    "sentiment_score": 0.4939,
+                    "highlights": [
+                        {
+                            "highlight": "With an estimated market value of approx[+315 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGCL.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 13.377701,
+                    "sentiment_score": 0.4939,
+                    "highlights": [
+                        {
+                            "highlight": "With an estimated market value of approx[+315 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

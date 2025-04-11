@@ -1,0 +1,739 @@
+{
+    "meta": {
+        "found": 24,
+        "returned": 3,
+        "limit": 3,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "5f331aba-c73d-4b0a-9782-2b5fc615a4f1",
+            "title": "India\u2019s Hotels Can\u2019t Surrender to the Marriage Police",
+            "description": "Companies shouldn\u2019t follow in the footsteps of Oyo\u2019s ban on unmarried couples\u00a0\u2014 unless they want to harm their brands.",
+            "keywords": "Meerut, Oyo Hotels, unmarried couples, India, Softbank Group Corp.",
+            "snippet": "(Bloomberg Opinion) -- Meerut, an hour\u2019s drive from Delhi and home to a mere couple million people, is what in India\u2019s crowded north is considered a small t...",
+            "url": "https://www.livemint.com/companies/indias-hotels-can-t-surrender-to-the-marriage-police-11736981152259.html",
+            "image_url": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/company_3_1733465099406_1733465108677.png",
+            "language": "en",
+            "published_at": "2025-01-15T22:45:51.000000Z",
+            "source": "livemint.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "SFTBY",
+                    "name": "SoftBank Group Corp.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 20.251724,
+                    "sentiment_score": -0.128,
+                    "highlights": [
+                        {
+                            "highlight": "The Oyo Hotels chain, backed by <em>Soft[+281 characters]",
+                            "sentiment": -0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SFTBF",
+                    "name": "SoftBank Group Corp.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 20.251724,
+                    "sentiment_score": -0.128,
+                    "highlights": [
+                        {
+                            "highlight": "The Oyo Hotels chain, backed by <em>Soft[+281 characters]",
+                            "sentiment": -0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "FARYF",
+                    "name": "FAR Limited",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Energy",
+                    "match_score": 6.913756,
+                    "sentiment_score": -0.5418,
+                    "highlights": [
+                        {
+                            "highlight": "True, Oyo has thus <em>far</em> <em>limi[+315 characters]",
+                            "sentiment": -0.5418,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 11.362238,
+                    "sentiment_score": -0.7845,
+                    "highlights": [
+                        {
+                            "highlight": "It is ironic, perhaps, that Oyo decided [+313 characters]",
+                            "sentiment": -0.7845,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SOFTN.MX",
+                    "name": "SoftBank Group Corp.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 20.251984,
+                    "sentiment_score": -0.128,
+                    "highlights": [
+                        {
+                            "highlight": "The Oyo Hotels chain, backed by <em>Soft[+281 characters]",
+                            "sentiment": -0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0L7L.L",
+                    "name": "SoftBank Group Corp.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 20.251968,
+                    "sentiment_score": -0.128,
+                    "highlights": [
+                        {
+                            "highlight": "The Oyo Hotels chain, backed by <em>Soft[+281 characters]",
+                            "sentiment": -0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "FAR.AX",
+                    "name": "FAR Limited",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "au",
+                    "type": "equity",
+                    "industry": "Energy",
+                    "match_score": 6.913464,
+                    "sentiment_score": -0.5418,
+                    "highlights": [
+                        {
+                            "highlight": "True, Oyo has thus <em>far</em> <em>limi[+315 characters]",
+                            "sentiment": -0.5418,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "9984.T",
+                    "name": "SoftBank Group Corp.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "jp",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 20.251957,
+                    "sentiment_score": -0.128,
+                    "highlights": [
+                        {
+                            "highlight": "The Oyo Hotels chain, backed by <em>Soft[+281 characters]",
+                            "sentiment": -0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ZOMATO.BO",
+                    "name": "Zomato Limited",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "in",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 15.987447,
+                    "sentiment_score": -0.31845,
+                    "highlights": [
+                        {
+                            "highlight": "Drivers for food-delivery service <em>Zo[+163 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Like Oyo, <em>Zomato</em> sometimes trie[+132 characters]",
+                            "sentiment": -0.6369,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        },
+        {
+            "uuid": "70cef825-4184-4100-a5a6-5ac1b4862e6f",
+            "title": "Tim Cook to attend Trump's inauguration By Investing.com",
+            "description": "Tim Cook to attend Trump's inauguration",
+            "keywords": "",
+            "snippet": "Investing.com -- Apple Inc (NASDAQ: ). CEO Tim Cook is planning to attend the inauguration of President-elect Donald Trump next week, according to Bloomberg. Th...",
+            "url": "https://www.investing.com/news/stock-market-news/tim-cook-to-attend-trumps-inauguration-93CH-3815023",
+            "image_url": "https://i-invdn-com.investing.com/news/LYNXMPED561VT_L.jpg",
+            "language": "en",
+            "published_at": "2025-01-15T20:05:23.000000Z",
+            "source": "investing.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 24.109669,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Investing.com -- <em>Apple</em> <em>Inc<[+251 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 31.297106,
+                    "sentiment_score": 0.4404,
+                    "highlights": [
+                        {
+                            "highlight": "Other expected attendees include <em>Ama[+248 characters]",
+                            "sentiment": 0.4404,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 25.248764,
+                    "sentiment_score": 0.4404,
+                    "highlights": [
+                        {
+                            "highlight": "Other expected attendees include Amazon.[+257 characters]",
+                            "sentiment": 0.4404,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 15.627275,
+                    "sentiment_score": 0.8934,
+                    "highlights": [
+                        {
+                            "highlight": "s Mark Zuckerberg, and <em>Tesla</em> (N[+296 characters]",
+                            "sentiment": 0.8934,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.BA",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 16.413197,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Investing.com -- <em>Apple</em> <em>Inc<[+251 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLD.BA",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 16.413197,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Investing.com -- <em>Apple</em> <em>Inc<[+251 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLC.BA",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 16.413197,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Investing.com -- <em>Apple</em> <em>Inc<[+251 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZN.SN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 23.604214,
+                    "sentiment_score": 0.4404,
+                    "highlights": [
+                        {
+                            "highlight": "Other expected attendees include <em>Ama[+248 characters]",
+                            "sentiment": 0.4404,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLCL.SN",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 16.413063,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Investing.com -- <em>Apple</em> <em>Inc<[+251 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.SN",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 16.413063,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Investing.com -- <em>Apple</em> <em>Inc<[+251 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZNCL.SN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 23.60302,
+                    "sentiment_score": 0.4404,
+                    "highlights": [
+                        {
+                            "highlight": "Other expected attendees include <em>Ama[+248 characters]",
+                            "sentiment": 0.4404,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.NE",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ca",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 16.412941,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Investing.com -- <em>Apple</em> <em>Inc<[+251 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZ.DE",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 23.601894,
+                    "sentiment_score": 0.4404,
+                    "highlights": [
+                        {
+                            "highlight": "Other expected attendees include <em>Ama[+248 characters]",
+                            "sentiment": 0.4404,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "APC.DE",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 16.412773,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Investing.com -- <em>Apple</em> <em>Inc<[+251 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZN.MX",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 23.601345,
+                    "sentiment_score": 0.4404,
+                    "highlights": [
+                        {
+                            "highlight": "Other expected attendees include <em>Ama[+248 characters]",
+                            "sentiment": 0.4404,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.MX",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 16.412636,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Investing.com -- <em>Apple</em> <em>Inc<[+251 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        },
+        {
+            "uuid": "1ae037fb-9a8e-4ebd-bbff-2ac58592837c",
+            "title": "Tick Tock: One Man's Loss Is Another's Gain \u2014 Buy On Meta Platforms (NASDAQ:META)",
+            "description": "Meta Platforms, Inc. is the stock to watch as TikTok faces a potential ban, with Instagram Reels poised to benefit from TikTok's demise. Click for my META update.",
+            "keywords": "",
+            "snippet": "Back in 2024 , so less than two weeks ago, Meta Platforms, Inc. (NASDAQ: META ) forecasted for $146.3 billion in the U.S. while Alphabet Inc. aka Google ( GOOG ...",
+            "url": "https://seekingalpha.com/article/4749710-tick-tock-one-mans-loss-is-anothers-gain-buy-on-meta-platforms",
+            "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/858326594/image_858326594.jpg?io=getty-c-w1536",
+            "language": "en",
+            "published_at": "2025-01-15T19:31:21.000000Z",
+            "source": "seekingalpha.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "ABEA.DE",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 20.25875,
+                    "sentiment_score": 0.128,
+                    "highlights": [
+                        {
+                            "highlight": "(NASDAQ: META ) forecasted for $146.3 bi[+335 characters]",
+                            "sentiment": 0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ABEC.DE",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 20.258772,
+                    "sentiment_score": 0.128,
+                    "highlights": [
+                        {
+                            "highlight": "(NASDAQ: META ) forecasted for $146.3 bi[+335 characters]",
+                            "sentiment": 0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 17.762527,
+                    "sentiment_score": 0.128,
+                    "highlights": [
+                        {
+                            "highlight": "(NASDAQ: META ) forecasted for $146.3 bi[+335 characters]",
+                            "sentiment": 0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 25.335167,
+                    "sentiment_score": 0.128,
+                    "highlights": [
+                        {
+                            "highlight": "(NASDAQ: META ) forecasted for $146.3 bi[+335 characters]",
+                            "sentiment": 0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 63.80048,
+                    "sentiment_score": 0.133733,
+                    "highlights": [
+                        {
+                            "highlight": "Back in 2024 , so less than two weeks ag[+50 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "(<em>NASDAQ</em>: <em>META</em> ) foreca[+335 characters]",
+                            "sentiment": 0.128,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Tick Tock: One Man's Loss Is Another's Gain \u2014 Buy On Meta Platforms (<em>NASDAQ:META</em>)",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.MX",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 20.258242,
+                    "sentiment_score": 0.128,
+                    "highlights": [
+                        {
+                            "highlight": "(NASDAQ: META ) forecasted for $146.3 bi[+335 characters]",
+                            "sentiment": 0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG.MX",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 20.258242,
+                    "sentiment_score": 0.128,
+                    "highlights": [
+                        {
+                            "highlight": "(NASDAQ: META ) forecasted for $146.3 bi[+335 characters]",
+                            "sentiment": 0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.BA",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 20.261683,
+                    "sentiment_score": 0.128,
+                    "highlights": [
+                        {
+                            "highlight": "(NASDAQ: META ) forecasted for $146.3 bi[+335 characters]",
+                            "sentiment": 0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOGLD.BA",
+                    "name": "ALPHABET INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 20.261683,
+                    "sentiment_score": 0.128,
+                    "highlights": [
+                        {
+                            "highlight": "(NASDAQ: META ) forecasted for $146.3 bi[+335 characters]",
+                            "sentiment": 0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 20.261227,
+                    "sentiment_score": 0.128,
+                    "highlights": [
+                        {
+                            "highlight": "(NASDAQ: META ) forecasted for $146.3 bi[+335 characters]",
+                            "sentiment": 0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 20.261227,
+                    "sentiment_score": 0.128,
+                    "highlights": [
+                        {
+                            "highlight": "(NASDAQ: META ) forecasted for $146.3 bi[+335 characters]",
+                            "sentiment": 0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGCL.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 20.261227,
+                    "sentiment_score": 0.128,
+                    "highlights": [
+                        {
+                            "highlight": "(NASDAQ: META ) forecasted for $146.3 bi[+335 characters]",
+                            "sentiment": 0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

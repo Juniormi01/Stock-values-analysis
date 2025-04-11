@@ -1,0 +1,121 @@
+{
+    "meta": {
+        "found": 9,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "f9cad1eb-6af5-49f5-857b-2f73156fd88f",
+            "title": "Investor Bearishness Surges, Yet Historical Data Suggests Potential Market Gains Ahead - Invesco QQQ Trust, Series 1 (NASDAQ:QQQ), SPDR S&P 500 (ARCA:SPY)",
+            "description": "Markets cooled in Feb with historic low investor sentiment. However, past bearishness has led to higher future returns. Rosier outlook on Wall Street.",
+            "keywords": "",
+            "snippet": "As financial markets cooled off in February, investor sentiment spiked downwards near a historic low. However, past bearishness has often amplified returns in t...",
+            "url": "https://www.benzinga.com/news/econ-s/25/02/44055933/investor-bearishness-surges-yet-historical-data-suggests-potential-market-gains-ahead",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2025/02/28/bear-market-ai2.png?width=1200&height=800&fit=crop",
+            "language": "en",
+            "published_at": "2025-02-28T19:48:14.000000Z",
+            "source": "benzinga.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "QQQ",
+                    "name": "Invesco QQQ Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 162.8403,
+                    "sentiment_score": 0.43335,
+                    "highlights": [
+                        {
+                            "highlight": "The tech-focused <em>NASDAQ</em> <em>QQQ[+132 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Investor Bearishness Surges, Yet Historical Data Suggests Potential Market Gains Ahead - <em>Invesco</em> <em>QQQ</em> <em>Trust</em>, Series 1 (<em>NASDAQ:QQQ</em>), SPDR S&P 500 (ARCA:SPY)",
+                            "sentiment": 0.34,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 64.46529,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Following \u201cextremely bearish\u201d sentim[+336 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "QQQ.MX",
+                    "name": "Invesco QQQ Trust, Series 1",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 166.60043,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "Investor Bearishness Surges, Yet Historical Data Suggests Potential Market Gains Ahead - <em>Invesco</em> <em>QQQ</em> <em>Trust</em>, <em>Series</em> <em>1</em> (NASDAQ:QQQ), SPDR S&P 500 (ARCA:SPY)",
+                            "sentiment": 0.34,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0YIK.L",
+                    "name": "Invesco QQQ Trust, Series 1",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 166.59848,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "Investor Bearishness Surges, Yet Historical Data Suggests Potential Market Gains Ahead - <em>Invesco</em> <em>QQQ</em> <em>Trust</em>, <em>Series</em> <em>1</em> (NASDAQ:QQQ), SPDR S&P 500 (ARCA:SPY)",
+                            "sentiment": 0.34,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 64.4724,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Following \u201cextremely bearish\u201d sentim[+336 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

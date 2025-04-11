@@ -1,0 +1,175 @@
+{
+    "meta": {
+        "found": 2,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "9fb9b0a2-0ed4-4bdd-a2ab-3f17c4ea7500",
+            "title": "Boeing Reports Preliminary Fourth Quarter Results",
+            "description": "Results impacted by the International Association of Machinists and Aerospace Workers (IAM) work stoppage and agreement, as well as charges in the defense seg",
+            "keywords": "GuruFocus, Article, News, PRNewswire, NYSE:BA",
+            "snippet": "ARLINGTON, Va., Jan. 23, 2025 /PRNewswire/ -- The Boeing Company [NYSE: BA] announced today it will recognize impacts to its financial results related to the IA...",
+            "url": "https://www.gurufocus.com/news/2666293/boeing-reports-preliminary-fourth-quarter-results",
+            "image_url": "https://static.gurufocus.com/images/global_logo_twitter_card.png",
+            "language": "en",
+            "published_at": "2025-01-23T22:00:38.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "BA",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 22.28487,
+                    "sentiment_score": 0.7269,
+                    "highlights": [
+                        {
+                            "highlight": "., Jan. 23, 2025 /PRNewswire/ -- <em>The[+357 characters]",
+                            "sentiment": 0.7269,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPR",
+                    "name": "Spirit AeroSystems Holdings, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 31.53706,
+                    "sentiment_score": -0.0386,
+                    "highlights": [
+                        {
+                            "highlight": "appropriations; (5) our dependence on ou[+331 characters]",
+                            "sentiment": -0.0772,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>AeroSystems</em> <em>Holdings</em>, [+13 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BCO.DE",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 12.352975,
+                    "sentiment_score": 0.7269,
+                    "highlights": [
+                        {
+                            "highlight": "., Jan. 23, 2025 /PRNewswire/ -- <em>The[+339 characters]",
+                            "sentiment": 0.7269,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BA.MX",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 12.352939,
+                    "sentiment_score": 0.7269,
+                    "highlights": [
+                        {
+                            "highlight": "., Jan. 23, 2025 /PRNewswire/ -- <em>The[+339 characters]",
+                            "sentiment": 0.7269,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BOE.L",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 12.352471,
+                    "sentiment_score": 0.7269,
+                    "highlights": [
+                        {
+                            "highlight": "., Jan. 23, 2025 /PRNewswire/ -- <em>The[+339 characters]",
+                            "sentiment": 0.7269,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BOEI.BR",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "be",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 12.352018,
+                    "sentiment_score": 0.7269,
+                    "highlights": [
+                        {
+                            "highlight": "., Jan. 23, 2025 /PRNewswire/ -- <em>The[+339 characters]",
+                            "sentiment": 0.7269,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BOEI34.SA",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 12.351925,
+                    "sentiment_score": 0.7269,
+                    "highlights": [
+                        {
+                            "highlight": "., Jan. 23, 2025 /PRNewswire/ -- <em>The[+339 characters]",
+                            "sentiment": 0.7269,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BA.SN",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 12.351849,
+                    "sentiment_score": 0.7269,
+                    "highlights": [
+                        {
+                            "highlight": "., Jan. 23, 2025 /PRNewswire/ -- <em>The[+339 characters]",
+                            "sentiment": 0.7269,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "meta": {
+        "found": 42,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "b302071f-26af-4c48-8060-e61f151e26ba",
+            "title": "The Economics & Politics of DeepSeek: What You Need to Know",
+            "description": "Explore how DeepSeek shapes global economics and politics, influencing markets, policies, and technological advancements.",
+            "keywords": "lim teck ghee",
+            "snippet": "ON Jan 20, a day when the tech titans of the West were in prominent attendance at Trump\u2019s presidential inauguration, a little known China artificial intellige...",
+            "url": "https://thesun.my/opinion-news/economics-and-politics-of-deepseek-MH13630387",
+            "image_url": "https://thesun.my/binrepository/480x320/0c35/480d250/none/11808/EEPG/p11-su-deepseek-n_4947885_20250206075412.jpg",
+            "language": "en",
+            "published_at": "2025-02-05T23:50:00.000000Z",
+            "source": "thesundaily.my",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 6.989175,
+                    "sentiment_score": 0.70375,
+                    "highlights": [
+                        {
+                            "highlight": "It rose to the No.1 spot on <em>Apple</e[+322 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Microsoft\u2019s Satya Nadella praised it f[+195 characters]",
+                            "sentiment": 0.9136,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 8.77005,
+                    "sentiment_score": 0.08785,
+                    "highlights": [
+                        {
+                            "highlight": "The app has also held\n\nthe top spot on <[+216 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "This was the biggest market-cap loss for[+270 characters]",
+                            "sentiment": -0.3182,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 8.166039,
+                    "sentiment_score": -0.3182,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Nvidia</em>, the poster child of Ame[+29 characters]",
+                            "sentiment": -0.3182,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "This was the biggest market-cap loss for[+270 characters]",
+                            "sentiment": -0.3182,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

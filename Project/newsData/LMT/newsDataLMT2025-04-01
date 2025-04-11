@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "found": 3,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "75af1031-86d0-473f-afb1-8e4f732d9758",
+            "title": "Lockheed Martin (LMT) Outpaces Stock Market Gains: What You Should Know",
+            "description": "Lockheed Martin (LMT) reachead $448.64 at the closing of the latest trading day, reflecting a +0.43% change compared to its last close.",
+            "keywords": "stock, stocks, investment, investment advice, investing, online trading, online investment, online stock trading, stock market, financial, financial planning, quote, quotes, stock quotes",
+            "snippet": "This page has not been authorized, sponsored, or otherwise approved or endorsed by the companies represented herein. Each of the company logos represented herei...",
+            "url": "https://www.zacks.com/stock/news/2438593/lockheed-martin-lmt-outpaces-stock-market-gains-what-you-should-know?cid=CS-ZC-FT-tale_of_the_tape|yseop_template_6v2-2438593",
+            "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default67.jpg",
+            "language": "en",
+            "published_at": "2025-04-01T22:00:17.000000Z",
+            "source": "zacks.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 60.127235,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> (LMT) Outpaces Stock Market Gains: What You Should Know",
+                            "sentiment": 0.34,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

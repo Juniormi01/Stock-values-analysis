@@ -1,0 +1,126 @@
+{
+    "meta": {
+        "found": 26,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "3abdbd15-b24a-4e29-af31-1e3906ce3088",
+            "title": "Top Stock Market Highlights of the Week: TSMC, Mixue Group and Nanofilm Technologies",
+            "description": "We look at the latest investment plans by the world\u2019s largest semiconductor manufacturer and also the latest results from a nanotechnology company.",
+            "keywords": "",
+            "snippet": "Welcome to this week\u2019s edition of top stock market highlights.\n\nTaiwan Semiconductor Manufacturing Company (NYSE: TSM)\n\nTaiwan Semiconductor Manufacturing Com...",
+            "url": "https://thesmartinvestor.com.sg/top-stock-market-highlights-of-the-week-tsmc-mixue-group-and-nanofilm-technologies/",
+            "image_url": "https://thesmartinvestor.com.sg/wp-content/uploads/2025/03/Top-Stock-Highlights-of-the-Week.png",
+            "language": "en",
+            "published_at": "2025-03-07T23:30:00.000000Z",
+            "source": "thesmartinvestor.com.sg",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 20.268688,
+                    "sentiment_score": 0.473767,
+                    "highlights": [
+                        {
+                            "highlight": "TSMC is the main chip manufacturing part[+337 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "A host of other companies including tril[+297 characters]",
+                            "sentiment": 0.6486,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Disclosure: Royston Yang owns shares of [+34 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.274784,
+                    "sentiment_score": 0.6486,
+                    "highlights": [
+                        {
+                            "highlight": "A host of other companies including tril[+306 characters]",
+                            "sentiment": 0.6486,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 19.018929,
+                    "sentiment_score": 0.4767,
+                    "highlights": [
+                        {
+                            "highlight": "TSMC is the main chip manufacturing part[+337 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "INTC",
+                    "name": "Intel Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 15.861927,
+                    "sentiment_score": -0.1531,
+                    "highlights": [
+                        {
+                            "highlight": "Officials from Trump\u2019s administration [+271 characters]",
+                            "sentiment": -0.1531,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSM",
+                    "name": "Taiwan Semiconductor Manufacturing Company Limited",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 34.610584,
+                    "sentiment_score": 0.4019,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Taiwan</em> <em>Semiconductor</em> <[+242 characters]",
+                            "sentiment": 0.4019,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

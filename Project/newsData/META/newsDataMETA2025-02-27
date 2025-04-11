@@ -1,0 +1,121 @@
+{
+    "meta": {
+        "found": 18,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "d6da62c6-5a71-4da0-802b-1028049e226a",
+            "title": "Meta Platforms, Inc. (META): A Bull Case Theory",
+            "description": "We came across a\u00a0bullish thesis\u00a0on Meta Platforms, Inc. (META) on Substack by Sanjiv. In this article, we will summarize the bulls\u2019 thesis on META. Meta Platforms, Inc.",
+            "keywords": "",
+            "snippet": "We came across a bullish thesis on Meta Platforms, Inc. (META) on Substack by Sanjiv. In this article, we will summarize the bulls\u2019 thesis on META. Meta Platf...",
+            "url": "https://www.insidermonkey.com/blog/meta-platforms-inc-meta-a-bull-case-theory-3-1466190/",
+            "image_url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2015/05/shutterstock_197767229.jpg",
+            "language": "en",
+            "published_at": "2025-02-27T23:40:02.000000Z",
+            "source": "insidermonkey.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 71.69624,
+                    "sentiment_score": 0.342567,
+                    "highlights": [
+                        {
+                            "highlight": "We came across a bullish thesis on <em>M[+336 characters]",
+                            "sentiment": 0.5574,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Meta</em> <em>Platforms</em>, <em>In[+206 characters]",
+                            "sentiment": 0.4703,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Meta</em> <em>Platforms</em>, <em>Inc</em>. (META): A Bull Case Theory",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": [
+                {
+                    "uuid": "6186ee1a-506a-4715-89c3-884a73088b15",
+                    "title": "Meta Platforms Inc (META) to Participate in Morgan Stanley Technology Conference",
+                    "description": "Meta Platforms Inc (META) announced on February 27, 2025, that its Chief Product Officer, Chris Cox, will be participating in the Morgan Stanley Technology, Med",
+                    "keywords": "GuruFocus, Article, News, GuruFocus News, META",
+                    "snippet": "Meta Platforms Inc (META, Financial) announced on February 27, 2025, that its Chief Product Officer, Chris Cox, will be participating in the Morgan Stanley Tech...",
+                    "url": "https://www.gurufocus.com/news/2720441/meta-platforms-inc-meta-to-participate-in-morgan-stanley-technology-conference",
+                    "image_url": "https://static.gurufocus.com/images/global_logo_twitter_card.png",
+                    "language": "en",
+                    "published_at": "2025-02-27T22:08:28.000000Z",
+                    "source": "gurufocus.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "META",
+                            "name": "Meta Platforms Inc",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 64.37557,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>Meta</em> <em>Platforms</em> <em>Inc[+251 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Meta</em> <em>Platforms</em> <em>Inc</em> (META) to Participate in Morgan Stanley Technology Conference",
+                                    "sentiment": 0,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSCL.SN",
+                            "name": "MORGAN STANLEY",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 95.133224,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "Meta Platforms Inc (META, Financial) ann[+242 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Financial Analyst Perspective\n\nFrom a fi[+207 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Meta Platforms Inc (META) to Participate in <em>Morgan</em> <em>Stanley</em> Technology Conference",
+                                    "sentiment": 0,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

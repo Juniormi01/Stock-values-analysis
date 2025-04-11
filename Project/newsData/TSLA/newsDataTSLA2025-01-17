@@ -1,0 +1,206 @@
+{
+    "meta": {
+        "found": 40,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "278566ae-c0f5-4ee5-aae3-b4bbc782faf5",
+            "title": "Market Recap: Wall Street Rallies to End Strong Week on January 17, 2025",
+            "description": "U.S. stock markets ended the week on a high note on Friday, January 17, 2025, with all major indexes posting significant gains. The rally capped off the best",
+            "keywords": "",
+            "snippet": "Major Indexes Close Higher as Investors Eye Trump Policies\n\nU.S. stock markets ended the week on a high note on Friday, January 17, 2025, with all major indexes...",
+            "url": "https://thestockmarketwatch.com/stock-market-news/market-recap-wall-street-rallies-to-end-strong-week-on-january-17-2025/48765/",
+            "image_url": "https://thestockmarketwatch.com/stock-market-news/wp-content/uploads/2024/08/5.jpg",
+            "language": "en",
+            "published_at": "2025-01-17T22:28:39.000000Z",
+            "source": "thestockmarketwatch.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 10.915777,
+                    "sentiment_score": 0.7269,
+                    "highlights": [
+                        {
+                            "highlight": "Tech Sector Rally: Big tech stocks led t[+248 characters]",
+                            "sentiment": 0.7269,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "INTC",
+                    "name": "Intel Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 14.816581,
+                    "sentiment_score": 0.8158,
+                    "highlights": [
+                        {
+                            "highlight": "\u2013 <em>Intel</em> <em>Corporation</em> [+190 characters]",
+                            "sentiment": 0.8158,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "COWN",
+                    "name": "Cowen Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 12.308712,
+                    "sentiment_score": 0.1779,
+                    "highlights": [
+                        {
+                            "highlight": "\u2013 Salesforce (CRM): Shares rose 1.9% f[+250 characters]",
+                            "sentiment": 0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "COWNL",
+                    "name": "Cowen Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 12.308597,
+                    "sentiment_score": 0.1779,
+                    "highlights": [
+                        {
+                            "highlight": "\u2013 Salesforce (CRM): Shares rose 1.9% f[+250 characters]",
+                            "sentiment": 0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "JBHT",
+                    "name": "J.B. Hunt Transport Services, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 26.361565,
+                    "sentiment_score": 0.5667,
+                    "highlights": [
+                        {
+                            "highlight": "\u2013 <em>J.B</em>. <em>Hunt</em> <em>Tran[+265 characters]",
+                            "sentiment": 0.5667,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 10.673429,
+                    "sentiment_score": 0.7269,
+                    "highlights": [
+                        {
+                            "highlight": "Tech Sector Rally: Big tech stocks led t[+248 characters]",
+                            "sentiment": 0.7269,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "INL.DE",
+                    "name": "Intel Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 9.699158,
+                    "sentiment_score": 0.8158,
+                    "highlights": [
+                        {
+                            "highlight": "\u2013 <em>Intel</em> <em>Corporation</em> [+190 characters]",
+                            "sentiment": 0.8158,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "INTC.MX",
+                    "name": "Intel Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 9.699115,
+                    "sentiment_score": 0.8158,
+                    "highlights": [
+                        {
+                            "highlight": "\u2013 <em>Intel</em> <em>Corporation</em> [+190 characters]",
+                            "sentiment": 0.8158,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "INCO.BR",
+                    "name": "Intel Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "be",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 14.710776,
+                    "sentiment_score": 0.8158,
+                    "highlights": [
+                        {
+                            "highlight": "\u2013 <em>Intel</em> <em>Corporation</em> [+190 characters]",
+                            "sentiment": 0.8158,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "INTC.SN",
+                    "name": "Intel Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 14.710236,
+                    "sentiment_score": 0.8158,
+                    "highlights": [
+                        {
+                            "highlight": "\u2013 <em>Intel</em> <em>Corporation</em> [+190 characters]",
+                            "sentiment": 0.8158,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

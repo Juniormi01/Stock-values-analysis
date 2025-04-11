@@ -1,0 +1,80 @@
+{
+    "meta": {
+        "found": 5,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "62bb8d72-8a17-4dad-aaf6-2afa31241fd6",
+            "title": "Vanguard's VOO Surpasses SPY as Largest ETF by Assets",
+            "description": "The global ETF landscape has witnessed a significant shift as Vanguard's S&P 500 ETF (VOO) has overtaken the long-standing leader, SPDR S&P 500 ETF Trust (SPY),",
+            "keywords": "GuruFocus, Article, News, GuruFocus News, VOO",
+            "snippet": "The global ETF landscape has witnessed a significant shift as Vanguard's S&P 500 ETF (VOO, Financial) has overtaken the long-standing leader, SPDR S&P 500 ETF T...",
+            "url": "https://www.gurufocus.com/news/2702513/vanguards-voo-surpasses-spy-as-largest-etf-by-assets",
+            "image_url": "https://static.gurufocus.com/images/global_logo_twitter_card.png",
+            "language": "en",
+            "published_at": "2025-02-18T19:10:47.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "IVV",
+                    "name": "iShares Core S&P 500 ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 65.91098,
+                    "sentiment_score": 0.1779,
+                    "highlights": [
+                        {
+                            "highlight": "BlackRock's <em>iShares</em> <em>Core</e[+187 characters]",
+                            "sentiment": 0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 66.76286,
+                    "sentiment_score": 0.5106,
+                    "highlights": [
+                        {
+                            "highlight": "The global ETF landscape has witnessed a[+239 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 66.76444,
+                    "sentiment_score": 0.5106,
+                    "highlights": [
+                        {
+                            "highlight": "The global ETF landscape has witnessed a[+239 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

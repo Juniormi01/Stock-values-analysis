@@ -1,0 +1,991 @@
+{
+    "meta": {
+        "found": 13,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "9aafc6e1-c4d5-4918-aeec-6aa7853a5a50",
+            "title": "Is Meta Platforms, Inc. (META) the Top Stock to Buy According to Marshall Wace LLP?",
+            "description": "We recently published a list of Top 10 Stocks to Buy According to Marshall Wace LLP. In this article, we are going to take a look at where Meta Platforms, Inc.",
+            "keywords": "",
+            "snippet": "We recently published a list of Top 10 Stocks to Buy According to Marshall Wace LLP. In this article, we are going to take a look at where Meta Platforms, Inc. ...",
+            "url": "https://www.insidermonkey.com/blog/is-meta-platforms-inc-meta-the-top-stock-to-buy-according-to-marshall-wace-llp-1486002/",
+            "image_url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/09/19153233/META-insidermonkey-1695151950867.jpg",
+            "language": "en",
+            "published_at": "2025-03-18T22:11:53.000000Z",
+            "source": "insidermonkey.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 71.97637,
+                    "sentiment_score": 0.242843,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+259 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Meta</em> <em>Platforms</em>, <em>In[+305 characters]",
+                            "sentiment": 0.0772,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "However, competition is intensifying as [+300 characters]",
+                            "sentiment": 0.1779,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Despite these challenges, investor confi[+144 characters]",
+                            "sentiment": 0.7658,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Rowan Street Capital stated the followin[+166 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "(<em>NASDAQ:META</em>): Investment Initi[+196 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Is <em>Meta</em> <em>Platforms</em>, <em>Inc</em>. (META) the Top Stock to Buy According to Marshall Wace LLP?",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": [
+                {
+                    "uuid": "74db8e20-5782-4394-978b-80a2da1370db",
+                    "title": "Meta Becomes Final Magnificent 7 Stock to Turn Negative in 2025",
+                    "description": "(Bloomberg) -- Meta Platforms Inc. tumbled into negative territory for the year on Tuesday, becoming the last of the so-called Magnificent Seven stocks to lose its year-to-date gain.Most Read from BloombergICE Eyes Massive California Tent Facility Amid Space ConstraintsHow Britain\u2019s Most Bike-Friendly New Town Got BuiltThe Dark Prophet of Car-Clogged CitiesWashington, DC, Region Braces for \u2018Devastating\u2019 Cuts from CongressNYC Plans for Flood Protection Without Federal FundsThe Facebook parent fel",
+                    "keywords": "Bloomberg, Magnificent Seven, Justin Patterson, Meta Platforms Inc",
+                    "snippet": "(Bloomberg) \u2014 Meta Platforms Inc. tumbled into negative territory for the year on Tuesday, becoming the last of the so-called Magnificent Seven stocks to lose...",
+                    "url": "https://finance.yahoo.com/news/meta-becomes-final-magnificent-7-162726983.html",
+                    "image_url": "https://s.yimg.com/ny/api/res/1.2/gFPjQVOeLjCTW00z1Y8BAg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/13bb79da44134ec3f725e1cd5eae65ef",
+                    "language": "en",
+                    "published_at": "2025-03-18T20:11:12.000000Z",
+                    "source": "finance.yahoo.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "AAPL.NE",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ca",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 15.196358,
+                            "sentiment_score": 0.36895,
+                            "highlights": [
+                                {
+                                    "highlight": "The Magnificent Seven stocks \u2014 <em>App[+260 characters]",
+                                    "sentiment": 0.891,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Among notable decliners, Tesla has slump[+301 characters]",
+                                    "sentiment": -0.1531,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 19.703915,
+                            "sentiment_score": 0.36895,
+                            "highlights": [
+                                {
+                                    "highlight": "The Magnificent Seven stocks \u2014 <em>App[+260 characters]",
+                                    "sentiment": 0.891,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Among notable decliners, Tesla has slump[+301 characters]",
+                                    "sentiment": -0.1531,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZN",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 24.168272,
+                            "sentiment_score": 0.7717,
+                            "highlights": [
+                                {
+                                    "highlight": "., <em>Amazon.com</em> <em>Inc</em>., Te[+312 characters]",
+                                    "sentiment": 0.7717,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GOOG",
+                            "name": "Alphabet Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 15.893763,
+                            "sentiment_score": 0.7579,
+                            "highlights": [
+                                {
+                                    "highlight": "\u201cThe challenge we see today is that th[+263 characters]",
+                                    "sentiment": 0.7579,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GOOGL",
+                            "name": "Alphabet Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 25.9327,
+                            "sentiment_score": 0.4986,
+                            "highlights": [
+                                {
+                                    "highlight": "\u201cThe challenge we see today is that th[+263 characters]",
+                                    "sentiment": 0.7579,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "The Magnificent Seven stocks \u2014 Apple I[+251 characters]",
+                                    "sentiment": 0.891,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Among notable decliners, Tesla has slump[+301 characters]",
+                                    "sentiment": -0.1531,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "META",
+                            "name": "Meta Platforms Inc",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 19.157694,
+                            "sentiment_score": 0.2263,
+                            "highlights": [
+                                {
+                                    "highlight": "(Bloomberg) \u2014 <em>Meta</em> <em>Platfo[+291 characters]",
+                                    "sentiment": 0.2263,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "NVDA",
+                            "name": "NVIDIA Corporation",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 13.417915,
+                            "sentiment_score": 0.7717,
+                            "highlights": [
+                                {
+                                    "highlight": "., <em>Nvidia</em> Corp., Amazon.com Inc[+326 characters]",
+                                    "sentiment": 0.7717,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFT",
+                            "name": "Microsoft Corporation",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 10.337675,
+                            "sentiment_score": 0.7717,
+                            "highlights": [
+                                {
+                                    "highlight": "., <em>Microsoft</em> Corp., Nvidia Corp[+209 characters]",
+                                    "sentiment": 0.7717,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TSLA",
+                            "name": "Tesla, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 22.375654,
+                            "sentiment_score": 0.7717,
+                            "highlights": [
+                                {
+                                    "highlight": "., <em>Tesla</em> <em>Inc</em>., Alphabe[+336 characters]",
+                                    "sentiment": 0.7717,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZ.DE",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 19.66065,
+                            "sentiment_score": 0.7717,
+                            "highlights": [
+                                {
+                                    "highlight": "., <em>Amazon.com</em> <em>Inc</em>., Te[+312 characters]",
+                                    "sentiment": 0.7717,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "APC.DE",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 15.196601,
+                            "sentiment_score": 0.36895,
+                            "highlights": [
+                                {
+                                    "highlight": "The Magnificent Seven stocks \u2014 <em>App[+260 characters]",
+                                    "sentiment": 0.891,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Among notable decliners, Tesla has slump[+301 characters]",
+                                    "sentiment": -0.1531,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "ABEA.DE",
+                            "name": "Alphabet Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 21.42492,
+                            "sentiment_score": 0.4986,
+                            "highlights": [
+                                {
+                                    "highlight": "\u201cThe challenge we see today is that th[+263 characters]",
+                                    "sentiment": 0.7579,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "The Magnificent Seven stocks \u2014 Apple I[+251 characters]",
+                                    "sentiment": 0.891,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Among notable decliners, Tesla has slump[+301 characters]",
+                                    "sentiment": -0.1531,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TL0.DE",
+                            "name": "Tesla, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 17.86819,
+                            "sentiment_score": 0.7717,
+                            "highlights": [
+                                {
+                                    "highlight": "., <em>Tesla</em> <em>Inc</em>., Alphabe[+336 characters]",
+                                    "sentiment": 0.7717,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "ABEC.DE",
+                            "name": "Alphabet Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 21.424713,
+                            "sentiment_score": 0.4986,
+                            "highlights": [
+                                {
+                                    "highlight": "\u201cThe challenge we see today is that th[+263 characters]",
+                                    "sentiment": 0.7579,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "The Magnificent Seven stocks \u2014 Apple I[+251 characters]",
+                                    "sentiment": 0.891,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Among notable decliners, Tesla has slump[+301 characters]",
+                                    "sentiment": -0.1531,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZN.MX",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 19.66046,
+                            "sentiment_score": 0.7717,
+                            "highlights": [
+                                {
+                                    "highlight": "., <em>Amazon.com</em> <em>Inc</em>., Te[+312 characters]",
+                                    "sentiment": 0.7717,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL.MX",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 15.19671,
+                            "sentiment_score": 0.36895,
+                            "highlights": [
+                                {
+                                    "highlight": "The Magnificent Seven stocks \u2014 <em>App[+260 characters]",
+                                    "sentiment": 0.891,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Among notable decliners, Tesla has slump[+301 characters]",
+                                    "sentiment": -0.1531,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GOOGL.MX",
+                            "name": "Alphabet Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 21.424994,
+                            "sentiment_score": 0.4986,
+                            "highlights": [
+                                {
+                                    "highlight": "\u201cThe challenge we see today is that th[+263 characters]",
+                                    "sentiment": 0.7579,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "The Magnificent Seven stocks \u2014 Apple I[+251 characters]",
+                                    "sentiment": 0.891,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Among notable decliners, Tesla has slump[+301 characters]",
+                                    "sentiment": -0.1531,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GOOG.MX",
+                            "name": "Alphabet Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 21.424994,
+                            "sentiment_score": 0.4986,
+                            "highlights": [
+                                {
+                                    "highlight": "\u201cThe challenge we see today is that th[+263 characters]",
+                                    "sentiment": 0.7579,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "The Magnificent Seven stocks \u2014 Apple I[+251 characters]",
+                                    "sentiment": 0.891,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Among notable decliners, Tesla has slump[+301 characters]",
+                                    "sentiment": -0.1531,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TSLA.MX",
+                            "name": "Tesla, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 17.867916,
+                            "sentiment_score": 0.7717,
+                            "highlights": [
+                                {
+                                    "highlight": "., <em>Tesla</em> <em>Inc</em>., Alphabe[+336 characters]",
+                                    "sentiment": 0.7717,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TSLA34.SA",
+                            "name": "Tesla, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "br",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 17.867783,
+                            "sentiment_score": 0.7717,
+                            "highlights": [
+                                {
+                                    "highlight": "., <em>Tesla</em> <em>Inc</em>., Alphabe[+336 characters]",
+                                    "sentiment": 0.7717,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFT.MI",
+                            "name": "MICROSOFT CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "it",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 15.788933,
+                            "sentiment_score": 0.7717,
+                            "highlights": [
+                                {
+                                    "highlight": "., <em>Microsoft</em> <em>Corp</em>., Nv[+218 characters]",
+                                    "sentiment": 0.7717,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "NVDA.MI",
+                            "name": "NVIDIA CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "it",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 19.996098,
+                            "sentiment_score": 0.7717,
+                            "highlights": [
+                                {
+                                    "highlight": "., <em>Nvidia</em> <em>Corp</em>., Amazo[+335 characters]",
+                                    "sentiment": 0.7717,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL.BA",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 15.196244,
+                            "sentiment_score": 0.36895,
+                            "highlights": [
+                                {
+                                    "highlight": "The Magnificent Seven stocks \u2014 <em>App[+260 characters]",
+                                    "sentiment": 0.891,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Among notable decliners, Tesla has slump[+301 characters]",
+                                    "sentiment": -0.1531,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GOOGL.BA",
+                            "name": "Alphabet Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 21.425858,
+                            "sentiment_score": 0.4986,
+                            "highlights": [
+                                {
+                                    "highlight": "\u201cThe challenge we see today is that th[+263 characters]",
+                                    "sentiment": 0.7579,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "The Magnificent Seven stocks \u2014 Apple I[+251 characters]",
+                                    "sentiment": 0.891,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Among notable decliners, Tesla has slump[+301 characters]",
+                                    "sentiment": -0.1531,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "NVDAD.BA",
+                            "name": "NVIDIA CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 19.994282,
+                            "sentiment_score": 0.7717,
+                            "highlights": [
+                                {
+                                    "highlight": "., <em>Nvidia</em> <em>Corp</em>., Amazo[+335 characters]",
+                                    "sentiment": 0.7717,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TSLAD.BA",
+                            "name": "TESLA INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 17.866459,
+                            "sentiment_score": 0.7717,
+                            "highlights": [
+                                {
+                                    "highlight": "., <em>Tesla</em> <em>Inc</em>., Alphabe[+336 characters]",
+                                    "sentiment": 0.7717,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFTD.BA",
+                            "name": "MICROSOFT CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 15.788553,
+                            "sentiment_score": 0.7717,
+                            "highlights": [
+                                {
+                                    "highlight": "., <em>Microsoft</em> <em>Corp</em>., Nv[+218 characters]",
+                                    "sentiment": 0.7717,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPLD.BA",
+                            "name": "APPLE INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 15.196244,
+                            "sentiment_score": 0.36895,
+                            "highlights": [
+                                {
+                                    "highlight": "The Magnificent Seven stocks \u2014 <em>App[+260 characters]",
+                                    "sentiment": 0.891,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Among notable decliners, Tesla has slump[+301 characters]",
+                                    "sentiment": -0.1531,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFTB.BA",
+                            "name": "MICROSOFT CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 15.788553,
+                            "sentiment_score": 0.7717,
+                            "highlights": [
+                                {
+                                    "highlight": "., <em>Microsoft</em> <em>Corp</em>., Nv[+218 characters]",
+                                    "sentiment": 0.7717,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFTC.BA",
+                            "name": "MICROSOFT CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 15.788553,
+                            "sentiment_score": 0.7717,
+                            "highlights": [
+                                {
+                                    "highlight": "., <em>Microsoft</em> <em>Corp</em>., Nv[+218 characters]",
+                                    "sentiment": 0.7717,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TSLAC.BA",
+                            "name": "TESLA INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 17.866459,
+                            "sentiment_score": 0.7717,
+                            "highlights": [
+                                {
+                                    "highlight": "., <em>Tesla</em> <em>Inc</em>., Alphabe[+336 characters]",
+                                    "sentiment": 0.7717,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "NVDAC.BA",
+                            "name": "NVIDIA CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 19.994282,
+                            "sentiment_score": 0.7717,
+                            "highlights": [
+                                {
+                                    "highlight": "., <em>Nvidia</em> <em>Corp</em>., Amazo[+335 characters]",
+                                    "sentiment": 0.7717,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GOGLD.BA",
+                            "name": "ALPHABET INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 21.425674,
+                            "sentiment_score": 0.4986,
+                            "highlights": [
+                                {
+                                    "highlight": "\u201cThe challenge we see today is that th[+263 characters]",
+                                    "sentiment": 0.7579,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "The Magnificent Seven stocks \u2014 Apple I[+251 characters]",
+                                    "sentiment": 0.891,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Among notable decliners, Tesla has slump[+301 characters]",
+                                    "sentiment": -0.1531,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPLC.BA",
+                            "name": "APPLE INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 15.196212,
+                            "sentiment_score": 0.36895,
+                            "highlights": [
+                                {
+                                    "highlight": "The Magnificent Seven stocks \u2014 <em>App[+260 characters]",
+                                    "sentiment": 0.891,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Among notable decliners, Tesla has slump[+301 characters]",
+                                    "sentiment": -0.1531,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZN.SN",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 19.662458,
+                            "sentiment_score": 0.7717,
+                            "highlights": [
+                                {
+                                    "highlight": "., <em>Amazon.com</em> <em>Inc</em>., Te[+312 characters]",
+                                    "sentiment": 0.7717,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GOOGL.SN",
+                            "name": "Alphabet Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 21.425137,
+                            "sentiment_score": 0.4986,
+                            "highlights": [
+                                {
+                                    "highlight": "\u201cThe challenge we see today is that th[+263 characters]",
+                                    "sentiment": 0.7579,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "The Magnificent Seven stocks \u2014 Apple I[+251 characters]",
+                                    "sentiment": 0.891,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Among notable decliners, Tesla has slump[+301 characters]",
+                                    "sentiment": -0.1531,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPLCL.SN",
+                            "name": "APPLE INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 15.196154,
+                            "sentiment_score": 0.36895,
+                            "highlights": [
+                                {
+                                    "highlight": "The Magnificent Seven stocks \u2014 <em>App[+260 characters]",
+                                    "sentiment": 0.891,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Among notable decliners, Tesla has slump[+301 characters]",
+                                    "sentiment": -0.1531,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFTCL.SN",
+                            "name": "MICROSOFT CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 15.788422,
+                            "sentiment_score": 0.7717,
+                            "highlights": [
+                                {
+                                    "highlight": "., <em>Microsoft</em> <em>Corp</em>., Nv[+218 characters]",
+                                    "sentiment": 0.7717,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL.SN",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 15.196154,
+                            "sentiment_score": 0.36895,
+                            "highlights": [
+                                {
+                                    "highlight": "The Magnificent Seven stocks \u2014 <em>App[+260 characters]",
+                                    "sentiment": 0.891,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Among notable decliners, Tesla has slump[+301 characters]",
+                                    "sentiment": -0.1531,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GOOG.SN",
+                            "name": "Alphabet Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 21.425137,
+                            "sentiment_score": 0.4986,
+                            "highlights": [
+                                {
+                                    "highlight": "\u201cThe challenge we see today is that th[+263 characters]",
+                                    "sentiment": 0.7579,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "The Magnificent Seven stocks \u2014 Apple I[+251 characters]",
+                                    "sentiment": 0.891,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Among notable decliners, Tesla has slump[+301 characters]",
+                                    "sentiment": -0.1531,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZNCL.SN",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 19.662376,
+                            "sentiment_score": 0.7717,
+                            "highlights": [
+                                {
+                                    "highlight": "., <em>Amazon.com</em> <em>Inc</em>., Te[+312 characters]",
+                                    "sentiment": 0.7717,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GOOGCL.SN",
+                            "name": "Alphabet Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 21.425066,
+                            "sentiment_score": 0.4986,
+                            "highlights": [
+                                {
+                                    "highlight": "\u201cThe challenge we see today is that th[+263 characters]",
+                                    "sentiment": 0.7579,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "The Magnificent Seven stocks \u2014 Apple I[+251 characters]",
+                                    "sentiment": 0.891,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Among notable decliners, Tesla has slump[+301 characters]",
+                                    "sentiment": -0.1531,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

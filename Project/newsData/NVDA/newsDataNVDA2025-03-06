@@ -1,0 +1,186 @@
+{
+    "meta": {
+        "found": 44,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "e5a4d5a9-b4ac-4da6-9b4c-8a47ddbcbc46",
+            "title": "Broadcom shares surge on strong revenue and AI outlook",
+            "description": "Chip designer delivers upbeat results amid broad decline in tech shares",
+            "keywords": "",
+            "snippet": "Simply sign up to the Technology sector myFT Digest -- delivered directly to your inbox.\n\nBroadcom shares surged in after-hours trading on Thursday as the chip ...",
+            "url": "https://www.ft.com/content/d9c002df-1ca0-426f-a250-1335929a757b",
+            "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F672ec77e-923c-48e8-b1b2-671c10357a67.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+            "language": "en",
+            "published_at": "2025-03-06T23:51:39.000000Z",
+            "source": "ft.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "AVGO",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 36.940964,
+                    "sentiment_score": 0.30305,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Broadcom</em> shares surged in after[+142 characters]",
+                            "sentiment": 0.886,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Broadcom</em> reported first-quarter[+209 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "For the current quarter <em>Broadcom</em[+312 characters]",
+                            "sentiment": 0.4404,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Broadcom</em> shares rose as much as[+231 characters]",
+                            "sentiment": -0.4404,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Broadcom</em> chief executive Hock T[+215 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Daniel Newman, chief executive of resear[+255 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Broadcom</em> does not name its chip[+129 characters]",
+                            "sentiment": 0.5719,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Broadcom</em> shares surge on strong revenue and AI outlook",
+                            "sentiment": 0.6705,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGOP",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 36.940964,
+                    "sentiment_score": 0.30305,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Broadcom</em> shares surged in after[+142 characters]",
+                            "sentiment": 0.886,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Broadcom</em> reported first-quarter[+209 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "For the current quarter <em>Broadcom</em[+312 characters]",
+                            "sentiment": 0.4404,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Broadcom</em> shares rose as much as[+231 characters]",
+                            "sentiment": -0.4404,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Broadcom</em> chief executive Hock T[+215 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Daniel Newman, chief executive of resear[+255 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Broadcom</em> does not name its chip[+129 characters]",
+                            "sentiment": 0.5719,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Broadcom</em> shares surge on strong revenue and AI outlook",
+                            "sentiment": 0.6705,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 10.849722,
+                    "sentiment_score": -0.0516,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Nvidia</em> shares are meanwhile dow[+187 characters]",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFT",
+                    "name": "Microsoft Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 9.775576,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "Analysts said it failed to meet the high[+239 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MRVL",
+                    "name": "Marvell Technology, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 18.280956,
+                    "sentiment_score": -0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "Shares of competitor <em>Marvell</em> <e[+290 characters]",
+                            "sentiment": -0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

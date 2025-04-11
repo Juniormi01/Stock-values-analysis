@@ -1,0 +1,650 @@
+{
+    "meta": {
+        "found": 57,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "eee05ecf-95a8-4f30-b384-09e4483fdd34",
+            "title": "OpenAI announces $500 bln \u2018Stargate\u2019 venture with Nvidia, Microsoft and Oracle By Investing.com",
+            "description": "OpenAI announces $500 bln \u2018Stargate\u2019 venture with Nvidia, Microsoft and Oracle",
+            "keywords": "",
+            "snippet": "Investing.com-- OpenAI said on Tuesday that it will partner with several technology giants, including Nvidia, Arm , Microsoft, and Oracle, to build new artifici...",
+            "url": "https://www.investing.com/news/stock-market-news/openai-announces-500-bln-stargate-venture-with-nvidia-microsoft-and-oracle-3823490",
+            "image_url": "https://i-invdn-com.investing.com/news/moved_LYNXMPEKBJ0RR_L.jpg",
+            "language": "en",
+            "published_at": "2025-01-21T23:50:30.000000Z",
+            "source": "investing.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 38.93348,
+                    "sentiment_score": 0.193175,
+                    "highlights": [
+                        {
+                            "highlight": "Investing.com-- OpenAI said on Tuesday t[+304 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Arm Holdings (NASDAQ: ), Microsoft Corpo[+270 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "OpenAI said the new company will deepen [+325 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "OpenAI announces $500 bln \u2018Stargate\u2019 venture with <em>Nvidia</em>, Microsoft and Oracle By Investing.com",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFT",
+                    "name": "Microsoft Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 36.2528,
+                    "sentiment_score": 0.193175,
+                    "highlights": [
+                        {
+                            "highlight": "Investing.com-- OpenAI said on Tuesday t[+304 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Arm Holdings (NASDAQ: ), <em>Microsoft</[+270 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "OpenAI said the new company will deepen [+325 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "OpenAI announces $500 bln \u2018Stargate\u2019 venture with Nvidia, <em>Microsoft</em> and Oracle By Investing.com",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVD.DE",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 32.210255,
+                    "sentiment_score": 0.193175,
+                    "highlights": [
+                        {
+                            "highlight": "Investing.com-- OpenAI said on Tuesday t[+304 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Arm Holdings (NASDAQ: ), Microsoft Corpo[+270 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "OpenAI said the new company will deepen [+325 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "OpenAI announces $500 bln \u2018Stargate\u2019 venture with <em>Nvidia</em>, Microsoft and Oracle By Investing.com",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSF.DE",
+                    "name": "Microsoft Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 29.530058,
+                    "sentiment_score": 0.193175,
+                    "highlights": [
+                        {
+                            "highlight": "Investing.com-- OpenAI said on Tuesday t[+304 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Arm Holdings (NASDAQ: ), <em>Microsoft</[+270 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "OpenAI said the new company will deepen [+325 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "OpenAI announces $500 bln \u2018Stargate\u2019 venture with Nvidia, <em>Microsoft</em> and Oracle By Investing.com",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ORCL",
+                    "name": "Oracle Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 44.58196,
+                    "sentiment_score": 0.15454,
+                    "highlights": [
+                        {
+                            "highlight": "Investing.com-- OpenAI said on Tuesday t[+304 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "(TYO: ), OpenAI, <em>Oracle</em> <em>Cor[+296 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Arm Holdings (NASDAQ: ), Microsoft Corpo[+261 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Shares of <em>Oracle</em>, Microsoft, an[+195 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "OpenAI announces $500 bln \u2018Stargate\u2019 venture with Nvidia, Microsoft and <em>Oracle</em> By Investing.com",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ORC.DE",
+                    "name": "Oracle Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 13.186956,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "(TYO: ), OpenAI, <em>Oracle</em> <em>Cor[+296 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SOBKY",
+                    "name": "SoftBank Corp.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 21.87447,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "The initial equity backers for the proje[+299 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Softbank</em> CEO Masayoshi Son will[+113 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SFTBY",
+                    "name": "SoftBank Group Corp.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 38.736458,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "The initial equity backers for the proje[+317 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Softbank</em> CEO Masayoshi Son will[+113 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SFTBF",
+                    "name": "SoftBank Group Corp.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 38.73648,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "The initial equity backers for the proje[+317 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Softbank</em> CEO Masayoshi Son will[+113 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SFBQF",
+                    "name": "SoftBank Corp.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 21.870293,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "The initial equity backers for the proje[+299 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Softbank</em> CEO Masayoshi Son will[+113 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFT.MX",
+                    "name": "Microsoft Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 29.530643,
+                    "sentiment_score": 0.193175,
+                    "highlights": [
+                        {
+                            "highlight": "Investing.com-- OpenAI said on Tuesday t[+304 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Arm Holdings (NASDAQ: ), <em>Microsoft</[+270 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "OpenAI said the new company will deepen [+325 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "OpenAI announces $500 bln \u2018Stargate\u2019 venture with Nvidia, <em>Microsoft</em> and Oracle By Investing.com",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA.MX",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 32.211685,
+                    "sentiment_score": 0.193175,
+                    "highlights": [
+                        {
+                            "highlight": "Investing.com-- OpenAI said on Tuesday t[+304 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Arm Holdings (NASDAQ: ), Microsoft Corpo[+270 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "OpenAI said the new company will deepen [+325 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "OpenAI announces $500 bln \u2018Stargate\u2019 venture with <em>Nvidia</em>, Microsoft and Oracle By Investing.com",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ORCL.MX",
+                    "name": "Oracle Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 13.19028,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "(TYO: ), OpenAI, <em>Oracle</em> <em>Cor[+296 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SOFTN.MX",
+                    "name": "SoftBank Group Corp.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 31.32412,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "The initial equity backers for the proje[+317 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Softbank</em> CEO Masayoshi Son will[+113 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0L7L.L",
+                    "name": "SoftBank Group Corp.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 31.313078,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "The initial equity backers for the proje[+317 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Softbank</em> CEO Masayoshi Son will[+113 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSF.BR",
+                    "name": "Microsoft Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "be",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 29.53043,
+                    "sentiment_score": 0.193175,
+                    "highlights": [
+                        {
+                            "highlight": "Investing.com-- OpenAI said on Tuesday t[+304 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Arm Holdings (NASDAQ: ), <em>Microsoft</[+270 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "OpenAI said the new company will deepen [+325 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "OpenAI announces $500 bln \u2018Stargate\u2019 venture with Nvidia, <em>Microsoft</em> and Oracle By Investing.com",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDC34.SA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 32.211704,
+                    "sentiment_score": 0.193175,
+                    "highlights": [
+                        {
+                            "highlight": "Investing.com-- OpenAI said on Tuesday t[+304 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Arm Holdings (NASDAQ: ), Microsoft Corpo[+270 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "OpenAI said the new company will deepen [+325 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "OpenAI announces $500 bln \u2018Stargate\u2019 venture with <em>Nvidia</em>, Microsoft and Oracle By Investing.com",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA.BA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 32.212418,
+                    "sentiment_score": 0.193175,
+                    "highlights": [
+                        {
+                            "highlight": "Investing.com-- OpenAI said on Tuesday t[+304 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Arm Holdings (NASDAQ: ), Microsoft Corpo[+270 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "OpenAI said the new company will deepen [+325 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "OpenAI announces $500 bln \u2018Stargate\u2019 venture with <em>Nvidia</em>, Microsoft and Oracle By Investing.com",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ORCL.BA",
+                    "name": "Oracle Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 13.183983,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "(TYO: ), OpenAI, <em>Oracle</em> <em>Cor[+296 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFT.SN",
+                    "name": "Microsoft Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 29.530912,
+                    "sentiment_score": 0.193175,
+                    "highlights": [
+                        {
+                            "highlight": "Investing.com-- OpenAI said on Tuesday t[+304 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Arm Holdings (NASDAQ: ), <em>Microsoft</[+270 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "OpenAI said the new company will deepen [+325 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "OpenAI announces $500 bln \u2018Stargate\u2019 venture with Nvidia, <em>Microsoft</em> and Oracle By Investing.com",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "9984.T",
+                    "name": "SoftBank Group Corp.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "jp",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 41.266785,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "The initial equity backers for the proje[+317 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Softbank</em> CEO Masayoshi Son will[+113 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "9434.T",
+                    "name": "SoftBank Corp.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "jp",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 24.42014,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "The initial equity backers for the proje[+299 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Softbank</em> CEO Masayoshi Son will[+113 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "6982.T",
+                    "name": "The Lead Co., Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "jp",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 16.29554,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Softbank (OTC: ) and OpenAI will be <em>[+309 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

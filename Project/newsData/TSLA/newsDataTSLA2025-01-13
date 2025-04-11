@@ -1,0 +1,98 @@
+{
+    "meta": {
+        "found": 44,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "2bdc285c-0de7-4c72-aed5-06463ad2dfbb",
+            "title": "Stock Market Recap: Why Was the Market Up Today?",
+            "description": "The U.S. stock market ended Monday, January 13, 2025, with mixed results as investors grappled with shifting expectations for interest rate cuts and upcoming",
+            "keywords": "",
+            "snippet": "Major Indexes Close Mixed as Investors Weigh Rate Cut Outlook\n\nThe U.S. stock market ended Monday, January 13, 2025, with mixed results as investors grappled wi...",
+            "url": "https://thestockmarketwatch.com/stock-market-news/stock-market-recap-why-was-the-market-up-today-january-13-2025-3/48733/",
+            "image_url": "https://thestockmarketwatch.com/stock-market-news/wp-content/uploads/2024/08/5.jpg",
+            "language": "en",
+            "published_at": "2025-01-13T22:28:39.000000Z",
+            "source": "thestockmarketwatch.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 11.368862,
+                    "sentiment_score": 0.1027,
+                    "highlights": [
+                        {
+                            "highlight": "\u2013 <em>NVIDIA</em> (NVDA): Fell 1.97% a[+249 characters]",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ITCI",
+                    "name": "Intra-Cellular Therapies, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 25.414845,
+                    "sentiment_score": 0.743,
+                    "highlights": [
+                        {
+                            "highlight": "Major Stock News\n\nSeveral stocks made si[+318 characters]",
+                            "sentiment": 0.743,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 11.118138,
+                    "sentiment_score": 0.4939,
+                    "highlights": [
+                        {
+                            "highlight": "\u2013 <em>Tesla</em> (TSLA): Gained 2.17%,[+299 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MRNA",
+                    "name": "Moderna, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 11.587856,
+                    "sentiment_score": -0.4215,
+                    "highlights": [
+                        {
+                            "highlight": "\u2013 <em>Moderna</em> (MRNA): Plummeted 1[+240 characters]",
+                            "sentiment": -0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "meta": {
+        "found": 16,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "2038116f-12b2-4e96-8fec-501929a60e41",
+            "title": "Meta CEO Mark Zuckerberg sells stock worth $14.1 million By Investing.com",
+            "description": "Meta CEO Mark Zuckerberg sells stock worth $14.1 million",
+            "keywords": "",
+            "snippet": "Mark Zuckerberg, the CEO and Chairman of Meta Platforms, Inc. (NASDAQ: ), recently sold a significant portion of his Class A common stock. According to a filing...",
+            "url": "https://www.investing.com/news/insider-trading-news/meta-ceo-mark-zuckerberg-sells-stock-worth-141-million-93CH-3823473",
+            "image_url": "https://i-invdn-com.investing.com/news/moved_LYNXMPEH9R17H_L.jpg",
+            "language": "en",
+            "published_at": "2025-01-21T23:21:52.000000Z",
+            "source": "investing.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 11.255372,
+                    "sentiment_score": 0.6124,
+                    "highlights": [
+                        {
+                            "highlight": "In other recent news, Meta Platforms Inc[+140 characters]",
+                            "sentiment": 0.6124,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 24.615215,
+                    "sentiment_score": 0.7044,
+                    "highlights": [
+                        {
+                            "highlight": "Mark Zuckerberg, the CEO and Chairman of[+254 characters]",
+                            "sentiment": 0.7964,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In other recent news, <em>Meta</em> <em>[+158 characters]",
+                            "sentiment": 0.6124,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

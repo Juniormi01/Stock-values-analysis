@@ -1,0 +1,116 @@
+{
+    "meta": {
+        "found": 26,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "7b96061e-d052-48be-b2a2-17fe6fba0135",
+            "title": "Intel\u2019s Decline: A Cautionary Tale For Technology Investors",
+            "description": "RIP Intel Corporation: The tech sector marks a major turning point today with stories of Intel possibly being sold off and TSMC and Broadcom showing interest in acquir...",
+            "keywords": "Intel Stock Analysis, Technology Investment, Risks Semiconductor Industry, Intel Market, Performance Tech Sector, Investment Intel Business Strategy, Investment Lessons from Intel, Intel Competitive Analysis, Decline of Tech Giants Intel",
+            "snippet": "SANTA CLARA, CA - JULY 15: An Intel sign is displayed in front of the Intel company headquarters ... [+] July 15, 2008 in Santa Clara, California. Intel has rep...",
+            "url": "https://www.forbes.com/sites/jimosman/2025/02/17/intels-decline-a-cautionary-tale-for-technology-investors/",
+            "image_url": "https://imageio.forbes.com/specials-images/imageserve/67b364cc658af6dede6c22e7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "language": "en",
+            "published_at": "2025-02-17T23:22:42.000000Z",
+            "source": "forbes.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 7.25573,
+                    "sentiment_score": -0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "Think about Xerox, who created the first[+157 characters]",
+                            "sentiment": -0.0258,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGO",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 10.065774,
+                    "sentiment_score": 0.6369,
+                    "highlights": [
+                        {
+                            "highlight": "The tech sector marks a major turning po[+299 characters]",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGOP",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 10.065755,
+                    "sentiment_score": 0.6369,
+                    "highlights": [
+                        {
+                            "highlight": "The tech sector marks a major turning po[+299 characters]",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 8.257394,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "Intel\u2019s Stock Downturn\n\nIntel\u2019s stoc[+162 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFT",
+                    "name": "Microsoft Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 7.460651,
+                    "sentiment_score": -0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "Think about Xerox, who created the first[+157 characters]",
+                            "sentiment": -0.0258,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

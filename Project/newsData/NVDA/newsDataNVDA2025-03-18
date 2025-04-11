@@ -1,0 +1,83 @@
+{
+    "meta": {
+        "found": 123,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "20ed6dab-3ab5-4a4c-b8a1-97c12d340620",
+            "title": "Stock market today: Dow, S&P 500, Nasdaq futures find a footing in countdown to Fed decision",
+            "description": "US stock futures remained flat as investors braced themselves for the release of the Federal Reserve's next policy decision amid a volatile trading week.",
+            "keywords": "Federal Reserve, policy decision, Nasdaq",
+            "snippet": "US stocks recovered some ground before the bell on Wednesday as investors waited for the Federal Reserve's policy decision, seeking insights into the economy in...",
+            "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-find-a-footing-in-countdown-to-fed-decision-234549217.html",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/SaTJffvga2ebdys3LZv55A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-03/1526e560-036b-11f0-b9d7-b7a37904381b",
+            "language": "en",
+            "published_at": "2025-03-18T23:45:49.000000Z",
+            "source": "finance.yahoo.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 26.112871,
+                    "sentiment_score": -0.4019,
+                    "highlights": [
+                        {
+                            "highlight": "In individual names, <em>Nvidia</em> (NV[+134 characters]",
+                            "sentiment": -0.4019,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": [
+                {
+                    "uuid": "4002485d-0e46-4831-949e-18f37de98ef4",
+                    "title": "Stock market today: Nasdaq leads stocks lower as Nvidia falls with GTC event underway",
+                    "description": "Wall Street is debating whether the sell-off marked a bottom for stocks as the Fed holds its policy meeting.",
+                    "keywords": "Nasdaq Composite, Nasdaq, Nvidia, economic slowdown, the Federal Reserve",
+                    "snippet": "US stocks pulled back on Tuesday, led by a nearly 2% decline in the Nasdaq, following two days of gains as investors concerned about an economic slowdown looked...",
+                    "url": "https://finance.yahoo.com/news/live/stock-market-today-nasdaq-leads-stocks-lower-as-nvidia-falls-with-gtc-event-underway-171841372.html",
+                    "image_url": "https://s.yimg.com/ny/api/res/1.2/4qN0JuHJy6nfRtP_Jyyyhw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-03/ed89a510-0360-11f0-9397-f93a195701a2",
+                    "language": "en",
+                    "published_at": "2025-03-18T17:18:41.000000Z",
+                    "source": "finance.yahoo.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "NVDA",
+                            "name": "NVIDIA Corporation",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 41.536522,
+                            "sentiment_score": -0.1609,
+                            "highlights": [
+                                {
+                                    "highlight": "The tech-heavy Nasdaq Composite (^IXIC) [+284 characters]",
+                                    "sentiment": -0.0258,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Stock market today: Nasdaq leads stocks lower as <em>Nvidia</em> falls with GTC event underway",
+                                    "sentiment": -0.296,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1124 @@
+{
+    "meta": {
+        "found": 8,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "9d1f5b80-2a82-41f1-9544-a354030567cb",
+            "title": "Trump's Tariffs, Potential 'Stagflation': What's Driving Markets Thursday? - SPDR S&P 500 (ARCA:SPY)",
+            "description": "The S&P 500 and Nasdaq both slipped into the red, reversing early gains on Thursday, while the Dow Jones remained in positive territory in midday trading.",
+            "keywords": "",
+            "snippet": "The S&P 500 and Nasdaq both slipped into the red, reversing early gains on Thursday, while the Dow Jones remained in positive territory in midday trading. NVIDI...",
+            "url": "https://www.benzinga.com/general/market-summary/25/02/44018084/trumps-tariffs-potential-stagflation-whats-driving-markets-thursday",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2025/02/27/New-York-City---August-20-The-New-York-S.jpeg?width=1200&height=800&fit=crop",
+            "language": "en",
+            "published_at": "2025-02-27T18:06:33.000000Z",
+            "source": "benzinga.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "^XLE-IV",
+                    "name": "Energy Select Sector SPDR Fund ",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 46.1384,
+                    "sentiment_score": 0.296,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Energy</em> <em>Select</em> <em>[+348 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^XLE-TC",
+                    "name": "Energy Select Sector SPDR Fund ",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 46.138435,
+                    "sentiment_score": 0.296,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Energy</em> <em>Select</em> <em>[+348 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^XLE-EU",
+                    "name": "Energy Select Sector SPDR Fund ",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 46.13848,
+                    "sentiment_score": 0.296,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Energy</em> <em>Select</em> <em>[+348 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BYND",
+                    "name": "Beyond Meat, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 29.43887,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "SPCE\n\n<em>Beyond</em> <em>Meat</em>, <em[+286 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 13.574028,
+                    "sentiment_score": -0.29295,
+                    "highlights": [
+                        {
+                            "highlight": "<em>NVIDIA</em> Corp. NVDA led the tech [+243 characters]",
+                            "sentiment": -0.5859,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Stocks reacting to company earnings repo[+243 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "EBAY",
+                    "name": "eBay Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 25.695974,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "SNOW\n\n<em>eBay</em>, <em>Inc</em>. <em>E[+313 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 11.322891,
+                    "sentiment_score": -0.1531,
+                    "highlights": [
+                        {
+                            "highlight": "Read Next: <em>Tesla</em> Competes Again[+218 characters]",
+                            "sentiment": -0.1531,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "RUN",
+                    "name": "Sunrun Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 28.992964,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "DUOL\n\n<em>Sunrun</em> <em>Inc</em>. RUN\n[+154 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "CLOV",
+                    "name": "Clover Health Investments, Corp.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 42.5652,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "ACHR\n\nTalen Energy Corporation TLN\n\n<em>[+128 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "CLOVW",
+                    "name": "Clover Health Investments, Corp.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 42.564972,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "ACHR\n\nTalen Energy Corporation TLN\n\n<em>[+128 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "DUOL",
+                    "name": "Duolingo, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 37.61613,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "DELL\n\n<em>Duolingo</em>, <em>Inc</em>. <[+184 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SOUN",
+                    "name": "SoundHound AI Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 35.282173,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "RKLB\n\n<em>SoundHound</em> <em>AI</em>, <[+239 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AI",
+                    "name": "C3.ai, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Real Estate",
+                    "match_score": 24.24773,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "EBAY\n\n<em>C3</em>.<em>ai</em>, <em>Inc</[+296 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "DELL",
+                    "name": "Dell Technologies Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 23.447342,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "SOUN\n\n<em>Dell</em> <em>Technologies</em[+213 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "EIX",
+                    "name": "Edison International",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Utilities",
+                    "match_score": 21.846136,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "CLOV\n\n<em>Edison</em> <em>International<[+41 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPCE",
+                    "name": "Virgin Galactic Holdings, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 41.224335,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "JOBY\n\n<em>Virgin</em> <em>Galactic</em> [+332 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SNOW",
+                    "name": "Snowflake Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 19.927986,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "CRM\n\n<em>Snowflake</em>, <em>Inc</em>. S[+325 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TLN",
+                    "name": "Talen Energy Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 31.485538,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "ACHR\n\n<em>Talen</em> <em>Energy</em> <em[+119 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "JOBY",
+                    "name": "Joby Aviation Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 46.968475,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "AI\n\n<em>Joby</em> <em>Aviation</em>, <em[+287 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0Q3.DE",
+                    "name": "Beyond Meat Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 24.029469,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "SPCE\n\n<em>Beyond</em> <em>Meat</em>, <em[+286 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "EBA.DE",
+                    "name": "eBay Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 10.893897,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "SNOW\n\n<em>eBay</em>, <em>Inc</em>. EBAY\n[+304 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "QQQ",
+                    "name": "Invesco QQQ Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 43.943695,
+                    "sentiment_score": 0.6705,
+                    "highlights": [
+                        {
+                            "highlight": "The tech-heavy <em>Invesco</em> <em>QQQ<[+333 characters]",
+                            "sentiment": 0.6705,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "12DA.DE",
+                    "name": "Dell Technologies Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 23.446253,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "SOUN\n\n<em>Dell</em> <em>Technologies</em[+213 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "XLY",
+                    "name": "Consumer Discretionary Select Sector SPDR Fund",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 59.902466,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Consumer</em> <em>Discretionary<[+226 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "XLE",
+                    "name": "Energy Select Sector SPDR Fund",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 46.136116,
+                    "sentiment_score": 0.296,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Energy</em> <em>Select</em> <em>[+348 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "IWM",
+                    "name": "iShares Russell 2000 ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 43.95774,
+                    "sentiment_score": 0.6705,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>iShares</em> <em>Russell</em> <e[+290 characters]",
+                            "sentiment": 0.6705,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "3S9.DE",
+                    "name": "Sunrun Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 23.582916,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "DUOL\n\n<em>Sunrun</em> <em>Inc</em>. RUN\n[+154 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "EIX.DE",
+                    "name": "Edison International",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Utilities",
+                    "match_score": 21.840656,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "CLOV\n\n<em>Edison</em> <em>International<[+41 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 52.289734,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Nasdaq 100 18,951.46 -0.65% S&P 500 5,95[+330 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BYND.MX",
+                    "name": "Beyond Meat, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 24.029196,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "SPCE\n\n<em>Beyond</em> <em>Meat</em>, <em[+286 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "XLE.MX",
+                    "name": "Energy Select Sector SPDR Fund",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 46.135674,
+                    "sentiment_score": 0.296,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Energy</em> <em>Select</em> <em>[+348 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "EBAY.MX",
+                    "name": "eBay Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 10.893649,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "SNOW\n\n<em>eBay</em>, <em>Inc</em>. EBAY\n[+304 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPCE.MX",
+                    "name": "Virgin Galactic Holdings, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 41.222683,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "JOBY\n\n<em>Virgin</em> <em>Galactic</em> [+332 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "IWM.MX",
+                    "name": "iShares Russell 2000 ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 43.95702,
+                    "sentiment_score": 0.6705,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>iShares</em> <em>Russell</em> <e[+290 characters]",
+                            "sentiment": 0.6705,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SNOW.MX",
+                    "name": "Snowflake Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 19.93075,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "CRM\n\n<em>Snowflake</em>, <em>Inc</em>. S[+325 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "XLY.MX",
+                    "name": "Consumer Discretionary Select Sector SPDR Fund",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 59.901703,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Consumer</em> <em>Discretionary<[+226 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "DELLC.MX",
+                    "name": "Dell Technologies Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 23.446014,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "SOUN\n\n<em>Dell</em> <em>Technologies</em[+213 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "RUN.MX",
+                    "name": "Sunrun Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 23.57587,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "DUOL\n\n<em>Sunrun</em> <em>Inc</em>. RUN\n[+154 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AI1.MX",
+                    "name": "C3.ai, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 24.244167,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "EBAY\n\n<em>C3</em>.<em>ai</em>, <em>Inc</[+296 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 52.289207,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Nasdaq 100 18,951.46 -0.65% S&P 500 5,95[+330 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0A4S.L",
+                    "name": "Sunrun Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 23.571575,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "DUOL\n\n<em>Sunrun</em> <em>Inc</em>. RUN\n[+154 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0IFJ.L",
+                    "name": "Edison International",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 21.839287,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "CLOV\n\n<em>Edison</em> <em>International<[+41 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0A7D.L",
+                    "name": "Dell Technologies Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 23.445713,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "SOUN\n\n<em>Dell</em> <em>Technologies</em[+213 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "D1EL34.SA",
+                    "name": "Dell Technologies Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 23.445509,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "SOUN\n\n<em>Dell</em> <em>Technologies</em[+213 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "B2YN34.SA",
+                    "name": "Beyond Meat, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 24.028168,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "SPCE\n\n<em>Beyond</em> <em>Meat</em>, <em[+286 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "S2NW34.SA",
+                    "name": "Snowflake Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 19.924896,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "CRM\n\n<em>Snowflake</em>, <em>Inc</em>. S[+325 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "E1IX34.SA",
+                    "name": "Edison International",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Utilities",
+                    "match_score": 21.837967,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "CLOV\n\n<em>Edison</em> <em>International<[+41 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BTCUSD",
+                    "name": "Bitcoin USD",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "global",
+                    "type": "cryptocurrency",
+                    "industry": "N/A",
+                    "match_score": 38.325153,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Bitcoin</em> <em>BTC</em>/<em>USD</e[+191 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA.MI",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "it",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 21.479042,
+                    "sentiment_score": -0.29295,
+                    "highlights": [
+                        {
+                            "highlight": "<em>NVIDIA</em> <em>Corp</em>. NVDA led [+252 characters]",
+                            "sentiment": -0.5859,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Stocks reacting to company earnings repo[+252 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDAD.BA",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 21.478804,
+                    "sentiment_score": -0.29295,
+                    "highlights": [
+                        {
+                            "highlight": "<em>NVIDIA</em> <em>Corp</em>. NVDA led [+252 characters]",
+                            "sentiment": -0.5859,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Stocks reacting to company earnings repo[+252 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDAC.BA",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 21.478804,
+                    "sentiment_score": -0.29295,
+                    "highlights": [
+                        {
+                            "highlight": "<em>NVIDIA</em> <em>Corp</em>. NVDA led [+252 characters]",
+                            "sentiment": -0.5859,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Stocks reacting to company earnings repo[+252 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "EBAY.BA",
+                    "name": "eBay Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 20.285828,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "SNOW\n\n<em>eBay</em>, <em>Inc</em>. <em>E[+313 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SNOW.BA",
+                    "name": "Snowflake Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 19.922611,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "CRM\n\n<em>Snowflake</em>, <em>Inc</em>. S[+325 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SNOWD.BA",
+                    "name": "SNOWFLAKE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 19.922611,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "CRM\n\n<em>Snowflake</em>, <em>Inc</em>. S[+325 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "EBAYD.BA",
+                    "name": "EBAY INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 20.285828,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "SNOW\n\n<em>eBay</em>, <em>Inc</em>. <em>E[+313 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "IWM.SN",
+                    "name": "iShares Russell 2000 ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 43.96006,
+                    "sentiment_score": 0.6705,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>iShares</em> <em>Russell</em> <e[+290 characters]",
+                            "sentiment": 0.6705,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": [
+                {
+                    "uuid": "e10d727e-0b42-4e19-a5d2-22259071b8f8",
+                    "title": "Q4 GDP Holds At 2.3% After Minor Revision In Second Estimate - SPDR S&P 500 (ARCA:SPY)",
+                    "description": "The second estimate released Thursday by the U.S. Bureau of Economic Analysis revised the real GDP up by less than 0.1 percentage point from the previous month's advance estimate.",
+                    "keywords": "",
+                    "snippet": "The second estimate released Thursday by the U.S. Bureau of Economic Analysis revised the real GDP up by less than 0.1 percentage point from the previous month?...",
+                    "url": "https://www.benzinga.com/news/econ-s/25/02/44007082/q4-gdp-holds-at-2-3-after-minor-revision-in-second-estimate",
+                    "image_url": "https://cdn.benzinga.com/files/images/story/2025/02/27/Us-Economy--Franklin-Portrait-Next-To-Th.jpeg?width=1200&height=800&fit=crop",
+                    "language": "en",
+                    "published_at": "2025-02-27T14:15:59.000000Z",
+                    "source": "benzinga.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "SPY",
+                            "name": "SPDR S&P 500 ETF Trust",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "etf",
+                            "industry": "N/A",
+                            "match_score": 62.393127,
+                            "sentiment_score": 0.5106,
+                            "highlights": [
+                                {
+                                    "highlight": "S&P 500 futures were 0.57% higher, after[+262 characters]",
+                                    "sentiment": 0.5106,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "0KZF.L",
+                            "name": "SPDR Gold Trust",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "gb",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 38.06587,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "Gold, as tracked by the <em>SPDR</em> <e[+84 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "0KZC.L",
+                            "name": "SPDR S&P 500 ETF Trust",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "gb",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 62.389786,
+                            "sentiment_score": 0.5106,
+                            "highlights": [
+                                {
+                                    "highlight": "S&P 500 futures were 0.57% higher, after[+262 characters]",
+                                    "sentiment": 0.5106,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

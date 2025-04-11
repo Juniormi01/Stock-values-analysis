@@ -1,0 +1,437 @@
+{
+    "meta": {
+        "found": 2,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "7f88b410-1026-497d-83bd-449e99c32de7",
+            "title": "SOUTHWEST AIRLINES ANNOUNCES REDUCTION IN CORPORATE OVERHEAD WORKFORCE",
+            "description": "PR NewswireDALLAS, Feb. 17, 2025\n\n\n\nAirline implements workforce reduction in corporate and leadership rolesDALLAS, Feb. 17, 2025 /PRNewswire/ -- Southwest Ai",
+            "keywords": "GuruFocus, Article, News, PRNewswire, NYSE:LUV",
+            "snippet": "Airline implements workforce reduction in corporate and leadership roles\n\nDALLAS, Feb. 17, 2025 /PRNewswire/ -- Southwest Airlines Co. (NYSE: LUV) (the \"Company...",
+            "url": "https://www.gurufocus.com/news/2701347/southwest-airlines-announces-reduction-in-corporate-overhead-workforce",
+            "image_url": "https://static.gurufocus.com/images/global_logo_twitter_card.png",
+            "language": "en",
+            "published_at": "2025-02-17T23:00:02.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "BA.SN",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 14.958163,
+                    "sentiment_score": 0.647467,
+                    "highlights": [
+                        {
+                            "highlight": "and equipment to support its operations [+322 characters]",
+                            "sentiment": 0.4019,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Boeing</em> <em>Company</em> (\"Boein[+336 characters]",
+                            "sentiment": 0.8402,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "of <em>the</em> <em>Boeing</em> MAX 7 ai[+329 characters]",
+                            "sentiment": 0.7003,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BA",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 17.885057,
+                    "sentiment_score": 0.647467,
+                    "highlights": [
+                        {
+                            "highlight": "and equipment to support its operations [+322 characters]",
+                            "sentiment": 0.4019,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Boeing</em> <em>Company</em> (\"Boein[+336 characters]",
+                            "sentiment": 0.8402,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "of <em>the</em> <em>Boeing</em> MAX 7 ai[+329 characters]",
+                            "sentiment": 0.7003,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LUV",
+                    "name": "Southwest Airlines Co.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 90.56381,
+                    "sentiment_score": 0.397283,
+                    "highlights": [
+                        {
+                            "highlight": "Airline implements workforce reduction i[+307 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "We are at a pivotal moment as we transfo[+187 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "I'm grateful to all Southwest Employees [+316 characters]",
+                            "sentiment": 0.6597,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "ABOUT <em>SOUTHWEST</em> <em>AIRLINES</e[+215 characters]",
+                            "sentiment": 0.8384,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Dept. of Transportation quarterly Airlin[+327 characters]",
+                            "sentiment": 0.6124,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>SOUTHWEST</em> <em>AIRLINES</em> ANNOUNCES REDUCTION IN CORPORATE OVERHEAD WORKFORCE",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BCO.DE",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 14.958998,
+                    "sentiment_score": 0.647467,
+                    "highlights": [
+                        {
+                            "highlight": "and equipment to support its operations [+322 characters]",
+                            "sentiment": 0.4019,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Boeing</em> <em>Company</em> (\"Boein[+336 characters]",
+                            "sentiment": 0.8402,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "of <em>the</em> <em>Boeing</em> MAX 7 ai[+329 characters]",
+                            "sentiment": 0.7003,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SWN.DE",
+                    "name": "Southwest Airlines Co.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 79.03949,
+                    "sentiment_score": 0.397283,
+                    "highlights": [
+                        {
+                            "highlight": "Airline implements workforce reduction i[+289 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "We are at a pivotal moment as we transfo[+187 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "I'm grateful to all Southwest Employees [+316 characters]",
+                            "sentiment": 0.6597,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "ABOUT <em>SOUTHWEST</em> <em>AIRLINES</e[+215 characters]",
+                            "sentiment": 0.8384,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Dept. of Transportation quarterly Airlin[+327 characters]",
+                            "sentiment": 0.6124,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>SOUTHWEST</em> <em>AIRLINES</em> ANNOUNCES REDUCTION IN CORPORATE OVERHEAD WORKFORCE",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LUV.MX",
+                    "name": "Southwest Airlines Co.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 79.03625,
+                    "sentiment_score": 0.397283,
+                    "highlights": [
+                        {
+                            "highlight": "Airline implements workforce reduction i[+289 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "We are at a pivotal moment as we transfo[+187 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "I'm grateful to all Southwest Employees [+316 characters]",
+                            "sentiment": 0.6597,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "ABOUT <em>SOUTHWEST</em> <em>AIRLINES</e[+215 characters]",
+                            "sentiment": 0.8384,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Dept. of Transportation quarterly Airlin[+327 characters]",
+                            "sentiment": 0.6124,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>SOUTHWEST</em> <em>AIRLINES</em> ANNOUNCES REDUCTION IN CORPORATE OVERHEAD WORKFORCE",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BA.MX",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 14.959329,
+                    "sentiment_score": 0.647467,
+                    "highlights": [
+                        {
+                            "highlight": "and equipment to support its operations [+322 characters]",
+                            "sentiment": 0.4019,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Boeing</em> <em>Company</em> (\"Boein[+336 characters]",
+                            "sentiment": 0.8402,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "of <em>the</em> <em>Boeing</em> MAX 7 ai[+329 characters]",
+                            "sentiment": 0.7003,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BOE.L",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 14.958081,
+                    "sentiment_score": 0.647467,
+                    "highlights": [
+                        {
+                            "highlight": "and equipment to support its operations [+322 characters]",
+                            "sentiment": 0.4019,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Boeing</em> <em>Company</em> (\"Boein[+336 characters]",
+                            "sentiment": 0.8402,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "of <em>the</em> <em>Boeing</em> MAX 7 ai[+329 characters]",
+                            "sentiment": 0.7003,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0L8F.L",
+                    "name": "Southwest Airlines Co.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 79.033646,
+                    "sentiment_score": 0.397283,
+                    "highlights": [
+                        {
+                            "highlight": "Airline implements workforce reduction i[+289 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "We are at a pivotal moment as we transfo[+187 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "I'm grateful to all Southwest Employees [+316 characters]",
+                            "sentiment": 0.6597,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "ABOUT <em>SOUTHWEST</em> <em>AIRLINES</e[+215 characters]",
+                            "sentiment": 0.8384,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Dept. of Transportation quarterly Airlin[+327 characters]",
+                            "sentiment": 0.6124,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>SOUTHWEST</em> <em>AIRLINES</em> ANNOUNCES REDUCTION IN CORPORATE OVERHEAD WORKFORCE",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BOEI.BR",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "be",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 14.958102,
+                    "sentiment_score": 0.647467,
+                    "highlights": [
+                        {
+                            "highlight": "and equipment to support its operations [+322 characters]",
+                            "sentiment": 0.4019,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Boeing</em> <em>Company</em> (\"Boein[+336 characters]",
+                            "sentiment": 0.8402,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "of <em>the</em> <em>Boeing</em> MAX 7 ai[+329 characters]",
+                            "sentiment": 0.7003,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BOEI34.SA",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 14.958227,
+                    "sentiment_score": 0.647467,
+                    "highlights": [
+                        {
+                            "highlight": "and equipment to support its operations [+322 characters]",
+                            "sentiment": 0.4019,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Boeing</em> <em>Company</em> (\"Boein[+336 characters]",
+                            "sentiment": 0.8402,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "of <em>the</em> <em>Boeing</em> MAX 7 ai[+329 characters]",
+                            "sentiment": 0.7003,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "S1OU34.SA",
+                    "name": "Southwest Airlines Co.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 79.02609,
+                    "sentiment_score": 0.397283,
+                    "highlights": [
+                        {
+                            "highlight": "Airline implements workforce reduction i[+289 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "We are at a pivotal moment as we transfo[+187 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "I'm grateful to all Southwest Employees [+316 characters]",
+                            "sentiment": 0.6597,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "ABOUT <em>SOUTHWEST</em> <em>AIRLINES</e[+215 characters]",
+                            "sentiment": 0.8384,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Dept. of Transportation quarterly Airlin[+327 characters]",
+                            "sentiment": 0.6124,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>SOUTHWEST</em> <em>AIRLINES</em> ANNOUNCES REDUCTION IN CORPORATE OVERHEAD WORKFORCE",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

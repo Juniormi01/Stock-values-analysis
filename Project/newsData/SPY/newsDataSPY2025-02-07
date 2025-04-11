@@ -1,0 +1,80 @@
+{
+    "meta": {
+        "found": 15,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "1449620a-32bc-41b2-a161-79662c11b6a9",
+            "title": "January Jobs Report 'Not Too Hot, Not Too Cold' Leaves Interest Rate Cuts Unlikely: Expert - SPDR S&P 500 (ARCA:SPY)",
+            "description": "Experts are weighing in on the slowdown in job growth and what it means for the future of interest rates.",
+            "keywords": "",
+            "snippet": "January's nonfarm payrolls came in well-below expectations, rising by 143,000 and missing economist expectations of 170,000, as tracked by TradingEconomics. Exp...",
+            "url": "https://www.benzinga.com/news/econ-s/25/02/43565669/january-jobs-report-not-too-hot-not-too-cold-leaves-interest-rate-cuts-unlikely-expert",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2025/02/07/Federal-Reserve-Photo-by-Thomas-Barrat-o.jpeg?width=1200&height=800&fit=crop",
+            "language": "en",
+            "published_at": "2025-02-07T16:20:35.000000Z",
+            "source": "benzinga.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "QQQ",
+                    "name": "Invesco QQQ Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 49.010025,
+                    "sentiment_score": 0.5106,
+                    "highlights": [
+                        {
+                            "highlight": "Markets React: All major U.S. indices ar[+268 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 60.449245,
+                    "sentiment_score": 0.5106,
+                    "highlights": [
+                        {
+                            "highlight": "Markets React: All major U.S. indices ar[+295 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 60.442127,
+                    "sentiment_score": 0.5106,
+                    "highlights": [
+                        {
+                            "highlight": "Markets React: All major U.S. indices ar[+295 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

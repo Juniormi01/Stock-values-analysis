@@ -1,0 +1,513 @@
+{
+    "meta": {
+        "found": 1,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "0dc151fc-832e-40bf-a5c6-b24ed085fcfd",
+            "title": "Spirit AeroSystems Shareholders Approve Acquisition by Boeing",
+            "description": "PR NewswireWICHITA, Kan., Jan. 31, 2025\n\n\n\nWICHITA, Kan., Jan. 31, 2025 /PRNewswire/ -- Spirit AeroSystems Holdings, Inc. (NYSE: SPR) today announced that, at",
+            "keywords": "GuruFocus, Article, News, PRNewswire, NYSE:SPR",
+            "snippet": "WICHITA, Kan., Jan. 31, 2025 /PRNewswire/ -- Spirit AeroSystems Holdings, Inc. (NYSE: SPR) today announced that, at the special meeting of its shareholders held...",
+            "url": "https://www.gurufocus.com/news/2676873/spirit-aerosystems-shareholders-approve-acquisition-by-boeing",
+            "image_url": "https://static.gurufocus.com/images/global_logo_twitter_card.png",
+            "language": "en",
+            "published_at": "2025-01-31T22:00:10.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "BA",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 20.155682,
+                    "sentiment_score": 0.29965,
+                    "highlights": [
+                        {
+                            "highlight": "(NYSE: SPR) today announced that, at the[+187 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Important factors that could cause actua[+361 characters]",
+                            "sentiment": -0.0772,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Transaction \") and the proposed divestit[+338 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "the Airbus Business Disposition; the pos[+322 characters]",
+                            "sentiment": 0.7178,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Boeing</em> Merger Transaction merge[+322 characters]",
+                            "sentiment": 0.7206,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "; the potential for the pendency of the [+329 characters]",
+                            "sentiment": -0.5859,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "following: the Company's ability to cont[+329 characters]",
+                            "sentiment": 0.9559,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Boeing</em> Merger Transaction), the[+321 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "sections captioned \"Risk Factors\" in Spi[+324 characters]",
+                            "sentiment": -0.2732,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Boeing</em> Merger Transaction filed[+184 characters]",
+                            "sentiment": 0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPR",
+                    "name": "Spirit AeroSystems Holdings, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 37.468956,
+                    "sentiment_score": 0.13835,
+                    "highlights": [
+                        {
+                            "highlight": "., Jan. 31, 2025 /PRNewswire/ -- <em>Spi[+281 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Important factors that could cause actua[+352 characters]",
+                            "sentiment": -0.25,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BCO.DE",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 18.32526,
+                    "sentiment_score": 0.29965,
+                    "highlights": [
+                        {
+                            "highlight": "(NYSE: SPR) today announced that, at the[+187 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Important factors that could cause actua[+361 characters]",
+                            "sentiment": -0.0772,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Transaction \") and the proposed divestit[+338 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "the Airbus Business Disposition; the pos[+322 characters]",
+                            "sentiment": 0.7178,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Boeing</em> Merger Transaction merge[+322 characters]",
+                            "sentiment": 0.7206,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "; the potential for the pendency of the [+329 characters]",
+                            "sentiment": -0.5859,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "following: the Company's ability to cont[+329 characters]",
+                            "sentiment": 0.9559,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Boeing</em> Merger Transaction), the[+321 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "sections captioned \"Risk Factors\" in Spi[+324 characters]",
+                            "sentiment": -0.2732,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Boeing</em> Merger Transaction filed[+184 characters]",
+                            "sentiment": 0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BA.MX",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 18.325275,
+                    "sentiment_score": 0.29965,
+                    "highlights": [
+                        {
+                            "highlight": "(NYSE: SPR) today announced that, at the[+187 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Important factors that could cause actua[+361 characters]",
+                            "sentiment": -0.0772,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Transaction \") and the proposed divestit[+338 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "the Airbus Business Disposition; the pos[+322 characters]",
+                            "sentiment": 0.7178,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Boeing</em> Merger Transaction merge[+322 characters]",
+                            "sentiment": 0.7206,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "; the potential for the pendency of the [+329 characters]",
+                            "sentiment": -0.5859,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "following: the Company's ability to cont[+329 characters]",
+                            "sentiment": 0.9559,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Boeing</em> Merger Transaction), the[+321 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "sections captioned \"Risk Factors\" in Spi[+324 characters]",
+                            "sentiment": -0.2732,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Boeing</em> Merger Transaction filed[+184 characters]",
+                            "sentiment": 0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AIRN.MX",
+                    "name": "Airbus SE",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 8.592231,
+                    "sentiment_score": -0.1752,
+                    "highlights": [
+                        {
+                            "highlight": "forward-looking statements include risks[+329 characters]",
+                            "sentiment": -0.2732,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>SE</em> (\" Airbus \") and its affilia[+319 characters]",
+                            "sentiment": -0.0772,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BOE.L",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 18.32534,
+                    "sentiment_score": 0.29965,
+                    "highlights": [
+                        {
+                            "highlight": "(NYSE: SPR) today announced that, at the[+187 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Important factors that could cause actua[+361 characters]",
+                            "sentiment": -0.0772,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Transaction \") and the proposed divestit[+338 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "the Airbus Business Disposition; the pos[+322 characters]",
+                            "sentiment": 0.7178,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Boeing</em> Merger Transaction merge[+322 characters]",
+                            "sentiment": 0.7206,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "; the potential for the pendency of the [+329 characters]",
+                            "sentiment": -0.5859,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "following: the Company's ability to cont[+329 characters]",
+                            "sentiment": 0.9559,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Boeing</em> Merger Transaction), the[+321 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "sections captioned \"Risk Factors\" in Spi[+324 characters]",
+                            "sentiment": -0.2732,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Boeing</em> Merger Transaction filed[+184 characters]",
+                            "sentiment": 0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BOEI.BR",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "be",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 18.325531,
+                    "sentiment_score": 0.29965,
+                    "highlights": [
+                        {
+                            "highlight": "(NYSE: SPR) today announced that, at the[+187 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Important factors that could cause actua[+361 characters]",
+                            "sentiment": -0.0772,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Transaction \") and the proposed divestit[+338 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "the Airbus Business Disposition; the pos[+322 characters]",
+                            "sentiment": 0.7178,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Boeing</em> Merger Transaction merge[+322 characters]",
+                            "sentiment": 0.7206,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "; the potential for the pendency of the [+329 characters]",
+                            "sentiment": -0.5859,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "following: the Company's ability to cont[+329 characters]",
+                            "sentiment": 0.9559,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Boeing</em> Merger Transaction), the[+321 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "sections captioned \"Risk Factors\" in Spi[+324 characters]",
+                            "sentiment": -0.2732,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Boeing</em> Merger Transaction filed[+184 characters]",
+                            "sentiment": 0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BOEI34.SA",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 18.325523,
+                    "sentiment_score": 0.29965,
+                    "highlights": [
+                        {
+                            "highlight": "(NYSE: SPR) today announced that, at the[+187 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Important factors that could cause actua[+361 characters]",
+                            "sentiment": -0.0772,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Transaction \") and the proposed divestit[+338 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "the Airbus Business Disposition; the pos[+322 characters]",
+                            "sentiment": 0.7178,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Boeing</em> Merger Transaction merge[+322 characters]",
+                            "sentiment": 0.7206,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "; the potential for the pendency of the [+329 characters]",
+                            "sentiment": -0.5859,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "following: the Company's ability to cont[+329 characters]",
+                            "sentiment": 0.9559,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Boeing</em> Merger Transaction), the[+321 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "sections captioned \"Risk Factors\" in Spi[+324 characters]",
+                            "sentiment": -0.2732,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Boeing</em> Merger Transaction filed[+184 characters]",
+                            "sentiment": 0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BA.SN",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 18.32576,
+                    "sentiment_score": 0.29965,
+                    "highlights": [
+                        {
+                            "highlight": "(NYSE: SPR) today announced that, at the[+187 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Important factors that could cause actua[+361 characters]",
+                            "sentiment": -0.0772,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Transaction \") and the proposed divestit[+338 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "the Airbus Business Disposition; the pos[+322 characters]",
+                            "sentiment": 0.7178,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Boeing</em> Merger Transaction merge[+322 characters]",
+                            "sentiment": 0.7206,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "; the potential for the pendency of the [+329 characters]",
+                            "sentiment": -0.5859,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "following: the Company's ability to cont[+329 characters]",
+                            "sentiment": 0.9559,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Boeing</em> Merger Transaction), the[+321 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "sections captioned \"Risk Factors\" in Spi[+324 characters]",
+                            "sentiment": -0.2732,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Boeing</em> Merger Transaction filed[+184 characters]",
+                            "sentiment": 0.1779,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

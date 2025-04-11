@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "found": 22,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "35224a63-9269-48aa-b2a9-8939ca3de0cd",
+            "title": "Facebook owner investing up to $65 billion toward AI in 2025",
+            "description": "Meta Platforms CEO Mark Zuckerberg announced the social media company plans to spend as much as $65 billion this year alone to build on its artificial intelligence efforts.",
+            "keywords": "",
+            "snippet": "Facebook and Instagram owner Meta Platforms is planning to spend as much as $65 billion this year alone to build on the social media company's artificial intell...",
+            "url": "https://www.foxbusiness.com/technology/facebook-owner-investing-65-billion-ai-2025",
+            "image_url": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/06/0/0/meta-instagram.jpg?ve=1&tl=1",
+            "language": "en",
+            "published_at": "2025-01-24T23:26:06.000000Z",
+            "source": "foxbusiness.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 18.752426,
+                    "sentiment_score": 0.8481,
+                    "highlights": [
+                        {
+                            "highlight": "Ticker Security Last Change Change % MET[+355 characters]",
+                            "sentiment": 0.8481,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

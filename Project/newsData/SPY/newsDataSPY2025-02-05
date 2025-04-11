@@ -1,0 +1,98 @@
+{
+    "meta": {
+        "found": 6,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "72b6a72d-14fa-4c58-837a-53324662b513",
+            "title": "Buy This Cheap 6% Dividend As The S&P 500 Overheats",
+            "description": "We are\u2014unequivocally\u2014bullish on the US economy. We\u2019re also big fans of the 6.1% dividend we\u2019re going to discuss below, which trades for less than half its annual sales.",
+            "keywords": "high yield stocks, energy dividends, retirement income, international dividends, dividend investing, tariffs, Trump, oil and gas stocks, BP news",
+            "snippet": "oil pumpjacks in silhouette at sunset, panoramic frame (XXXL) getty\n\nWe are\u2014unequivocally\u2014bullish on the US economy. We\u2019re also big fans of the 6.1% divid...",
+            "url": "https://www.forbes.com/sites/brettowens/2025/02/05/buy-this-cheap-6-dividend-as-the-sp-500-overheats/",
+            "image_url": "https://imageio.forbes.com/specials-images/imageserve/67a0f5c566ecdc7dda90ceac/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "language": "en",
+            "published_at": "2025-02-05T16:30:00.000000Z",
+            "source": "forbes.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 35.974426,
+                    "sentiment_score": 0.9118,
+                    "highlights": [
+                        {
+                            "highlight": "With numbers like that, you could be loo[+324 characters]",
+                            "sentiment": 0.9118,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 7.167813,
+                    "sentiment_score": -0.1759,
+                    "highlights": [
+                        {
+                            "highlight": "over at <em>NVIDIA</em> (NVDA), even aft[+250 characters]",
+                            "sentiment": -0.1759,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "XOM",
+                    "name": "Exxon Mobil Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Energy",
+                    "match_score": 14.986441,
+                    "sentiment_score": 0.9568,
+                    "highlights": [
+                        {
+                            "highlight": "It\u2019s the same as buying a US-based pro[+288 characters]",
+                            "sentiment": 0.9568,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 35.974556,
+                    "sentiment_score": 0.9118,
+                    "highlights": [
+                        {
+                            "highlight": "With numbers like that, you could be loo[+324 characters]",
+                            "sentiment": 0.9118,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

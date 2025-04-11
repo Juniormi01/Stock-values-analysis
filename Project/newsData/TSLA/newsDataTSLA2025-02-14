@@ -1,0 +1,62 @@
+{
+    "meta": {
+        "found": 60,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "8f1f2493-27af-4f28-b79c-466deb5b0091",
+            "title": "Trump\u2019s tariffs shake global financial markets",
+            "description": "Global financial markets experience heightened volatility as Trump's tariffs take effect.",
+            "keywords": "",
+            "snippet": "President Trump\u2019s decision to impose sweeping tariffs on some of America\u2019s largest trading partners sent shock waves through global markets on Monday. Stock...",
+            "url": "https://www.killerstartups.com/trumps-tariffs-shake-global-financial-markets/",
+            "image_url": "https://images.killerstartups.com/wp-content/uploads/2025/02/trumps-tariffs-shake-global-financial-markets.jpg",
+            "language": "en",
+            "published_at": "2025-02-14T23:38:00.000000Z",
+            "source": "killerstartups.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 9.560614,
+                    "sentiment_score": -0.3182,
+                    "highlights": [
+                        {
+                            "highlight": "General Motors fell 5.5%, Ford lost 3.9%[+249 characters]",
+                            "sentiment": -0.3182,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "DED.BA",
+                    "name": "DEERE & CO",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 16.297596,
+                    "sentiment_score": 0.296,
+                    "highlights": [
+                        {
+                            "highlight": "Manufacturers also faced declines early [+300 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

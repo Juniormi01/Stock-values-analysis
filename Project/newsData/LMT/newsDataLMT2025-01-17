@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "found": 3,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "459b734a-d661-4953-a884-78b6144c2462",
+            "title": "Lockheed Martin (LMT) Gains But Lags Market: What You Should Know",
+            "description": "Lockheed Martin (LMT) closed the most recent trading day at $490.32, moving +0.71% from the previous trading session.",
+            "keywords": "stock, stocks, investment, investment advice, investing, online trading, online investment, online stock trading, stock market, financial, financial planning, quote, quotes, stock quotes",
+            "snippet": "This page has not been authorized, sponsored, or otherwise approved or endorsed by the companies represented herein. Each of the company logos represented herei...",
+            "url": "https://www.zacks.com/stock/news/2399341/lockheed-martin-lmt-gains-but-lags-market-what-you-should-know?cid=CS-ZC-FT-tale_of_the_tape|yseop_template_6v1-2399341",
+            "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default162.jpg",
+            "language": "en",
+            "published_at": "2025-01-17T22:50:20.000000Z",
+            "source": "zacks.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 60.069763,
+                    "sentiment_score": -0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> (LMT) Gains But Lags Market: What You Should Know",
+                            "sentiment": -0.0258,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

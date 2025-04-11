@@ -1,0 +1,572 @@
+{
+    "meta": {
+        "found": 45,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "546ccdf1-142b-4481-990e-c22997c9daa7",
+            "title": "Dow Jones Futures: Tesla, Apple, Nvidia Sink Indexes, Mask Underlying Strength; What To Do Now",
+            "description": "Dow Jones futures: The Nasdaq fell below its 50-day and the S&P 500 hit resistance as Tesla, Nvidia, Apple fell, masking broader strength.",
+            "keywords": "",
+            "snippet": "Dow Jones futures tilted lower after hours, along with S&P 500 futures and Nasdaq futures.\n\nA day after big gains for the stock market rally, the major indexes ...",
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-tesla-apple-nvidia-sink-indexes/",
+            "image_url": "https://www.investors.com/wp-content/uploads/2024/09/Stock-Apple-Glowtime-company.jpg",
+            "language": "en",
+            "published_at": "2025-01-16T23:38:02.000000Z",
+            "source": "investors.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "SMH",
+                    "name": "VanEck Vectors Semiconductor ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 46.79375,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>VanEck</em> <em>Vectors</em> <em[+334 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ARKK",
+                    "name": "ARK Innovation ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 25.293583,
+                    "sentiment_score": 0.6486,
+                    "highlights": [
+                        {
+                            "highlight": "<em>ARK</em> <em>Innovation</em> <em>ETF[+292 characters]",
+                            "sentiment": 0.6486,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "RSP",
+                    "name": "Invesco S&P 500 Equal Weight ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 46.75058,
+                    "sentiment_score": 0.7096,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Invesco</em> <em>S</em>&<em>P</e[+248 characters]",
+                            "sentiment": 0.7096,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "FFTY",
+                    "name": "Innovator IBD 50 ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 35.22828,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "ETFs\n\nAmong growth ETFs, the <em>Innovat[+295 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "XLV",
+                    "name": "Health Care Select Sector SPDR Fund",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 39.537704,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "The Energy Select SPDR ETF (XLE) climbed[+228 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "XLI",
+                    "name": "Industrial Select Sector SPDR Fund",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 35.06861,
+                    "sentiment_score": -0.3182,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Industrial</em> <em>Select</em> [+311 characters]",
+                            "sentiment": -0.3182,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^ARKK-NV",
+                    "name": "ARK Innovation ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 25.29343,
+                    "sentiment_score": 0.6486,
+                    "highlights": [
+                        {
+                            "highlight": "<em>ARK</em> <em>Innovation</em> <em>ETF[+292 characters]",
+                            "sentiment": 0.6486,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^ARKK-EU",
+                    "name": "ARK Innovation ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 25.293457,
+                    "sentiment_score": 0.6486,
+                    "highlights": [
+                        {
+                            "highlight": "<em>ARK</em> <em>Innovation</em> <em>ETF[+292 characters]",
+                            "sentiment": 0.6486,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^XLV-TC",
+                    "name": "Health Care Select Sector SPDR ",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 33.783974,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "The Energy Select SPDR ETF (XLE) climbed[+219 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SMH.MI",
+                    "name": "VanEck Vectors Semiconductor ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "it",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 39.938385,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>VanEck</em> <em>Vectors</em> <em[+334 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^FFTY-TC",
+                    "name": "Innovator IBD 50 ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 35.227173,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "ETFs\n\nAmong growth ETFs, the <em>Innovat[+295 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^FFTY-IV",
+                    "name": "Innovator IBD 50 ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 35.227173,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "ETFs\n\nAmong growth ETFs, the <em>Innovat[+295 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^FFTY-NV",
+                    "name": "Innovator IBD 50 ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 35.227173,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "ETFs\n\nAmong growth ETFs, the <em>Innovat[+295 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^FFTY-EU",
+                    "name": "Innovator IBD 50 ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 35.227173,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "ETFs\n\nAmong growth ETFs, the <em>Innovat[+295 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^XLV-NV",
+                    "name": "Health Care Select Sector SPDR ",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 33.78379,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "The Energy Select SPDR ETF (XLE) climbed[+219 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^XLV-IV",
+                    "name": "Health Care Select Sector SPDR ",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 33.78379,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "The Energy Select SPDR ETF (XLE) climbed[+219 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^XLV-EU",
+                    "name": "Health Care Select Sector SPDR ",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 33.78379,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "The Energy Select SPDR ETF (XLE) climbed[+219 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^ARKK-TC",
+                    "name": "ARK Innovation ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 25.293194,
+                    "sentiment_score": 0.6486,
+                    "highlights": [
+                        {
+                            "highlight": "<em>ARK</em> <em>Innovation</em> <em>ETF[+292 characters]",
+                            "sentiment": 0.6486,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^ARKK-IV",
+                    "name": "ARK Innovation ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 25.293194,
+                    "sentiment_score": 0.6486,
+                    "highlights": [
+                        {
+                            "highlight": "<em>ARK</em> <em>Innovation</em> <em>ETF[+292 characters]",
+                            "sentiment": 0.6486,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "IGV",
+                    "name": "iShares Expanded Tech-Software Sector ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 42.419403,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>iShares</em> <em>Expanded</em> <[+354 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 23.372551,
+                    "sentiment_score": 0.132133,
+                    "highlights": [
+                        {
+                            "highlight": "A day after big gains for the stock mark[+260 characters]",
+                            "sentiment": 0.6808,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "However, <em>Apple</em> stock sank 4%, r[+316 characters]",
+                            "sentiment": -0.7783,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Dow Jones Futures: Tesla, <em>Apple</em>, Nvidia Sink Indexes, Mask Underlying Strength; What To Do Now",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 27.156149,
+                    "sentiment_score": 0.508883,
+                    "highlights": [
+                        {
+                            "highlight": "A day after big gains for the stock mark[+260 characters]",
+                            "sentiment": 0.6808,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Nvidia</em> chipmaker Taiwan Semicon[+271 characters]",
+                            "sentiment": 0.6597,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Nvidia</em> stock is on IBD Leaderbo[+310 characters]",
+                            "sentiment": 0.5423,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Nvidia</em> stock fell 1.9%, reversi[+235 characters]",
+                            "sentiment": 0.0772,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Nvidia</em> and Taiwan Semiconductor[+226 characters]",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Dow Jones Futures: Tesla, Apple, <em>Nvidia</em> Sink Indexes, Mask Underlying Strength; What To Do Now",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 26.034271,
+                    "sentiment_score": 0.31218,
+                    "highlights": [
+                        {
+                            "highlight": "A day after big gains for the stock mark[+260 characters]",
+                            "sentiment": 0.6808,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Nvidia stock is on IBD Leaderboard, with[+310 characters]",
+                            "sentiment": 0.5423,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Tesla</em> stock retreated 3.4%, but[+268 characters]",
+                            "sentiment": -0.8047,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Tesla</em> stock is a major holding [+304 characters]",
+                            "sentiment": 0.6486,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Dow Jones Futures: <em>Tesla</em>, Apple, Nvidia Sink Indexes, Mask Underlying Strength; What To Do Now",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SOFI",
+                    "name": "SoFi Technologies Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 28.872559,
+                    "sentiment_score": 0.7725,
+                    "highlights": [
+                        {
+                            "highlight": "Goldman Sachs (GS), Entergy (ETR), Energ[+264 characters]",
+                            "sentiment": 0.743,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Taiwan Semiconductor stock, Vertex, <em>[+299 characters]",
+                            "sentiment": 0.802,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "DUOL",
+                    "name": "Duolingo, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 22.174166,
+                    "sentiment_score": 0.743,
+                    "highlights": [
+                        {
+                            "highlight": "Goldman Sachs (GS), Entergy (ETR), Energ[+255 characters]",
+                            "sentiment": 0.743,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "XLV.MX",
+                    "name": "Health Care Select Sector SPDR Fund",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 39.538635,
+                    "sentiment_score": 0.2732,
+                    "highlights": [
+                        {
+                            "highlight": "The Energy Select SPDR ETF (XLE) climbed[+228 characters]",
+                            "sentiment": 0.2732,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "XLI.MX",
+                    "name": "Industrial Select Sector SPDR Fund",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 35.06907,
+                    "sentiment_score": -0.3182,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Industrial</em> <em>Select</em> [+311 characters]",
+                            "sentiment": -0.3182,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "meta": {
+        "found": 2,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "8247c0b7-c847-4f22-8d4a-9e124368429d",
+            "title": "Small investors bought the dip in Nvidia by a record amount Monday",
+            "description": "Retail investors bought more than $562 million worth of Nvidia stock on balance during the rout, data shows.",
+            "keywords": "Breaking News: Investing, Investment strategy, Breaking News: Markets, Markets, Stock markets, NVIDIA Corp, SPDR S&P 500 ETF Trust, S&P 500 Index, United States, GameStop Corp, AMC Entertainment Holdings Inc, business news",
+            "snippet": "Retail investors rushed into Nvidia on Monday, signaling Main Street support for the chipmaker despite the emergence of an artificial intelligence model from Ch...",
+            "url": "https://www.cnbc.com/2025/01/28/small-investors-bought-the-dip-in-nvidia-by-a-record-amount-monday.html",
+            "image_url": "https://image.cnbcfm.com/api/v1/image/108013639-1722356197201-gettyimages-2158585017-Illustration_Nvidia_Shares_Fall.jpeg?v=1732072291&w=1920&h=1080",
+            "language": "en",
+            "published_at": "2025-01-28T16:48:53.000000Z",
+            "source": "cnbc.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 64.4781,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "Data from Vanda shows the chipmaker was [+198 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 64.47601,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "Data from Vanda shows the chipmaker was [+198 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

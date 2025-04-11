@@ -1,0 +1,2668 @@
+{
+    "meta": {
+        "found": 13,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "5e136b36-6283-4ee8-a013-fd1ab502c4ce",
+            "title": "Goldman Sachs Group Inc's Strategic Acquisition of Voyager Acquisition Corp Shares",
+            "description": "On December 31, 2024, Goldman Sachs Group Inc made a significant move by acquiring 1,753,159 shares of Voyager Acquisition Corp (VACH) at a price of $10.02 per",
+            "keywords": "GuruFocus, Article, News, GuruFocus News, VACH, SPY, AAPL, AMZN, MSFT, NVDA",
+            "snippet": "On December 31, 2024, Goldman Sachs Group Inc made a significant move by acquiring 1,753,159 shares of Voyager Acquisition Corp (VACH, Financial) at a price of ...",
+            "url": "https://www.gurufocus.com/news/2685956/goldman-sachs-group-incs-strategic-acquisition-of-voyager-acquisition-corp-shares",
+            "image_url": "https://s3.amazonaws.com/gurufocus_userupload/1887624336261672960.png",
+            "language": "en",
+            "published_at": "2025-02-06T22:07:43.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "AAPL.NE",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ca",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 9.798969,
+                    "sentiment_score": 0.6249,
+                    "highlights": [
+                        {
+                            "highlight": "Goldman Sachs' top holdings include majo[+210 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZ.DE",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 13.898918,
+                    "sentiment_score": 0.6249,
+                    "highlights": [
+                        {
+                            "highlight": "Goldman Sachs' top holdings include majo[+210 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "APC.DE",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 9.798138,
+                    "sentiment_score": 0.6249,
+                    "highlights": [
+                        {
+                            "highlight": "Goldman Sachs' top holdings include majo[+210 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 42.14576,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "Goldman Sachs' top holdings include majo[+246 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 9.797817,
+                    "sentiment_score": 0.6249,
+                    "highlights": [
+                        {
+                            "highlight": "Goldman Sachs' top holdings include majo[+210 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 13.897338,
+                    "sentiment_score": 0.6249,
+                    "highlights": [
+                        {
+                            "highlight": "Goldman Sachs' top holdings include majo[+210 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZN.MX",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 13.893297,
+                    "sentiment_score": 0.6249,
+                    "highlights": [
+                        {
+                            "highlight": "Goldman Sachs' top holdings include majo[+210 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.MX",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 9.797211,
+                    "sentiment_score": 0.6249,
+                    "highlights": [
+                        {
+                            "highlight": "Goldman Sachs' top holdings include majo[+210 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 42.143013,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "Goldman Sachs' top holdings include majo[+246 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFT.MI",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "it",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 11.220007,
+                    "sentiment_score": 0.6249,
+                    "highlights": [
+                        {
+                            "highlight": "Goldman Sachs' top holdings include majo[+210 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA.MI",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "it",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 12.818384,
+                    "sentiment_score": 0.6249,
+                    "highlights": [
+                        {
+                            "highlight": "Goldman Sachs' top holdings include majo[+210 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.BA",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 9.797121,
+                    "sentiment_score": 0.6249,
+                    "highlights": [
+                        {
+                            "highlight": "Goldman Sachs' top holdings include majo[+210 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDAD.BA",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 12.817812,
+                    "sentiment_score": 0.6249,
+                    "highlights": [
+                        {
+                            "highlight": "Goldman Sachs' top holdings include majo[+210 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTD.BA",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 11.219153,
+                    "sentiment_score": 0.6249,
+                    "highlights": [
+                        {
+                            "highlight": "Goldman Sachs' top holdings include majo[+210 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLD.BA",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 9.797121,
+                    "sentiment_score": 0.6249,
+                    "highlights": [
+                        {
+                            "highlight": "Goldman Sachs' top holdings include majo[+210 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTB.BA",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 11.219019,
+                    "sentiment_score": 0.6249,
+                    "highlights": [
+                        {
+                            "highlight": "Goldman Sachs' top holdings include majo[+210 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTC.BA",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 11.219019,
+                    "sentiment_score": 0.6249,
+                    "highlights": [
+                        {
+                            "highlight": "Goldman Sachs' top holdings include majo[+210 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDAC.BA",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 12.817654,
+                    "sentiment_score": 0.6249,
+                    "highlights": [
+                        {
+                            "highlight": "Goldman Sachs' top holdings include majo[+210 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLC.BA",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 9.797026,
+                    "sentiment_score": 0.6249,
+                    "highlights": [
+                        {
+                            "highlight": "Goldman Sachs' top holdings include majo[+210 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZN.SN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 13.892141,
+                    "sentiment_score": 0.6249,
+                    "highlights": [
+                        {
+                            "highlight": "Goldman Sachs' top holdings include majo[+210 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLCL.SN",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 9.796553,
+                    "sentiment_score": 0.6249,
+                    "highlights": [
+                        {
+                            "highlight": "Goldman Sachs' top holdings include majo[+210 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTCL.SN",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 11.218237,
+                    "sentiment_score": 0.6249,
+                    "highlights": [
+                        {
+                            "highlight": "Goldman Sachs' top holdings include majo[+210 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.SN",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 9.796553,
+                    "sentiment_score": 0.6249,
+                    "highlights": [
+                        {
+                            "highlight": "Goldman Sachs' top holdings include majo[+210 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZNCL.SN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 13.890989,
+                    "sentiment_score": 0.6249,
+                    "highlights": [
+                        {
+                            "highlight": "Goldman Sachs' top holdings include majo[+210 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": [
+                {
+                    "uuid": "f8ae1bf0-8368-44dc-b502-02f5b7b4d8fa",
+                    "title": "Goldman Sachs Group Inc's Strategic Acquisition in Lesaka Technologies Inc",
+                    "description": "On December 31, 2024, Goldman Sachs Group Inc made a notable addition to its investment portfolio by acquiring 2,625 shares of Lesaka Technologies Inc at a pric",
+                    "keywords": "GuruFocus, Article, News, GuruFocus News, LSAK, SPY, AAPL, AMZN, MSFT, NVDA",
+                    "snippet": "On December 31, 2024, Goldman Sachs Group Inc made a notable addition to its investment portfolio by acquiring 2,625 shares of Lesaka Technologies Inc at a pric...",
+                    "url": "https://www.gurufocus.com/news/2685953/goldman-sachs-group-incs-strategic-acquisition-in-lesaka-technologies-inc",
+                    "image_url": "https://s3.amazonaws.com/gurufocus_userupload/1887624259736596480.png",
+                    "language": "en",
+                    "published_at": "2025-02-06T22:07:36.000000Z",
+                    "source": "gurufocus.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "AAPL.NE",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ca",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 10.647804,
+                            "sentiment_score": 0.6249,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+283 characters]",
+                                    "sentiment": 0.6249,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZ.DE",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 15.143239,
+                            "sentiment_score": 0.6249,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+283 characters]",
+                                    "sentiment": 0.6249,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "APC.DE",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 10.646869,
+                            "sentiment_score": 0.6249,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+283 characters]",
+                                    "sentiment": 0.6249,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "SPY",
+                            "name": "SPDR S&P 500 ETF Trust",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "etf",
+                            "industry": "N/A",
+                            "match_score": 46.11496,
+                            "sentiment_score": 0.2023,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+319 characters]",
+                                    "sentiment": 0.2023,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 10.646515,
+                            "sentiment_score": 0.6249,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+283 characters]",
+                                    "sentiment": 0.6249,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZN",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 15.141504,
+                            "sentiment_score": 0.6249,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+283 characters]",
+                                    "sentiment": 0.6249,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZN.MX",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 15.137058,
+                            "sentiment_score": 0.6249,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+283 characters]",
+                                    "sentiment": 0.6249,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL.MX",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 10.64584,
+                            "sentiment_score": 0.6249,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+283 characters]",
+                                    "sentiment": 0.6249,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "0KZC.L",
+                            "name": "SPDR S&P 500 ETF Trust",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "gb",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 46.111862,
+                            "sentiment_score": 0.2023,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+319 characters]",
+                                    "sentiment": 0.2023,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFT.MI",
+                            "name": "MICROSOFT CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "it",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 12.205917,
+                            "sentiment_score": 0.6249,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+283 characters]",
+                                    "sentiment": 0.6249,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "NVDA.MI",
+                            "name": "NVIDIA CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "it",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 13.958488,
+                            "sentiment_score": 0.6249,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+283 characters]",
+                                    "sentiment": 0.6249,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL.BA",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 10.645775,
+                            "sentiment_score": 0.6249,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+283 characters]",
+                                    "sentiment": 0.6249,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "NVDAD.BA",
+                            "name": "NVIDIA CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 13.957872,
+                            "sentiment_score": 0.6249,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+283 characters]",
+                                    "sentiment": 0.6249,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFTD.BA",
+                            "name": "MICROSOFT CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 12.204991,
+                            "sentiment_score": 0.6249,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+283 characters]",
+                                    "sentiment": 0.6249,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPLD.BA",
+                            "name": "APPLE INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 10.645775,
+                            "sentiment_score": 0.6249,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+283 characters]",
+                                    "sentiment": 0.6249,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFTB.BA",
+                            "name": "MICROSOFT CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 12.204844,
+                            "sentiment_score": 0.6249,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+283 characters]",
+                                    "sentiment": 0.6249,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFTC.BA",
+                            "name": "MICROSOFT CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 12.204844,
+                            "sentiment_score": 0.6249,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+283 characters]",
+                                    "sentiment": 0.6249,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "NVDAC.BA",
+                            "name": "NVIDIA CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 13.957699,
+                            "sentiment_score": 0.6249,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+283 characters]",
+                                    "sentiment": 0.6249,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPLC.BA",
+                            "name": "APPLE INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 10.645672,
+                            "sentiment_score": 0.6249,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+283 characters]",
+                                    "sentiment": 0.6249,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZN.SN",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 15.135839,
+                            "sentiment_score": 0.6249,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+283 characters]",
+                                    "sentiment": 0.6249,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPLCL.SN",
+                            "name": "APPLE INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 10.645151,
+                            "sentiment_score": 0.6249,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+283 characters]",
+                                    "sentiment": 0.6249,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFTCL.SN",
+                            "name": "MICROSOFT CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 12.203985,
+                            "sentiment_score": 0.6249,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+283 characters]",
+                                    "sentiment": 0.6249,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL.SN",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 10.645151,
+                            "sentiment_score": 0.6249,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+283 characters]",
+                                    "sentiment": 0.6249,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZNCL.SN",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 15.134576,
+                            "sentiment_score": 0.6249,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's top holdings include major co[+283 characters]",
+                                    "sentiment": 0.6249,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "uuid": "e1ac8db5-2261-49ed-ae38-6fca198fe2f0",
+                    "title": "Goldman Sachs Group Inc. Acquires Additional Shares in Indivior PLC",
+                    "description": "On December 31, 2024, Goldman Sachs Group Inc. made a significant move by acquiring an additional 3,145,065 shares of Indivior PLC, bringing its total holdings",
+                    "keywords": "GuruFocus, Article, News, GuruFocus News, INDV, SPY, AAPL, AMZN, MSFT, NVDA",
+                    "snippet": "On December 31, 2024, Goldman Sachs Group Inc. made a significant move by acquiring an additional 3,145,065 shares of Indivior PLC, bringing its total holdings ...",
+                    "url": "https://www.gurufocus.com/news/2685952/goldman-sachs-group-inc-acquires-additional-shares-in-indivior-plc",
+                    "image_url": "https://s3.amazonaws.com/gurufocus_userupload/1887624197950304256.png",
+                    "language": "en",
+                    "published_at": "2025-02-06T22:07:16.000000Z",
+                    "source": "gurufocus.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "AAPL.NE",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ca",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 9.798969,
+                            "sentiment_score": 0.5106,
+                            "highlights": [
+                                {
+                                    "highlight": "Notable investments include SPDR S&P 500[+115 characters]",
+                                    "sentiment": 0.5106,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZ.DE",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 13.898918,
+                            "sentiment_score": 0.296,
+                            "highlights": [
+                                {
+                                    "highlight": "(AAPL, Financial), and <em>Amazon.com</e[+269 characters]",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "APC.DE",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 9.798138,
+                            "sentiment_score": 0.5106,
+                            "highlights": [
+                                {
+                                    "highlight": "Notable investments include SPDR S&P 500[+115 characters]",
+                                    "sentiment": 0.5106,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "SPY",
+                            "name": "SPDR S&P 500 ETF Trust",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "etf",
+                            "industry": "N/A",
+                            "match_score": 42.14576,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "Notable investments include <em>SPDR</em[+151 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 9.797817,
+                            "sentiment_score": 0.5106,
+                            "highlights": [
+                                {
+                                    "highlight": "Notable investments include SPDR S&P 500[+115 characters]",
+                                    "sentiment": 0.5106,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZN",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 13.897338,
+                            "sentiment_score": 0.296,
+                            "highlights": [
+                                {
+                                    "highlight": "(AAPL, Financial), and <em>Amazon.com</e[+269 characters]",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZN.MX",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 13.893297,
+                            "sentiment_score": 0.296,
+                            "highlights": [
+                                {
+                                    "highlight": "(AAPL, Financial), and <em>Amazon.com</e[+269 characters]",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL.MX",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 9.797211,
+                            "sentiment_score": 0.5106,
+                            "highlights": [
+                                {
+                                    "highlight": "Notable investments include SPDR S&P 500[+115 characters]",
+                                    "sentiment": 0.5106,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "INVVY",
+                            "name": "Indivior PLC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Healthcare",
+                            "match_score": 103.29364,
+                            "sentiment_score": 0.444827,
+                            "highlights": [
+                                {
+                                    "highlight": "On December 31, 2024, Goldman Sachs Grou[+226 characters]",
+                                    "sentiment": 0.7506,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Impact of the Transaction on Goldman Sac[+340 characters]",
+                                    "sentiment": 0.5267,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "The trade price of $12.43 per share sugg[+109 characters]",
+                                    "sentiment": 0.3612,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Indivior</em> <em>PLC</em>: Company [+296 characters]",
+                                    "sentiment": -0.2263,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Indivior</em> generates the majority[+225 characters]",
+                                    "sentiment": 0.4215,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Financial Metrics and Valuation of <em>I[+330 characters]",
+                                    "sentiment": 0.34,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Despite these challenges, <em>Indivior</[+119 characters]",
+                                    "sentiment": 0.6264,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Performance and Growth Indicators\n\n<em>I[+225 characters]",
+                                    "sentiment": 0.3818,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "These metrics suggest that while <em>Ind[+312 characters]",
+                                    "sentiment": 0.7783,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Conclusion: Strategic Implications of Go[+322 characters]",
+                                    "sentiment": 0.6369,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Acquires Additional Shares in <em>Indivior</em> <em>PLC</em>",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "IZQVF",
+                            "name": "Indivior PLC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Healthcare",
+                            "match_score": 103.27633,
+                            "sentiment_score": 0.444827,
+                            "highlights": [
+                                {
+                                    "highlight": "On December 31, 2024, Goldman Sachs Grou[+226 characters]",
+                                    "sentiment": 0.7506,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Impact of the Transaction on Goldman Sac[+340 characters]",
+                                    "sentiment": 0.5267,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "The trade price of $12.43 per share sugg[+109 characters]",
+                                    "sentiment": 0.3612,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Indivior</em> <em>PLC</em>: Company [+296 characters]",
+                                    "sentiment": -0.2263,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Indivior</em> generates the majority[+225 characters]",
+                                    "sentiment": 0.4215,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Financial Metrics and Valuation of <em>I[+330 characters]",
+                                    "sentiment": 0.34,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Despite these challenges, <em>Indivior</[+119 characters]",
+                                    "sentiment": 0.6264,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Performance and Growth Indicators\n\n<em>I[+225 characters]",
+                                    "sentiment": 0.3818,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "These metrics suggest that while <em>Ind[+312 characters]",
+                                    "sentiment": 0.7783,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Conclusion: Strategic Implications of Go[+322 characters]",
+                                    "sentiment": 0.6369,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Acquires Additional Shares in <em>Indivior</em> <em>PLC</em>",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "INDV.L",
+                            "name": "Indivior PLC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "gb",
+                            "type": "equity",
+                            "industry": "Healthcare",
+                            "match_score": 103.27636,
+                            "sentiment_score": 0.444827,
+                            "highlights": [
+                                {
+                                    "highlight": "On December 31, 2024, Goldman Sachs Grou[+226 characters]",
+                                    "sentiment": 0.7506,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Impact of the Transaction on Goldman Sac[+340 characters]",
+                                    "sentiment": 0.5267,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "The trade price of $12.43 per share sugg[+109 characters]",
+                                    "sentiment": 0.3612,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Indivior</em> <em>PLC</em>: Company [+296 characters]",
+                                    "sentiment": -0.2263,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Indivior</em> generates the majority[+225 characters]",
+                                    "sentiment": 0.4215,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Financial Metrics and Valuation of <em>I[+330 characters]",
+                                    "sentiment": 0.34,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Despite these challenges, <em>Indivior</[+119 characters]",
+                                    "sentiment": 0.6264,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Performance and Growth Indicators\n\n<em>I[+225 characters]",
+                                    "sentiment": 0.3818,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "These metrics suggest that while <em>Ind[+312 characters]",
+                                    "sentiment": 0.7783,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Conclusion: Strategic Implications of Go[+322 characters]",
+                                    "sentiment": 0.6369,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Acquires Additional Shares in <em>Indivior</em> <em>PLC</em>",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "0KZC.L",
+                            "name": "SPDR S&P 500 ETF Trust",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "gb",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 42.143013,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "Notable investments include <em>SPDR</em[+151 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL.BA",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 9.797121,
+                            "sentiment_score": 0.5106,
+                            "highlights": [
+                                {
+                                    "highlight": "Notable investments include SPDR S&P 500[+115 characters]",
+                                    "sentiment": 0.5106,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPLD.BA",
+                            "name": "APPLE INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 9.797121,
+                            "sentiment_score": 0.5106,
+                            "highlights": [
+                                {
+                                    "highlight": "Notable investments include SPDR S&P 500[+115 characters]",
+                                    "sentiment": 0.5106,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPLC.BA",
+                            "name": "APPLE INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 9.797026,
+                            "sentiment_score": 0.5106,
+                            "highlights": [
+                                {
+                                    "highlight": "Notable investments include SPDR S&P 500[+115 characters]",
+                                    "sentiment": 0.5106,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZN.SN",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 13.892141,
+                            "sentiment_score": 0.296,
+                            "highlights": [
+                                {
+                                    "highlight": "(AAPL, Financial), and <em>Amazon.com</e[+269 characters]",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPLCL.SN",
+                            "name": "APPLE INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 9.796553,
+                            "sentiment_score": 0.5106,
+                            "highlights": [
+                                {
+                                    "highlight": "Notable investments include SPDR S&P 500[+115 characters]",
+                                    "sentiment": 0.5106,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL.SN",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 9.796553,
+                            "sentiment_score": 0.5106,
+                            "highlights": [
+                                {
+                                    "highlight": "Notable investments include SPDR S&P 500[+115 characters]",
+                                    "sentiment": 0.5106,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZNCL.SN",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 13.890989,
+                            "sentiment_score": 0.296,
+                            "highlights": [
+                                {
+                                    "highlight": "(AAPL, Financial), and <em>Amazon.com</e[+269 characters]",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "uuid": "452bbfa6-8021-47f0-bd44-0ac75296dce2",
+                    "title": "Goldman Sachs Group Inc Acquires Additional Shares in Brinker International Inc",
+                    "description": "On December 31, 2024, Goldman Sachs Group Inc made a strategic move by acquiring an additional 1,845,225 shares in Brinker International Inc, a company known fo",
+                    "keywords": "GuruFocus, Article, News, GuruFocus News, EAT, SPY, AAPL, AMZN, MSFT, NVDA",
+                    "snippet": "On December 31, 2024, Goldman Sachs Group Inc made a strategic move by acquiring an additional 1,845,225 shares in Brinker International Inc, a company known fo...",
+                    "url": "https://www.gurufocus.com/news/2685951/goldman-sachs-group-inc-acquires-additional-shares-in-brinker-international-inc",
+                    "image_url": "https://s3.amazonaws.com/gurufocus_userupload/1887624073173954560.png",
+                    "language": "en",
+                    "published_at": "2025-02-06T22:06:40.000000Z",
+                    "source": "gurufocus.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "AAPL.NE",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ca",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 11.136747,
+                            "sentiment_score": 0.8074,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm has played a significant role i[+296 characters]",
+                                    "sentiment": 0.8074,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZ.DE",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 15.859988,
+                            "sentiment_score": 0.8074,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm has played a significant role i[+296 characters]",
+                                    "sentiment": 0.8074,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "APC.DE",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 11.135753,
+                            "sentiment_score": 0.8074,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm has played a significant role i[+296 characters]",
+                                    "sentiment": 0.8074,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "SPY",
+                            "name": "SPDR S&P 500 ETF Trust",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "etf",
+                            "industry": "N/A",
+                            "match_score": 48.401283,
+                            "sentiment_score": 0.6124,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm has played a significant role i[+332 characters]",
+                                    "sentiment": 0.6124,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 11.13538,
+                            "sentiment_score": 0.8074,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm has played a significant role i[+296 characters]",
+                                    "sentiment": 0.8074,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZN",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 15.858166,
+                            "sentiment_score": 0.8074,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm has played a significant role i[+296 characters]",
+                                    "sentiment": 0.8074,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "EAT",
+                            "name": "Brinker International, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 124.02536,
+                            "sentiment_score": 0.6073,
+                            "highlights": [
+                                {
+                                    "highlight": "On December 31, 2024, Goldman Sachs Grou[+305 characters]",
+                                    "sentiment": 0.7506,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Details of the Stock Transaction\n\nThe re[+250 characters]",
+                                    "sentiment": 0.7783,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Brinker</em> <em>International</em> [+313 characters]",
+                                    "sentiment": 0.2023,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "With a market capitalization of $8.09 bi[+344 characters]",
+                                    "sentiment": 0.4939,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Performance and Growth Indicators\n\n<em>B[+318 characters]",
+                                    "sentiment": 0.9517,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Other Notable Investors\n\nFisher Asset Ma[+293 characters]",
+                                    "sentiment": 0.6705,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Conclusion: Strategic Implications for V[+191 characters]",
+                                    "sentiment": 0.5574,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "For value investors, this transaction un[+187 characters]",
+                                    "sentiment": 0.765,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Goldman Sachs Group Inc Acquires Additional Shares in <em>Brinker</em> <em>International</em> <em>Inc</em>",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZN.MX",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 15.853484,
+                            "sentiment_score": 0.8074,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm has played a significant role i[+296 characters]",
+                                    "sentiment": 0.8074,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL.MX",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 11.134663,
+                            "sentiment_score": 0.8074,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm has played a significant role i[+296 characters]",
+                                    "sentiment": 0.8074,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "0KZC.L",
+                            "name": "SPDR S&P 500 ETF Trust",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "gb",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 48.397972,
+                            "sentiment_score": 0.6124,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm has played a significant role i[+332 characters]",
+                                    "sentiment": 0.6124,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFT.MI",
+                            "name": "MICROSOFT CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "it",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 12.773821,
+                            "sentiment_score": 0.8074,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm has played a significant role i[+296 characters]",
+                                    "sentiment": 0.8074,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "NVDA.MI",
+                            "name": "NVIDIA CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "it",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 14.61521,
+                            "sentiment_score": 0.8074,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm has played a significant role i[+296 characters]",
+                                    "sentiment": 0.8074,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL.BA",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 11.134615,
+                            "sentiment_score": 0.8074,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm has played a significant role i[+296 characters]",
+                                    "sentiment": 0.8074,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "NVDAD.BA",
+                            "name": "NVIDIA CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 14.614567,
+                            "sentiment_score": 0.8074,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm has played a significant role i[+296 characters]",
+                                    "sentiment": 0.8074,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFTD.BA",
+                            "name": "MICROSOFT CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 12.772851,
+                            "sentiment_score": 0.8074,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm has played a significant role i[+296 characters]",
+                                    "sentiment": 0.8074,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPLD.BA",
+                            "name": "APPLE INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 11.134615,
+                            "sentiment_score": 0.8074,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm has played a significant role i[+296 characters]",
+                                    "sentiment": 0.8074,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFTB.BA",
+                            "name": "MICROSOFT CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 12.772699,
+                            "sentiment_score": 0.8074,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm has played a significant role i[+296 characters]",
+                                    "sentiment": 0.8074,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFTC.BA",
+                            "name": "MICROSOFT CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 12.772699,
+                            "sentiment_score": 0.8074,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm has played a significant role i[+296 characters]",
+                                    "sentiment": 0.8074,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "NVDAC.BA",
+                            "name": "NVIDIA CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 14.614388,
+                            "sentiment_score": 0.8074,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm has played a significant role i[+296 characters]",
+                                    "sentiment": 0.8074,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPLC.BA",
+                            "name": "APPLE INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 11.134508,
+                            "sentiment_score": 0.8074,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm has played a significant role i[+296 characters]",
+                                    "sentiment": 0.8074,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZN.SN",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 15.852233,
+                            "sentiment_score": 0.8074,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm has played a significant role i[+296 characters]",
+                                    "sentiment": 0.8074,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPLCL.SN",
+                            "name": "APPLE INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 11.133959,
+                            "sentiment_score": 0.8074,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm has played a significant role i[+296 characters]",
+                                    "sentiment": 0.8074,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFTCL.SN",
+                            "name": "MICROSOFT CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 12.771795,
+                            "sentiment_score": 0.8074,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm has played a significant role i[+296 characters]",
+                                    "sentiment": 0.8074,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL.SN",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 11.133959,
+                            "sentiment_score": 0.8074,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm has played a significant role i[+296 characters]",
+                                    "sentiment": 0.8074,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZNCL.SN",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 15.850904,
+                            "sentiment_score": 0.8074,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm has played a significant role i[+296 characters]",
+                                    "sentiment": 0.8074,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "uuid": "d8b2c00e-9139-450c-9383-a8053d60e180",
+                    "title": "Goldman Sachs Group Inc's Strategic Acquisition of GAN Ltd Shares",
+                    "description": "On December 31, 2024, Goldman Sachs Group Inc made a significant move by acquiring 2,312,597 shares of GAN Ltd at a price of $1.82 per share. This transaction m",
+                    "keywords": "GuruFocus, Article, News, GuruFocus News, GAN, SPY, AAPL, AMZN, MSFT, NVDA",
+                    "snippet": "On December 31, 2024, Goldman Sachs Group Inc made a significant move by acquiring 2,312,597 shares of GAN Ltd at a price of $1.82 per share. This transaction m...",
+                    "url": "https://www.gurufocus.com/news/2685950/goldman-sachs-group-incs-strategic-acquisition-of-gan-ltd-shares",
+                    "image_url": "https://s3.amazonaws.com/gurufocus_userupload/1887624058087043072.png",
+                    "language": "en",
+                    "published_at": "2025-02-06T22:06:36.000000Z",
+                    "source": "gurufocus.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "AAPL.NE",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ca",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 11.136747,
+                            "sentiment_score": 0.9468,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's investment philosophy focuses[+327 characters]",
+                                    "sentiment": 0.9468,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZ.DE",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 15.859988,
+                            "sentiment_score": 0.9468,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's investment philosophy focuses[+327 characters]",
+                                    "sentiment": 0.9468,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "APC.DE",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 11.135753,
+                            "sentiment_score": 0.9468,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's investment philosophy focuses[+327 characters]",
+                                    "sentiment": 0.9468,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "SPY",
+                            "name": "SPDR S&P 500 ETF Trust",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "etf",
+                            "industry": "N/A",
+                            "match_score": 48.401283,
+                            "sentiment_score": 0.9201,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's investment philosophy focuses[+363 characters]",
+                                    "sentiment": 0.9201,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 11.13538,
+                            "sentiment_score": 0.9468,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's investment philosophy focuses[+327 characters]",
+                                    "sentiment": 0.9468,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZN",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 15.858166,
+                            "sentiment_score": 0.9468,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's investment philosophy focuses[+327 characters]",
+                                    "sentiment": 0.9468,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZN.MX",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 15.853484,
+                            "sentiment_score": 0.9468,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's investment philosophy focuses[+327 characters]",
+                                    "sentiment": 0.9468,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL.MX",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 11.134663,
+                            "sentiment_score": 0.9468,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's investment philosophy focuses[+327 characters]",
+                                    "sentiment": 0.9468,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "0KZC.L",
+                            "name": "SPDR S&P 500 ETF Trust",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "gb",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 48.397972,
+                            "sentiment_score": 0.9201,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's investment philosophy focuses[+363 characters]",
+                                    "sentiment": 0.9201,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL.BA",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 11.134615,
+                            "sentiment_score": 0.9468,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's investment philosophy focuses[+327 characters]",
+                                    "sentiment": 0.9468,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPLD.BA",
+                            "name": "APPLE INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 11.134615,
+                            "sentiment_score": 0.9468,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's investment philosophy focuses[+327 characters]",
+                                    "sentiment": 0.9468,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPLC.BA",
+                            "name": "APPLE INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 11.134508,
+                            "sentiment_score": 0.9468,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's investment philosophy focuses[+327 characters]",
+                                    "sentiment": 0.9468,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZN.SN",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 15.852233,
+                            "sentiment_score": 0.9468,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's investment philosophy focuses[+327 characters]",
+                                    "sentiment": 0.9468,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPLCL.SN",
+                            "name": "APPLE INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 11.133959,
+                            "sentiment_score": 0.9468,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's investment philosophy focuses[+327 characters]",
+                                    "sentiment": 0.9468,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL.SN",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 11.133959,
+                            "sentiment_score": 0.9468,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's investment philosophy focuses[+327 characters]",
+                                    "sentiment": 0.9468,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZNCL.SN",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 15.850904,
+                            "sentiment_score": 0.9468,
+                            "highlights": [
+                                {
+                                    "highlight": "The firm's investment philosophy focuses[+327 characters]",
+                                    "sentiment": 0.9468,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "uuid": "abe20cb2-6854-4025-8882-d2f044d353f8",
+                    "title": "Goldman Sachs Group Inc's Strategic Acquisition of Black Spade Acquisition II Co Shares",
+                    "description": "On December 31, 2024, Goldman Sachs Group Inc made a significant move by acquiring 915,052 shares of Black Spade Acquisition II Co (BSII) at a price of $9.93 pe",
+                    "keywords": "GuruFocus, Article, News, GuruFocus News, BSII, SPY, AAPL, AMZN, MSFT, NVDA",
+                    "snippet": "On December 31, 2024, Goldman Sachs Group Inc made a significant move by acquiring 915,052 shares of Black Spade Acquisition II Co (BSII, Financial) at a price ...",
+                    "url": "https://www.gurufocus.com/news/2685949/goldman-sachs-group-incs-strategic-acquisition-of-black-spade-acquisition-ii-co-shares",
+                    "image_url": "https://s3.amazonaws.com/gurufocus_userupload/1887624043344064512.png",
+                    "language": "en",
+                    "published_at": "2025-02-06T22:06:36.000000Z",
+                    "source": "gurufocus.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "AAPL.NE",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ca",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 10.203857,
+                            "sentiment_score": 0.8555,
+                            "highlights": [
+                                {
+                                    "highlight": "Goldman Sachs' investment philosophy is [+304 characters]",
+                                    "sentiment": 0.8555,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZ.DE",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 14.492452,
+                            "sentiment_score": 0.8555,
+                            "highlights": [
+                                {
+                                    "highlight": "Goldman Sachs' investment philosophy is [+304 characters]",
+                                    "sentiment": 0.8555,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "APC.DE",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 10.202977,
+                            "sentiment_score": 0.8555,
+                            "highlights": [
+                                {
+                                    "highlight": "Goldman Sachs' investment philosophy is [+304 characters]",
+                                    "sentiment": 0.8555,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "SPY",
+                            "name": "SPDR S&P 500 ETF Trust",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "etf",
+                            "industry": "N/A",
+                            "match_score": 44.03904,
+                            "sentiment_score": 0.7269,
+                            "highlights": [
+                                {
+                                    "highlight": "Goldman Sachs' investment philosophy is [+340 characters]",
+                                    "sentiment": 0.7269,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 10.202641,
+                            "sentiment_score": 0.8555,
+                            "highlights": [
+                                {
+                                    "highlight": "Goldman Sachs' investment philosophy is [+304 characters]",
+                                    "sentiment": 0.8555,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZN",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 14.490797,
+                            "sentiment_score": 0.8555,
+                            "highlights": [
+                                {
+                                    "highlight": "Goldman Sachs' investment philosophy is [+304 characters]",
+                                    "sentiment": 0.8555,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZN.MX",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 14.486562,
+                            "sentiment_score": 0.8555,
+                            "highlights": [
+                                {
+                                    "highlight": "Goldman Sachs' investment philosophy is [+304 characters]",
+                                    "sentiment": 0.8555,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL.MX",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 10.202,
+                            "sentiment_score": 0.8555,
+                            "highlights": [
+                                {
+                                    "highlight": "Goldman Sachs' investment philosophy is [+304 characters]",
+                                    "sentiment": 0.8555,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "0KZC.L",
+                            "name": "SPDR S&P 500 ETF Trust",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "gb",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 44.036133,
+                            "sentiment_score": 0.7269,
+                            "highlights": [
+                                {
+                                    "highlight": "Goldman Sachs' investment philosophy is [+340 characters]",
+                                    "sentiment": 0.7269,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFT.MI",
+                            "name": "MICROSOFT CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "it",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 11.690279,
+                            "sentiment_score": 0.8555,
+                            "highlights": [
+                                {
+                                    "highlight": "Goldman Sachs' investment philosophy is [+304 characters]",
+                                    "sentiment": 0.8555,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "NVDA.MI",
+                            "name": "NVIDIA CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "it",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 13.362206,
+                            "sentiment_score": 0.8555,
+                            "highlights": [
+                                {
+                                    "highlight": "Goldman Sachs' investment philosophy is [+304 characters]",
+                                    "sentiment": 0.8555,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL.BA",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 10.201921,
+                            "sentiment_score": 0.8555,
+                            "highlights": [
+                                {
+                                    "highlight": "Goldman Sachs' investment philosophy is [+304 characters]",
+                                    "sentiment": 0.8555,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "NVDAD.BA",
+                            "name": "NVIDIA CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 13.361613,
+                            "sentiment_score": 0.8555,
+                            "highlights": [
+                                {
+                                    "highlight": "Goldman Sachs' investment philosophy is [+304 characters]",
+                                    "sentiment": 0.8555,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFTD.BA",
+                            "name": "MICROSOFT CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 11.689391,
+                            "sentiment_score": 0.8555,
+                            "highlights": [
+                                {
+                                    "highlight": "Goldman Sachs' investment philosophy is [+304 characters]",
+                                    "sentiment": 0.8555,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPLD.BA",
+                            "name": "APPLE INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 10.201921,
+                            "sentiment_score": 0.8555,
+                            "highlights": [
+                                {
+                                    "highlight": "Goldman Sachs' investment philosophy is [+304 characters]",
+                                    "sentiment": 0.8555,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFTB.BA",
+                            "name": "MICROSOFT CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 11.68925,
+                            "sentiment_score": 0.8555,
+                            "highlights": [
+                                {
+                                    "highlight": "Goldman Sachs' investment philosophy is [+304 characters]",
+                                    "sentiment": 0.8555,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFTC.BA",
+                            "name": "MICROSOFT CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 11.68925,
+                            "sentiment_score": 0.8555,
+                            "highlights": [
+                                {
+                                    "highlight": "Goldman Sachs' investment philosophy is [+304 characters]",
+                                    "sentiment": 0.8555,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "NVDAC.BA",
+                            "name": "NVIDIA CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 13.361446,
+                            "sentiment_score": 0.8555,
+                            "highlights": [
+                                {
+                                    "highlight": "Goldman Sachs' investment philosophy is [+304 characters]",
+                                    "sentiment": 0.8555,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPLC.BA",
+                            "name": "APPLE INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 10.201823,
+                            "sentiment_score": 0.8555,
+                            "highlights": [
+                                {
+                                    "highlight": "Goldman Sachs' investment philosophy is [+304 characters]",
+                                    "sentiment": 0.8555,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZN.SN",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 14.485376,
+                            "sentiment_score": 0.8555,
+                            "highlights": [
+                                {
+                                    "highlight": "Goldman Sachs' investment philosophy is [+304 characters]",
+                                    "sentiment": 0.8555,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPLCL.SN",
+                            "name": "APPLE INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 10.201326,
+                            "sentiment_score": 0.8555,
+                            "highlights": [
+                                {
+                                    "highlight": "Goldman Sachs' investment philosophy is [+304 characters]",
+                                    "sentiment": 0.8555,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFTCL.SN",
+                            "name": "MICROSOFT CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 11.688433,
+                            "sentiment_score": 0.8555,
+                            "highlights": [
+                                {
+                                    "highlight": "Goldman Sachs' investment philosophy is [+304 characters]",
+                                    "sentiment": 0.8555,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL.SN",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 10.201326,
+                            "sentiment_score": 0.8555,
+                            "highlights": [
+                                {
+                                    "highlight": "Goldman Sachs' investment philosophy is [+304 characters]",
+                                    "sentiment": 0.8555,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZNCL.SN",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 14.48417,
+                            "sentiment_score": 0.8555,
+                            "highlights": [
+                                {
+                                    "highlight": "Goldman Sachs' investment philosophy is [+304 characters]",
+                                    "sentiment": 0.8555,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

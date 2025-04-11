@@ -1,0 +1,1114 @@
+{
+    "meta": {
+        "found": 7,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "91f1218c-d135-430e-a3a4-ca629a1c5e40",
+            "title": "Gold Breaks Out, Disturbing iPhone Decline, High Demand For Nvidia RTX 50, Amazon Offers DeepSeek",
+            "description": "",
+            "keywords": "",
+            "snippet": "To gain an edge, this is what you need to know today.\n\nGold Breaks Out\n\nPlease click here for a chart of gold ETF SPDR Gold Trust (GLD).\n\nNote the following:\n\nT...",
+            "url": "https://www.benzinga.com/markets/commodities/25/01/43399459/gold-breaks-out-disturbing-iphone-decline-high-demand-for-nvidia-rtx-50-amazon-offers-deepsee",
+            "image_url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "language": "en",
+            "published_at": "2025-01-31T17:37:17.000000Z",
+            "source": "benzinga.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 9.765656,
+                    "sentiment_score": 0.4588,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Apple</em> <em>Inc</em> (AAPL) CEO d[+296 characters]",
+                            "sentiment": 0.4588,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "(AAPL) CEO did exactly what CEOs do when[+268 characters]",
+                            "sentiment": 0.4588,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 10.544961,
+                    "sentiment_score": 0.296,
+                    "highlights": [
+                        {
+                            "highlight": "How does <em>Amazon.com</em>, <em>Inc</e[+299 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 9.755109,
+                    "sentiment_score": 0.9325,
+                    "highlights": [
+                        {
+                            "highlight": "Magnificent Seven Money Flows\n\nIn the ea[+326 characters]",
+                            "sentiment": 0.9325,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 7.97909,
+                    "sentiment_score": 0.9325,
+                    "highlights": [
+                        {
+                            "highlight": "Magnificent Seven Money Flows\n\nIn the ea[+335 characters]",
+                            "sentiment": 0.9325,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 8.711971,
+                    "sentiment_score": 0.9118,
+                    "highlights": [
+                        {
+                            "highlight": "In the early trade, money flows are nega[+273 characters]",
+                            "sentiment": 0.9118,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZ.DE",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 10.544957,
+                    "sentiment_score": 0.296,
+                    "highlights": [
+                        {
+                            "highlight": "How does <em>Amazon.com</em>, <em>Inc</e[+299 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "APC.DE",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 9.765452,
+                    "sentiment_score": 0.4588,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Apple</em> <em>Inc</em> (AAPL) CEO d[+296 characters]",
+                            "sentiment": 0.4588,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "(AAPL) CEO did exactly what CEOs do when[+268 characters]",
+                            "sentiment": 0.4588,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ABEA.DE",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 9.755094,
+                    "sentiment_score": 0.9325,
+                    "highlights": [
+                        {
+                            "highlight": "Magnificent Seven Money Flows\n\nIn the ea[+326 characters]",
+                            "sentiment": 0.9325,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TL0.DE",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 8.712026,
+                    "sentiment_score": 0.9118,
+                    "highlights": [
+                        {
+                            "highlight": "In the early trade, money flows are nega[+273 characters]",
+                            "sentiment": 0.9118,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ABEC.DE",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 9.75502,
+                    "sentiment_score": 0.9325,
+                    "highlights": [
+                        {
+                            "highlight": "Magnificent Seven Money Flows\n\nIn the ea[+326 characters]",
+                            "sentiment": 0.9325,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZN.MX",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 10.545869,
+                    "sentiment_score": 0.296,
+                    "highlights": [
+                        {
+                            "highlight": "How does <em>Amazon.com</em>, <em>Inc</e[+299 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.MX",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 9.766787,
+                    "sentiment_score": 0.4588,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Apple</em> <em>Inc</em> (AAPL) CEO d[+296 characters]",
+                            "sentiment": 0.4588,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "(AAPL) CEO did exactly what CEOs do when[+268 characters]",
+                            "sentiment": 0.4588,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.MX",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 9.755887,
+                    "sentiment_score": 0.9325,
+                    "highlights": [
+                        {
+                            "highlight": "Magnificent Seven Money Flows\n\nIn the ea[+326 characters]",
+                            "sentiment": 0.9325,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG.MX",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 9.755887,
+                    "sentiment_score": 0.9325,
+                    "highlights": [
+                        {
+                            "highlight": "Magnificent Seven Money Flows\n\nIn the ea[+326 characters]",
+                            "sentiment": 0.9325,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "QQQ.MX",
+                    "name": "Invesco QQQ Trust, Series 1",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 29.233116,
+                    "sentiment_score": 0.9403,
+                    "highlights": [
+                        {
+                            "highlight": "In the early trade, money flows are posi[+317 characters]",
+                            "sentiment": 0.9403,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA.MX",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 8.712046,
+                    "sentiment_score": 0.9118,
+                    "highlights": [
+                        {
+                            "highlight": "In the early trade, money flows are nega[+273 characters]",
+                            "sentiment": 0.9118,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "EWC.MX",
+                    "name": "iShares MSCI Canada ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 27.35942,
+                    "sentiment_score": -0.1531,
+                    "highlights": [
+                        {
+                            "highlight": "ETFs of interest are iShares MSCI Mexico[+306 characters]",
+                            "sentiment": -0.1531,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SLV.MX",
+                    "name": "iShares Silver Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 19.987347,
+                    "sentiment_score": 0.9151,
+                    "highlights": [
+                        {
+                            "highlight": "The most popular ETF for silver is <em>i[+328 characters]",
+                            "sentiment": 0.9151,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "QQQ",
+                    "name": "Invesco QQQ Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 23.272194,
+                    "sentiment_score": 0.9403,
+                    "highlights": [
+                        {
+                            "highlight": "In the early trade, money flows are posi[+299 characters]",
+                            "sentiment": 0.9403,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "EWC",
+                    "name": "iShares MSCI Canada ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 27.359337,
+                    "sentiment_score": -0.1531,
+                    "highlights": [
+                        {
+                            "highlight": "ETFs of interest are iShares MSCI Mexico[+306 characters]",
+                            "sentiment": -0.1531,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SLV",
+                    "name": "iShares Silver Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 19.987312,
+                    "sentiment_score": 0.9151,
+                    "highlights": [
+                        {
+                            "highlight": "The most popular ETF for silver is <em>i[+328 characters]",
+                            "sentiment": 0.9151,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "EWW",
+                    "name": "iShares MSCI Mexico ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 28.731972,
+                    "sentiment_score": -0.1531,
+                    "highlights": [
+                        {
+                            "highlight": "ETFs of interest are <em>iShares</em> <e[+306 characters]",
+                            "sentiment": -0.1531,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 31.439476,
+                    "sentiment_score": 0.9403,
+                    "highlights": [
+                        {
+                            "highlight": "In the early trade, money flows are posi[+326 characters]",
+                            "sentiment": 0.9403,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZF.L",
+                    "name": "SPDR Gold Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 30.159004,
+                    "sentiment_score": 0.63115,
+                    "highlights": [
+                        {
+                            "highlight": "Gold Breaks Out\n\nPlease click here for a[+128 characters]",
+                            "sentiment": 0.3182,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The most popular ETF for gold is <em>SPD[+313 characters]",
+                            "sentiment": 0.9441,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0YIK.L",
+                    "name": "Invesco QQQ Trust, Series 1",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 29.23172,
+                    "sentiment_score": 0.9403,
+                    "highlights": [
+                        {
+                            "highlight": "In the early trade, money flows are posi[+317 characters]",
+                            "sentiment": 0.9403,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 31.438644,
+                    "sentiment_score": 0.9403,
+                    "highlights": [
+                        {
+                            "highlight": "In the early trade, money flows are posi[+326 characters]",
+                            "sentiment": 0.9403,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0JKC.L",
+                    "name": "iShares Silver Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 19.987225,
+                    "sentiment_score": 0.9151,
+                    "highlights": [
+                        {
+                            "highlight": "The most popular ETF for silver is <em>i[+328 characters]",
+                            "sentiment": 0.9151,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA34.SA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 8.712028,
+                    "sentiment_score": 0.9118,
+                    "highlights": [
+                        {
+                            "highlight": "In the early trade, money flows are nega[+273 characters]",
+                            "sentiment": 0.9118,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BSLV39.SA",
+                    "name": "Ishares Silver Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 19.987495,
+                    "sentiment_score": 0.9151,
+                    "highlights": [
+                        {
+                            "highlight": "The most popular ETF for silver is <em>i[+328 characters]",
+                            "sentiment": 0.9151,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BEWW39.SA",
+                    "name": "Ishares Msci Mexico ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 28.731232,
+                    "sentiment_score": -0.1531,
+                    "highlights": [
+                        {
+                            "highlight": "ETFs of interest are <em>iShares</em> <e[+306 characters]",
+                            "sentiment": -0.1531,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFT.MI",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "it",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 8.55405,
+                    "sentiment_score": 0.128,
+                    "highlights": [
+                        {
+                            "highlight": "Yesterday, we shared with you that <em>M[+207 characters]",
+                            "sentiment": 0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA.MI",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "it",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 25.86893,
+                    "sentiment_score": -0.0172,
+                    "highlights": [
+                        {
+                            "highlight": "In addition to AI, gaming is still an im[+313 characters]",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The U.S. government is investigating if [+263 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Gold Breaks Out, Disturbing iPhone Decline, High Demand For <em>Nvidia</em> RTX 50, Amazon Offers DeepSeek",
+                            "sentiment": -0.4767,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.BA",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 9.765843,
+                    "sentiment_score": 0.4588,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Apple</em> <em>Inc</em> (AAPL) CEO d[+296 characters]",
+                            "sentiment": 0.4588,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "(AAPL) CEO did exactly what CEOs do when[+268 characters]",
+                            "sentiment": 0.4588,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.BA",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 9.755748,
+                    "sentiment_score": 0.9325,
+                    "highlights": [
+                        {
+                            "highlight": "Magnificent Seven Money Flows\n\nIn the ea[+326 characters]",
+                            "sentiment": 0.9325,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDAD.BA",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 25.868082,
+                    "sentiment_score": -0.0172,
+                    "highlights": [
+                        {
+                            "highlight": "In addition to AI, gaming is still an im[+313 characters]",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The U.S. government is investigating if [+263 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Gold Breaks Out, Disturbing iPhone Decline, High Demand For <em>Nvidia</em> RTX 50, Amazon Offers DeepSeek",
+                            "sentiment": -0.4767,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLAD.BA",
+                    "name": "TESLA INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 8.712137,
+                    "sentiment_score": 0.9118,
+                    "highlights": [
+                        {
+                            "highlight": "In the early trade, money flows are nega[+273 characters]",
+                            "sentiment": 0.9118,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTD.BA",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 8.554146,
+                    "sentiment_score": 0.128,
+                    "highlights": [
+                        {
+                            "highlight": "Yesterday, we shared with you that <em>M[+207 characters]",
+                            "sentiment": 0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLD.BA",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 9.765843,
+                    "sentiment_score": 0.4588,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Apple</em> <em>Inc</em> (AAPL) CEO d[+296 characters]",
+                            "sentiment": 0.4588,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "(AAPL) CEO did exactly what CEOs do when[+268 characters]",
+                            "sentiment": 0.4588,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTB.BA",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 8.554146,
+                    "sentiment_score": 0.128,
+                    "highlights": [
+                        {
+                            "highlight": "Yesterday, we shared with you that <em>M[+207 characters]",
+                            "sentiment": 0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTC.BA",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 8.554146,
+                    "sentiment_score": 0.128,
+                    "highlights": [
+                        {
+                            "highlight": "Yesterday, we shared with you that <em>M[+207 characters]",
+                            "sentiment": 0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLAC.BA",
+                    "name": "TESLA INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 8.712137,
+                    "sentiment_score": 0.9118,
+                    "highlights": [
+                        {
+                            "highlight": "In the early trade, money flows are nega[+273 characters]",
+                            "sentiment": 0.9118,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDAC.BA",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 25.867966,
+                    "sentiment_score": -0.0172,
+                    "highlights": [
+                        {
+                            "highlight": "In addition to AI, gaming is still an im[+313 characters]",
+                            "sentiment": -0.0516,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The U.S. government is investigating if [+263 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Gold Breaks Out, Disturbing iPhone Decline, High Demand For <em>Nvidia</em> RTX 50, Amazon Offers DeepSeek",
+                            "sentiment": -0.4767,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOGLD.BA",
+                    "name": "ALPHABET INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 9.755693,
+                    "sentiment_score": 0.9325,
+                    "highlights": [
+                        {
+                            "highlight": "Magnificent Seven Money Flows\n\nIn the ea[+326 characters]",
+                            "sentiment": 0.9325,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLC.BA",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 9.765819,
+                    "sentiment_score": 0.4588,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Apple</em> <em>Inc</em> (AAPL) CEO d[+296 characters]",
+                            "sentiment": 0.4588,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "(AAPL) CEO did exactly what CEOs do when[+268 characters]",
+                            "sentiment": 0.4588,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZN.SN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 10.545547,
+                    "sentiment_score": 0.296,
+                    "highlights": [
+                        {
+                            "highlight": "How does <em>Amazon.com</em>, <em>Inc</e[+299 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SLV.SN",
+                    "name": "iShares Silver Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 19.987507,
+                    "sentiment_score": 0.9151,
+                    "highlights": [
+                        {
+                            "highlight": "The most popular ETF for silver is <em>i[+328 characters]",
+                            "sentiment": 0.9151,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "EWW.SN",
+                    "name": "iShares MSCI Mexico ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 28.730469,
+                    "sentiment_score": -0.1531,
+                    "highlights": [
+                        {
+                            "highlight": "ETFs of interest are <em>iShares</em> <e[+306 characters]",
+                            "sentiment": -0.1531,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "EWC.SN",
+                    "name": "iShares MSCI Canada ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 27.3591,
+                    "sentiment_score": -0.1531,
+                    "highlights": [
+                        {
+                            "highlight": "ETFs of interest are iShares MSCI Mexico[+306 characters]",
+                            "sentiment": -0.1531,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 9.755482,
+                    "sentiment_score": 0.9325,
+                    "highlights": [
+                        {
+                            "highlight": "Magnificent Seven Money Flows\n\nIn the ea[+326 characters]",
+                            "sentiment": 0.9325,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLCL.SN",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 9.765753,
+                    "sentiment_score": 0.4588,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Apple</em> <em>Inc</em> (AAPL) CEO d[+296 characters]",
+                            "sentiment": 0.4588,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "(AAPL) CEO did exactly what CEOs do when[+268 characters]",
+                            "sentiment": 0.4588,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTCL.SN",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 8.554066,
+                    "sentiment_score": 0.128,
+                    "highlights": [
+                        {
+                            "highlight": "Yesterday, we shared with you that <em>M[+207 characters]",
+                            "sentiment": 0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.SN",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 9.765753,
+                    "sentiment_score": 0.4588,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Apple</em> <em>Inc</em> (AAPL) CEO d[+296 characters]",
+                            "sentiment": 0.4588,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "(AAPL) CEO did exactly what CEOs do when[+268 characters]",
+                            "sentiment": 0.4588,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 9.755482,
+                    "sentiment_score": 0.9325,
+                    "highlights": [
+                        {
+                            "highlight": "Magnificent Seven Money Flows\n\nIn the ea[+326 characters]",
+                            "sentiment": 0.9325,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZNCL.SN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 10.545163,
+                    "sentiment_score": 0.296,
+                    "highlights": [
+                        {
+                            "highlight": "How does <em>Amazon.com</em>, <em>Inc</e[+299 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGCL.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 9.755482,
+                    "sentiment_score": 0.9325,
+                    "highlights": [
+                        {
+                            "highlight": "Magnificent Seven Money Flows\n\nIn the ea[+326 characters]",
+                            "sentiment": 0.9325,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.NE",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ca",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 9.76572,
+                    "sentiment_score": 0.4588,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Apple</em> <em>Inc</em> (AAPL) CEO d[+296 characters]",
+                            "sentiment": 0.4588,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "(AAPL) CEO did exactly what CEOs do when[+268 characters]",
+                            "sentiment": 0.4588,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

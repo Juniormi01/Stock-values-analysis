@@ -1,0 +1,100 @@
+{
+    "meta": {
+        "found": 84,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "3b480099-c055-4787-8155-8f868cd0d1a5",
+            "title": "Top Stock Market Highlights of the Week: Nvidia, City Developments and Sembcorp Industries",
+            "description": "We look at the latest earnings from a GPU leader and a blue-chip utility provider.",
+            "keywords": "",
+            "snippet": "Welcome to this week\u2019s edition of top stock market highlights.\n\nNvidia (NASDAQ: NVDA)\n\nInvestors have been eagerly waiting for Nvidia\u2019s latest full-year fis...",
+            "url": "https://thesmartinvestor.com.sg/top-stock-market-highlights-of-the-week-nvidia-city-developments-and-sembcorp-industries/",
+            "image_url": "https://thesmartinvestor.com.sg/wp-content/uploads/2025/03/Top-Stock-Highlights-of-the-Week28feb.png",
+            "language": "en",
+            "published_at": "2025-02-28T23:30:00.000000Z",
+            "source": "thesmartinvestor.com.sg",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "CDEVF",
+                    "name": "City Developments Limited",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Real Estate",
+                    "match_score": 58.830574,
+                    "sentiment_score": -0.17755,
+                    "highlights": [
+                        {
+                            "highlight": "<em>City</em> <em>Developments</em> <em>[+271 characters]",
+                            "sentiment": -0.5574,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Top Stock Market Highlights of the Week: Nvidia, <em>City</em> <em>Developments</em> and Sembcorp Industries",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 32.99559,
+                    "sentiment_score": 0.264433,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Nvidia</em> (<em>NASDAQ</em>: <em>NV[+314 characters]",
+                            "sentiment": 0.2728,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Nvidia</em> expects revenue of US$43[+173 characters]",
+                            "sentiment": 0.3182,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Top Stock Market Highlights of the Week: <em>Nvidia</em>, City Developments and Sembcorp Industries",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "CDEVY",
+                    "name": "City Developments Limited",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Real Estate",
+                    "match_score": 58.83035,
+                    "sentiment_score": -0.17755,
+                    "highlights": [
+                        {
+                            "highlight": "<em>City</em> <em>Developments</em> <em>[+271 characters]",
+                            "sentiment": -0.5574,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Top Stock Market Highlights of the Week: Nvidia, <em>City</em> <em>Developments</em> and Sembcorp Industries",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

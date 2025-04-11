@@ -1,0 +1,139 @@
+{
+    "meta": {
+        "found": 74,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "d415a232-a123-4425-b8fe-fb46798d3c74",
+            "title": "Market Today: Tech Giants Eye Government Contracts Amid Tariff Turmoil",
+            "description": "Market Overview\nThis week witnessed a significant downturn in U.S. equity markets, primarily driven by escalating trade tensions and recession fears. President",
+            "keywords": "GuruFocus, Article, News, GuruFocus News, AAPL, AMZN, MSFT, ORCL, MRVL, ON, BA, LMT, NKE, LULU, DOW, LYB, 228K(consensus130K);Priorrevisedto117Kfrom151K</li>\n<li>MarchNonfarmPrivatePayrolls",
+            "snippet": "Market Overview\n\nThis week witnessed a significant downturn in U.S. equity markets, primarily driven by escalating trade tensions and recession fears. President...",
+            "url": "https://www.gurufocus.com/news/2763753/market-today-tech-giants-eye-government-contracts-amid-tariff-turmoil",
+            "image_url": "https://static.gurufocus.com/1732803573856661504.png",
+            "language": "en",
+            "published_at": "2025-04-04T22:32:24.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 11.163321,
+                    "sentiment_score": 0.07775,
+                    "highlights": [
+                        {
+                            "highlight": "Sector and Stock Impact\n\nTech stocks wer[+305 characters]",
+                            "sentiment": 0.5574,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Rapidus, a Japanese semiconductor firm, [+202 characters]",
+                            "sentiment": -0.4019,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 10.545983,
+                    "sentiment_score": 0.5574,
+                    "highlights": [
+                        {
+                            "highlight": "Sector and Stock Impact\n\nTech stocks wer[+305 characters]",
+                            "sentiment": 0.5574,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFT",
+                    "name": "Microsoft Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 9.886961,
+                    "sentiment_score": 0.8402,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Microsoft</em> (MSFT, Financial) cel[+286 characters]",
+                            "sentiment": 0.8402,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ON",
+                    "name": "ON Semiconductor Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 11.793243,
+                    "sentiment_score": -0.2998,
+                    "highlights": [
+                        {
+                            "highlight": "In the semiconductor sector, despite bei[+317 characters]",
+                            "sentiment": -0.2998,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MRVL",
+                    "name": "Marvell Technology, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 15.229771,
+                    "sentiment_score": -0.2998,
+                    "highlights": [
+                        {
+                            "highlight": "In the semiconductor sector, despite bei[+317 characters]",
+                            "sentiment": -0.2998,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "399233.SZ",
+                    "name": "MANUFACTURING INDEX",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cz",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 12.775215,
+                    "sentiment_score": -0.3182,
+                    "highlights": [
+                        {
+                            "highlight": "March S&P Global US Manufacturing PMI - [+236 characters]",
+                            "sentiment": -0.3182,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

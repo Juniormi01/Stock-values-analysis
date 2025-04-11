@@ -1,0 +1,59 @@
+{
+    "meta": {
+        "found": 9,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "9f701a7c-6cab-45c2-8839-fc2e9fa8be97",
+            "title": "Meta Platforms (META): Among The Best US Stocks To Buy For Foreign Investors",
+            "description": "We recently published a list of 10 Best US Stocks To Buy For Foreign Investors. In this article, we are going to take a look at where Meta Platforms, Inc.",
+            "keywords": "",
+            "snippet": "We recently published a list of 10 Best US Stocks To Buy For Foreign Investors. In this article, we are going to take a look at where Meta Platforms, Inc. (NASD...",
+            "url": "https://www.insidermonkey.com/blog/meta-platforms-meta-among-the-best-us-stocks-to-buy-for-foreign-investors-1499128/",
+            "image_url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/09/19153233/META-insidermonkey-1695151950867.jpg",
+            "language": "en",
+            "published_at": "2025-04-01T22:10:20.000000Z",
+            "source": "insidermonkey.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 36.262554,
+                    "sentiment_score": 0.66265,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+314 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Meta</em> <em>Platforms</em>, <em>In[+329 characters]",
+                            "sentiment": 0.6705,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "On February 13, <em>Meta</em> <em>Platfo[+287 characters]",
+                            "sentiment": 0.5423,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "(<em>NASDAQ:META</em>) was part of 262 h[+349 characters]",
+                            "sentiment": 0.8519,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

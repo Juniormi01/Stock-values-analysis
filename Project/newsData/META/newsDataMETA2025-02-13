@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "found": 12,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "bc28d446-2581-4241-b252-e816edcc9825",
+            "title": "Meta Platforms, Inc. (META) Hits Longest Nasdaq 100 Winning Streak Since 1990, Fueled by AI Optimism",
+            "description": "We recently compiled a list of the Top 12 AI Stocks Taking Wall Street by Storm.\u00a0In this article, we are going to take a look at where Meta Platforms, Inc.",
+            "keywords": "",
+            "snippet": "Artificial intelligence is the greatest investment opportunity of our lifetime. The time to invest in groundbreaking AI is now, and this stock is a steal!\n\nThe ...",
+            "url": "https://www.insidermonkey.com/blog/meta-platforms-inc-meta-hits-longest-nasdaq-100-winning-streak-since-1990-fueled-by-ai-optimism-1451591/",
+            "image_url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/09/19153233/META-insidermonkey-1695151950867.jpg",
+            "language": "en",
+            "published_at": "2025-02-13T22:40:25.000000Z",
+            "source": "insidermonkey.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 74.66354,
+                    "sentiment_score": 0.7845,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Meta</em> <em>Platforms</em>, <em>Inc</em>. (META) Hits Longest Nasdaq 100 Winning Streak Since 1990, Fueled by AI Optimism",
+                            "sentiment": 0.7845,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

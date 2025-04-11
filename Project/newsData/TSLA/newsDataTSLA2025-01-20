@@ -1,0 +1,182 @@
+{
+    "meta": {
+        "found": 31,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "97eb9d8e-a0a3-4166-a84f-11003e1156e1",
+            "title": "Dow Jones Futures Rise; President Trump Delays Tariff Hikes, Will Sign Executive Orders",
+            "description": "Dow Jones futures rose. President Donald Trump is set to sign a slew of executive orders, but held off on new tariffs for now.",
+            "keywords": "",
+            "snippet": "Dow Jones futures rose Monday evening along with S&P 500 futures and Nasdaq futures. President Donald Trump is expected to sign a flurry of day one executive or...",
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-president-trump-tariff-hikes/",
+            "image_url": "https://www.investors.com/wp-content/uploads/2020/11/Stock-trump2020-08-shutt.jpg",
+            "language": "en",
+            "published_at": "2025-01-20T23:39:32.000000Z",
+            "source": "investors.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "RSP",
+                    "name": "Invesco S&P 500 Equal Weight ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 43.330536,
+                    "sentiment_score": 0.7269,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Invesco</em> <em>S</em>&<em>P</e[+319 characters]",
+                            "sentiment": 0.7269,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 11.466477,
+                    "sentiment_score": 0.3506,
+                    "highlights": [
+                        {
+                            "highlight": "Tesla (TSLA), ServiceNow (NOW), Vertiv ([+317 characters]",
+                            "sentiment": 0.3506,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGO",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 16.607765,
+                    "sentiment_score": 0.670933,
+                    "highlights": [
+                        {
+                            "highlight": "Tesla (TSLA), ServiceNow (NOW), Vertiv ([+317 characters]",
+                            "sentiment": 0.3506,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Other Stocks In Buy Zones\n\nServiceNow, <[+318 characters]",
+                            "sentiment": 0.7269,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "YOU MIGHT ALSO LIKE:\n\nWhy This IBD Tool [+324 characters]",
+                            "sentiment": 0.9353,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGOP",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 16.607712,
+                    "sentiment_score": 0.670933,
+                    "highlights": [
+                        {
+                            "highlight": "Tesla (TSLA), ServiceNow (NOW), Vertiv ([+317 characters]",
+                            "sentiment": 0.3506,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Other Stocks In Buy Zones\n\nServiceNow, <[+318 characters]",
+                            "sentiment": 0.7269,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "YOU MIGHT ALSO LIKE:\n\nWhy This IBD Tool [+324 characters]",
+                            "sentiment": 0.9353,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 10.59655,
+                    "sentiment_score": -0.5719,
+                    "highlights": [
+                        {
+                            "highlight": "AI giant <em>Nvidia</em> (NVDA) rose mod[+310 characters]",
+                            "sentiment": -0.5719,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 14.15406,
+                    "sentiment_score": 0.336533,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Tesla</em> (TSLA), ServiceNow (NOW),[+317 characters]",
+                            "sentiment": 0.3506,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Tesla</em> Stock\n\n<em>Tesla</em> sto[+205 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Tesla</em> earnings are due Jan. 29,[+297 characters]",
+                            "sentiment": 0.659,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NFLX",
+                    "name": "Netflix, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 10.204601,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Earnings season will ramp up this week, [+228 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

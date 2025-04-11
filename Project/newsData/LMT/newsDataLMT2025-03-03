@@ -1,0 +1,59 @@
+{
+    "meta": {
+        "found": 2,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "63822185-997f-4ebd-8c87-a90f228a4c56",
+            "title": "F-35 Global Fleet Dominates the Sky, Surpasses 1 Million Flight Hours",
+            "description": "PR NewswireFORT WORTH, Texas, March 3, 2025\n\n\n\nFORT WORTH, Texas, March 3, 2025 /PRNewswire/ -- Today, Lockheed Martin [NYSE: LMT] announced that the global F",
+            "keywords": "GuruFocus, Article, News, PRNewswire, NYSE:LMT",
+            "snippet": "FORT WORTH, Texas, March 3, 2025 /PRNewswire/ -- Today, Lockheed Martin [NYSE: LMT] announced that the global F-35 fleet has surpassed 1 million flight hours, f...",
+            "url": "https://www.gurufocus.com/news/2725065/f35-global-fleet-dominates-the-sky-surpasses-1-million-flight-hours",
+            "image_url": "https://static.gurufocus.com/images/global_logo_twitter_card.png",
+            "language": "en",
+            "published_at": "2025-03-03T18:00:04.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 40.16313,
+                    "sentiment_score": 0.706175,
+                    "highlights": [
+                        {
+                            "highlight": "FORT WORTH, Texas, March 3, 2025 /PRNews[+301 characters]",
+                            "sentiment": 0.8286,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "\"The F-35 is the backbone of the allied [+190 characters]",
+                            "sentiment": 0.7717,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "About <em>Lockheed</em> <em>Martin</em>\n[+344 characters]",
+                            "sentiment": 0.9062,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "View original content to download multim[+183 characters]",
+                            "sentiment": 0.3182,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "meta": {
+        "found": 19,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "64bc6701-7ba6-415b-81f7-652e17472420",
+            "title": "Is Meta Platforms, Inc. (NASDAQ:META) The Best Extremely Profitable Stocks to Buy According to Analyst?",
+            "description": "We recently published a list of 11 Best Extremely Profitable Stocks to Buy According to Analysts. In this article, we are going to take a look at where Meta Platforms, Inc.",
+            "keywords": "",
+            "snippet": "We recently published a list of 11 Best Extremely Profitable Stocks to Buy According to Analysts. In this article, we are going to take a look at where Meta Pla...",
+            "url": "https://www.insidermonkey.com/blog/is-meta-platforms-inc-nasdaqmeta-the-best-extremely-profitable-stocks-to-buy-according-to-analyst-1491669/",
+            "image_url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/09/19153233/META-insidermonkey-1695151950867.jpg",
+            "language": "en",
+            "published_at": "2025-03-24T23:39:53.000000Z",
+            "source": "insidermonkey.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 86.01244,
+                    "sentiment_score": 0.7907,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+168 characters]",
+                            "sentiment": 0.8107,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Meta</em> <em>Platforms</em>, <em>In[+363 characters]",
+                            "sentiment": 0.7003,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "During fiscal 2024, <em>Meta</em> <em>Pl[+326 characters]",
+                            "sentiment": 0.7579,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Looking ahead, <em>Meta</em> <em>Platfor[+246 characters]",
+                            "sentiment": 0.8739,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Is <em>Meta</em> <em>Platforms</em>, <em>Inc</em>. (<em>NASDAQ:META</em>) The Best Extremely Profitable Stocks to Buy According to Analyst?",
+                            "sentiment": 0.8107,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

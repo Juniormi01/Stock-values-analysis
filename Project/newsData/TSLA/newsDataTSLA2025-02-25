@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "found": 33,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "c8a48e2c-10eb-40d8-8a0f-3c6e8af0d333",
+            "title": "Tesla Stock Slowly Erasing Post-Election Day Rally",
+            "description": "Tesla shares remain under pressure as the broad market slide continues.",
+            "keywords": "stock, stocks, investment, investment advice, investing, online trading, online investment, online stock trading, stock market, financial, financial planning, quote, quotes, stock quotes",
+            "snippet": "This page has not been authorized, sponsored, or otherwise approved or endorsed by the companies represented herein. Each of the company logos represented herei...",
+            "url": "https://www.zacks.com/stock/news/2421581/tesla-stock-slowly-erasing-post-election-day-rally?cid=CS-ZC-FT-video_blog-2421581",
+            "image_url": "https://staticx-tuner.zacks.com/images/articles/main/7c/572.jpg",
+            "language": "en",
+            "published_at": "2025-02-25T23:34:00.000000Z",
+            "source": "zacks.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 30.025013,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Tesla</em> Stock Slowly Erasing Post-Election Day Rally",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

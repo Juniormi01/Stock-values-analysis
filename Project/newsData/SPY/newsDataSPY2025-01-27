@@ -1,0 +1,419 @@
+{
+    "meta": {
+        "found": 2,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "89ce809a-16d2-4f3c-ac4b-da97cb6a1e9c",
+            "title": "AI Stocks Tumble on China\u2019s DeepSeek AI Advances",
+            "description": "Chip stocks and other AI-related plays take a hit as DeepSeek AI model claims reduced need for microchips.",
+            "keywords": "",
+            "snippet": "Chip stocks and other artificial-intelligence-related names sold off sharply at the start of the new trading week after Chinese AI lab DeepSeek launched a new v...",
+            "url": "https://www.morningstar.ca/ca/news/259726/ai-stocks-tumble-on-chinas-deepseek-ai-advances.aspx",
+            "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/morningstar/USDI3QJNLFBG7HSATHOIW3RSYI.png",
+            "language": "en",
+            "published_at": "2025-01-27T17:56:06.000000Z",
+            "source": "morningstar.ca",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "QQQ",
+                    "name": "Invesco QQQ Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 35.734592,
+                    "sentiment_score": 0.4019,
+                    "highlights": [
+                        {
+                            "highlight": "Tech Stock ETFs Slide\n\nThe broader marke[+196 characters]",
+                            "sentiment": 0.4019,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "IWM",
+                    "name": "iShares Russell 2000 ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 37.01244,
+                    "sentiment_score": -0.296,
+                    "highlights": [
+                        {
+                            "highlight": "Small-cap stocks also weathered the down[+254 characters]",
+                            "sentiment": -0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "IWF",
+                    "name": "iShares Russell 1000 Growth ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 43.031067,
+                    "sentiment_score": 0.539,
+                    "highlights": [
+                        {
+                            "highlight": "Growth stocks suffered more than value, [+198 characters]",
+                            "sentiment": 0.539,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 44.019066,
+                    "sentiment_score": 0.4019,
+                    "highlights": [
+                        {
+                            "highlight": "Tech Stock ETFs Slide\n\nThe broader marke[+223 characters]",
+                            "sentiment": 0.4019,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^XLP-TC",
+                    "name": "Consumer Staples Select Sector ",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 32.722633,
+                    "sentiment_score": -0.4648,
+                    "highlights": [
+                        {
+                            "highlight": "Consumer defensives did the best, with t[+283 characters]",
+                            "sentiment": -0.4648,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^XLP-EU",
+                    "name": "Consumer Staples Select Sector ",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 32.72264,
+                    "sentiment_score": -0.4648,
+                    "highlights": [
+                        {
+                            "highlight": "Consumer defensives did the best, with t[+283 characters]",
+                            "sentiment": -0.4648,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^XLP-IV",
+                    "name": "Consumer Staples Select Sector ",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 32.72264,
+                    "sentiment_score": -0.4648,
+                    "highlights": [
+                        {
+                            "highlight": "Consumer defensives did the best, with t[+283 characters]",
+                            "sentiment": -0.4648,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "^XLP-NV",
+                    "name": "Consumer Staples Select Sector ",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "index",
+                    "industry": "N/A",
+                    "match_score": 32.72264,
+                    "sentiment_score": -0.4648,
+                    "highlights": [
+                        {
+                            "highlight": "Consumer defensives did the best, with t[+283 characters]",
+                            "sentiment": -0.4648,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 14.966305,
+                    "sentiment_score": 0.7003,
+                    "highlights": [
+                        {
+                            "highlight": "Big tech firms Microsoft MSFT, <em>Alpha[+197 characters]",
+                            "sentiment": 0.7003,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGO",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 10.493425,
+                    "sentiment_score": -0.0772,
+                    "highlights": [
+                        {
+                            "highlight": "European stocks led the selloff, while k[+277 characters]",
+                            "sentiment": -0.0772,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGOP",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 10.492955,
+                    "sentiment_score": -0.0772,
+                    "highlights": [
+                        {
+                            "highlight": "European stocks led the selloff, while k[+277 characters]",
+                            "sentiment": -0.0772,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 11.779519,
+                    "sentiment_score": 0.526967,
+                    "highlights": [
+                        {
+                            "highlight": "European stocks led the selloff, while k[+277 characters]",
+                            "sentiment": -0.0772,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Big tech firms Microsoft MSFT, Alphabet [+188 characters]",
+                            "sentiment": 0.7003,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "\u201cUntil now, the conventional wisdom ha[+258 characters]",
+                            "sentiment": 0.9578,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFT",
+                    "name": "Microsoft Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 9.371794,
+                    "sentiment_score": 0.1492,
+                    "highlights": [
+                        {
+                            "highlight": "Big tech firms <em>Microsoft</em> MSFT, [+188 characters]",
+                            "sentiment": 0.7003,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "This breakthrough slashes computational [+140 characters]",
+                            "sentiment": -0.4019,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "IWM.MX",
+                    "name": "iShares Russell 2000 ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 37.012596,
+                    "sentiment_score": -0.296,
+                    "highlights": [
+                        {
+                            "highlight": "Small-cap stocks also weathered the down[+254 characters]",
+                            "sentiment": -0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "VST",
+                    "name": "Vistra Corp.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Utilities",
+                    "match_score": 20.825726,
+                    "sentiment_score": -0.3626,
+                    "highlights": [
+                        {
+                            "highlight": "The Morningstar US Utilities Index fell [+254 characters]",
+                            "sentiment": -0.3626,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "VST.MX",
+                    "name": "Vistra Corp.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 20.825726,
+                    "sentiment_score": -0.3626,
+                    "highlights": [
+                        {
+                            "highlight": "The Morningstar US Utilities Index fell [+254 characters]",
+                            "sentiment": -0.3626,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "VST-WTA",
+                    "name": "Vistra Corp.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 20.830868,
+                    "sentiment_score": -0.3626,
+                    "highlights": [
+                        {
+                            "highlight": "The Morningstar US Utilities Index fell [+254 characters]",
+                            "sentiment": -0.3626,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 44.017067,
+                    "sentiment_score": 0.4019,
+                    "highlights": [
+                        {
+                            "highlight": "Tech Stock ETFs Slide\n\nThe broader marke[+223 characters]",
+                            "sentiment": 0.4019,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0A8O.L",
+                    "name": "Vistra Corp.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 20.812965,
+                    "sentiment_score": -0.3626,
+                    "highlights": [
+                        {
+                            "highlight": "The Morningstar US Utilities Index fell [+254 characters]",
+                            "sentiment": -0.3626,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "IWM.SN",
+                    "name": "iShares Russell 2000 ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 37.01235,
+                    "sentiment_score": -0.296,
+                    "highlights": [
+                        {
+                            "highlight": "Small-cap stocks also weathered the down[+254 characters]",
+                            "sentiment": -0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "IWF.SN",
+                    "name": "iShares Russell 1000 Growth ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 43.030212,
+                    "sentiment_score": 0.539,
+                    "highlights": [
+                        {
+                            "highlight": "Growth stocks suffered more than value, [+198 characters]",
+                            "sentiment": 0.539,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

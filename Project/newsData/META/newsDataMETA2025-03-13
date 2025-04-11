@@ -1,0 +1,69 @@
+{
+    "meta": {
+        "found": 12,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "ac34dc9f-906f-4965-8e69-8592dbd692f6",
+            "title": "Meta Platforms Inc (META) Shares Gap Down to $595.7872 on Mar 13",
+            "description": "Shares of Meta Platforms Inc (META) fell 3.84% in mid-day trading on Mar 13. The stock reached an intraday low of $586.51,   before recovering slightly to $595.",
+            "keywords": "GuruFocus, Article, News, GuruFocus News, META",
+            "snippet": "Shares of Meta Platforms Inc (META, Financial) fell 3.84% in mid-day trading on Mar 13. The stock reached an intraday low of $586.51, before recovering slightly...",
+            "url": "https://www.gurufocus.com/news/2737956/meta-platforms-inc-meta-shares-gap-down-to-5957872-on-mar-13",
+            "image_url": "https://static.gurufocus.com/images/global_logo_twitter_card.png",
+            "language": "en",
+            "published_at": "2025-03-13T20:00:03.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 62.217133,
+                    "sentiment_score": 0.1046,
+                    "highlights": [
+                        {
+                            "highlight": "Shares of <em>Meta</em> <em>Platforms</e[+303 characters]",
+                            "sentiment": -0.1531,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Wall Street Analysts Forecast\n\nBased on [+299 characters]",
+                            "sentiment": -0.2732,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "More detailed estimate data can be found[+261 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Based on GuruFocus estimates, the estima[+259 characters]",
+                            "sentiment": 0.7579,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "More detailed data can be found on the <[+182 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Meta</em> <em>Platforms</em> <em>Inc</em> (META) Shares Gap Down to $595.7872 on Mar 13",
+                            "sentiment": 0.296,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

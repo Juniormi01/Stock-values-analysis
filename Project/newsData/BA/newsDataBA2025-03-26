@@ -1,0 +1,292 @@
+{
+    "meta": {
+        "found": 2,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "d22aff74-2211-4338-b0d6-69bdc59d72e2",
+            "title": "Why The Boeing Company (BA) Is Gaining This Week",
+            "description": "We recently published a list of Why These Defense Stocks Are Gaining This Week.",
+            "keywords": "",
+            "snippet": "We recently published a list of Why These Defense Stocks Are Gaining This Week. In this article, we are going to take a look at where The Boeing Company (NYSE:B...",
+            "url": "https://www.insidermonkey.com/blog/why-the-boeing-company-ba-is-gaining-this-week-2-1493363/",
+            "image_url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2015/11/26161205/shutterstock_176954810.jpg",
+            "language": "en",
+            "published_at": "2025-03-26T15:40:34.000000Z",
+            "source": "insidermonkey.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "BA",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 112.49606,
+                    "sentiment_score": 0.60926,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+224 characters]",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+359 characters]",
+                            "sentiment": 0.7351,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "After a difficult 2024 and challenges co[+275 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Investor sentiment also picked up after [+326 characters]",
+                            "sentiment": 0.7964,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Why <em>The</em> <em>Boeing</em> <em>Company</em> (BA) Is Gaining This Week",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BCO.DE",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 95.94978,
+                    "sentiment_score": 0.60926,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+215 characters]",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+341 characters]",
+                            "sentiment": 0.7351,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "After a difficult 2024 and challenges co[+266 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Investor sentiment also picked up after [+317 characters]",
+                            "sentiment": 0.7964,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Why <em>The</em> <em>Boeing</em> <em>Company</em> (BA) Is Gaining This Week",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BA.MX",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 95.95018,
+                    "sentiment_score": 0.60926,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+215 characters]",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+341 characters]",
+                            "sentiment": 0.7351,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "After a difficult 2024 and challenges co[+266 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Investor sentiment also picked up after [+317 characters]",
+                            "sentiment": 0.7964,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Why <em>The</em> <em>Boeing</em> <em>Company</em> (BA) Is Gaining This Week",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BOE.L",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 95.950836,
+                    "sentiment_score": 0.60926,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+215 characters]",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+341 characters]",
+                            "sentiment": 0.7351,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "After a difficult 2024 and challenges co[+266 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Investor sentiment also picked up after [+317 characters]",
+                            "sentiment": 0.7964,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Why <em>The</em> <em>Boeing</em> <em>Company</em> (BA) Is Gaining This Week",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BOEI.BR",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "be",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 95.95183,
+                    "sentiment_score": 0.60926,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+215 characters]",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+341 characters]",
+                            "sentiment": 0.7351,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "After a difficult 2024 and challenges co[+266 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Investor sentiment also picked up after [+317 characters]",
+                            "sentiment": 0.7964,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Why <em>The</em> <em>Boeing</em> <em>Company</em> (BA) Is Gaining This Week",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BOEI34.SA",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 95.95268,
+                    "sentiment_score": 0.60926,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+215 characters]",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+341 characters]",
+                            "sentiment": 0.7351,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "After a difficult 2024 and challenges co[+266 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Investor sentiment also picked up after [+317 characters]",
+                            "sentiment": 0.7964,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Why <em>The</em> <em>Boeing</em> <em>Company</em> (BA) Is Gaining This Week",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BA.SN",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 95.951706,
+                    "sentiment_score": 0.60926,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+215 characters]",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+341 characters]",
+                            "sentiment": 0.7351,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "After a difficult 2024 and challenges co[+266 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Investor sentiment also picked up after [+317 characters]",
+                            "sentiment": 0.7964,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Why <em>The</em> <em>Boeing</em> <em>Company</em> (BA) Is Gaining This Week",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

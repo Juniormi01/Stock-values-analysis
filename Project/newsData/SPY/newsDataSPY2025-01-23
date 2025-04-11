@@ -1,0 +1,67 @@
+{
+    "meta": {
+        "found": 4,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "f9347726-ffc3-4fd1-b267-bc8bbac71eeb",
+            "title": "SPY: Earnings And Rate Uncertainties Ahead, Options Can Help (NYSEARCA:SPY)",
+            "description": "SPY's valuation risk is near historical peaks due to tension between high P/E ratio and also high Treasury rates. Click here to find out why SPY ETF is a Sell.",
+            "keywords": "",
+            "snippet": "Join for a 100% Risk-Free trial and see if our proven method can help you too. You do not need to pay for the costly lessons from the market itself.\n\nI last cov...",
+            "url": "https://seekingalpha.com/article/4751589-spy-earnings-and-rate-uncertainties-ahead-options-can-help",
+            "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1253985593/image_1253985593.jpg?io=getty-c-w1536",
+            "language": "en",
+            "published_at": "2025-01-23T21:01:24.000000Z",
+            "source": "seekingalpha.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 60.498497,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "I last covered the <em>SPDR</em> <em>S</[+319 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 126.59127,
+                    "sentiment_score": 0.0386,
+                    "highlights": [
+                        {
+                            "highlight": "I last covered the <em>SPDR</em> <em>S</[+337 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "SPY: Earnings And Rate Uncertainties Ahead, Options Can Help (<em>NYSEARCA:SPY</em>)",
+                            "sentiment": 0.0772,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

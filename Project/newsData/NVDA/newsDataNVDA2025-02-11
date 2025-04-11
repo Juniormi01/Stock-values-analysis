@@ -1,0 +1,103 @@
+{
+    "meta": {
+        "found": 34,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "7f7783ce-c48d-476d-909c-3f5eef077cb8",
+            "title": "Super Micro 'confident' it will meet SEC deadline and reach $40 billion next fiscal year",
+            "description": "Super Micro expressed confidence it will meet a key SEC deadline this month and hit $40 billion in revenue in fiscal 2026.",
+            "keywords": "Breaking News: Technology, Breaking news, Earnings, Super Micro Computer Inc, Technology, business news",
+            "snippet": "Super Micro Computer gave optimistic commentary for its fiscal 2026 and delayed annual report that overshadowed its slashed fiscal 2025 revenue guidance in Tues...",
+            "url": "https://www.cnbc.com/2025/02/11/super-micro-confident-it-will-meet-sec-deadline.html",
+            "image_url": "https://image.cnbcfm.com/api/v1/image/108055705-1730389067662-gettyimages-2155472599-TAIWAN_COMPUTEX.jpeg?v=1739311088&w=1920&h=1080",
+            "language": "en",
+            "published_at": "2025-02-11T22:59:13.000000Z",
+            "source": "cnbc.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "GOOGL",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.368422,
+                    "sentiment_score": 0.5267,
+                    "highlights": [
+                        {
+                            "highlight": "Recent earnings reports and commentary s[+194 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 12.645271,
+                    "sentiment_score": 0.0772,
+                    "highlights": [
+                        {
+                            "highlight": "Shares of the company, known for its ser[+222 characters]",
+                            "sentiment": 0.0772,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFT",
+                    "name": "Microsoft Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 11.524397,
+                    "sentiment_score": 0.5267,
+                    "highlights": [
+                        {
+                            "highlight": "Recent earnings reports and commentary s[+194 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SMCI",
+                    "name": "Super Micro Computer, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 27.930004,
+                    "sentiment_score": -0.318,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Super</em> <em>Micro</em> <em>Comput[+295 characters]",
+                            "sentiment": -0.34,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "WATCH: <em>Super</em> <em>Micro</em> <em[+46 characters]",
+                            "sentiment": -0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

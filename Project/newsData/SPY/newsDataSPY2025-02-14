@@ -1,0 +1,344 @@
+{
+    "meta": {
+        "found": 8,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "c90f9c17-1b18-4953-b252-a3deedbbf052",
+            "title": "Jana Partners' Strategic Moves: Lamb Weston Holdings Inc. Takes Center Stage with 11.85% Portfolio Impact",
+            "description": "Exploring Jana Partners (Trades, Portfolio)' Latest 13F Filing and Investment Strategy\n\nJana Partners (Trades, Portfolio) recently submitted the 13F filing for",
+            "keywords": "GuruFocus, Article, News, GuruFocus News, LW, TRMB, MRCY, SPY, MKL, RPD, FYBR, FTRE, FIS",
+            "snippet": "Exploring Jana Partners Trades, Portfolio)' Latest 13F Filing and Investment Strategy\n\nJana Partners (Trades, Portfolio) recently submitted the 13F filing for t...",
+            "url": "https://www.gurufocus.com/news/2699921/jana-partners-strategic-moves-lamb-weston-holdings-inc-takes-center-stage-with-1185-portfolio-impact",
+            "image_url": "https://static.gurufocus.com/images/global_logo_twitter_card.png",
+            "language": "en",
+            "published_at": "2025-02-14T23:35:18.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "TRMB",
+                    "name": "Trimble Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 28.817017,
+                    "sentiment_score": 0.5758,
+                    "highlights": [
+                        {
+                            "highlight": "Reduced <em>Trimble</em> <em>Inc</em> (T[+249 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+330 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MRCY",
+                    "name": "Mercury Systems, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 23.847279,
+                    "sentiment_score": 0.6249,
+                    "highlights": [
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+339 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "FYBR",
+                    "name": "Frontier Communications Parent, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 44.070328,
+                    "sentiment_score": 0.296,
+                    "highlights": [
+                        {
+                            "highlight": "Summary of Sold Out\n\nJana Partners (Trad[+300 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "FIS",
+                    "name": "Fidelity National Information Services, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 32.42866,
+                    "sentiment_score": 0.6666,
+                    "highlights": [
+                        {
+                            "highlight": "The most significant changes include:\n\nR[+352 characters]",
+                            "sentiment": 0.6666,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LW",
+                    "name": "Lamb Weston Holdings, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 162.38889,
+                    "sentiment_score": 0.473333,
+                    "highlights": [
+                        {
+                            "highlight": "Key Position Increases\n\nJana Partners (T[+261 characters]",
+                            "sentiment": 0.7951,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+348 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Jana Partners' Strategic Moves: <em>Lamb</em> <em>Weston</em> <em>Holdings</em> <em>Inc</em>. Takes Center Stage with 11.85% Portfolio Impact",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "F1NI34.SA",
+                    "name": "Fidelity National Information Services, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 32.42778,
+                    "sentiment_score": 0.6666,
+                    "highlights": [
+                        {
+                            "highlight": "The most significant changes include:\n\nR[+352 characters]",
+                            "sentiment": 0.6666,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "RPD",
+                    "name": "Rapid7, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 22.621017,
+                    "sentiment_score": 0.8807,
+                    "highlights": [
+                        {
+                            "highlight": "The second largest increase was <em>Rapi[+213 characters]",
+                            "sentiment": 0.8807,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 48.384094,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+366 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ZGY.DE",
+                    "name": "Fidelity National Information Services, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 32.423836,
+                    "sentiment_score": 0.6666,
+                    "highlights": [
+                        {
+                            "highlight": "The most significant changes include:\n\nR[+352 characters]",
+                            "sentiment": 0.6666,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "LW.MX",
+                    "name": "Lamb Weston Holdings, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 162.33934,
+                    "sentiment_score": 0.473333,
+                    "highlights": [
+                        {
+                            "highlight": "Key Position Increases\n\nJana Partners (T[+261 characters]",
+                            "sentiment": 0.7951,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+348 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Jana Partners' Strategic Moves: <em>Lamb</em> <em>Weston</em> <em>Holdings</em> <em>Inc</em>. Takes Center Stage with 11.85% Portfolio Impact",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "FIS.MX",
+                    "name": "Fidelity National Information Services, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 32.42345,
+                    "sentiment_score": 0.6666,
+                    "highlights": [
+                        {
+                            "highlight": "The most significant changes include:\n\nR[+352 characters]",
+                            "sentiment": 0.6666,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TRMB.MX",
+                    "name": "Trimble Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 28.809616,
+                    "sentiment_score": 0.5758,
+                    "highlights": [
+                        {
+                            "highlight": "Reduced <em>Trimble</em> <em>Inc</em> (T[+249 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+330 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 48.37391,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+366 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KTX.L",
+                    "name": "Rapid7, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 22.608112,
+                    "sentiment_score": 0.8807,
+                    "highlights": [
+                        {
+                            "highlight": "The second largest increase was <em>Rapi[+213 characters]",
+                            "sentiment": 0.8807,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0TP1.L",
+                    "name": "Frontier Communications Parent, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 34.140594,
+                    "sentiment_score": 0.296,
+                    "highlights": [
+                        {
+                            "highlight": "Summary of Sold Out\n\nJana Partners (Trad[+291 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0ILW.L",
+                    "name": "Fidelity National Information Services, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 32.421604,
+                    "sentiment_score": 0.6666,
+                    "highlights": [
+                        {
+                            "highlight": "The most significant changes include:\n\nR[+352 characters]",
+                            "sentiment": 0.6666,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

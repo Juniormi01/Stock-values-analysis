@@ -1,0 +1,95 @@
+{
+    "meta": {
+        "found": 51,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "0f9530ee-7abc-475e-9403-528160fdcedb",
+            "title": "U.S. Stock Market\u2019s Shocking Plunge: Is This Just the Beginning?",
+            "description": "The U.S. stock market has been on a rollercoaster ride, but its latest drop sent shockwaves through Wall Street. At the heart of the turmoil? A massive sell-off in tech stocks, triggered by a\u2026",
+            "keywords": "",
+            "snippet": "The U.S. stock market has been on a rollercoaster ride, but its latest drop sent shockwaves through Wall Street. At the heart of the turmoil? A massive sell-off...",
+            "url": "https://medium.com/@thanusan940s/u-s-stock-markets-shocking-plunge-is-this-just-the-beginning-043f17ce3bad",
+            "image_url": "https://miro.medium.com/v2/resize:fit:700/1*6CWqDo-7P-jEW2aPXcodpg@2x.jpeg",
+            "language": "en",
+            "published_at": "2025-01-30T23:44:01.000000Z",
+            "source": "medium.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 11.794041,
+                    "sentiment_score": -0.1061,
+                    "highlights": [
+                        {
+                            "highlight": "\u2022 <em>Apple</em>, Microsoft, and Googl[+211 characters]",
+                            "sentiment": 0.3818,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "With NVIDIA, <em>Apple</em>, and Microso[+273 characters]",
+                            "sentiment": -0.594,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 13.757496,
+                    "sentiment_score": -0.6213,
+                    "highlights": [
+                        {
+                            "highlight": "Tech Stocks Take a Beating\n\nLeading the [+252 characters]",
+                            "sentiment": -0.6486,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "With <em>NVIDIA</em>, Apple, and Microso[+273 characters]",
+                            "sentiment": -0.594,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFT",
+                    "name": "Microsoft Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 12.186947,
+                    "sentiment_score": -0.1061,
+                    "highlights": [
+                        {
+                            "highlight": "\u2022 Apple, <em>Microsoft</em>, and Googl[+211 characters]",
+                            "sentiment": 0.3818,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "With NVIDIA, Apple, and <em>Microsoft</e[+273 characters]",
+                            "sentiment": -0.594,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "meta": {
+        "found": 2,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "6ec3d6d2-bb91-4c45-94cd-4367c3cd2890",
+            "title": "Market Recap: S&P 500, Dow, and Nasdaq Edge Lower Amid Policy Uncertainty",
+            "description": "In a day marked by cautious trading, major U.S. stock indexes retreated slightly on Thursday, March 20, 2025, as investors grappled with ongoing policy",
+            "keywords": "",
+            "snippet": "In a day marked by cautious trading, major U.S. stock indexes retreated slightly on Thursday, March 20, 2025, as investors grappled with ongoing policy uncertai...",
+            "url": "https://thestockmarketwatch.com/stock-market-news/market-recap-sp-500-dow-and-nasdaq-edge-lower-amid-policy-uncertainty/49072/",
+            "image_url": "https://thestockmarketwatch.com/stock-market-news/wp-content/uploads/2024/08/5.jpg",
+            "language": "en",
+            "published_at": "2025-03-20T21:28:38.000000Z",
+            "source": "thestockmarketwatch.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "BA",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 17.205067,
+                    "sentiment_score": -0.3612,
+                    "highlights": [
+                        {
+                            "highlight": "Among individual stocks, <em>The</em> <e[+307 characters]",
+                            "sentiment": -0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BOEI.BR",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "be",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 17.205225,
+                    "sentiment_score": -0.3612,
+                    "highlights": [
+                        {
+                            "highlight": "Among individual stocks, <em>The</em> <e[+307 characters]",
+                            "sentiment": -0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BOEI34.SA",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 17.205029,
+                    "sentiment_score": -0.3612,
+                    "highlights": [
+                        {
+                            "highlight": "Among individual stocks, <em>The</em> <e[+307 characters]",
+                            "sentiment": -0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BA.SN",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 17.205307,
+                    "sentiment_score": -0.3612,
+                    "highlights": [
+                        {
+                            "highlight": "Among individual stocks, <em>The</em> <e[+307 characters]",
+                            "sentiment": -0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BCO.DE",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 17.205578,
+                    "sentiment_score": -0.3612,
+                    "highlights": [
+                        {
+                            "highlight": "Among individual stocks, <em>The</em> <e[+307 characters]",
+                            "sentiment": -0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BA.MX",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 17.20581,
+                    "sentiment_score": -0.3612,
+                    "highlights": [
+                        {
+                            "highlight": "Among individual stocks, <em>The</em> <e[+307 characters]",
+                            "sentiment": -0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BOE.L",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 17.205967,
+                    "sentiment_score": -0.3612,
+                    "highlights": [
+                        {
+                            "highlight": "Among individual stocks, <em>The</em> <e[+307 characters]",
+                            "sentiment": -0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

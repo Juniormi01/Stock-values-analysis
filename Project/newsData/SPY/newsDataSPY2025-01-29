@@ -1,0 +1,211 @@
+{
+    "meta": {
+        "found": 2,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "747024b4-d459-4307-ae4f-9e906e3e0c31",
+            "title": "Fed Holds Interest Rates Steady, Halts Streak Of Consecutive Cuts, Says Inflation Remains 'Elevated' - SPDR Gold Trust (ARCA:GLD)",
+            "description": "The Federal Reserve elected to keep interest rates unchanged at its Wednesday meeting, snapping a streak of three consecutive rate cuts that began in September.",
+            "keywords": "",
+            "snippet": "The Federal Reserve elected to keep interest rates unchanged at its Wednesday meeting, snapping a streak of three consecutive rate cuts that began in September....",
+            "url": "https://www.benzinga.com/25/01/43316048/fed-holds-interest-rates-steady-halts-streak-of-consecutive-cuts-as-inflation-remains-elevated",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/29/jerome-powell-ai7.png?width=1200&height=800&fit=crop",
+            "language": "en",
+            "published_at": "2025-01-29T19:09:51.000000Z",
+            "source": "benzinga.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "IWM",
+                    "name": "iShares Russell 2000 ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 47.789433,
+                    "sentiment_score": -0.4019,
+                    "highlights": [
+                        {
+                            "highlight": "Small caps, tracked by the <em>iShares</[+251 characters]",
+                            "sentiment": -0.4019,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "IWM.MX",
+                    "name": "iShares Russell 2000 ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 47.789303,
+                    "sentiment_score": -0.4019,
+                    "highlights": [
+                        {
+                            "highlight": "Small caps, tracked by the <em>iShares</[+251 characters]",
+                            "sentiment": -0.4019,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 56.896946,
+                    "sentiment_score": -0.4019,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>SPDR</em> <em>S</em>&<em>P</em> [+192 characters]",
+                            "sentiment": -0.4019,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZF.L",
+                    "name": "SPDR Gold Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 115.59001,
+                    "sentiment_score": 0.4136,
+                    "highlights": [
+                        {
+                            "highlight": "Gold prices, as mirrored by the <em>SPDR[+207 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Fed Holds Interest Rates Steady, Halts Streak Of Consecutive Cuts, Says Inflation Remains 'Elevated' - <em>SPDR</em> <em>Gold</em> <em>Trust</em> (ARCA:GLD)",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 56.89526,
+                    "sentiment_score": -0.4019,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>SPDR</em> <em>S</em>&<em>P</em> [+192 characters]",
+                            "sentiment": -0.4019,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BTCUSD",
+                    "name": "Bitcoin USD",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "global",
+                    "type": "cryptocurrency",
+                    "industry": "N/A",
+                    "match_score": 41.83806,
+                    "sentiment_score": 0.8126,
+                    "highlights": [
+                        {
+                            "highlight": "Gold prices, as mirrored by the SPDR Gol[+207 characters]",
+                            "sentiment": 0.8126,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA.MI",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "it",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 17.061184,
+                    "sentiment_score": -0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "Shares of <em>Nvidia</em> <em>Corp</em>.[+317 characters]",
+                            "sentiment": -0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDAD.BA",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 17.058678,
+                    "sentiment_score": -0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "Shares of <em>Nvidia</em> <em>Corp</em>.[+317 characters]",
+                            "sentiment": -0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDAC.BA",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 17.058678,
+                    "sentiment_score": -0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "Shares of <em>Nvidia</em> <em>Corp</em>.[+317 characters]",
+                            "sentiment": -0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "IWM.SN",
+                    "name": "iShares Russell 2000 ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 47.787678,
+                    "sentiment_score": -0.4019,
+                    "highlights": [
+                        {
+                            "highlight": "Small caps, tracked by the <em>iShares</[+251 characters]",
+                            "sentiment": -0.4019,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

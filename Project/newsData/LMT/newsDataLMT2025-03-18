@@ -1,0 +1,64 @@
+{
+    "meta": {
+        "found": 1,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "a888a752-1d2a-4941-a74b-b379edc3c043",
+            "title": "Canada Re-evaluates Lockheed Martin's F-35 Order Amid US Trade Tensions: 'We Are Also Examining Other Alternatives' - Lockheed Martin (NYSE:LMT)",
+            "description": "Amid escalating trade tensions with the US, Canada is reassessing its multi-billion dollar order for F-35 fighter jets from Lockheed.",
+            "keywords": "",
+            "snippet": "Amid escalating trade tensions with the US, Canada is reassessing its multi-billion dollar order for F-35 fighter jets from Lockheed Martin Corp. LMT.\n\nWhat Hap...",
+            "url": "https://www.benzinga.com/news/global/25/03/44370451/canada-re-evaluates-lockheeds-f-35-order-amid-us-trade-tensions-we-are-also-examining-other-alternati",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2025/03/18/The-Lockheed-Martin-Corp-Trade.jpeg?width=1200&height=800&fit=crop",
+            "language": "en",
+            "published_at": "2025-03-18T07:08:07.000000Z",
+            "source": "benzinga.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 68.25666,
+                    "sentiment_score": 0.19462,
+                    "highlights": [
+                        {
+                            "highlight": "Amid escalating trade tensions with the [+205 characters]",
+                            "sentiment": 0.0516,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "As reported by Breaking Defense, the Can[+191 characters]",
+                            "sentiment": 0.2846,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "In June 2023, the Liberal government fin[+277 characters]",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The stock of <em>Lockheed</em> <em>Marti[+257 characters]",
+                            "sentiment": 0.4019,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Canada Re-evaluates Lockheed Martin's F-35 Order Amid US Trade Tensions: 'We Are Also Examining Other Alternatives' - <em>Lockheed</em> <em>Martin</em> (<em>NYSE:LMT</em>)",
+                            "sentiment": -0.4019,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

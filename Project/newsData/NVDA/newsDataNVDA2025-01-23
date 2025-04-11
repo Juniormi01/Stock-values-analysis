@@ -1,0 +1,116 @@
+{
+    "meta": {
+        "found": 54,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "a43731f5-7b5e-4490-9cae-8077c955e3a5",
+            "title": "stocks surge with big tech leading gains",
+            "description": "Stocks soar as major tech companies drive impressive gains in the market.",
+            "keywords": "",
+            "snippet": "The stock market ended the week on a high note, with the Dow Jones Industrial Average surging over 300 points and the S&P 500 posting its best week since the pe...",
+            "url": "https://www.killerstartups.com/stocks-surge-with-big-tech-leading-gains/",
+            "image_url": "https://images.killerstartups.com/wp-content/uploads/2025/01/hwjsonawtqs.jpg",
+            "language": "en",
+            "published_at": "2025-01-23T23:42:00.000000Z",
+            "source": "killerstartups.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 11.848804,
+                    "sentiment_score": 0.7269,
+                    "highlights": [
+                        {
+                            "highlight": "In other news, Microsoft shares are up 2[+284 characters]",
+                            "sentiment": 0.7269,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "QRVO",
+                    "name": "Qorvo, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 16.936132,
+                    "sentiment_score": 0.8555,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Qorvo</em> shares rose more than 13%[+263 characters]",
+                            "sentiment": 0.8555,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 10.768869,
+                    "sentiment_score": 0.7783,
+                    "highlights": [
+                        {
+                            "highlight": "Big tech stocks led the way, with shares[+239 characters]",
+                            "sentiment": 0.7783,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 12.123871,
+                    "sentiment_score": 0.7783,
+                    "highlights": [
+                        {
+                            "highlight": "Big tech stocks led the way, with shares[+239 characters]",
+                            "sentiment": 0.7783,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFT",
+                    "name": "Microsoft Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 11.036656,
+                    "sentiment_score": 0.7269,
+                    "highlights": [
+                        {
+                            "highlight": "In other news, <em>Microsoft</em> shares[+284 characters]",
+                            "sentiment": 0.7269,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

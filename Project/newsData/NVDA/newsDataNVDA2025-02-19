@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "found": 30,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "298fda7e-d782-47d2-8111-6afb199be21b",
+            "title": "Nvidia (NVDA) Stock Sinks As Market Gains: Here's Why",
+            "description": "Nvidia (NVDA) closed at $139.23 in the latest trading session, marking a -0.12% move from the prior day.",
+            "keywords": "stock, stocks, investment, investment advice, investing, online trading, online investment, online stock trading, stock market, financial, financial planning, quote, quotes, stock quotes",
+            "snippet": "This page has not been authorized, sponsored, or otherwise approved or endorsed by the companies represented herein. Each of the company logos represented herei...",
+            "url": "https://www.zacks.com/stock/news/2418114/nvidia-nvda-stock-sinks-as-market-gains-heres-why?cid=CS-ZC-FT-tale_of_the_tape|yseop_template_6-2418114",
+            "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default4.jpg",
+            "language": "en",
+            "published_at": "2025-02-19T22:45:19.000000Z",
+            "source": "zacks.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 30.512539,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Nvidia</em> (NVDA) Stock Sinks As Market Gains: Here's Why",
+                            "sentiment": 0.34,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

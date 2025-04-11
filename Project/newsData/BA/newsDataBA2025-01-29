@@ -1,0 +1,157 @@
+{
+    "meta": {
+        "found": 4,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "d2647e7d-d3e7-443a-8cf8-9395869f6dec",
+            "title": "Boeing's Record Disappointment (NYSE:BA)",
+            "description": "The Boeing Company faces short-term struggles with negative operating cash flow, but it has a strong cash position and long-term potential. Click for our BA update.",
+            "keywords": "",
+            "snippet": "The Boeing Company (NYSE: BA ) recently reported its earnings , as the company has continued to struggle with its long-term potential. The company has outperfor...",
+            "url": "https://seekingalpha.com/article/4753055-boeing-record-disappointment",
+            "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2136674540/image_2136674540.jpg?io=getty-c-w1536",
+            "language": "en",
+            "published_at": "2025-01-29T19:53:20.000000Z",
+            "source": "seekingalpha.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "BOE.L",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 23.079132,
+                    "sentiment_score": 0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+328 characters]",
+                            "sentiment": 0.0258,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BA",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 87.69362,
+                    "sentiment_score": -0.2424,
+                    "highlights": [
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+346 characters]",
+                            "sentiment": 0.0258,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Boeing's Record Disappointment (<em>NYSE:BA</em>)",
+                            "sentiment": -0.5106,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BOEI.BR",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "be",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 23.078743,
+                    "sentiment_score": 0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+328 characters]",
+                            "sentiment": 0.0258,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BOEI34.SA",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 23.078667,
+                    "sentiment_score": 0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+328 characters]",
+                            "sentiment": 0.0258,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BA.SN",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 23.078276,
+                    "sentiment_score": 0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+328 characters]",
+                            "sentiment": 0.0258,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BCO.DE",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 23.078636,
+                    "sentiment_score": 0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+328 characters]",
+                            "sentiment": 0.0258,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BA.MX",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 23.079964,
+                    "sentiment_score": 0.0258,
+                    "highlights": [
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+328 characters]",
+                            "sentiment": 0.0258,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

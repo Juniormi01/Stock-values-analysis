@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "found": 1,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "cbfcd2ee-3663-43c2-8abd-84273279e90d",
+            "title": "Boeing's Options Frenzy: What You Need to Know - Boeing (NYSE:BA)",
+            "description": "",
+            "keywords": "",
+            "snippet": "Financial giants have made a conspicuous bearish move on Boeing. Our analysis of options history for Boeing BA revealed 14 unusual trades.\n\nDelving into the det...",
+            "url": "https://www.benzinga.com/insights/options/25/03/44474525/boeings-options-frenzy-what-you-need-to-know",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2023/movers_image_0.jpeg?width=1200&height=800&fit=crop",
+            "language": "en",
+            "published_at": "2025-03-25T14:15:59.000000Z",
+            "source": "benzinga.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "BA",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 39.839806,
+                    "sentiment_score": -0.3182,
+                    "highlights": [
+                        {
+                            "highlight": "Boeing's Options Frenzy: What You Need to Know - Boeing (<em>NYSE:BA</em>)",
+                            "sentiment": -0.3182,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

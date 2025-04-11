@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "found": 2,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "0c82ec0c-0a6e-4055-8e85-061559b2e931",
+            "title": "Defense and aerospace Q4 preview: Boeing, RTX, Lockheed results on deck (NYSE:BA)",
+            "description": "Analysis of Q4 earnings for Boeing, Raytheon, and Lockheed Martin.",
+            "keywords": "",
+            "snippet": "Defense and aerospace majors Boeing (NYSE:BA), Raytheon (NYSE:RTX) and Lockheed Martin (NYSE:LMT) are scheduled to announce their Q4 earnings results on Tuesday...",
+            "url": "https://seekingalpha.com/news/4398937-defense-and-aerospace-q4-preview-boeing-rtx-lockheed-results-on-deck",
+            "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/157399920/image_157399920.jpg?io=getty-c-w750",
+            "language": "en",
+            "published_at": "2025-01-27T16:24:08.000000Z",
+            "source": "seekingalpha.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 37.963036,
+                    "sentiment_score": 0.6249,
+                    "highlights": [
+                        {
+                            "highlight": "Defense and aerospace majors Boeing (NYS[+271 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

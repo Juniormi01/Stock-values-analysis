@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "found": 30,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "c383d280-4e1e-48d0-82e4-2236eb77094b",
+            "title": "Meta earnings call: Investments draw spotlight after week's DeepSeek AI rout (NASDAQ:META)",
+            "description": "Meta Platforms stock (META) had ticked up less than 1% after a somewhat delayed release to its Q4 earnings, but it rose 5% as CEO and founder Mark Zuckerberg st",
+            "keywords": "",
+            "snippet": "Meta Platforms stock (NASDAQ:META) had ticked up less than 1% after a somewhat delayed release to its Q4 earnings, but it rose 5% as CEO and founder Mark Zucker...",
+            "url": "https://seekingalpha.com/news/4400434-meta-earnings-call-investments-draw-spotlight-after-weeks-deepseek-ai-rout",
+            "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2194915885/image_2194915885.jpg?io=getty-c-w750",
+            "language": "en",
+            "published_at": "2025-01-29T23:08:42.000000Z",
+            "source": "seekingalpha.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 33.61129,
+                    "sentiment_score": -0.15,
+                    "highlights": [
+                        {
+                            "highlight": "Meta Platforms stock (<em>NASDAQ:META</e[+188 characters]",
+                            "sentiment": -0.3,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Meta earnings call: Investments draw spotlight after week's DeepSeek AI rout (<em>NASDAQ:META</em>)",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

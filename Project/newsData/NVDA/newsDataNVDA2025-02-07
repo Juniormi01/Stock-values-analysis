@@ -1,0 +1,208 @@
+{
+    "meta": {
+        "found": 35,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "76c69822-9a63-4ab8-bae0-d8347040fcf7",
+            "title": "Bit Digital, Inc. Announces Monthly Production Update for January 2025",
+            "description": "PR NewswireNEW YORK, Feb. 7, 2025\n\n\n\nNEW YORK, Feb. 7, 2025 /PRNewswire/ -- Bit Digital, Inc. (Nasdaq: BTBT) (\"Bit Digital\" or the \"Company\"), a global platfo",
+            "keywords": "GuruFocus, Article, News, PRNewswire, NAS:BTBT",
+            "snippet": "NEW YORK, Feb. 7, 2025 /PRNewswire/ -- Bit Digital, Inc. (Nasdaq: BTBT) (\"Bit Digital\" or the \"Company\"), a global platform for high-performance computing (\"HPC...",
+            "url": "https://www.gurufocus.com/news/2687937/bit-digital-inc-announces-monthly-production-update-for-january-2025",
+            "image_url": "https://static.gurufocus.com/images/global_logo_twitter_card.png",
+            "language": "en",
+            "published_at": "2025-02-07T23:03:07.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "BTBT",
+                    "name": "Bit Digital, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 123.785706,
+                    "sentiment_score": 0.316782,
+                    "highlights": [
+                        {
+                            "highlight": "NEW YORK, Feb. 7, 2025 /PRNewswire/ -- <[+43 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "(<em>Nasdaq</em>: <em>BTBT</em>) (\"<em>B[+297 characters]",
+                            "sentiment": 0.6124,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "GPU Cloud Highlights\n\nThe Company had 26[+246 characters]",
+                            "sentiment": 0.3182,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "On January 22 , <em>Bit</em> <em>Digital[+114 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Under the terms of the agreement, <em>Bi[+282 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Bit</em> <em>Digital</em> earned a b[+213 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "About <em>Bit</em> <em>Digital</em>\n\n<em[+320 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Notwithstanding the fact that <em>Bit</e[+322 characters]",
+                            "sentiment": -0.2023,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Safe Harbor Statement\n\nThis press releas[+261 characters]",
+                            "sentiment": 0.6124,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "View original content to download multim[+209 characters]",
+                            "sentiment": 0.3182,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Bit</em> <em>Digital</em>, <em>Inc</em>. Announces Monthly Production Update for January 2025",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 7.786705,
+                    "sentiment_score": 0.4939,
+                    "highlights": [
+                        {
+                            "highlight": "On January 22 , Bit Digital entered into[+105 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Under the terms of the agreement, Bit Di[+255 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BTBTN.MX",
+                    "name": "Bit Digital, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 113.40313,
+                    "sentiment_score": 0.316782,
+                    "highlights": [
+                        {
+                            "highlight": "NEW YORK, Feb. 7, 2025 /PRNewswire/ -- <[+43 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "(Nasdaq: BTBT) (\"<em>Bit</em> <em>Digita[+279 characters]",
+                            "sentiment": 0.6124,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "GPU Cloud Highlights\n\nThe Company had 26[+246 characters]",
+                            "sentiment": 0.3182,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "On January 22 , <em>Bit</em> <em>Digital[+114 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Under the terms of the agreement, <em>Bi[+282 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Bit</em> <em>Digital</em> earned a b[+213 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "About <em>Bit</em> <em>Digital</em>\n\n<em[+320 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Notwithstanding the fact that <em>Bit</e[+322 characters]",
+                            "sentiment": -0.2023,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Safe Harbor Statement\n\nThis press releas[+261 characters]",
+                            "sentiment": 0.6124,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "View original content to download multim[+209 characters]",
+                            "sentiment": 0.3182,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Bit</em> <em>Digital</em>, <em>Inc</em>. Announces Monthly Production Update for January 2025",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA.MI",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "it",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 33.294605,
+                    "sentiment_score": 0.4939,
+                    "highlights": [
+                        {
+                            "highlight": "On January 22 , Bit Digital entered into[+105 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Under the terms of the agreement, Bit Di[+255 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

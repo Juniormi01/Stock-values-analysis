@@ -1,0 +1,577 @@
+{
+    "meta": {
+        "found": 6,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "c463214b-91dd-488e-a1a5-9fca07e0ec11",
+            "title": "Warren Buffett\u2019s Berkshire Takes Stake In Constellation Brands",
+            "description": "Berkshire entered a new holding in Constellation Brands during the fourth quarter of 2024. Buffett's firm also trimmed its position in Bank of America.",
+            "keywords": "stz stock, Buffett, Warren Buffett, bac stock, aapl stock",
+            "snippet": "By GuruFocus\n\nThe insurance conglomerate revealed its 4th-quarter portfolio update, revealing that it entered a new position in an alcoholic beverage company. B...",
+            "url": "https://www.forbes.com/sites/gurufocus/2025/02/17/warren-buffetts-berkshire-takes-stake-in-constellation-brands/",
+            "image_url": "https://imageio.forbes.com/specials-images/imageserve/67b359d3e25fcd9a4b20c106/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "language": "en",
+            "published_at": "2025-02-17T16:01:10.000000Z",
+            "source": "forbes.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "VOO",
+                    "name": "Vanguard S&P 500 ETF",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 37.814884,
+                    "sentiment_score": 0.7717,
+                    "highlights": [
+                        {
+                            "highlight": "Summary of Sold Out\n\nBerkshire completel[+218 characters]",
+                            "sentiment": 0.7717,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 46.121872,
+                    "sentiment_score": 0.5267,
+                    "highlights": [
+                        {
+                            "highlight": "Summary of Sold Out\n\nBerkshire completel[+227 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 46.121872,
+                    "sentiment_score": 0.5267,
+                    "highlights": [
+                        {
+                            "highlight": "Summary of Sold Out\n\nBerkshire completel[+227 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 12.175415,
+                    "sentiment_score": 0.24915,
+                    "highlights": [
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+240 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Warren Buffett <em>Apple</em> Holding Ch[+214 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "C",
+                    "name": "Citigroup Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 14.264046,
+                    "sentiment_score": 0.5267,
+                    "highlights": [
+                        {
+                            "highlight": "Berkshire also trimmed its <em>Citigroup[+267 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "STZ",
+                    "name": "Constellation Brands, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 75.54532,
+                    "sentiment_score": 0.32985,
+                    "highlights": [
+                        {
+                            "highlight": "Warren Buffett's Top Holdings as of Dece[+234 characters]",
+                            "sentiment": 0.6597,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Warren Buffett\u2019s Berkshire Takes Stake In <em>Constellation</em> <em>Brands</em>",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "STZ-B",
+                    "name": "Constellation Brands, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 75.54532,
+                    "sentiment_score": 0.32985,
+                    "highlights": [
+                        {
+                            "highlight": "Warren Buffett's Top Holdings as of Dece[+234 characters]",
+                            "sentiment": 0.6597,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Warren Buffett\u2019s Berkshire Takes Stake In <em>Constellation</em> <em>Brands</em>",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "STZB34.SA",
+                    "name": "Constellation Brands, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 75.539215,
+                    "sentiment_score": 0.32985,
+                    "highlights": [
+                        {
+                            "highlight": "Warren Buffett's Top Holdings as of Dece[+234 characters]",
+                            "sentiment": 0.6597,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Warren Buffett\u2019s Berkshire Takes Stake In <em>Constellation</em> <em>Brands</em>",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.BA",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 12.175184,
+                    "sentiment_score": 0.24915,
+                    "highlights": [
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+240 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Warren Buffett <em>Apple</em> Holding Ch[+214 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "CVXD.BA",
+                    "name": "CHEVRON CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 16.98759,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+240 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLD.BA",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 12.175184,
+                    "sentiment_score": 0.24915,
+                    "highlights": [
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+240 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Warren Buffett <em>Apple</em> Holding Ch[+214 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "C.BA",
+                    "name": "Citigroup Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 14.264589,
+                    "sentiment_score": 0.5267,
+                    "highlights": [
+                        {
+                            "highlight": "Berkshire also trimmed its <em>Citigroup[+267 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BRKB.BA",
+                    "name": "BERKSHIRE HATHAWAY",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 24.497463,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "Buffett is Chairman of the miraculous <e[+208 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "KOC.BA",
+                    "name": "COCA-COLA CO",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 25.192125,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+249 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BRKBD.BA",
+                    "name": "BERKSHIRE HATHAWAY",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 24.497463,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "Buffett is Chairman of the miraculous <e[+208 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLC.BA",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 12.175151,
+                    "sentiment_score": 0.24915,
+                    "highlights": [
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+240 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Warren Buffett <em>Apple</em> Holding Ch[+214 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BRKBB.BA",
+                    "name": "BERKSHIRE HATHAWAY",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 24.497463,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "Buffett is Chairman of the miraculous <e[+208 characters]",
+                            "sentiment": 0.34,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "KOD.BA",
+                    "name": "COCA-COLA CO",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 25.192125,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+249 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLCL.SN",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 12.17507,
+                    "sentiment_score": 0.24915,
+                    "highlights": [
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+240 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Warren Buffett <em>Apple</em> Holding Ch[+214 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.SN",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 12.17507,
+                    "sentiment_score": 0.24915,
+                    "highlights": [
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+240 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Warren Buffett <em>Apple</em> Holding Ch[+214 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "KOCL.SN",
+                    "name": "COCA-COLA CO",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 25.19134,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+249 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.NE",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ca",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 12.174894,
+                    "sentiment_score": 0.24915,
+                    "highlights": [
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+240 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Warren Buffett <em>Apple</em> Holding Ch[+214 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "APC.DE",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 12.174593,
+                    "sentiment_score": 0.24915,
+                    "highlights": [
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+240 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Warren Buffett <em>Apple</em> Holding Ch[+214 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TRVC.DE",
+                    "name": "Citigroup Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 14.264835,
+                    "sentiment_score": 0.5267,
+                    "highlights": [
+                        {
+                            "highlight": "Berkshire also trimmed its <em>Citigroup[+267 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.MX",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 12.175706,
+                    "sentiment_score": 0.24915,
+                    "highlights": [
+                        {
+                            "highlight": "Portfolio Overview\n\nAt the fourth quarte[+240 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Warren Buffett <em>Apple</em> Holding Ch[+214 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "C.MX",
+                    "name": "Citigroup Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 14.265233,
+                    "sentiment_score": 0.5267,
+                    "highlights": [
+                        {
+                            "highlight": "Berkshire also trimmed its <em>Citigroup[+267 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "STZ.MX",
+                    "name": "Constellation Brands, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Defensive",
+                    "match_score": 75.55032,
+                    "sentiment_score": 0.32985,
+                    "highlights": [
+                        {
+                            "highlight": "Warren Buffett's Top Holdings as of Dece[+234 characters]",
+                            "sentiment": 0.6597,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Warren Buffett\u2019s Berkshire Takes Stake In <em>Constellation</em> <em>Brands</em>",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

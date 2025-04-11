@@ -1,0 +1,200 @@
+{
+    "meta": {
+        "found": 3,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "783a6a13-8217-4122-ab7e-168f978c74d5",
+            "title": "Defense stocks slide after Trump\u2019s comments on spending cuts",
+            "description": "Defense stocks like Lockheed Martin slid as Trump proposed halving U.S. military spending during talks with China and Russia.",
+            "keywords": "",
+            "snippet": "Shares of defense contractors such as Lockheed Martin (NYSE:LMT) fell on Thursday after President Trump said the country could significantly cut defense spendin...",
+            "url": "https://seekingalpha.com/news/4408168-defense-stocks-slide-after-trump-s-comments-on-spending-cuts",
+            "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2138613700/image_2138613700.jpg?io=getty-c-w750",
+            "language": "en",
+            "published_at": "2025-02-13T21:59:21.000000Z",
+            "source": "seekingalpha.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 37.95746,
+                    "sentiment_score": 0.6597,
+                    "highlights": [
+                        {
+                            "highlight": "Shares of defense contractors such as <e[+256 characters]",
+                            "sentiment": 0.6597,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": [
+                {
+                    "uuid": "d17ec8a4-e615-45c5-96b7-9a8a9734504e",
+                    "title": "Lockheed Martin Corporation (LMT) TD Cowen 46th Annual Aerospace & Defense Conference (Transcript)",
+                    "description": "Lockheed Martin Corporation (NYSE:LMT) TD Cowen 46th Annual Aerospace & Defense Conference February 13, 2025 8:30 AM ETCompany ParticipantsJay Malave -...",
+                    "keywords": "",
+                    "snippet": "Lockheed Martin Corporation (NYSE:LMT) TD Cowen 46th Annual Aerospace & Defense Conference February 13, 2025 8:30 AM ET\n\nCompany Participants\n\nJay Malave - CFO\n...",
+                    "url": "https://seekingalpha.com/article/4758057-lockheed-martin-corporation-lmt-td-cowen-46th-annual-aerospace-and-defense-conference",
+                    "image_url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+                    "language": "en",
+                    "published_at": "2025-02-13T19:09:05.000000Z",
+                    "source": "seekingalpha.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "LOM.DE",
+                            "name": "Lockheed Martin Corporation",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Industrials",
+                            "match_score": 126.34802,
+                            "sentiment_score": 0.585733,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Co[+274 characters]",
+                                    "sentiment": 0.7096,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "We're very pleased to have with us the C[+251 characters]",
+                                    "sentiment": 0.9196,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Corporation</em> (LMT) TD Cowen 46th Annual Aerospace & Defense Conference (Transcript)",
+                                    "sentiment": 0.128,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "LMT.MX",
+                            "name": "Lockheed Martin Corporation",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Industrials",
+                            "match_score": 126.34551,
+                            "sentiment_score": 0.585733,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Co[+274 characters]",
+                                    "sentiment": 0.7096,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "We're very pleased to have with us the C[+251 characters]",
+                                    "sentiment": 0.9196,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Corporation</em> (LMT) TD Cowen 46th Annual Aerospace & Defense Conference (Transcript)",
+                                    "sentiment": 0.128,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "0R3E.L",
+                            "name": "Lockheed Martin Corporation",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "gb",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 126.34469,
+                            "sentiment_score": 0.585733,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Co[+274 characters]",
+                                    "sentiment": 0.7096,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "We're very pleased to have with us the C[+251 characters]",
+                                    "sentiment": 0.9196,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Corporation</em> (LMT) TD Cowen 46th Annual Aerospace & Defense Conference (Transcript)",
+                                    "sentiment": 0.128,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "LMT",
+                            "name": "Lockheed Martin Corporation",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Industrials",
+                            "match_score": 139.3434,
+                            "sentiment_score": 0.585733,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Co[+283 characters]",
+                                    "sentiment": 0.7096,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "We're very pleased to have with us the C[+251 characters]",
+                                    "sentiment": 0.9196,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Corporation</em> (LMT) TD Cowen 46th Annual Aerospace & Defense Conference (Transcript)",
+                                    "sentiment": 0.128,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "LMTB34.SA",
+                            "name": "Lockheed Martin Corporation",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "br",
+                            "type": "equity",
+                            "industry": "Industrials",
+                            "match_score": 126.33834,
+                            "sentiment_score": 0.585733,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Co[+274 characters]",
+                                    "sentiment": 0.7096,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "We're very pleased to have with us the C[+251 characters]",
+                                    "sentiment": 0.9196,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Lockheed</em> <em>Martin</em> <em>Corporation</em> (LMT) TD Cowen 46th Annual Aerospace & Defense Conference (Transcript)",
+                                    "sentiment": 0.128,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

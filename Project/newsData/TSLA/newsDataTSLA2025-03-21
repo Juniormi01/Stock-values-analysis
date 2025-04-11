@@ -1,0 +1,292 @@
+{
+    "meta": {
+        "found": 47,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "6288ad3d-2eab-4cf4-bb89-e7eb0075a696",
+            "title": "Itron Inc (ITRI) Partners with Tesla to Enhance Grid Flexibility in Colorado",
+            "description": "Itron Inc (ITRI) announced on March 20, 2025, a strategic collaboration with Tesla Inc. to deploy an advanced virtual power plant (VPP) in Colorado, in partners",
+            "keywords": "GuruFocus, Article, News, GuruFocus News, ITRI",
+            "snippet": "Itron Inc (ITRI, Financial) announced on March 20, 2025, a strategic collaboration with Tesla Inc. to deploy an advanced virtual power plant (VPP) in Colorado, ...",
+            "url": "https://www.gurufocus.com/news/2746855/itron-inc-itri-partners-with-tesla-to-enhance-grid-flexibility-in-colorado",
+            "image_url": "https://static.gurufocus.com/images/global_logo_twitter_card.png",
+            "language": "en",
+            "published_at": "2025-03-21T23:07:15.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "TSLA.MX",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 28.62654,
+                    "sentiment_score": 0.62536,
+                    "highlights": [
+                        {
+                            "highlight": "Itron Inc (ITRI, Financial) announced on[+170 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Financial Analyst Perspective\n\nFrom a fi[+173 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Market Research Analyst Perspective\n\nThe[+300 characters]",
+                            "sentiment": 0.8854,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Frequently Asked Questions\n\nWhat is the [+274 characters]",
+                            "sentiment": 0.7998,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Itron Inc (ITRI) Partners with <em>Tesla</em> to Enhance Grid Flexibility in Colorado",
+                            "sentiment": 0.34,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 28.623575,
+                    "sentiment_score": 0.62536,
+                    "highlights": [
+                        {
+                            "highlight": "Itron Inc (ITRI, Financial) announced on[+170 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Financial Analyst Perspective\n\nFrom a fi[+173 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Market Research Analyst Perspective\n\nThe[+300 characters]",
+                            "sentiment": 0.8854,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Frequently Asked Questions\n\nWhat is the [+274 characters]",
+                            "sentiment": 0.7998,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Itron Inc (ITRI) Partners with <em>Tesla</em> to Enhance Grid Flexibility in Colorado",
+                            "sentiment": 0.34,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ITRI",
+                    "name": "Itron, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 86.801865,
+                    "sentiment_score": 0.63448,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Itron</em> <em>Inc</em> (ITRI, Finan[+170 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "By integrating its IntelliFLEX solution [+262 characters]",
+                            "sentiment": 0.6705,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Market Research Analyst Perspective\n\nThe[+300 characters]",
+                            "sentiment": 0.8854,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Frequently Asked Questions\n\nWhat is the [+274 characters]",
+                            "sentiment": 0.7998,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Itron</em> <em>Inc</em> (ITRI) Partners with Tesla to Enhance Grid Flexibility in Colorado",
+                            "sentiment": 0.34,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA34.SA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 28.623001,
+                    "sentiment_score": 0.62536,
+                    "highlights": [
+                        {
+                            "highlight": "Itron Inc (ITRI, Financial) announced on[+170 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Financial Analyst Perspective\n\nFrom a fi[+173 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Market Research Analyst Perspective\n\nThe[+300 characters]",
+                            "sentiment": 0.8854,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Frequently Asked Questions\n\nWhat is the [+274 characters]",
+                            "sentiment": 0.7998,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Itron Inc (ITRI) Partners with <em>Tesla</em> to Enhance Grid Flexibility in Colorado",
+                            "sentiment": 0.34,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLAD.BA",
+                    "name": "TESLA INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 28.622421,
+                    "sentiment_score": 0.62536,
+                    "highlights": [
+                        {
+                            "highlight": "Itron Inc (ITRI, Financial) announced on[+170 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Financial Analyst Perspective\n\nFrom a fi[+173 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Market Research Analyst Perspective\n\nThe[+300 characters]",
+                            "sentiment": 0.8854,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Frequently Asked Questions\n\nWhat is the [+274 characters]",
+                            "sentiment": 0.7998,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Itron Inc (ITRI) Partners with <em>Tesla</em> to Enhance Grid Flexibility in Colorado",
+                            "sentiment": 0.34,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLAC.BA",
+                    "name": "TESLA INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 28.622421,
+                    "sentiment_score": 0.62536,
+                    "highlights": [
+                        {
+                            "highlight": "Itron Inc (ITRI, Financial) announced on[+170 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Financial Analyst Perspective\n\nFrom a fi[+173 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Market Research Analyst Perspective\n\nThe[+300 characters]",
+                            "sentiment": 0.8854,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Frequently Asked Questions\n\nWhat is the [+274 characters]",
+                            "sentiment": 0.7998,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Itron Inc (ITRI) Partners with <em>Tesla</em> to Enhance Grid Flexibility in Colorado",
+                            "sentiment": 0.34,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TL0.DE",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 28.620226,
+                    "sentiment_score": 0.62536,
+                    "highlights": [
+                        {
+                            "highlight": "Itron Inc (ITRI, Financial) announced on[+170 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Financial Analyst Perspective\n\nFrom a fi[+173 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Market Research Analyst Perspective\n\nThe[+300 characters]",
+                            "sentiment": 0.8854,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Frequently Asked Questions\n\nWhat is the [+274 characters]",
+                            "sentiment": 0.7998,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Itron Inc (ITRI) Partners with <em>Tesla</em> to Enhance Grid Flexibility in Colorado",
+                            "sentiment": 0.34,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

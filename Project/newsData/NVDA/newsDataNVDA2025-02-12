@@ -1,0 +1,409 @@
+{
+    "meta": {
+        "found": 47,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "4fe048b9-7267-4d95-afc7-5c00f73609cc",
+            "title": "Trump\u2019s Microcap Renaissance",
+            "description": "This",
+            "keywords": "",
+            "snippet": "Trump\u2019s Microcap Renaissance\n\nIn 2008, the U.S. government entered into a strange relationship with one of America\u2019s largest companies.\n\nIt was about to go ...",
+            "url": "https://dailyreckoning.com/trumps-microcap-renaissance/",
+            "image_url": "https://dailyreckoning.com/wp-content/uploads/2025/02/dr-hero-img-02-12-25-shutterstock_2041786928.jpg",
+            "language": "en",
+            "published_at": "2025-02-12T23:00:37.000000Z",
+            "source": "dailyreckoning.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "QUBT",
+                    "name": "Quantum Computing, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 19.321362,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "GeneDx holdings, up 2,694%\u2026\n\n<em>Quant[+221 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "FNMAO",
+                    "name": "Federal National Mortgage Association",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 23.169968,
+                    "sentiment_score": -0.4215,
+                    "highlights": [
+                        {
+                            "highlight": "The Toppled Titan\n\nI\u2019m talking, of cou[+300 characters]",
+                            "sentiment": -0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SEZNL",
+                    "name": "Sezzle Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 17.254635,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "GeneDx holdings, up 2,694%\u2026\n\nQuantum C[+212 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0IL0.L",
+                    "name": "Federal National Mortgage Association",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 23.170109,
+                    "sentiment_score": -0.4215,
+                    "highlights": [
+                        {
+                            "highlight": "The Toppled Titan\n\nI\u2019m talking, of cou[+300 characters]",
+                            "sentiment": -0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 9.071293,
+                    "sentiment_score": 0.4061,
+                    "highlights": [
+                        {
+                            "highlight": "The company itself is worth $90 billion [+201 characters]",
+                            "sentiment": 0.2263,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "How on earth could America\u2019s largest c[+269 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "FNMA",
+                    "name": "Federal National Mortgage Association",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 23.170654,
+                    "sentiment_score": -0.4215,
+                    "highlights": [
+                        {
+                            "highlight": "The Toppled Titan\n\nI\u2019m talking, of cou[+300 characters]",
+                            "sentiment": -0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "FNMAS",
+                    "name": "Federal National Mortgage Association",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 23.170654,
+                    "sentiment_score": -0.4215,
+                    "highlights": [
+                        {
+                            "highlight": "The Toppled Titan\n\nI\u2019m talking, of cou[+300 characters]",
+                            "sentiment": -0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "FNMAH",
+                    "name": "Federal National Mortgage Association",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 23.170654,
+                    "sentiment_score": -0.4215,
+                    "highlights": [
+                        {
+                            "highlight": "The Toppled Titan\n\nI\u2019m talking, of cou[+300 characters]",
+                            "sentiment": -0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "FNMAT",
+                    "name": "Federal National Mortgage Association",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 23.170647,
+                    "sentiment_score": -0.4215,
+                    "highlights": [
+                        {
+                            "highlight": "The Toppled Titan\n\nI\u2019m talking, of cou[+300 characters]",
+                            "sentiment": -0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "FNMAP",
+                    "name": "Federal National Mortgage Association",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 23.170647,
+                    "sentiment_score": -0.4215,
+                    "highlights": [
+                        {
+                            "highlight": "The Toppled Titan\n\nI\u2019m talking, of cou[+300 characters]",
+                            "sentiment": -0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "FNMAJ",
+                    "name": "Federal National Mortgage Association",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 23.170647,
+                    "sentiment_score": -0.4215,
+                    "highlights": [
+                        {
+                            "highlight": "The Toppled Titan\n\nI\u2019m talking, of cou[+300 characters]",
+                            "sentiment": -0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "FNMAG",
+                    "name": "Federal National Mortgage Association",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 23.170647,
+                    "sentiment_score": -0.4215,
+                    "highlights": [
+                        {
+                            "highlight": "The Toppled Titan\n\nI\u2019m talking, of cou[+300 characters]",
+                            "sentiment": -0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "FNMFN",
+                    "name": "Federal National Mortgage Association",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 23.170647,
+                    "sentiment_score": -0.4215,
+                    "highlights": [
+                        {
+                            "highlight": "The Toppled Titan\n\nI\u2019m talking, of cou[+300 characters]",
+                            "sentiment": -0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "FNMFO",
+                    "name": "Federal National Mortgage Association",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 23.170647,
+                    "sentiment_score": -0.4215,
+                    "highlights": [
+                        {
+                            "highlight": "The Toppled Titan\n\nI\u2019m talking, of cou[+300 characters]",
+                            "sentiment": -0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "FNMAM",
+                    "name": "Federal National Mortgage Association",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 23.170605,
+                    "sentiment_score": -0.4215,
+                    "highlights": [
+                        {
+                            "highlight": "The Toppled Titan\n\nI\u2019m talking, of cou[+300 characters]",
+                            "sentiment": -0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "FNMAK",
+                    "name": "Federal National Mortgage Association",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 23.170605,
+                    "sentiment_score": -0.4215,
+                    "highlights": [
+                        {
+                            "highlight": "The Toppled Titan\n\nI\u2019m talking, of cou[+300 characters]",
+                            "sentiment": -0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "FNMAN",
+                    "name": "Federal National Mortgage Association",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 23.170605,
+                    "sentiment_score": -0.4215,
+                    "highlights": [
+                        {
+                            "highlight": "The Toppled Titan\n\nI\u2019m talking, of cou[+300 characters]",
+                            "sentiment": -0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "FNMFM",
+                    "name": "Federal National Mortgage Association",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 23.170605,
+                    "sentiment_score": -0.4215,
+                    "highlights": [
+                        {
+                            "highlight": "The Toppled Titan\n\nI\u2019m talking, of cou[+300 characters]",
+                            "sentiment": -0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "FNMAL",
+                    "name": "Federal National Mortgage Association",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 23.170605,
+                    "sentiment_score": -0.4215,
+                    "highlights": [
+                        {
+                            "highlight": "The Toppled Titan\n\nI\u2019m talking, of cou[+300 characters]",
+                            "sentiment": -0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "FNMAI",
+                    "name": "Federal National Mortgage Association",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 23.170605,
+                    "sentiment_score": -0.4215,
+                    "highlights": [
+                        {
+                            "highlight": "The Toppled Titan\n\nI\u2019m talking, of cou[+300 characters]",
+                            "sentiment": -0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SZL.AX",
+                    "name": "Sezzle Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "au",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 17.237667,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "GeneDx holdings, up 2,694%\u2026\n\nQuantum C[+212 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

@@ -1,0 +1,899 @@
+{
+    "meta": {
+        "found": 14,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "c74cd2c6-0b62-4597-9a0a-378e206d6f45",
+            "title": "Trump\u2019s DOJ Antitrust Chief Gail Slater Wins Senate Confirmation",
+            "description": "",
+            "keywords": "Gail Slater, antitrust enforcement, Justice Department, illegal monopolization, technology industries",
+            "snippet": "The US Senate confirmed Gail Slater to lead antitrust enforcement at the Justice Department, installing a key official who will oversee lawsuits alleging illega...",
+            "url": "https://www.livemint.com/companies/news/trumps-doj-antitrust-chief-gail-slater-wins-senate-confirmation-11741734509286.html",
+            "image_url": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/company_3_1733465099406_1733465108677.png",
+            "language": "en",
+            "published_at": "2025-03-11T23:08:28.000000Z",
+            "source": "livemint.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "AMZ.DE",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 18.006071,
+                    "sentiment_score": -0.4019,
+                    "highlights": [
+                        {
+                            "highlight": "Investigations were opened into Apple an[+285 characters]",
+                            "sentiment": -0.4019,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "APC.DE",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 14.116246,
+                    "sentiment_score": -0.3021,
+                    "highlights": [
+                        {
+                            "highlight": "The US Senate confirmed Gail Slater to l[+228 characters]",
+                            "sentiment": -0.2023,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Investigations were opened into <em>Appl[+276 characters]",
+                            "sentiment": -0.4019,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "3V64.DE",
+                    "name": "Visa Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 9.806201,
+                    "sentiment_score": -0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "The US Senate confirmed Gail Slater to l[+228 characters]",
+                            "sentiment": -0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 14.116246,
+                    "sentiment_score": -0.3021,
+                    "highlights": [
+                        {
+                            "highlight": "The US Senate confirmed Gail Slater to l[+228 characters]",
+                            "sentiment": -0.2023,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Investigations were opened into <em>Appl[+276 characters]",
+                            "sentiment": -0.4019,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 18.006071,
+                    "sentiment_score": -0.4019,
+                    "highlights": [
+                        {
+                            "highlight": "Investigations were opened into Apple an[+285 characters]",
+                            "sentiment": -0.4019,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 10.467926,
+                    "sentiment_score": -0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "The US Senate confirmed Gail Slater to l[+228 characters]",
+                            "sentiment": -0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 16.613678,
+                    "sentiment_score": -0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "The US Senate confirmed Gail Slater to l[+228 characters]",
+                            "sentiment": -0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ABEA.DE",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 16.613678,
+                    "sentiment_score": -0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "The US Senate confirmed Gail Slater to l[+228 characters]",
+                            "sentiment": -0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.446323,
+                    "sentiment_score": 0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "During the first Trump administration, l[+208 characters]",
+                            "sentiment": 0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ABEC.DE",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 16.613592,
+                    "sentiment_score": -0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "The US Senate confirmed Gail Slater to l[+228 characters]",
+                            "sentiment": -0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "DC7.DE",
+                    "name": "Discover Financial Services",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 24.977232,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Slater will also need to tackle a handfu[+223 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TMUS",
+                    "name": "T-Mobile US, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 25.186272,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Slater will also need to tackle a handfu[+232 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TM5.DE",
+                    "name": "T-Mobile Us Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 25.18629,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Slater will also need to tackle a handfu[+232 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "V",
+                    "name": "Visa Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 9.806174,
+                    "sentiment_score": -0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "The US Senate confirmed Gail Slater to l[+228 characters]",
+                            "sentiment": -0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "DFS",
+                    "name": "Discover Financial Services",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 24.977224,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Slater will also need to tackle a handfu[+223 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZN.MX",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 18.00592,
+                    "sentiment_score": -0.4019,
+                    "highlights": [
+                        {
+                            "highlight": "Investigations were opened into Apple an[+285 characters]",
+                            "sentiment": -0.4019,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.MX",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 14.116173,
+                    "sentiment_score": -0.3021,
+                    "highlights": [
+                        {
+                            "highlight": "The US Senate confirmed Gail Slater to l[+228 characters]",
+                            "sentiment": -0.2023,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Investigations were opened into <em>Appl[+276 characters]",
+                            "sentiment": -0.4019,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.MX",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 16.613836,
+                    "sentiment_score": -0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "The US Senate confirmed Gail Slater to l[+228 characters]",
+                            "sentiment": -0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG.MX",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 16.613834,
+                    "sentiment_score": -0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "The US Senate confirmed Gail Slater to l[+228 characters]",
+                            "sentiment": -0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "V.MX",
+                    "name": "Visa Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 9.806302,
+                    "sentiment_score": -0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "The US Senate confirmed Gail Slater to l[+228 characters]",
+                            "sentiment": -0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TMUS.MX",
+                    "name": "T-Mobile US, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 25.186756,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Slater will also need to tackle a handfu[+232 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "DFS.MX",
+                    "name": "Discover Financial Services",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 24.976595,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Slater will also need to tackle a handfu[+223 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0R2L.L",
+                    "name": "T-Mobile US, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 25.186659,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Slater will also need to tackle a handfu[+232 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0IBC.L",
+                    "name": "Discover Financial Services",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 24.977112,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Slater will also need to tackle a handfu[+223 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "V.SW",
+                    "name": "Visa Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ch",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 9.806634,
+                    "sentiment_score": -0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "The US Senate confirmed Gail Slater to l[+228 characters]",
+                            "sentiment": -0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "VISA34.SA",
+                    "name": "Visa Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 15.291054,
+                    "sentiment_score": -0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "The US Senate confirmed Gail Slater to l[+228 characters]",
+                            "sentiment": -0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "T1MU34.SA",
+                    "name": "T-Mobile US, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 25.187513,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Slater will also need to tackle a handfu[+232 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "D1FS34.SA",
+                    "name": "Discover Financial Services",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 24.980629,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Slater will also need to tackle a handfu[+223 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.BA",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 14.118184,
+                    "sentiment_score": -0.3021,
+                    "highlights": [
+                        {
+                            "highlight": "The US Senate confirmed Gail Slater to l[+228 characters]",
+                            "sentiment": -0.2023,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Investigations were opened into <em>Appl[+276 characters]",
+                            "sentiment": -0.4019,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.BA",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 16.615044,
+                    "sentiment_score": -0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "The US Senate confirmed Gail Slater to l[+228 characters]",
+                            "sentiment": -0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "V.BA",
+                    "name": "Visa Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 15.291299,
+                    "sentiment_score": -0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "The US Senate confirmed Gail Slater to l[+228 characters]",
+                            "sentiment": -0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "VD.BA",
+                    "name": "VISA INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 9.806861,
+                    "sentiment_score": -0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "The US Senate confirmed Gail Slater to l[+228 characters]",
+                            "sentiment": -0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLD.BA",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 14.118184,
+                    "sentiment_score": -0.3021,
+                    "highlights": [
+                        {
+                            "highlight": "The US Senate confirmed Gail Slater to l[+228 characters]",
+                            "sentiment": -0.2023,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Investigations were opened into <em>Appl[+276 characters]",
+                            "sentiment": -0.4019,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOGLD.BA",
+                    "name": "ALPHABET INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 16.615015,
+                    "sentiment_score": -0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "The US Senate confirmed Gail Slater to l[+228 characters]",
+                            "sentiment": -0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLC.BA",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 14.118178,
+                    "sentiment_score": -0.3021,
+                    "highlights": [
+                        {
+                            "highlight": "The US Senate confirmed Gail Slater to l[+228 characters]",
+                            "sentiment": -0.2023,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Investigations were opened into <em>Appl[+276 characters]",
+                            "sentiment": -0.4019,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "VC.BA",
+                    "name": "VISA INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 15.291285,
+                    "sentiment_score": -0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "The US Senate confirmed Gail Slater to l[+228 characters]",
+                            "sentiment": -0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZN.SN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 18.008018,
+                    "sentiment_score": -0.4019,
+                    "highlights": [
+                        {
+                            "highlight": "Investigations were opened into Apple an[+285 characters]",
+                            "sentiment": -0.4019,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "V.SN",
+                    "name": "Visa Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 9.806821,
+                    "sentiment_score": -0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "The US Senate confirmed Gail Slater to l[+228 characters]",
+                            "sentiment": -0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 16.614937,
+                    "sentiment_score": -0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "The US Senate confirmed Gail Slater to l[+228 characters]",
+                            "sentiment": -0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPLCL.SN",
+                    "name": "APPLE INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 14.11813,
+                    "sentiment_score": -0.3021,
+                    "highlights": [
+                        {
+                            "highlight": "The US Senate confirmed Gail Slater to l[+228 characters]",
+                            "sentiment": -0.2023,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Investigations were opened into <em>Appl[+276 characters]",
+                            "sentiment": -0.4019,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.SN",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 14.11813,
+                    "sentiment_score": -0.3021,
+                    "highlights": [
+                        {
+                            "highlight": "The US Senate confirmed Gail Slater to l[+228 characters]",
+                            "sentiment": -0.2023,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Investigations were opened into <em>Appl[+276 characters]",
+                            "sentiment": -0.4019,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 16.614937,
+                    "sentiment_score": -0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "The US Senate confirmed Gail Slater to l[+228 characters]",
+                            "sentiment": -0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZNCL.SN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 18.008015,
+                    "sentiment_score": -0.4019,
+                    "highlights": [
+                        {
+                            "highlight": "Investigations were opened into Apple an[+285 characters]",
+                            "sentiment": -0.4019,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGCL.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 16.614937,
+                    "sentiment_score": -0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "The US Senate confirmed Gail Slater to l[+228 characters]",
+                            "sentiment": -0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "VCL.SN",
+                    "name": "VISA INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 15.291227,
+                    "sentiment_score": -0.2023,
+                    "highlights": [
+                        {
+                            "highlight": "The US Senate confirmed Gail Slater to l[+228 characters]",
+                            "sentiment": -0.2023,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL.NE",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ca",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 14.118122,
+                    "sentiment_score": -0.3021,
+                    "highlights": [
+                        {
+                            "highlight": "The US Senate confirmed Gail Slater to l[+228 characters]",
+                            "sentiment": -0.2023,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Investigations were opened into <em>Appl[+276 characters]",
+                            "sentiment": -0.4019,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

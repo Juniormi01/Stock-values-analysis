@@ -1,0 +1,62 @@
+{
+    "meta": {
+        "found": 41,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "65d21ec1-7c9d-488c-aa5d-cd87dcdea20b",
+            "title": "Factbox-Top cases now before the US Supreme Court By Reuters",
+            "description": "Factbox-Top cases now before the US Supreme Court",
+            "keywords": "",
+            "snippet": "(Reuters) -The U.S. Supreme Court's current term includes cases involving guns, gender-affirming medical care for transgender minors, online pornography, religi...",
+            "url": "https://www.investing.com/news/world-news/factboxtop-cases-now-before-the-us-supreme-court-3830637",
+            "image_url": "https://i-invdn-com.investing.com/news/news_headline_open_108x81._800x533_L_1419519630.jpg",
+            "language": "en",
+            "published_at": "2025-01-24T23:00:47.000000Z",
+            "source": "investing.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 7.163864,
+                    "sentiment_score": -0.8941,
+                    "highlights": [
+                        {
+                            "highlight": "<em>NVIDIA</em> SECURITIES FRAUD LAWSUIT[+282 characters]",
+                            "sentiment": -0.8941,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "VLO",
+                    "name": "Valero Energy Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Energy",
+                    "match_score": 8.949324,
+                    "sentiment_score": -0.8126,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Valero</em> <em>Energy</em> (NYSE: )[+203 characters]",
+                            "sentiment": -0.8126,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

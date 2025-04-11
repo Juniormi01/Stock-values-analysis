@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "found": 3,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "b0a6b594-d75f-4f13-a102-88d11eba3866",
+            "title": "Lockheed Martin (LMT) Increases Yet Falls Behind Market: What Investors Need to Know",
+            "description": "In the latest trading session, Lockheed Martin (LMT) closed at $467.61, marking a +0.31% move from the previous day.",
+            "keywords": "stock, stocks, investment, investment advice, investing, online trading, online investment, online stock trading, stock market, financial, financial planning, quote, quotes, stock quotes",
+            "snippet": "This page has not been authorized, sponsored, or otherwise approved or endorsed by the companies represented herein. Each of the company logos represented herei...",
+            "url": "https://www.zacks.com/stock/news/2431127/lockheed-martin-lmt-increases-yet-falls-behind-market-what-investors-need-to-know?cid=CS-ZC-FT-tale_of_the_tape|yseop_template_6v2-2431127",
+            "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default242.jpg",
+            "language": "en",
+            "published_at": "2025-03-17T22:00:16.000000Z",
+            "source": "zacks.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 56.614292,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> (LMT) Increases Yet Falls Behind Market: What Investors Need to Know",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

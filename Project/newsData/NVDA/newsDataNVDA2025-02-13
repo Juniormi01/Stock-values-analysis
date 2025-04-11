@@ -1,0 +1,170 @@
+{
+    "meta": {
+        "found": 35,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "0b899e8b-d94a-43d9-8a95-60a9486974a6",
+            "title": "Market Recap: S&P 500 Nears Record High as Stocks Rally on Tariff Delay and Strong Earnings",
+            "description": "The U.S. stock market demonstrated remarkable resilience on Thursday, February 13, 2025, as major indexes surged despite earlier concerns about inflation and",
+            "keywords": "",
+            "snippet": "The U.S. stock market demonstrated remarkable resilience on Thursday, February 13, 2025, as major indexes surged despite earlier concerns about inflation and po...",
+            "url": "https://thestockmarketwatch.com/stock-market-news/market-recap-sp-500-nears-record-high-as-stocks-rally-on-tariff-delay-and-strong-earnings/48911/",
+            "image_url": "https://thestockmarketwatch.com/stock-market-news/wp-content/uploads/2024/08/5.jpg",
+            "language": "en",
+            "published_at": "2025-02-13T22:28:41.000000Z",
+            "source": "thestockmarketwatch.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "TTD",
+                    "name": "The Trade Desk, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 18.674774,
+                    "sentiment_score": 0.4215,
+                    "highlights": [
+                        {
+                            "highlight": "\u2013 Reddit (RDDT) and <em>The</em> <em>T[+287 characters]",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 11.634098,
+                    "sentiment_score": 0.8402,
+                    "highlights": [
+                        {
+                            "highlight": "\u2013 <em>Apple</em> (AAPL): The tech gian[+301 characters]",
+                            "sentiment": 0.8402,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 12.88301,
+                    "sentiment_score": 0.8516,
+                    "highlights": [
+                        {
+                            "highlight": "Notable Stock Movements\n\nSeveral stocks [+301 characters]",
+                            "sentiment": 0.8516,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 12.643123,
+                    "sentiment_score": 0.7351,
+                    "highlights": [
+                        {
+                            "highlight": "\u2013 <em>Tesla</em> (TSLA): The electric [+273 characters]",
+                            "sentiment": 0.7351,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ROKU",
+                    "name": "Roku, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.7493,
+                    "sentiment_score": 0.6124,
+                    "highlights": [
+                        {
+                            "highlight": "Earnings reports from major companies su[+248 characters]",
+                            "sentiment": 0.6124,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ABNB",
+                    "name": "Airbnb, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 14.559141,
+                    "sentiment_score": 0.6124,
+                    "highlights": [
+                        {
+                            "highlight": "Earnings reports from major companies su[+239 characters]",
+                            "sentiment": 0.6124,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "APP",
+                    "name": "AppLovin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 20.666836,
+                    "sentiment_score": 0.6369,
+                    "highlights": [
+                        {
+                            "highlight": "\u2013 <em>AppLovin</em> (<em>APP</em>), Ci[+244 characters]",
+                            "sentiment": 0.6369,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MGM",
+                    "name": "MGM Resorts International",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 34.628777,
+                    "sentiment_score": 0.8979,
+                    "highlights": [
+                        {
+                            "highlight": "Strong Corporate Earnings: Companies suc[+185 characters]",
+                            "sentiment": 0.8979,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

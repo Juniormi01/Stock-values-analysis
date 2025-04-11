@@ -1,0 +1,74 @@
+{
+    "meta": {
+        "found": 1,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "16fe8371-e59f-41f5-8aaf-973f7581ba51",
+            "title": "Lockheed Martin and Google Cloud Announce Collaboration to Advance Generative AI For National Security",
+            "description": "PR NewswireBETHESDA, Md. and RESTON, Va., March 27, 2025\n\n\n\nIntegration of Google AI with Lockheed Martin's AI Factory Ecosystem to Enhance Decision-Making an",
+            "keywords": "GuruFocus, Article, News, PRNewswire, NYSE:LMT",
+            "snippet": "Integration of Google AI with Lockheed Martin's AI Factory Ecosystem to Enhance Decision-Making and Innovation\n\nBETHESDA, Md. and RESTON, Va., March 27, 2025 /P...",
+            "url": "https://www.gurufocus.com/news/2753722/lockheed-martin-and-google-cloud-announce-collaboration-to-advance-generative-ai-for-national-security",
+            "image_url": "https://static.gurufocus.com/images/global_logo_twitter_card.png",
+            "language": "en",
+            "published_at": "2025-03-27T20:00:04.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 67.61714,
+                    "sentiment_score": 0.663614,
+                    "highlights": [
+                        {
+                            "highlight": "., March 27, 2025 /PRNewswire/ -- <em>Lo[+231 characters]",
+                            "sentiment": 0.6249,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "\"Using Google Cloud's AI technologies al[+238 characters]",
+                            "sentiment": 0.8402,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "\"<em>Lockheed</em> <em>Martin</em> and G[+316 characters]",
+                            "sentiment": 0.7533,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> will a[+319 characters]",
+                            "sentiment": 0.8625,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "About <em>Lockheed</em> <em>Martin</em>\n[+344 characters]",
+                            "sentiment": 0.9062,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "View original content to download multim[+202 characters]",
+                            "sentiment": 0.3182,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> and Google Cloud Announce Collaboration to Advance Generative AI For National Security",
+                            "sentiment": 0.34,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

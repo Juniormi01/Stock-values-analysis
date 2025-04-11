@@ -1,0 +1,317 @@
+{
+    "meta": {
+        "found": 7,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "0463b09f-acaf-4541-a2e2-507e923f4164",
+            "title": "Boeing: Another Quarter Of Massive Losses (NYSE:BA)",
+            "description": "The Boeing Company reported a massive Q4 loss, with revenues down over 30% and losses per share significantly worse than expected. Learn more on BA stock here.",
+            "keywords": "",
+            "snippet": "The primary goal of the Cash Flow Kingdom Income Portfolio is to produce an overall yield in the 7% - 10% range. We accomplish this by combining several differe...",
+            "url": "https://seekingalpha.com/article/4752641-boeing-another-quarter-of-massive-losses",
+            "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/108335292/image_108335292.jpg?io=getty-c-w1536",
+            "language": "en",
+            "published_at": "2025-01-28T19:32:03.000000Z",
+            "source": "seekingalpha.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "BA",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 77.01479,
+                    "sentiment_score": -0.36005,
+                    "highlights": [
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+125 characters]",
+                            "sentiment": -0.3182,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Boeing: Another Quarter Of Massive Losses (<em>NYSE:BA</em>)",
+                            "sentiment": -0.4019,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "WEBR",
+                    "name": "Weber Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 13.697689,
+                    "sentiment_score": 0.8151,
+                    "highlights": [
+                        {
+                            "highlight": "Jonathan <em>Weber</em> holds an enginee[+248 characters]",
+                            "sentiment": 0.8151,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BCO.DE",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 20.269855,
+                    "sentiment_score": -0.3182,
+                    "highlights": [
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+107 characters]",
+                            "sentiment": -0.3182,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BA.MX",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 20.273718,
+                    "sentiment_score": -0.3182,
+                    "highlights": [
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+107 characters]",
+                            "sentiment": -0.3182,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BOE.L",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 20.273579,
+                    "sentiment_score": -0.3182,
+                    "highlights": [
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+107 characters]",
+                            "sentiment": -0.3182,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BOEI.BR",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "be",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 20.27312,
+                    "sentiment_score": -0.3182,
+                    "highlights": [
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+107 characters]",
+                            "sentiment": -0.3182,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BOEI34.SA",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 20.273136,
+                    "sentiment_score": -0.3182,
+                    "highlights": [
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+107 characters]",
+                            "sentiment": -0.3182,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BA.SN",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 20.272469,
+                    "sentiment_score": -0.3182,
+                    "highlights": [
+                        {
+                            "highlight": "<em>The</em> <em>Boeing</em> <em>Company[+107 characters]",
+                            "sentiment": -0.3182,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": [
+                {
+                    "uuid": "335ded76-2e51-442d-a1f1-cabc96dcd015",
+                    "title": "The Boeing Company 2025 Q1 - Results - Earnings Call Presentation (NYSE:BA)",
+                    "description": "The following slide deck was published by The Boeing Company in conjunction with their 2025 Q1 earnings call.",
+                    "keywords": "",
+                    "snippet": "Seeking Alpha's transcripts team is responsible for the development of all of our transcript-related projects. We currently publish thousands of quarterly earni...",
+                    "url": "https://seekingalpha.com/article/4752652-the-boeing-company-2025-q1-results-earnings-call-presentation",
+                    "image_url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+                    "language": "en",
+                    "published_at": "2025-01-28T19:09:08.000000Z",
+                    "source": "seekingalpha.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "BA.SN",
+                            "name": "The Boeing Company",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "Industrials",
+                            "match_score": 91.93642,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>The</em> <em>Boeing</em> <em>Company</em> 2025 Q1 - Results - Earnings Call Presentation (NYSE:BA)",
+                                    "sentiment": 0,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "BA",
+                            "name": "The Boeing Company",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Industrials",
+                            "match_score": 127.53891,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>The</em> <em>Boeing</em> <em>Company</em> 2025 Q1 - Results - Earnings Call Presentation (<em>NYSE:BA</em>)",
+                                    "sentiment": 0,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "BCO.DE",
+                            "name": "The Boeing Company",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Industrials",
+                            "match_score": 91.931656,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>The</em> <em>Boeing</em> <em>Company</em> 2025 Q1 - Results - Earnings Call Presentation (NYSE:BA)",
+                                    "sentiment": 0,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "BA.MX",
+                            "name": "The Boeing Company",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Industrials",
+                            "match_score": 91.94075,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>The</em> <em>Boeing</em> <em>Company</em> 2025 Q1 - Results - Earnings Call Presentation (NYSE:BA)",
+                                    "sentiment": 0,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "BOE.L",
+                            "name": "The Boeing Company",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "gb",
+                            "type": "equity",
+                            "industry": "Industrials",
+                            "match_score": 91.93911,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>The</em> <em>Boeing</em> <em>Company</em> 2025 Q1 - Results - Earnings Call Presentation (NYSE:BA)",
+                                    "sentiment": 0,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "BOEI.BR",
+                            "name": "The Boeing Company",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "be",
+                            "type": "equity",
+                            "industry": "Industrials",
+                            "match_score": 91.937874,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>The</em> <em>Boeing</em> <em>Company</em> 2025 Q1 - Results - Earnings Call Presentation (NYSE:BA)",
+                                    "sentiment": 0,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "BOEI34.SA",
+                            "name": "The Boeing Company",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "br",
+                            "type": "equity",
+                            "industry": "Industrials",
+                            "match_score": 91.93735,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>The</em> <em>Boeing</em> <em>Company</em> 2025 Q1 - Results - Earnings Call Presentation (NYSE:BA)",
+                                    "sentiment": 0,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "meta": {
+        "found": 4,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "70935df1-1cb0-4695-9787-815265027f05",
+            "title": "Boeing 2024 plane deliveries tumble on labor, safety woes",
+            "description": "Boeing delivered just 348 commercial planes in 2024 according to figures released Tuesday that showed the ugly effects from a year of labor disruption and safety setbacks. The annual figure was well below 2023 deliveries and less than half the 766 aircraft European rival Airbus brought to customers last year.\u2026",
+            "keywords": "",
+            "snippet": "The 787 Dreamliner, one of two major Boeing jets that serve as the revenue lifeblood for the embattled aviation giant\n\nBy John BIERS\n\nBoeing delivered just 348 ...",
+            "url": "https://japantoday.com/category/business/boeing-2024-plane-deliveries-tumble-on-labor-safety-woes",
+            "image_url": "https://japantoday-asset.scdn3.secure.raxcdn.com/img/store/9c/98/e7247a6c263d4e1abf0457465bf19d6e7718/9c98e7247a6c263d4e1abf0457465bf19d6e7718/_w1700.jpg",
+            "language": "en",
+            "published_at": "2025-01-14T21:54:30.000000Z",
+            "source": "japantoday.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "BOE.L",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 18.767508,
+                    "sentiment_score": 0.128,
+                    "highlights": [
+                        {
+                            "highlight": "Although he has not signaled plans to sc[+187 characters]",
+                            "sentiment": 0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BOEI.BR",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "be",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 18.768667,
+                    "sentiment_score": 0.128,
+                    "highlights": [
+                        {
+                            "highlight": "Although he has not signaled plans to sc[+187 characters]",
+                            "sentiment": 0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BOEI34.SA",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 18.768967,
+                    "sentiment_score": 0.128,
+                    "highlights": [
+                        {
+                            "highlight": "Although he has not signaled plans to sc[+187 characters]",
+                            "sentiment": 0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BA",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 18.768883,
+                    "sentiment_score": 0.128,
+                    "highlights": [
+                        {
+                            "highlight": "Although he has not signaled plans to sc[+187 characters]",
+                            "sentiment": 0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BA.SN",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 18.76852,
+                    "sentiment_score": 0.128,
+                    "highlights": [
+                        {
+                            "highlight": "Although he has not signaled plans to sc[+187 characters]",
+                            "sentiment": 0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BCO.DE",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 18.768124,
+                    "sentiment_score": 0.128,
+                    "highlights": [
+                        {
+                            "highlight": "Although he has not signaled plans to sc[+187 characters]",
+                            "sentiment": 0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BA.MX",
+                    "name": "The Boeing Company",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 18.768076,
+                    "sentiment_score": 0.128,
+                    "highlights": [
+                        {
+                            "highlight": "Although he has not signaled plans to sc[+187 characters]",
+                            "sentiment": 0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

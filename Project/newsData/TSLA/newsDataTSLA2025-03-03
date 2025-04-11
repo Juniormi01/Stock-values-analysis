@@ -1,0 +1,368 @@
+{
+    "meta": {
+        "found": 45,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "b448255f-98f9-434d-9bd4-de1b5df25039",
+            "title": "Market Recap: Stocks Tumble as Trump Announces Immediate Tariffs on Canada and Mexico",
+            "description": "In a dramatic turn of events, U.S. stock markets closed significantly lower on Monday, March 3, 2025, as President Donald Trump announced that previously",
+            "keywords": "",
+            "snippet": "Major Indexes Close Sharply Lower Amid Trade Tensions\n\nIn a dramatic turn of events, U.S. stock markets closed significantly lower on Monday, March 3, 2025, as ...",
+            "url": "https://thestockmarketwatch.com/stock-market-news/market-recap-stocks-tumble-as-trump-announces-immediate-tariffs-on-canada-and-mexico/48971/",
+            "image_url": "https://thestockmarketwatch.com/stock-market-news/wp-content/uploads/2024/08/5.jpg",
+            "language": "en",
+            "published_at": "2025-03-03T22:28:40.000000Z",
+            "source": "thestockmarketwatch.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "NVDC34.SA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 14.916213,
+                    "sentiment_score": 0.128,
+                    "highlights": [
+                        {
+                            "highlight": "Notable Stock Movements\n\nSeveral major s[+321 characters]",
+                            "sentiment": 0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA34.SA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 13.623198,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "\u2013 <em>Tesla</em>, <em>Inc</em>. (TSLA)[+230 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 20.220943,
+                    "sentiment_score": 0.128,
+                    "highlights": [
+                        {
+                            "highlight": "Notable Stock Movements\n\nSeveral major s[+321 characters]",
+                            "sentiment": 0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "INTC",
+                    "name": "Intel Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 15.473013,
+                    "sentiment_score": 0.5859,
+                    "highlights": [
+                        {
+                            "highlight": "\u2013 <em>Intel</em> <em>Corporation</em> [+228 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 18.927925,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "\u2013 <em>Tesla</em>, <em>Inc</em>. (TSLA)[+230 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PLTR",
+                    "name": "Palantir Technologies Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 27.324772,
+                    "sentiment_score": 0.5859,
+                    "highlights": [
+                        {
+                            "highlight": "\u2013 <em>Palantir</em> <em>Technologies</[+319 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA.BA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 14.915649,
+                    "sentiment_score": 0.128,
+                    "highlights": [
+                        {
+                            "highlight": "Notable Stock Movements\n\nSeveral major s[+321 characters]",
+                            "sentiment": 0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLAD.BA",
+                    "name": "TESLA INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 13.623192,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "\u2013 <em>Tesla</em>, <em>Inc</em>. (TSLA)[+230 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLAC.BA",
+                    "name": "TESLA INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 13.623192,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "\u2013 <em>Tesla</em>, <em>Inc</em>. (TSLA)[+230 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "INTC.SN",
+                    "name": "Intel Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 15.455636,
+                    "sentiment_score": 0.5859,
+                    "highlights": [
+                        {
+                            "highlight": "\u2013 <em>Intel</em> <em>Corporation</em> [+228 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVD.DE",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 14.915079,
+                    "sentiment_score": 0.128,
+                    "highlights": [
+                        {
+                            "highlight": "Notable Stock Movements\n\nSeveral major s[+321 characters]",
+                            "sentiment": 0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "INL.DE",
+                    "name": "Intel Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 10.168081,
+                    "sentiment_score": 0.5859,
+                    "highlights": [
+                        {
+                            "highlight": "\u2013 <em>Intel</em> <em>Corporation</em> [+228 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TL0.DE",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 13.623343,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "\u2013 <em>Tesla</em>, <em>Inc</em>. (TSLA)[+230 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PTX.DE",
+                    "name": "Palantir Technologies Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 27.32442,
+                    "sentiment_score": 0.5859,
+                    "highlights": [
+                        {
+                            "highlight": "\u2013 <em>Palantir</em> <em>Technologies</[+319 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "INTC.MX",
+                    "name": "Intel Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 10.168202,
+                    "sentiment_score": 0.5859,
+                    "highlights": [
+                        {
+                            "highlight": "\u2013 <em>Intel</em> <em>Corporation</em> [+228 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA.MX",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 14.915054,
+                    "sentiment_score": 0.128,
+                    "highlights": [
+                        {
+                            "highlight": "Notable Stock Movements\n\nSeveral major s[+321 characters]",
+                            "sentiment": 0.128,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA.MX",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 13.623461,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "\u2013 <em>Tesla</em>, <em>Inc</em>. (TSLA)[+230 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0A7R.L",
+                    "name": "Palantir Technologies Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 27.324585,
+                    "sentiment_score": 0.5859,
+                    "highlights": [
+                        {
+                            "highlight": "\u2013 <em>Palantir</em> <em>Technologies</[+319 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "INCO.BR",
+                    "name": "Intel Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "be",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 15.455528,
+                    "sentiment_score": 0.5859,
+                    "highlights": [
+                        {
+                            "highlight": "\u2013 <em>Intel</em> <em>Corporation</em> [+228 characters]",
+                            "sentiment": 0.5859,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

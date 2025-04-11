@@ -1,0 +1,172 @@
+{
+    "meta": {
+        "found": 6,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "a8b7e6bb-84e6-4a1c-bdf3-ecaa52afac19",
+            "title": "Under Pressure: ETF Innovations Challenge FAs to Keep Pace",
+            "description": "Advisors must recognize that the fast-growing fund industry is evolving quickly and address investor demands.",
+            "keywords": "financial advisors, SPDR S&P 500 ETF Trust",
+            "snippet": "ETF Investing Tools\n\nA casual observer might easily look at the $10 trillion exchange-traded fund industry as it wades into its fourth decade of existence and a...",
+            "url": "https://finance.yahoo.com/news/under-pressure-etf-innovations-challenge-140000210.html",
+            "image_url": "https://media.zenfs.com/en/indexuniverse.com/7093ea47bd7c099567673003e4b01e90",
+            "language": "en",
+            "published_at": "2025-02-13T14:00:00.000000Z",
+            "source": "finance.yahoo.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "BLK.MX",
+                    "name": "BlackRock, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 19.59997,
+                    "sentiment_score": 0.0386,
+                    "highlights": [
+                        {
+                            "highlight": "At least one analysis of the fee cuts by[+258 characters]",
+                            "sentiment": 0.0772,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "It is against that backdrop that the Col[+158 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPY",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 55.25892,
+                    "sentiment_score": 0.3818,
+                    "highlights": [
+                        {
+                            "highlight": "Exchange-traded funds have come a long w[+343 characters]",
+                            "sentiment": 0.3818,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KZC.L",
+                    "name": "SPDR S&P 500 ETF Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 55.25817,
+                    "sentiment_score": 0.3818,
+                    "highlights": [
+                        {
+                            "highlight": "Exchange-traded funds have come a long w[+343 characters]",
+                            "sentiment": 0.3818,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BLK",
+                    "name": "BlackRock, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 19.598133,
+                    "sentiment_score": 0.0386,
+                    "highlights": [
+                        {
+                            "highlight": "At least one analysis of the fee cuts by[+258 characters]",
+                            "sentiment": 0.0772,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "It is against that backdrop that the Col[+158 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0QZZ.L",
+                    "name": "BlackRock, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 19.59824,
+                    "sentiment_score": 0.0386,
+                    "highlights": [
+                        {
+                            "highlight": "At least one analysis of the fee cuts by[+258 characters]",
+                            "sentiment": 0.0772,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "It is against that backdrop that the Col[+158 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BITC-U.TO",
+                    "name": "Bitcoin Trust",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ca",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 20.344984,
+                    "sentiment_score": 0.6204,
+                    "highlights": [
+                        {
+                            "highlight": "And let\u2019s not overlook the impact of c[+199 characters]",
+                            "sentiment": 0.6204,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BLQA.DE",
+                    "name": "BlackRock, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 19.599993,
+                    "sentiment_score": 0.0386,
+                    "highlights": [
+                        {
+                            "highlight": "At least one analysis of the fee cuts by[+258 characters]",
+                            "sentiment": 0.0772,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "It is against that backdrop that the Col[+158 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

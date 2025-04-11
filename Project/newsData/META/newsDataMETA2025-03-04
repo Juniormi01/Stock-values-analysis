@@ -1,0 +1,128 @@
+{
+    "meta": {
+        "found": 8,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "42c14c40-f985-4770-a413-b0342d3b8e0e",
+            "title": "Meta Platforms, Inc. (META): Among the Stocks to Buy According to Eagle Capital Management",
+            "description": "We recently compiled a list of the Top 10 Stocks to Buy According to Eagle Capital Management.\u00a0In this article, we are going to take a look at where Meta Platforms, Inc.",
+            "keywords": "",
+            "snippet": "We recently compiled a list of the Top 10 Stocks to Buy According to Eagle Capital Management. In this article, we are going to take a look at where Meta Platfo...",
+            "url": "https://www.insidermonkey.com/blog/meta-platforms-inc-meta-among-the-stocks-to-buy-according-to-eagle-capital-management-1471764/",
+            "image_url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/09/19153233/META-insidermonkey-1695151950867.jpg",
+            "language": "en",
+            "published_at": "2025-03-04T23:00:19.000000Z",
+            "source": "insidermonkey.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 73.37448,
+                    "sentiment_score": 0.423167,
+                    "highlights": [
+                        {
+                            "highlight": "In this article, we are going to take a [+220 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Meta</em> <em>Platforms</em>, <em>In[+363 characters]",
+                            "sentiment": 0.0772,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "These AI-driven enhancements have streng[+230 characters]",
+                            "sentiment": 0.6486,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "(<em>NASDAQ:META</em>)\u2019s dominance in [+321 characters]",
+                            "sentiment": 0.8807,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Institutional confidence in <em>Meta</em[+332 characters]",
+                            "sentiment": 0.9325,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Meta</em> <em>Platforms</em>, <em>Inc</em>. (META): Among the Stocks to Buy According to Eagle Capital Management",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": [
+                {
+                    "uuid": "78cadb37-ad60-4e2b-bf14-741d1bae01c2",
+                    "title": "Meta Platforms Inc (META) Shares Gap Down to $627.755 on Mar 4",
+                    "description": "Shares of Meta Platforms Inc (META) fell 4.17% in mid-day trading on Mar 4. The stock reached an intraday low of $623.65,   before recovering slightly to $627.7",
+                    "keywords": "GuruFocus, Article, News, GuruFocus News, META",
+                    "snippet": "Shares of Meta Platforms Inc (META, Financial) fell 4.17% in mid-day trading on Mar 4. The stock reached an intraday low of $623.65, before recovering slightly ...",
+                    "url": "https://www.gurufocus.com/news/2727046/meta-platforms-inc-meta-shares-gap-down-to-627755-on-mar-4",
+                    "image_url": "https://static.gurufocus.com/images/global_logo_twitter_card.png",
+                    "language": "en",
+                    "published_at": "2025-03-04T17:05:09.000000Z",
+                    "source": "gurufocus.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "META",
+                            "name": "Meta Platforms Inc",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 62.237946,
+                            "sentiment_score": 0.1046,
+                            "highlights": [
+                                {
+                                    "highlight": "Shares of <em>Meta</em> <em>Platforms</e[+302 characters]",
+                                    "sentiment": -0.1531,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Wall Street Analysts Forecast\n\nBased on [+299 characters]",
+                                    "sentiment": -0.2732,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "More detailed estimate data can be found[+261 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Based on GuruFocus estimates, the estima[+258 characters]",
+                                    "sentiment": 0.7579,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "More detailed data can be found on the <[+182 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Meta</em> <em>Platforms</em> <em>Inc</em> (META) Shares Gap Down to $627.755 on Mar 4",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "title"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

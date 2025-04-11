@@ -1,0 +1,141 @@
+{
+    "meta": {
+        "found": 29,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "2e40f4f4-a083-4657-88e3-1d46e1f74f34",
+            "title": "Trump waves off criticism from Elon Musk on AI announcement By Reuters",
+            "description": "Trump waves off criticism from Elon Musk on AI announcement",
+            "keywords": "",
+            "snippet": "WASHINGTON (Reuters) - U.S. President Donald Trump on Thursday dismissed criticism from close ally Elon Musk about a $500 billion artificial intelligence projec...",
+            "url": "https://www.investing.com/news/stock-market-news/trump-waves-off-criticism-from-elon-musk-on-ai-announcement-3828581",
+            "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEBBR0PM_L.jpg",
+            "language": "en",
+            "published_at": "2025-01-23T23:56:05.000000Z",
+            "source": "investing.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 11.917488,
+                    "sentiment_score": 0.1027,
+                    "highlights": [
+                        {
+                            "highlight": "Musk, the <em>Tesla</em> (NASDAQ: ) CEO [+286 characters]",
+                            "sentiment": 0.1027,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ORCL",
+                    "name": "Oracle Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 16.742786,
+                    "sentiment_score": 0.4803,
+                    "highlights": [
+                        {
+                            "highlight": "Trump announced on Tuesday that ChatGPT'[+204 characters]",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "SoftBank CEO Masayoshi Son, OpenAI CEO S[+264 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "9984.T",
+                    "name": "SoftBank Group Corp.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "jp",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 24.602535,
+                    "sentiment_score": 0.567833,
+                    "highlights": [
+                        {
+                            "highlight": "Trump announced on Tuesday that ChatGPT'[+204 characters]",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>SoftBank</em> CEO Masayoshi Son, Ope[+264 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "\"<em>SoftBank</em> has well under $10B s[+296 characters]",
+                            "sentiment": 0.7429,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "9434.T",
+                    "name": "SoftBank Corp.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "jp",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 24.602535,
+                    "sentiment_score": 0.567833,
+                    "highlights": [
+                        {
+                            "highlight": "Trump announced on Tuesday that ChatGPT'[+204 characters]",
+                            "sentiment": 0.5994,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>SoftBank</em> CEO Masayoshi Son, Ope[+264 characters]",
+                            "sentiment": 0.3612,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "\"<em>SoftBank</em> has well under $10B s[+296 characters]",
+                            "sentiment": 0.7429,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "3024.T",
+                    "name": "Create Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "jp",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 16.063877,
+                    "sentiment_score": 0.4215,
+                    "highlights": [
+                        {
+                            "highlight": "Trump announced on Tuesday that ChatGPT'[+204 characters]",
+                            "sentiment": 0.4215,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "found": 3,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "80a8f389-9f61-4d19-9ae1-5dbfb9bf6048",
+            "title": "Why Lockheed Martin (LMT) Outpaced the Stock Market Today",
+            "description": "Lockheed Martin (LMT) closed at $442.07 in the latest trading session, marking a +1.63% move from the prior day.",
+            "keywords": "stock, stocks, investment, investment advice, investing, online trading, online investment, online stock trading, stock market, financial, financial planning, quote, quotes, stock quotes",
+            "snippet": "This page has not been authorized, sponsored, or otherwise approved or endorsed by the companies represented herein. Each of the company logos represented herei...",
+            "url": "https://www.zacks.com/stock/news/2435144/why-lockheed-martin-lmt-outpaced-the-stock-market-today?cid=CS-ZC-FT-tale_of_the_tape|yseop_template_6v2-2435144",
+            "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default6.jpg",
+            "language": "en",
+            "published_at": "2025-03-25T22:00:17.000000Z",
+            "source": "zacks.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 64.10133,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Why <em>Lockheed</em> <em>Martin</em> (LMT) Outpaced the Stock Market Today",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "meta": {
+        "found": 95,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "87554170-a513-4e44-9508-f545046884b8",
+            "title": "Despite a 'fraught' day for the market, Jim Cramer finds positives in Wednesday's action",
+            "description": "For the Mad Money host, solid earnings results matter more now than monetary policy, as \"good profits combined with a benign Fed equal higher stock prices.\"",
+            "keywords": "Jim Cramer, Stock markets, Investment strategy, Business, Markets, Apple Inc, NVIDIA Corp, NASDAQ Composite, Dow Jones Industrial Average, S&P 500 Index, Donald J. Trump, business news",
+            "snippet": "CNBC's Jim Cramer reviewed Wednesday's session, saying that even though the day was \"fraught\" and certain losses seem tough, there are reasons to be positive ab...",
+            "url": "https://www.cnbc.com/2025/01/29/jim-cramer-finds-positives-in-wednesdays-action.html",
+            "image_url": "https://image.cnbcfm.com/api/v1/image/104434800-IMG_3503r.jpg?v=1697496468&w=1920&h=1080",
+            "language": "en",
+            "published_at": "2025-01-29T23:44:27.000000Z",
+            "source": "cnbc.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 10.645966,
+                    "sentiment_score": 0.5709,
+                    "highlights": [
+                        {
+                            "highlight": "Tech giants like <em>Apple</em> and Nvid[+251 characters]",
+                            "sentiment": 0.5709,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 12.197207,
+                    "sentiment_score": 0.5709,
+                    "highlights": [
+                        {
+                            "highlight": "Tech giants like Apple and <em>Nvidia</e[+251 characters]",
+                            "sentiment": 0.5709,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

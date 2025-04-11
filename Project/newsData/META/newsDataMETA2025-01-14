@@ -1,0 +1,3621 @@
+{
+    "meta": {
+        "found": 29,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "32410039-22e6-4bb2-9d1e-943175d2695e",
+            "title": "Liberty All-Star\u00ae Equity Fund December 2024 Monthly Update",
+            "description": "PR NewswireBOSTON, Jan. 14, 2025\n\n\n\nBOSTON, Jan. 14, 2025 /PRNewswire/ -- Below is the December 2024 Monthly Update for the Liberty All-Star Equity Fund (NYSE",
+            "keywords": "GuruFocus, Article, News, PRNewswire, NYSE:USA",
+            "snippet": "BOSTON, Jan. 14, 2025 /PRNewswire/ -- Below is the December 2024 Monthly Update for the Liberty All-Star Equity Fund (NYSE: USA).\n\nLiberty All-Star Equity Fund\n...",
+            "url": "https://www.gurufocus.com/news/2656719/liberty-allstar-equity-fund-december-2024-monthly-update",
+            "image_url": "https://static.gurufocus.com/images/global_logo_twitter_card.png",
+            "language": "en",
+            "published_at": "2025-01-14T23:00:04.000000Z",
+            "source": "gurufocus.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "AMZN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 15.150931,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "Pzena Investment Management, LLC\n\nGrowth[+331 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 8.880487,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "Pzena Investment Management, LLC\n\nGrowth[+331 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.987289,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "Pzena Investment Management, LLC\n\nGrowth[+331 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "META",
+                    "name": "Meta Platforms Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 11.362146,
+                    "sentiment_score": 0.60615,
+                    "highlights": [
+                        {
+                            "highlight": "Pzena Investment Management, LLC\n\nGrowth[+322 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Platforms</em>, <em>Inc</em>. 1.8 % [+328 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGO",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 16.880508,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "New Holdings:\n\nAllegion PLC\n\n<em>Broadco[+157 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BKNG",
+                    "name": "Booking Holdings Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 12.750471,
+                    "sentiment_score": 0.24695,
+                    "highlights": [
+                        {
+                            "highlight": "NVIDIA Corp. 3.7 % 3 Alphabet, Inc. 2.8 [+328 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Holdings</em>, <em>Inc</em>. 1.1 % 1[+173 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGOP",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 16.880075,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "New Holdings:\n\nAllegion PLC\n\n<em>Broadco[+157 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "C",
+                    "name": "Citigroup Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 18.040142,
+                    "sentiment_score": 0.24695,
+                    "highlights": [
+                        {
+                            "highlight": "Platforms, Inc. 1.8 % 9 Capital One Fina[+329 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": ", <em>Inc</em>. 1.0 % Holdings are subje[+13 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "V",
+                    "name": "Visa Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 12.12388,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "Pzena Investment Management, LLC\n\nGrowth[+331 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "USA",
+                    "name": "Liberty All-Star Equity Fund",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 117.991325,
+                    "sentiment_score": 0.3454,
+                    "highlights": [
+                        {
+                            "highlight": "BOSTON, Jan. 14, 2025 /PRNewswire/ -- Be[+406 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "Liberty All-Star\u00ae Equity Fund\n\n1-800-24[+335 characters]",
+                            "sentiment": 0.6908,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ALLE",
+                    "name": "Allegion plc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 27.99775,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "New Holdings:\n\n<em>Allegion</em> <em>PLC[+157 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BRK-B",
+                    "name": "Berkshire Hathaway Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 31.04543,
+                    "sentiment_score": 0.24695,
+                    "highlights": [
+                        {
+                            "highlight": "Inc. 2.8 % 5 UnitedHealth Group, Inc. 2.[+328 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Hathaway</em>, <em>Inc</em>. 1.0 % 1[+117 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BRK-A",
+                    "name": "Berkshire Hathaway Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 31.04543,
+                    "sentiment_score": 0.24695,
+                    "highlights": [
+                        {
+                            "highlight": "Inc. 2.8 % 5 UnitedHealth Group, Inc. 2.[+328 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Hathaway</em>, <em>Inc</em>. 1.0 % 1[+117 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BAX",
+                    "name": "Baxter International Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 26.974987,
+                    "sentiment_score": 0.24695,
+                    "highlights": [
+                        {
+                            "highlight": "Inc. 1.9 % 7 Visa, Inc. 1.8 % 8 Meta Pla[+327 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>International</em>, <em>Inc</em>. 1.[+60 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "CVS",
+                    "name": "CVS Health Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 14.245194,
+                    "sentiment_score": 0.24695,
+                    "highlights": [
+                        {
+                            "highlight": "Inc. 2.0 % 6 ServiceNow, Inc. 1.9 % 7 Vi[+323 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Health</em> Corp. 1.0 % 19 Baxter In[+80 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SNE",
+                    "name": "Sony Group Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 9.333654,
+                    "sentiment_score": 0.4939,
+                    "highlights": [
+                        {
+                            "highlight": "Holdings at Month-End (35.0% of equity p[+322 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "DHR",
+                    "name": "Danaher Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 12.298095,
+                    "sentiment_score": 0.4939,
+                    "highlights": [
+                        {
+                            "highlight": "Microsoft Corp. 4.2 % 2 NVIDIA Corp. 3.7[+329 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "COF",
+                    "name": "Capital One Financial Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 11.77578,
+                    "sentiment_score": 0.60615,
+                    "highlights": [
+                        {
+                            "highlight": "LLC\n\nGrowth Managers:\n\nSustainable Growt[+325 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>One</em> <em>Financial</em> Corp. 1.[+327 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "EIX",
+                    "name": "Edison International",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Utilities",
+                    "match_score": 23.128527,
+                    "sentiment_score": 0.9001,
+                    "highlights": [
+                        {
+                            "highlight": "Holdings Liquidated:\n\n<em>Edison</em> <e[+309 characters]",
+                            "sentiment": 0.9001,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ECL",
+                    "name": "Ecolab Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Basic Materials",
+                    "match_score": 24.281876,
+                    "sentiment_score": 0.24695,
+                    "highlights": [
+                        {
+                            "highlight": ". 2.8 % 4 Amazon.com, Inc. 2.8 % 5 Unite[+325 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": ", <em>Inc</em>. 1.1 % 17 Berkshire Hatha[+134 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "OMC",
+                    "name": "Omnicom Group Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 26.319767,
+                    "sentiment_score": 0.9246,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Omnicom</em> <em>Group</em>, <em>Inc[+317 characters]",
+                            "sentiment": 0.9246,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPGI",
+                    "name": "S&P Global Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 23.461143,
+                    "sentiment_score": 0.5103,
+                    "highlights": [
+                        {
+                            "highlight": "Growth Advisers, LP\n\nTCW Investment Mana[+322 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>P</em> <em>Global</em>, <em>Inc</em>[+328 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NOW",
+                    "name": "ServiceNow, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 22.309483,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "Pzena Investment Management, LLC\n\nGrowth[+331 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TYL",
+                    "name": "Tyler Technologies, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 25.428886,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Tyler</em> <em>Technologies</em>, <e[+121 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PZN",
+                    "name": "Pzena Investment Management, Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 19.104862,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Pzena</em> <em>Investment</em> <em>M[+340 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SONY",
+                    "name": "Sony Group Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 13.88843,
+                    "sentiment_score": 0.4939,
+                    "highlights": [
+                        {
+                            "highlight": "Holdings at Month-End (35.0% of equity p[+322 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZ.DE",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 15.149541,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "Pzena Investment Management, LLC\n\nGrowth[+331 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "3V64.DE",
+                    "name": "Visa Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 8.345166,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "Pzena Investment Management, LLC\n\nGrowth[+331 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ABEA.DE",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.98654,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "Pzena Investment Management, LLC\n\nGrowth[+331 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BRYN.DE",
+                    "name": "Berkshire Hathaway Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 27.266743,
+                    "sentiment_score": 0.24695,
+                    "highlights": [
+                        {
+                            "highlight": "Inc. 2.8 % 5 UnitedHealth Group, Inc. 2.[+328 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Hathaway</em>, <em>Inc</em>. 1.0 % 1[+117 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ABEC.DE",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.986415,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "Pzena Investment Management, LLC\n\nGrowth[+331 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "PCE1.DE",
+                    "name": "Booking Holdings Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 21.726303,
+                    "sentiment_score": 0.24695,
+                    "highlights": [
+                        {
+                            "highlight": "NVIDIA Corp. 3.7 % 3 Alphabet, Inc. 2.8 [+328 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Holdings</em>, <em>Inc</em>. 1.1 % 1[+173 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TRVC.DE",
+                    "name": "Citigroup Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 14.260685,
+                    "sentiment_score": 0.24695,
+                    "highlights": [
+                        {
+                            "highlight": "Platforms, Inc. 1.8 % 9 Capital One Fina[+329 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": ", <em>Inc</em>. 1.0 % Holdings are subje[+13 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "1YD.DE",
+                    "name": "Broadcom Inc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 16.874737,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "New Holdings:\n\nAllegion PLC\n\n<em>Broadco[+157 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MHL.DE",
+                    "name": "S&P Global Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 19.682941,
+                    "sentiment_score": 0.5103,
+                    "highlights": [
+                        {
+                            "highlight": "Growth Advisers, LP\n\nTCW Investment Mana[+322 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>P</em> <em>Global</em>, <em>Inc</em>[+328 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "EIX.DE",
+                    "name": "Edison International",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Utilities",
+                    "match_score": 19.348722,
+                    "sentiment_score": 0.9001,
+                    "highlights": [
+                        {
+                            "highlight": "Holdings Liquidated:\n\n<em>Edison</em> <e[+309 characters]",
+                            "sentiment": 0.9001,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BRH.DE",
+                    "name": "Berkshire Hathaway Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 27.266365,
+                    "sentiment_score": 0.24695,
+                    "highlights": [
+                        {
+                            "highlight": "Inc. 2.8 % 5 UnitedHealth Group, Inc. 2.[+328 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Hathaway</em>, <em>Inc</em>. 1.0 % 1[+117 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "OCN.DE",
+                    "name": "Omnicom Group Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 22.535389,
+                    "sentiment_score": 0.9246,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Omnicom</em> <em>Group</em>, <em>Inc[+317 characters]",
+                            "sentiment": 0.9246,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ECJ.DE",
+                    "name": "Ecolab Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "de",
+                    "type": "equity",
+                    "industry": "Basic Materials",
+                    "match_score": 20.492268,
+                    "sentiment_score": 0.24695,
+                    "highlights": [
+                        {
+                            "highlight": ". 2.8 % 4 Amazon.com, Inc. 2.8 % 5 Unite[+325 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": ", <em>Inc</em>. 1.1 % 17 Berkshire Hatha[+134 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZN.MX",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 15.14878,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "Pzena Investment Management, LLC\n\nGrowth[+331 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.MX",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.986064,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "Pzena Investment Management, LLC\n\nGrowth[+331 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG.MX",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.986064,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "Pzena Investment Management, LLC\n\nGrowth[+331 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BRKB.MX",
+                    "name": "Berkshire Hathaway Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 27.265772,
+                    "sentiment_score": 0.24695,
+                    "highlights": [
+                        {
+                            "highlight": "Inc. 2.8 % 5 UnitedHealth Group, Inc. 2.[+328 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Hathaway</em>, <em>Inc</em>. 1.0 % 1[+117 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BKNG.MX",
+                    "name": "Booking Holdings Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 21.726183,
+                    "sentiment_score": 0.24695,
+                    "highlights": [
+                        {
+                            "highlight": "NVIDIA Corp. 3.7 % 3 Alphabet, Inc. 2.8 [+328 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Holdings</em>, <em>Inc</em>. 1.1 % 1[+173 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "C.MX",
+                    "name": "Citigroup Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 14.259866,
+                    "sentiment_score": 0.24695,
+                    "highlights": [
+                        {
+                            "highlight": "Platforms, Inc. 1.8 % 9 Capital One Fina[+329 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": ", <em>Inc</em>. 1.0 % Holdings are subje[+13 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "V.MX",
+                    "name": "Visa Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 8.344866,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "Pzena Investment Management, LLC\n\nGrowth[+331 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BAX.MX",
+                    "name": "Baxter International Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Healthcare",
+                    "match_score": 23.192806,
+                    "sentiment_score": 0.24695,
+                    "highlights": [
+                        {
+                            "highlight": "Inc. 1.9 % 7 Visa, Inc. 1.8 % 8 Meta Pla[+327 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>International</em>, <em>Inc</em>. 1.[+60 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TYL.MX",
+                    "name": "Tyler Technologies, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 21.649986,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Tyler</em> <em>Technologies</em>, <e[+121 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGO.MX",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 16.872519,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "New Holdings:\n\nAllegion PLC\n\n<em>Broadco[+157 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "SPGI.MX",
+                    "name": "S&P Global Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 19.681845,
+                    "sentiment_score": 0.5103,
+                    "highlights": [
+                        {
+                            "highlight": "Growth Advisers, LP\n\nTCW Investment Mana[+322 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>P</em> <em>Global</em>, <em>Inc</em>[+328 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NOWW.MX",
+                    "name": "ServiceNow, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 18.521389,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "Pzena Investment Management, LLC\n\nGrowth[+331 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ECL.MX",
+                    "name": "Ecolab Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "Basic Materials",
+                    "match_score": 20.48499,
+                    "sentiment_score": 0.24695,
+                    "highlights": [
+                        {
+                            "highlight": ". 2.8 % 4 Amazon.com, Inc. 2.8 % 5 Unite[+325 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": ", <em>Inc</em>. 1.1 % 17 Berkshire Hatha[+134 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "ALLEN.MX",
+                    "name": "Allegion plc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 24.13593,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "New Holdings:\n\n<em>Allegion</em> <em>PLC[+157 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KYY.L",
+                    "name": "S&P Global Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 19.681503,
+                    "sentiment_score": 0.5103,
+                    "highlights": [
+                        {
+                            "highlight": "Growth Advisers, LP\n\nTCW Investment Mana[+322 characters]",
+                            "sentiment": 0.5267,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>P</em> <em>Global</em>, <em>Inc</em>[+328 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0L5N.L",
+                    "name": "ServiceNow, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 18.519592,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "Pzena Investment Management, LLC\n\nGrowth[+331 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0KBK.L",
+                    "name": "Omnicom Group Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 22.526112,
+                    "sentiment_score": 0.9246,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Omnicom</em> <em>Group</em>, <em>Inc[+317 characters]",
+                            "sentiment": 0.9246,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0Y5C.L",
+                    "name": "Allegion plc",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 24.129799,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "New Holdings:\n\n<em>Allegion</em> <em>PLC[+157 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0YXG.L",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 16.877995,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "New Holdings:\n\nAllegion PLC\n\n<em>Broadco[+157 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0IFA.L",
+                    "name": "Ecolab Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 20.505714,
+                    "sentiment_score": 0.24695,
+                    "highlights": [
+                        {
+                            "highlight": ". 2.8 % 4 Amazon.com, Inc. 2.8 % 5 Unite[+325 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": ", <em>Inc</em>. 1.1 % 17 Berkshire Hatha[+134 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0IFJ.L",
+                    "name": "Edison International",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 19.349867,
+                    "sentiment_score": 0.9001,
+                    "highlights": [
+                        {
+                            "highlight": "Holdings Liquidated:\n\n<em>Edison</em> <e[+309 characters]",
+                            "sentiment": 0.9001,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "0QK8.L",
+                    "name": "Baxter International Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "gb",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 23.196404,
+                    "sentiment_score": 0.24695,
+                    "highlights": [
+                        {
+                            "highlight": "Inc. 1.9 % 7 Visa, Inc. 1.8 % 8 Meta Pla[+327 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>International</em>, <em>Inc</em>. 1.[+60 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "V.SW",
+                    "name": "Visa Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ch",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 8.345461,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "Pzena Investment Management, LLC\n\nGrowth[+331 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BKNG34.SA",
+                    "name": "Booking Holdings Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 21.727634,
+                    "sentiment_score": 0.24695,
+                    "highlights": [
+                        {
+                            "highlight": "NVIDIA Corp. 3.7 % 3 Alphabet, Inc. 2.8 [+328 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Holdings</em>, <em>Inc</em>. 1.1 % 1[+173 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGO34.SA",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 16.880814,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "New Holdings:\n\nAllegion PLC\n\n<em>Broadco[+157 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "VISA34.SA",
+                    "name": "Visa Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 12.917112,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "Pzena Investment Management, LLC\n\nGrowth[+331 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "O1MC34.SA",
+                    "name": "Omnicom Group Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 22.551094,
+                    "sentiment_score": 0.9246,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Omnicom</em> <em>Group</em>, <em>Inc[+317 characters]",
+                            "sentiment": 0.9246,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "N1OW34.SA",
+                    "name": "ServiceNow, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 18.539818,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "Pzena Investment Management, LLC\n\nGrowth[+331 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "E1IX34.SA",
+                    "name": "Edison International",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "br",
+                    "type": "equity",
+                    "industry": "Utilities",
+                    "match_score": 19.350046,
+                    "sentiment_score": 0.9001,
+                    "highlights": [
+                        {
+                            "highlight": "Holdings Liquidated:\n\n<em>Edison</em> <e[+309 characters]",
+                            "sentiment": 0.9001,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFT.MI",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "it",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 12.209354,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "Pzena Investment Management, LLC\n\nGrowth[+331 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA.MI",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "it",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 14.018763,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "Pzena Investment Management, LLC\n\nGrowth[+331 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.BA",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.987161,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "Pzena Investment Management, LLC\n\nGrowth[+331 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDAD.BA",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 14.018322,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "Pzena Investment Management, LLC\n\nGrowth[+331 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "V.BA",
+                    "name": "Visa Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 12.916761,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "Pzena Investment Management, LLC\n\nGrowth[+331 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "VD.BA",
+                    "name": "VISA INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 8.345224,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "Pzena Investment Management, LLC\n\nGrowth[+331 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTD.BA",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 12.209104,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "Pzena Investment Management, LLC\n\nGrowth[+331 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTB.BA",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 12.209104,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "Pzena Investment Management, LLC\n\nGrowth[+331 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTC.BA",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 12.209104,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "Pzena Investment Management, LLC\n\nGrowth[+331 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "HDD.BA",
+                    "name": "HOME DEPOT INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 20.621527,
+                    "sentiment_score": 0.9246,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Home</em> <em>Depot</em>, <em>Inc</e[+335 characters]",
+                            "sentiment": 0.9246,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDAC.BA",
+                    "name": "NVIDIA CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 14.018322,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "Pzena Investment Management, LLC\n\nGrowth[+331 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "C.BA",
+                    "name": "Citigroup Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 14.262913,
+                    "sentiment_score": 0.24695,
+                    "highlights": [
+                        {
+                            "highlight": "Platforms, Inc. 1.8 % 9 Capital One Fina[+329 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": ", <em>Inc</em>. 1.0 % Holdings are subje[+13 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BRKB.BA",
+                    "name": "BERKSHIRE HATHAWAY",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 24.49253,
+                    "sentiment_score": 0.24695,
+                    "highlights": [
+                        {
+                            "highlight": "Inc. 2.8 % 5 UnitedHealth Group, Inc. 2.[+328 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Hathaway</em>, Inc. 1.0 % 18 CVS Hea[+108 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGO.BA",
+                    "name": "Broadcom Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 16.877087,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "New Holdings:\n\nAllegion PLC\n\n<em>Broadco[+157 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AVGOD.BA",
+                    "name": "BROADCOM INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 16.877087,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "New Holdings:\n\nAllegion PLC\n\n<em>Broadco[+157 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOGLD.BA",
+                    "name": "ALPHABET INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 13.987166,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "Pzena Investment Management, LLC\n\nGrowth[+331 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BRKBD.BA",
+                    "name": "BERKSHIRE HATHAWAY",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 24.492027,
+                    "sentiment_score": 0.24695,
+                    "highlights": [
+                        {
+                            "highlight": "Inc. 2.8 % 5 UnitedHealth Group, Inc. 2.[+328 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Hathaway</em>, Inc. 1.0 % 18 CVS Hea[+108 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BRKBB.BA",
+                    "name": "BERKSHIRE HATHAWAY",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 24.492027,
+                    "sentiment_score": 0.24695,
+                    "highlights": [
+                        {
+                            "highlight": "Inc. 2.8 % 5 UnitedHealth Group, Inc. 2.[+328 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Hathaway</em>, Inc. 1.0 % 18 CVS Hea[+108 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "UNHD.BA",
+                    "name": "UNITEDHEALTH GROUP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 17.134491,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "Pzena Investment Management, LLC\n\nGrowth[+331 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "VC.BA",
+                    "name": "VISA INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "ar",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 12.916556,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "Pzena Investment Management, LLC\n\nGrowth[+331 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZN.SN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 15.150617,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "Pzena Investment Management, LLC\n\nGrowth[+331 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "V.SN",
+                    "name": "Visa Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Financial Services",
+                    "match_score": 8.345105,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "Pzena Investment Management, LLC\n\nGrowth[+331 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "BKNG.SN",
+                    "name": "Booking Holdings Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 21.726683,
+                    "sentiment_score": 0.24695,
+                    "highlights": [
+                        {
+                            "highlight": "NVIDIA Corp. 3.7 % 3 Alphabet, Inc. 2.8 [+328 characters]",
+                            "sentiment": 0.4939,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "<em>Holdings</em>, <em>Inc</em>. 1.1 % 1[+173 characters]",
+                            "sentiment": 0,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGL.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.986418,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "Pzena Investment Management, LLC\n\nGrowth[+331 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFTCL.SN",
+                    "name": "MICROSOFT CORP",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 12.20869,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "Pzena Investment Management, LLC\n\nGrowth[+331 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOG.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "Communication Services",
+                    "match_score": 13.986418,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "Pzena Investment Management, LLC\n\nGrowth[+331 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AMZNCL.SN",
+                    "name": "Amazon.com, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 15.14973,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "Pzena Investment Management, LLC\n\nGrowth[+331 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "GOOGCL.SN",
+                    "name": "Alphabet Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 13.986418,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "Pzena Investment Management, LLC\n\nGrowth[+331 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "HDCL.SN",
+                    "name": "HOME DEPOT INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 20.620707,
+                    "sentiment_score": 0.9246,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Home</em> <em>Depot</em>, <em>Inc</e[+335 characters]",
+                            "sentiment": 0.9246,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "VCL.SN",
+                    "name": "VISA INC",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 12.916183,
+                    "sentiment_score": 0.7184,
+                    "highlights": [
+                        {
+                            "highlight": "Pzena Investment Management, LLC\n\nGrowth[+331 characters]",
+                            "sentiment": 0.7184,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": [
+                {
+                    "uuid": "0f5525d9-2f3c-482b-803b-5e0a0690041f",
+                    "title": "Liberty All-Star\u00ae Growth Fund, Inc. December 2024 Monthly Update",
+                    "description": "PR NewswireBOSTON, Jan. 14, 2025\n\n\n\nBOSTON, Jan. 14, 2025 /PRNewswire/ -- Below is the December 2024 Monthly Update for the Liberty All-Star Growth Fund, Inc.",
+                    "keywords": "GuruFocus, Article, News, PRNewswire, NYSE:ASG",
+                    "snippet": "BOSTON, Jan. 14, 2025 /PRNewswire/ -- Below is the December 2024 Monthly Update for the Liberty All-Star Growth Fund, Inc. (NYSE: ASG).\n\nLiberty All-Star Growth...",
+                    "url": "https://www.gurufocus.com/news/2656714/liberty-allstar-growth-fund-inc-december-2024-monthly-update",
+                    "image_url": "https://static.gurufocus.com/images/global_logo_twitter_card.png",
+                    "language": "en",
+                    "published_at": "2025-01-14T23:00:03.000000Z",
+                    "source": "gurufocus.com",
+                    "relevance_score": null,
+                    "entities": [
+                        {
+                            "symbol": "OLLI",
+                            "name": "Ollie's Bargain Outlet Holdings, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Consumer Defensive",
+                            "match_score": 51.5532,
+                            "sentiment_score": 0.5267,
+                            "highlights": [
+                                {
+                                    "highlight": "Large-Cap Growth\n\nTop 20 Holdings at Mon[+355 characters]",
+                                    "sentiment": 0.5267,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "TNDM",
+                            "name": "Tandem Diabetes Care, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Healthcare",
+                            "match_score": 32.54345,
+                            "sentiment_score": -0.125,
+                            "highlights": [
+                                {
+                                    "highlight": "3.1 % 4 Microsoft Corp. 2.8 % 5 Alphabet[+325 characters]",
+                                    "sentiment": -0.25,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Diabetes</em> <em>Care</em>, <em>Inc[+152 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL.NE",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ca",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 10.649735,
+                            "sentiment_score": 0.6369,
+                            "highlights": [
+                                {
+                                    "highlight": "Large-Cap Growth\n\nTop 20 Holdings at Mon[+328 characters]",
+                                    "sentiment": 0.6369,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 10.649654,
+                            "sentiment_score": 0.6369,
+                            "highlights": [
+                                {
+                                    "highlight": "Large-Cap Growth\n\nTop 20 Holdings at Mon[+328 characters]",
+                                    "sentiment": 0.6369,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZN",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 15.150931,
+                            "sentiment_score": 0.6369,
+                            "highlights": [
+                                {
+                                    "highlight": "Large-Cap Growth\n\nTop 20 Holdings at Mon[+328 characters]",
+                                    "sentiment": 0.6369,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GOOG",
+                            "name": "Alphabet Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 8.880487,
+                            "sentiment_score": 0.6369,
+                            "highlights": [
+                                {
+                                    "highlight": "Large-Cap Growth\n\nTop 20 Holdings at Mon[+328 characters]",
+                                    "sentiment": 0.6369,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GOOGL",
+                            "name": "Alphabet Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 13.987289,
+                            "sentiment_score": 0.6369,
+                            "highlights": [
+                                {
+                                    "highlight": "Large-Cap Growth\n\nTop 20 Holdings at Mon[+328 characters]",
+                                    "sentiment": 0.6369,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "META",
+                            "name": "Meta Platforms Inc",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 11.362146,
+                            "sentiment_score": 0.6369,
+                            "highlights": [
+                                {
+                                    "highlight": "Large-Cap Growth\n\nTop 20 Holdings at Mon[+337 characters]",
+                                    "sentiment": 0.6369,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "CDNS",
+                            "name": "Cadence Design Systems, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 29.863062,
+                            "sentiment_score": 0.9001,
+                            "highlights": [
+                                {
+                                    "highlight": "Holdings Liquidated:\n\n<em>Cadence</em> <[+345 characters]",
+                                    "sentiment": 0.9001,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "CHKP",
+                            "name": "Check Point Software Technologies Ltd.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 34.485332,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "New Holdings:\n\n<em>Check</em> <em>Point<[+199 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "CWST",
+                            "name": "Casella Waste Systems, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Industrials",
+                            "match_score": 32.475643,
+                            "sentiment_score": 0.3481,
+                            "highlights": [
+                                {
+                                    "highlight": "(39.4% of equity portfolio) 1 NVIDIA Cor[+326 characters]",
+                                    "sentiment": 0.2023,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Waste</em> <em>Systems</em>, <em>Inc[+239 characters]",
+                                    "sentiment": 0.4939,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "SPSC",
+                            "name": "SPS Commerce, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 26.897879,
+                            "sentiment_score": 0.6369,
+                            "highlights": [
+                                {
+                                    "highlight": "Large-Cap Growth\n\nTop 20 Holdings at Mon[+337 characters]",
+                                    "sentiment": 0.6369,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "DXCM",
+                            "name": "DexCom, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Healthcare",
+                            "match_score": 20.073036,
+                            "sentiment_score": 0.148,
+                            "highlights": [
+                                {
+                                    "highlight": "Commerce, Inc. 2.1 % 7 Meta Platforms, I[+331 characters]",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": ", <em>Inc</em>. 1.3 % 19 ServiceNow, Inc[+70 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "STEP",
+                            "name": "StepStone Group Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Financial Services",
+                            "match_score": 24.019478,
+                            "sentiment_score": 0.12195,
+                            "highlights": [
+                                {
+                                    "highlight": "Corp. 3.7 % 2 Apple, Inc. 3.2 % 3 Amazon[+328 characters]",
+                                    "sentiment": -0.25,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Group</em>, <em>Inc</em>. 1.5 % 15 V[+191 characters]",
+                                    "sentiment": 0.4939,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MYRG",
+                            "name": "MYR Group Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Industrials",
+                            "match_score": 23.378836,
+                            "sentiment_score": 0.9246,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>MYR</em> <em>Group</em>, <em>Inc</em[+333 characters]",
+                                    "sentiment": 0.9246,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "HOLX",
+                            "name": "Hologic, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Healthcare",
+                            "match_score": 20.761032,
+                            "sentiment_score": 0.9001,
+                            "highlights": [
+                                {
+                                    "highlight": "Fabrinet\n\n<em>Hologic</em>, <em>Inc</em>[+275 characters]",
+                                    "sentiment": 0.9001,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "NTRA",
+                            "name": "Natera, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Healthcare",
+                            "match_score": 20.82173,
+                            "sentiment_score": 0.6369,
+                            "highlights": [
+                                {
+                                    "highlight": "Large-Cap Growth\n\nTop 20 Holdings at Mon[+328 characters]",
+                                    "sentiment": 0.6369,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "UPST",
+                            "name": "Upstart Holdings, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Financial Services",
+                            "match_score": 25.567377,
+                            "sentiment_score": 0.24225,
+                            "highlights": [
+                                {
+                                    "highlight": "Top 20 Holdings at Month-End: (39.4% of [+324 characters]",
+                                    "sentiment": 0.3818,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Holdings</em>, <em>Inc</em>. 1.7 % 1[+262 characters]",
+                                    "sentiment": 0.1027,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "INTA",
+                            "name": "Intapp, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 23.81795,
+                            "sentiment_score": 0.9001,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>Intapp</em>, <em>Inc</em>.\n\nMYR Grou[+250 characters]",
+                                    "sentiment": 0.9001,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "V",
+                            "name": "Visa Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Financial Services",
+                            "match_score": 12.12388,
+                            "sentiment_score": 0.12195,
+                            "highlights": [
+                                {
+                                    "highlight": "3 Amazon.com, Inc. 3.1 % 4 Microsoft Cor[+322 characters]",
+                                    "sentiment": -0.25,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": ", <em>Inc</em>. 1.4 % 16 Tandem Diabetes[+157 characters]",
+                                    "sentiment": 0.4939,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "ASG",
+                            "name": "Liberty All-Star Growth Fund, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Financial Services",
+                            "match_score": 119.84448,
+                            "sentiment_score": 0.4037,
+                            "highlights": [
+                                {
+                                    "highlight": "BOSTON, Jan. 14, 2025 /PRNewswire/ -- Be[+257 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "Liberty All-Star\u00ae Growth Fund, Inc.\n\n1-[+369 characters]",
+                                    "sentiment": 0.8074,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "NOW",
+                            "name": "ServiceNow, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 22.309483,
+                            "sentiment_score": 0.148,
+                            "highlights": [
+                                {
+                                    "highlight": "Platforms, Inc. 2.0 % 8 Ollie's Bargain [+329 characters]",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": ", <em>Inc</em>. 1.1 % 20 TransDigm Group[+44 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "SAP",
+                            "name": "SAP SE",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 19.027634,
+                            "sentiment_score": 0.9246,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>SAP</em> <em>SE</em>\n\nThe net asset [+295 characters]",
+                                    "sentiment": 0.9246,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "SAPGF",
+                            "name": "SAP SE",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "us",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 15.249632,
+                            "sentiment_score": 0.9246,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>SAP</em> <em>SE</em>\n\nThe net asset [+295 characters]",
+                                    "sentiment": 0.9246,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZ.DE",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 15.149541,
+                            "sentiment_score": 0.6369,
+                            "highlights": [
+                                {
+                                    "highlight": "Large-Cap Growth\n\nTop 20 Holdings at Mon[+328 characters]",
+                                    "sentiment": 0.6369,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "APC.DE",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 10.649313,
+                            "sentiment_score": 0.6369,
+                            "highlights": [
+                                {
+                                    "highlight": "Large-Cap Growth\n\nTop 20 Holdings at Mon[+328 characters]",
+                                    "sentiment": 0.6369,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "3V64.DE",
+                            "name": "Visa Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Financial Services",
+                            "match_score": 8.345166,
+                            "sentiment_score": 0.12195,
+                            "highlights": [
+                                {
+                                    "highlight": "3 Amazon.com, Inc. 3.1 % 4 Microsoft Cor[+322 characters]",
+                                    "sentiment": -0.25,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": ", <em>Inc</em>. 1.4 % 16 Tandem Diabetes[+157 characters]",
+                                    "sentiment": 0.4939,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "ABEA.DE",
+                            "name": "Alphabet Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 13.98654,
+                            "sentiment_score": 0.6369,
+                            "highlights": [
+                                {
+                                    "highlight": "Large-Cap Growth\n\nTop 20 Holdings at Mon[+328 characters]",
+                                    "sentiment": 0.6369,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "ABEC.DE",
+                            "name": "Alphabet Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 13.986415,
+                            "sentiment_score": 0.6369,
+                            "highlights": [
+                                {
+                                    "highlight": "Large-Cap Growth\n\nTop 20 Holdings at Mon[+328 characters]",
+                                    "sentiment": 0.6369,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "HO1.DE",
+                            "name": "Hologic Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Healthcare",
+                            "match_score": 20.751448,
+                            "sentiment_score": 0.9001,
+                            "highlights": [
+                                {
+                                    "highlight": "Fabrinet\n\n<em>Hologic</em>, <em>Inc</em>[+275 characters]",
+                                    "sentiment": 0.9001,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "SAP.DE",
+                            "name": "SAP SE",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 15.249537,
+                            "sentiment_score": 0.9246,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>SAP</em> <em>SE</em>\n\nThe net asset [+295 characters]",
+                                    "sentiment": 0.9246,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "CDS.DE",
+                            "name": "Cadence Design Systems, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 29.86114,
+                            "sentiment_score": 0.9001,
+                            "highlights": [
+                                {
+                                    "highlight": "Holdings Liquidated:\n\n<em>Cadence</em> <[+345 characters]",
+                                    "sentiment": 0.9001,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "DC4.DE",
+                            "name": "DexCom, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "de",
+                            "type": "equity",
+                            "industry": "Healthcare",
+                            "match_score": 20.063057,
+                            "sentiment_score": 0.148,
+                            "highlights": [
+                                {
+                                    "highlight": "Commerce, Inc. 2.1 % 7 Meta Platforms, I[+331 characters]",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": ", <em>Inc</em>. 1.3 % 19 ServiceNow, Inc[+70 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZN.MX",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 15.14878,
+                            "sentiment_score": 0.6369,
+                            "highlights": [
+                                {
+                                    "highlight": "Large-Cap Growth\n\nTop 20 Holdings at Mon[+328 characters]",
+                                    "sentiment": 0.6369,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL.MX",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 10.648947,
+                            "sentiment_score": 0.6369,
+                            "highlights": [
+                                {
+                                    "highlight": "Large-Cap Growth\n\nTop 20 Holdings at Mon[+328 characters]",
+                                    "sentiment": 0.6369,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GOOGL.MX",
+                            "name": "Alphabet Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 13.986064,
+                            "sentiment_score": 0.6369,
+                            "highlights": [
+                                {
+                                    "highlight": "Large-Cap Growth\n\nTop 20 Holdings at Mon[+328 characters]",
+                                    "sentiment": 0.6369,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GOOG.MX",
+                            "name": "Alphabet Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 13.986064,
+                            "sentiment_score": 0.6369,
+                            "highlights": [
+                                {
+                                    "highlight": "Large-Cap Growth\n\nTop 20 Holdings at Mon[+328 characters]",
+                                    "sentiment": 0.6369,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "DXCM.MX",
+                            "name": "DexCom, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Healthcare",
+                            "match_score": 20.062408,
+                            "sentiment_score": 0.148,
+                            "highlights": [
+                                {
+                                    "highlight": "Commerce, Inc. 2.1 % 7 Meta Platforms, I[+331 characters]",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": ", <em>Inc</em>. 1.3 % 19 ServiceNow, Inc[+70 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "V.MX",
+                            "name": "Visa Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Financial Services",
+                            "match_score": 8.344866,
+                            "sentiment_score": 0.12195,
+                            "highlights": [
+                                {
+                                    "highlight": "3 Amazon.com, Inc. 3.1 % 4 Microsoft Cor[+322 characters]",
+                                    "sentiment": -0.25,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": ", <em>Inc</em>. 1.4 % 16 Tandem Diabetes[+157 characters]",
+                                    "sentiment": 0.4939,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "SAPN.MX",
+                            "name": "SAP SE",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 15.249445,
+                            "sentiment_score": 0.9246,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>SAP</em> <em>SE</em>\n\nThe net asset [+295 characters]",
+                                    "sentiment": 0.9246,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "CDNS.MX",
+                            "name": "Cadence Design Systems, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 29.860487,
+                            "sentiment_score": 0.9001,
+                            "highlights": [
+                                {
+                                    "highlight": "Holdings Liquidated:\n\n<em>Cadence</em> <[+345 characters]",
+                                    "sentiment": 0.9001,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "HOLX.MX",
+                            "name": "Hologic, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Healthcare",
+                            "match_score": 20.744204,
+                            "sentiment_score": 0.9001,
+                            "highlights": [
+                                {
+                                    "highlight": "Fabrinet\n\n<em>Hologic</em>, <em>Inc</em>[+275 characters]",
+                                    "sentiment": 0.9001,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "SAP1N.MX",
+                            "name": "SAP SE",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 15.249437,
+                            "sentiment_score": 0.9246,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>SAP</em> <em>SE</em>\n\nThe net asset [+295 characters]",
+                                    "sentiment": 0.9246,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "NOWW.MX",
+                            "name": "ServiceNow, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 18.521389,
+                            "sentiment_score": 0.148,
+                            "highlights": [
+                                {
+                                    "highlight": "Platforms, Inc. 2.0 % 8 Ollie's Bargain [+329 characters]",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": ", <em>Inc</em>. 1.1 % 20 TransDigm Group[+44 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "CHKPN.MX",
+                            "name": "Check Point Software Technologies Ltd.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "mx",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 34.4836,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "New Holdings:\n\n<em>Check</em> <em>Point<[+199 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "0J5Q.L",
+                            "name": "Hologic, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "gb",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 20.741112,
+                            "sentiment_score": 0.9001,
+                            "highlights": [
+                                {
+                                    "highlight": "Fabrinet\n\n<em>Hologic</em>, <em>Inc</em>[+275 characters]",
+                                    "sentiment": 0.9001,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "0L5N.L",
+                            "name": "ServiceNow, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "gb",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 18.519592,
+                            "sentiment_score": 0.148,
+                            "highlights": [
+                                {
+                                    "highlight": "Platforms, Inc. 2.0 % 8 Ollie's Bargain [+329 characters]",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": ", <em>Inc</em>. 1.1 % 20 TransDigm Group[+44 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "0M0F.L",
+                            "name": "Tandem Diabetes Care, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "gb",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 32.541176,
+                            "sentiment_score": -0.125,
+                            "highlights": [
+                                {
+                                    "highlight": "3.1 % 4 Microsoft Corp. 2.8 % 5 Alphabet[+325 characters]",
+                                    "sentiment": -0.25,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": "<em>Diabetes</em> <em>Care</em>, <em>Inc[+152 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "0HS2.L",
+                            "name": "Cadence Design Systems, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "gb",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 29.86232,
+                            "sentiment_score": 0.9001,
+                            "highlights": [
+                                {
+                                    "highlight": "Holdings Liquidated:\n\n<em>Cadence</em> <[+345 characters]",
+                                    "sentiment": 0.9001,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "0A4M.L",
+                            "name": "DexCom, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "gb",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 20.070686,
+                            "sentiment_score": 0.148,
+                            "highlights": [
+                                {
+                                    "highlight": "Commerce, Inc. 2.1 % 7 Meta Platforms, I[+331 characters]",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": ", <em>Inc</em>. 1.3 % 19 ServiceNow, Inc[+70 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "0Y9S.L",
+                            "name": "Check Point Software Technologies Ltd.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "gb",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 34.484863,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "New Holdings:\n\n<em>Check</em> <em>Point<[+199 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "V.SW",
+                            "name": "Visa Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ch",
+                            "type": "equity",
+                            "industry": "Financial Services",
+                            "match_score": 8.345461,
+                            "sentiment_score": 0.12195,
+                            "highlights": [
+                                {
+                                    "highlight": "3 Amazon.com, Inc. 3.1 % 4 Microsoft Cor[+322 characters]",
+                                    "sentiment": -0.25,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": ", <em>Inc</em>. 1.4 % 16 Tandem Diabetes[+157 characters]",
+                                    "sentiment": 0.4939,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "VISA34.SA",
+                            "name": "Visa Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "br",
+                            "type": "equity",
+                            "industry": "Financial Services",
+                            "match_score": 12.917112,
+                            "sentiment_score": 0.12195,
+                            "highlights": [
+                                {
+                                    "highlight": "3 Amazon.com, Inc. 3.1 % 4 Microsoft Cor[+322 characters]",
+                                    "sentiment": -0.25,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": ", <em>Inc</em>. 1.4 % 16 Tandem Diabetes[+157 characters]",
+                                    "sentiment": 0.4939,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "D1EX34.SA",
+                            "name": "DexCom, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "br",
+                            "type": "equity",
+                            "industry": "Healthcare",
+                            "match_score": 20.075497,
+                            "sentiment_score": 0.148,
+                            "highlights": [
+                                {
+                                    "highlight": "Commerce, Inc. 2.1 % 7 Meta Platforms, I[+331 characters]",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": ", <em>Inc</em>. 1.3 % 19 ServiceNow, Inc[+70 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "H1OL34.SA",
+                            "name": "Hologic, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "br",
+                            "type": "equity",
+                            "industry": "Healthcare",
+                            "match_score": 20.76873,
+                            "sentiment_score": 0.9001,
+                            "highlights": [
+                                {
+                                    "highlight": "Fabrinet\n\n<em>Hologic</em>, <em>Inc</em>[+275 characters]",
+                                    "sentiment": 0.9001,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "C1HK34.SA",
+                            "name": "Check Point Software Technologies Ltd.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "br",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 34.487392,
+                            "sentiment_score": 0,
+                            "highlights": [
+                                {
+                                    "highlight": "New Holdings:\n\n<em>Check</em> <em>Point<[+199 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "N1OW34.SA",
+                            "name": "ServiceNow, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "br",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 18.539818,
+                            "sentiment_score": 0.148,
+                            "highlights": [
+                                {
+                                    "highlight": "Platforms, Inc. 2.0 % 8 Ollie's Bargain [+329 characters]",
+                                    "sentiment": 0.296,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": ", <em>Inc</em>. 1.1 % 20 TransDigm Group[+44 characters]",
+                                    "sentiment": 0,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFT.MI",
+                            "name": "MICROSOFT CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "it",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 12.209354,
+                            "sentiment_score": 0.6369,
+                            "highlights": [
+                                {
+                                    "highlight": "Large-Cap Growth\n\nTop 20 Holdings at Mon[+328 characters]",
+                                    "sentiment": 0.6369,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "NVDA.MI",
+                            "name": "NVIDIA CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "it",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 14.018763,
+                            "sentiment_score": 0.6369,
+                            "highlights": [
+                                {
+                                    "highlight": "Large-Cap Growth\n\nTop 20 Holdings at Mon[+328 characters]",
+                                    "sentiment": 0.6369,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "SAP.MI",
+                            "name": "SAP SE",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "it",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 15.249472,
+                            "sentiment_score": 0.9246,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>SAP</em> <em>SE</em>\n\nThe net asset [+295 characters]",
+                                    "sentiment": 0.9246,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL.BA",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 10.649275,
+                            "sentiment_score": 0.6369,
+                            "highlights": [
+                                {
+                                    "highlight": "Large-Cap Growth\n\nTop 20 Holdings at Mon[+328 characters]",
+                                    "sentiment": 0.6369,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GOOGL.BA",
+                            "name": "Alphabet Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 13.987161,
+                            "sentiment_score": 0.6369,
+                            "highlights": [
+                                {
+                                    "highlight": "Large-Cap Growth\n\nTop 20 Holdings at Mon[+328 characters]",
+                                    "sentiment": 0.6369,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "NVDAD.BA",
+                            "name": "NVIDIA CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 14.018322,
+                            "sentiment_score": 0.6369,
+                            "highlights": [
+                                {
+                                    "highlight": "Large-Cap Growth\n\nTop 20 Holdings at Mon[+328 characters]",
+                                    "sentiment": 0.6369,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "V.BA",
+                            "name": "Visa Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "Financial Services",
+                            "match_score": 12.916761,
+                            "sentiment_score": 0.12195,
+                            "highlights": [
+                                {
+                                    "highlight": "3 Amazon.com, Inc. 3.1 % 4 Microsoft Cor[+322 characters]",
+                                    "sentiment": -0.25,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": ", <em>Inc</em>. 1.4 % 16 Tandem Diabetes[+157 characters]",
+                                    "sentiment": 0.4939,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "VD.BA",
+                            "name": "VISA INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 8.345224,
+                            "sentiment_score": 0.12195,
+                            "highlights": [
+                                {
+                                    "highlight": "3 Amazon.com, Inc. 3.1 % 4 Microsoft Cor[+322 characters]",
+                                    "sentiment": -0.25,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": ", <em>Inc</em>. 1.4 % 16 Tandem Diabetes[+157 characters]",
+                                    "sentiment": 0.4939,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "SAP.BA",
+                            "name": "SAP SE",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 15.247778,
+                            "sentiment_score": 0.9246,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>SAP</em> <em>SE</em>\n\nThe net asset [+295 characters]",
+                                    "sentiment": 0.9246,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFTD.BA",
+                            "name": "MICROSOFT CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 12.209104,
+                            "sentiment_score": 0.6369,
+                            "highlights": [
+                                {
+                                    "highlight": "Large-Cap Growth\n\nTop 20 Holdings at Mon[+328 characters]",
+                                    "sentiment": 0.6369,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPLD.BA",
+                            "name": "APPLE INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 10.649265,
+                            "sentiment_score": 0.6369,
+                            "highlights": [
+                                {
+                                    "highlight": "Large-Cap Growth\n\nTop 20 Holdings at Mon[+328 characters]",
+                                    "sentiment": 0.6369,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFTB.BA",
+                            "name": "MICROSOFT CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 12.209104,
+                            "sentiment_score": 0.6369,
+                            "highlights": [
+                                {
+                                    "highlight": "Large-Cap Growth\n\nTop 20 Holdings at Mon[+328 characters]",
+                                    "sentiment": 0.6369,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFTC.BA",
+                            "name": "MICROSOFT CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 12.209104,
+                            "sentiment_score": 0.6369,
+                            "highlights": [
+                                {
+                                    "highlight": "Large-Cap Growth\n\nTop 20 Holdings at Mon[+328 characters]",
+                                    "sentiment": 0.6369,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "NVDAC.BA",
+                            "name": "NVIDIA CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 14.018322,
+                            "sentiment_score": 0.6369,
+                            "highlights": [
+                                {
+                                    "highlight": "Large-Cap Growth\n\nTop 20 Holdings at Mon[+328 characters]",
+                                    "sentiment": 0.6369,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GOGLD.BA",
+                            "name": "ALPHABET INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 13.987166,
+                            "sentiment_score": 0.6369,
+                            "highlights": [
+                                {
+                                    "highlight": "Large-Cap Growth\n\nTop 20 Holdings at Mon[+328 characters]",
+                                    "sentiment": 0.6369,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPLC.BA",
+                            "name": "APPLE INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 10.64918,
+                            "sentiment_score": 0.6369,
+                            "highlights": [
+                                {
+                                    "highlight": "Large-Cap Growth\n\nTop 20 Holdings at Mon[+328 characters]",
+                                    "sentiment": 0.6369,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "SAPD.BA",
+                            "name": "SAP SE",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 15.247555,
+                            "sentiment_score": 0.9246,
+                            "highlights": [
+                                {
+                                    "highlight": "<em>SAP</em> <em>SE</em>\n\nThe net asset [+295 characters]",
+                                    "sentiment": 0.9246,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "VC.BA",
+                            "name": "VISA INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "ar",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 12.916556,
+                            "sentiment_score": 0.12195,
+                            "highlights": [
+                                {
+                                    "highlight": "3 Amazon.com, Inc. 3.1 % 4 Microsoft Cor[+322 characters]",
+                                    "sentiment": -0.25,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": ", <em>Inc</em>. 1.4 % 16 Tandem Diabetes[+157 characters]",
+                                    "sentiment": 0.4939,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZN.SN",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "Consumer Cyclical",
+                            "match_score": 15.150617,
+                            "sentiment_score": 0.6369,
+                            "highlights": [
+                                {
+                                    "highlight": "Large-Cap Growth\n\nTop 20 Holdings at Mon[+328 characters]",
+                                    "sentiment": 0.6369,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "V.SN",
+                            "name": "Visa Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "Financial Services",
+                            "match_score": 8.345105,
+                            "sentiment_score": 0.12195,
+                            "highlights": [
+                                {
+                                    "highlight": "3 Amazon.com, Inc. 3.1 % 4 Microsoft Cor[+322 characters]",
+                                    "sentiment": -0.25,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": ", <em>Inc</em>. 1.4 % 16 Tandem Diabetes[+157 characters]",
+                                    "sentiment": 0.4939,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GOOGL.SN",
+                            "name": "Alphabet Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 13.986418,
+                            "sentiment_score": 0.6369,
+                            "highlights": [
+                                {
+                                    "highlight": "Large-Cap Growth\n\nTop 20 Holdings at Mon[+328 characters]",
+                                    "sentiment": 0.6369,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPLCL.SN",
+                            "name": "APPLE INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 10.649082,
+                            "sentiment_score": 0.6369,
+                            "highlights": [
+                                {
+                                    "highlight": "Large-Cap Growth\n\nTop 20 Holdings at Mon[+328 characters]",
+                                    "sentiment": 0.6369,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "MSFTCL.SN",
+                            "name": "MICROSOFT CORP",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 12.20869,
+                            "sentiment_score": 0.6369,
+                            "highlights": [
+                                {
+                                    "highlight": "Large-Cap Growth\n\nTop 20 Holdings at Mon[+328 characters]",
+                                    "sentiment": 0.6369,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AAPL.SN",
+                            "name": "Apple Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "Technology",
+                            "match_score": 10.649082,
+                            "sentiment_score": 0.6369,
+                            "highlights": [
+                                {
+                                    "highlight": "Large-Cap Growth\n\nTop 20 Holdings at Mon[+328 characters]",
+                                    "sentiment": 0.6369,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GOOG.SN",
+                            "name": "Alphabet Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "Communication Services",
+                            "match_score": 13.986418,
+                            "sentiment_score": 0.6369,
+                            "highlights": [
+                                {
+                                    "highlight": "Large-Cap Growth\n\nTop 20 Holdings at Mon[+328 characters]",
+                                    "sentiment": 0.6369,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "AMZNCL.SN",
+                            "name": "Amazon.com, Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 15.14973,
+                            "sentiment_score": 0.6369,
+                            "highlights": [
+                                {
+                                    "highlight": "Large-Cap Growth\n\nTop 20 Holdings at Mon[+328 characters]",
+                                    "sentiment": 0.6369,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "GOOGCL.SN",
+                            "name": "Alphabet Inc.",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 13.986418,
+                            "sentiment_score": 0.6369,
+                            "highlights": [
+                                {
+                                    "highlight": "Large-Cap Growth\n\nTop 20 Holdings at Mon[+328 characters]",
+                                    "sentiment": 0.6369,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        },
+                        {
+                            "symbol": "VCL.SN",
+                            "name": "VISA INC",
+                            "exchange": null,
+                            "exchange_long": null,
+                            "country": "cl",
+                            "type": "equity",
+                            "industry": "N/A",
+                            "match_score": 12.916183,
+                            "sentiment_score": 0.12195,
+                            "highlights": [
+                                {
+                                    "highlight": "3 Amazon.com, Inc. 3.1 % 4 Microsoft Cor[+322 characters]",
+                                    "sentiment": -0.25,
+                                    "highlighted_in": "main_text"
+                                },
+                                {
+                                    "highlight": ", <em>Inc</em>. 1.4 % 16 Tandem Diabetes[+157 characters]",
+                                    "sentiment": 0.4939,
+                                    "highlighted_in": "main_text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

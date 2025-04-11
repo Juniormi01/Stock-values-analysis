@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "found": 4,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "4861b079-b018-4457-bbb5-77739dc475d4",
+            "title": "Lockheed Martin (LMT) Stock Dips While Market Gains: Key Facts",
+            "description": "Lockheed Martin (LMT) concluded the recent trading session at $441.50, signifying a -1.55% move from its prior day's close.",
+            "keywords": "stock, stocks, investment, investment advice, investing, online trading, online investment, online stock trading, stock market, financial, financial planning, quote, quotes, stock quotes",
+            "snippet": "This page has not been authorized, sponsored, or otherwise approved or endorsed by the companies represented herein. Each of the company logos represented herei...",
+            "url": "https://www.zacks.com/stock/news/2422303/lockheed-martin-lmt-stock-dips-while-market-gains-key-facts?cid=CS-ZC-FT-tale_of_the_tape|yseop_template_6v1-2422303",
+            "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default303.jpg",
+            "language": "en",
+            "published_at": "2025-02-26T22:50:12.000000Z",
+            "source": "zacks.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "LMT",
+                    "name": "Lockheed Martin Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Industrials",
+                    "match_score": 62.010532,
+                    "sentiment_score": 0.34,
+                    "highlights": [
+                        {
+                            "highlight": "<em>Lockheed</em> <em>Martin</em> (LMT) Stock Dips While Market Gains: Key Facts",
+                            "sentiment": 0.34,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

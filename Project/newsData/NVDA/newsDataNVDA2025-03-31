@@ -1,0 +1,139 @@
+{
+    "meta": {
+        "found": 63,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "7ea72efc-6e52-4a02-a2eb-9597710260ad",
+            "title": "Dow surges nearly 600 points on Monday",
+            "description": "Dow jumps nearly 600 points in a robust Monday rally, highlighting strong market gains.",
+            "keywords": "",
+            "snippet": "Bonus Share: 1:1 ratio announced; record date on April 3 \u2013 Auto stock surged 609% in 5 yearshttps://t.co/dQVehqXojE \u2014 ET NOW (@ETNOWlive) March 30, 2025\n\nTh...",
+            "url": "https://www.killerstartups.com/dow-surges-nearly-600-points-on-monday/",
+            "image_url": "https://images.killerstartups.com/wp-content/uploads/2025/03/dow-surges-1-1.jpg",
+            "language": "en",
+            "published_at": "2025-03-31T22:03:00.000000Z",
+            "source": "killerstartups.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "XLY",
+                    "name": "Consumer Discretionary Select Sector SPDR Fund",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 61.559372,
+                    "sentiment_score": 0.296,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Consumer</em> <em>Discretionary<[+292 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "AAPL",
+                    "name": "Apple Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 11.338047,
+                    "sentiment_score": 0.4767,
+                    "highlights": [
+                        {
+                            "highlight": "Technology stocks rebounded to offset lo[+250 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "NVDA",
+                    "name": "NVIDIA Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 12.586411,
+                    "sentiment_score": 0.8591,
+                    "highlights": [
+                        {
+                            "highlight": "The rally was driven by a strong perform[+264 characters]",
+                            "sentiment": 0.8591,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSFT",
+                    "name": "Microsoft Corporation",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Technology",
+                    "match_score": 11.591436,
+                    "sentiment_score": 0.4767,
+                    "highlights": [
+                        {
+                            "highlight": "Technology stocks rebounded to offset lo[+250 characters]",
+                            "sentiment": 0.4767,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 14.230013,
+                    "sentiment_score": 0.57755,
+                    "highlights": [
+                        {
+                            "highlight": "The Consumer Discretionary Select Sector[+247 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        },
+                        {
+                            "highlight": "The rally was driven by a strong perform[+264 characters]",
+                            "sentiment": 0.8591,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "XLY.MX",
+                    "name": "Consumer Discretionary Select Sector SPDR Fund",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "mx",
+                    "type": "etf",
+                    "industry": "N/A",
+                    "match_score": 61.559074,
+                    "sentiment_score": 0.296,
+                    "highlights": [
+                        {
+                            "highlight": "The <em>Consumer</em> <em>Discretionary<[+292 characters]",
+                            "sentiment": 0.296,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}

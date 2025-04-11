@@ -1,0 +1,62 @@
+{
+    "meta": {
+        "found": 29,
+        "returned": 1,
+        "limit": 1,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "43009d66-be34-4179-bb35-420f029dcf8f",
+            "title": "Should You Buy The Tesla Dip? (NASDAQ:TSLA)",
+            "description": "Tesla shares are the cheapest they\u2019ve been in months after Donald Trump\u2019s latest tariff moves triggered a broad market sell-off. Is it worth buying the dip?",
+            "keywords": "",
+            "snippet": "Steven Cress is VP of Quantitative Strategy and Market Data at Seeking Alpha. Steve is also the creator of the platform\u2019s quantitative stock rating system and...",
+            "url": "https://seekingalpha.com/article/4765023-should-you-buy-the-tesla-dip",
+            "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1266528765/image_1266528765.jpg?io=getty-c-w1536",
+            "language": "en",
+            "published_at": "2025-03-05T22:30:28.000000Z",
+            "source": "seekingalpha.com",
+            "relevance_score": null,
+            "entities": [
+                {
+                    "symbol": "TSLA",
+                    "name": "Tesla, Inc.",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "us",
+                    "type": "equity",
+                    "industry": "Consumer Cyclical",
+                    "match_score": 61.596237,
+                    "sentiment_score": 0,
+                    "highlights": [
+                        {
+                            "highlight": "Should You Buy The <em>Tesla</em> Dip? (<em>NASDAQ:TSLA</em>)",
+                            "sentiment": 0,
+                            "highlighted_in": "title"
+                        }
+                    ]
+                },
+                {
+                    "symbol": "MSCL.SN",
+                    "name": "MORGAN STANLEY",
+                    "exchange": null,
+                    "exchange_long": null,
+                    "country": "cl",
+                    "type": "equity",
+                    "industry": "N/A",
+                    "match_score": 26.963087,
+                    "sentiment_score": 0.5106,
+                    "highlights": [
+                        {
+                            "highlight": "Prior to that, he had also founded the q[+212 characters]",
+                            "sentiment": 0.5106,
+                            "highlighted_in": "main_text"
+                        }
+                    ]
+                }
+            ],
+            "similar": []
+        }
+    ]
+}
