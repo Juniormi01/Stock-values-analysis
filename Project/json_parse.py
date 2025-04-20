@@ -1,53 +1,81 @@
 import json
 import psycopg2
 from pathlib import Path
+from datetime import datetime
 
-# Directory containing JSON files
-json_dir = Path('./json_data/')
+# Directory containing subfolders like BA, META, etc.
+json_dir = Path('./newsData/')
+
+# Rename any files with no extension to .json
+for subdir in json_dir.iterdir():
+    if subdir.is_dir():
+        for file in subdir.iterdir():
+            if file.is_file() and not file.suffix:
+                new_file = file.with_name(file.name + '.json')
+                file.rename(new_file)
+                print(f"✅ Renamed {file.name} -> {new_file.name}")
+
+# Find all .json files
+json_files = sorted(json_dir.rglob("*.json"))
+
+if not json_files:
+    print("⚠️ No JSON files found.")
+else:
+    print(f"🗂 Found {len(json_files)} JSON files to import.")
 
 # PostgreSQL connection settings
 db_config = {
     "host": "localhost",
-    "user": "your_username",
-    "password": "your_password",
-    "dbname": "StockImpacts"
+    "user": "postgres",
+    "password": "csci126",
+    "dbname": "stockimpacts"
 }
 
 # Connect to PostgreSQL
 conn = psycopg2.connect(**db_config)
 cursor = conn.cursor()
 
-# Get all JSON files in the directory
-json_files = sorted(json_dir.glob("*.json"))
+# Prepare insert statement for News
+sql = """
+    INSERT INTO news (ticker, datePublished, headline, content, source, url)
+    VALUES (%s, %s, %s, %s, %s, %s)
+"""
 
-# Process each JSON file
+# Process each file
 for json_file in json_files:
-    print(f"Processing {json_file.name}...")
+    print(f"\n📄 Processing {json_file.name}...")
 
-    with open(json_file, 'r', encoding='utf-8') as file:
-        try:
-            data = json.load(file)
-        except json.JSONDecodeError as e:
-            print(f"❌ Failed to parse {json_file.name}: {e}")
-            continue
+    # Infer ticker from folder name or filename prefix
+    ticker = json_file.parts[-2]  # subfolder name
+    try:
+        with open(json_file, 'r', encoding='utf-8') as file:
+            content = json.load(file)
+            articles = content.get("data", [])
+    except Exception as e:
+        print(f"❌ Failed to parse {json_file.name}: {e}")
+        continue
 
-    if data:
-        for row in data:
-            columns = ", ".join(row.keys())
-            placeholders = ", ".join([f"%s"] * len(row))
-            values = tuple(row.values())
-
-            sql = f'INSERT INTO "Stocks" ({columns}) VALUES ({placeholders})'
-            try:
-                cursor.execute(sql, values)
-            except psycopg2.Error as err:
-                print(f"❌ Error inserting row in {json_file.name}: {err}")
-        conn.commit()
-        print(f"✅ Inserted data from {json_file.name}")
-    else:
+    if not articles:
         print(f"⚠️ No data found in {json_file.name}")
+        continue
 
-# Close PostgreSQL connection
+    for article in articles:
+        try:
+            date = article.get("published_at")
+            datePublished = datetime.strptime(date, "%Y-%m-%dT%H:%M:%S.%fZ") if date else None
+            headline = article.get("title")
+            content = article.get("description") or article.get("snippet")
+            source = article.get("source")
+            url = article.get("url")
+
+            cursor.execute(sql, (ticker, datePublished, headline, content, source, url))
+        except Exception as err:
+            print(f"❌ Skipping article due to error: {err}")
+
+    conn.commit()
+    print(f"✅ Inserted news from {json_file.name}")
+
+# Close connection
 cursor.close()
 conn.close()
-print("All JSON files processed.")
+print("\n✅ All JSON files processed.")
