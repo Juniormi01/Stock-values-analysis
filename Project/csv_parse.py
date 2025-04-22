@@ -20,12 +20,12 @@ def generate_sql_insertions(csv_file):
     with open(csv_file, 'r') as file:
         reader = csv.reader(file)
         next(reader)  # Skip header
+        next(reader)  # Skip header
         for row in reader:
             date, open_price, high, low, close, volume = row[0], row[1], row[2], row[3], row[4], row[5]
             sql = (
-                "INSERT INTO DailyStockMetric (stock_id, date, open_price, close_price, high_price, low_price, volume) "
-                f"SELECT stock_id, '{date}', {open_price}, {close}, {high}, {low}, {volume} "
-                f"FROM Stock WHERE symbol = '{stock_symbol}';"
+                "INSERT INTO Stocks (ticker, date, openPrice, closePrice, highPrice, lowPrice, volume) "
+                f"VALUES ('{stock_symbol}', '{date}', {open_price}, {close}, {high}, {low}, {volume});"
             )
             sql_commands.append(sql)
 
