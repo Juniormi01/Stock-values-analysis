@@ -48,5 +48,7 @@ ALTER TABLE News
 ADD FOREIGN KEY (ticker) REFERENCES StockMetaData(ticker);
 
 ALTER TABLE Sentiment
-ADD FOREIGN KEY (ticker) REFERENCES StockMetaData(ticker),
+ADD FOREIGN KEY (ticker) REFERENCES StockMetaData(ticker);
+
+ALTER TABLE Sentiment
 ADD FOREIGN KEY (NewsID) REFERENCES News(id);
