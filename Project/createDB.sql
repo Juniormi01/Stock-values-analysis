@@ -35,7 +35,6 @@ CREATE TABLE StockMetaData (
 CREATE TABLE Sentiment (
     id SERIAL PRIMARY KEY,
     NewsID INT NOT NULL,
-    ticker VARCHAR(10),
     score DECIMAL(5,2) CHECK (score BETWEEN -1 AND 1),
     label VARCHAR(10) CHECK (label IN ('Positive', 'Neutral', 'Negative'))
 );
@@ -45,9 +44,6 @@ ALTER TABLE Stocks
 ADD FOREIGN KEY (ticker) REFERENCES StockMetaData(ticker);
 
 ALTER TABLE News
-ADD FOREIGN KEY (ticker) REFERENCES StockMetaData(ticker);
-
-ALTER TABLE Sentiment
 ADD FOREIGN KEY (ticker) REFERENCES StockMetaData(ticker);
 
 ALTER TABLE Sentiment
