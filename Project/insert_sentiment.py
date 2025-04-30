@@ -11,13 +11,19 @@ json_dir = Path('./newsData/')
 db_config = {
     "host": "localhost",
     "user": "postgres",
-    "password": "csci126",
-    "dbname": "stockimpacts"
+    "password": "3937",
+    "dbname": "postgres",
+    "port": 5432
+
 }
 
 # Connect to PostgreSQL
-conn = psycopg2.connect(**db_config)
-cursor = conn.cursor()
+try:
+    conn = psycopg2.connect(**db_config)
+    cursor = conn.cursor()
+except Exception as e:
+    print(f"❌ Failed to connect to database: {e}")
+    exit(1)
 
 # Helper: classify sentiment label from polarity score
 def classify_sentiment(score):
@@ -28,12 +34,14 @@ def classify_sentiment(score):
     else:
         return "Neutral"
 
+
+
 # Step 1: Fetch all news articles with their IDs
 cursor.execute("SELECT id, content, ticker FROM news")
 news_items = cursor.fetchall()
 
 inserted = 0
-for news_id, content, ticker in news_items:
+for news_id, content , _ in news_items:
     if content:
         blob = TextBlob(content)
         score = round(blob.sentiment.polarity, 3)
@@ -41,9 +49,9 @@ for news_id, content, ticker in news_items:
 
         try:
             cursor.execute("""
-                INSERT INTO Sentiment (NewsID, ticker, score, label)
-                VALUES (%s, %s, %s, %s)
-            """, (news_id, ticker, score, label))
+                INSERT INTO Sentiment (NewsID, score, label)
+                VALUES (%s, %s, %s)
+            """, (news_id, score, label))
             inserted += 1
         except Exception as e:
             print(f"❌ Failed to insert sentiment for NewsID {news_id}: {e}")
